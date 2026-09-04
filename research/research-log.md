@@ -618,3 +618,63 @@ All 29 sheets were rendered and visually inspected. The exported workbook was re
 ### Stop decision
 
 The pass stopped after all three formations and five cases recalculated, the complete hydraulic-control thread reconciled, the action distribution and workbook presentation were corrected, all independent checks passed, and the research, requirement and evidence records captured the result. The next gain is empirical: design the instrumented experiments and prototype campaigns that can close the action tail, pump/intake availability, drainage-spine mass/setup/transients, barrier interior drainage, breach-flow reduction and amphibious operating envelopes before selecting exterior geometry.
+
+## Pass 15 — flood research, test and evaluation campaign
+
+### Research question
+
+What institutional machinery, purpose-built facilities, prototype competitions, destructive experiments, mission-thread evaluations and budget controls would allow a Department of Resilience to invent flood capabilities beyond the current technological baseline without converting aspiration into operational credit?
+
+### Evidence wave
+
+The pass used official sources for methods and lower bounds rather than treating any current institution as the end-state design:
+
+- the revised USACE pumping-station manual for field curve verification, wet run-in, vibration, temperature, power, protective devices, priming and controlled model testing;
+- ERDC's Coastal and Hydraulics Laboratory, full-scale breach facility and Field Research Facility for present physical scale, destructive hydraulics and natural-storm field conditions;
+- FHWA's J. Sterling Jones laboratory for physical/computational hydraulics, flow visualization, force, scour and robotics methods;
+- NASA and GAO for technology and manufacturing readiness evidence;
+- ARPA-E for quantitative milestones, Go/No-Go redirection and transition/economic work;
+- NIST for replicable, capability-neutral robot test artifacts and safety metrics;
+- EPA for data-quality objectives, modeling QA and contaminated-water mobile treatment evaluation;
+- Coast Guard/IMO material for rescue-boat stability and acceptance testing; and
+- FEMA HSEEP for objective, critical-task, observation and improvement-planning logic.
+
+### Institutional decisions
+
+1. Separate `ARPA-R` invention from `RTEA` evidence acceptance.
+2. Give `ARPA-R` time-bounded program directors authority to fund rival paths, redirect technical work and cancel attractive failures.
+3. Make `RTEA` a statutory independent authority with test-plan approval, configuration control, raw-data custody, destructive-range operation, readiness assessment and R3 acceptance.
+4. Preserve distinct safety, environmental, civil-priority, acquisition and operational-employment authorities.
+5. Define the experimental article as the full configuration—hardware, software, crew, maintenance state, power, route, environment and support—not a product label.
+6. Require preregistered decision errors, measurements, thresholds, repetitions, missing-data rules and stop conditions.
+7. Publish failure packages and prevent production commitments from buying evidence acceptance.
+
+### Model and facility design
+
+The pass built a 17-sheet workbook around the existing $130B flood RDT&E allocation. It assigns $24B to a sovereign National Hydraulic Proving Network and $106B to science, prototypes, field trials, data, standards and transition. The network includes megaflow pump/intake loops, parallel 20 km drainage corridors, a barrier/interior basin, parallel live-breach cells, urban amphibious and coastal storm/surf ranges, wet autonomous earthworks, closed-loop environmental process, a flood-state digital twin range and distributed joint mission-thread campuses.
+
+The first throughput calculation overloaded four facility families. The design was revised to parallel/distributed cells, raising nominal event capacity to 1,027 per year and lowering modeled peak average utilization to 75.82% under an 80% planning ceiling. Long-duration trials still require detailed range scheduling.
+
+### Experimental program
+
+The workbook registers 46 experiment/evaluation packages. Each carries a campaign, facility, schedule, type, allocation weight, repetitions, scale/state, measurement, pass/fail threshold, gate and independent decision authority. Four protocol sheets specify pump/intake; drainage-spine, barrier and breach; amphibious/autonomy; and contamination evidence in greater detail.
+
+The ten technical campaigns start with 54 rival paths, retain 43 through TRL 5, 30 through TRL 6 and 20 entering TRL 7. Technology readiness, manufacturing readiness and project `R` maturity remain separate coordinates. Eight complete mission threads escalate from forecast intercept through urban rescue, basin and coastal control, live breach, contaminated discharge, carrier-supported port denial and a 90-day three-theater evaluation.
+
+### Financial findings
+
+The formula-driven annual profile peaks at approximately $11.32B in year 8. Years 1–10 consume about $85.28B so range capacity and destructive knowledge lead national production. Independent integration and T&E receives $13B, exactly 10% of the envelope.
+
+Sensitivity scenarios show $136B under a 25% facility overrun, $145.9B under 15% non-facility redesign, $132.4B under a two-year delay and $131.95B under a 15% integration shock. The compound case reaches $156.25B, $26.25B above the RDT&E envelope and $1.25B beyond the adjacent $25B program reserve. The severe compound case reaches $174.8B. These are transparent sensitivities, not forecasts.
+
+### Verification
+
+The workbook exported as a valid XLSX archive. All seventeen sheets rendered and were visually inspected, the exported workbook re-imported, portfolio/facility/non-facility reconciliations passed, direct experiment allocations summed to $106B, all twenty gates remained open, the annual profile summed to $130B, prototype competition floors held, no facility exceeded the planning ceiling and the spreadsheet-error scan returned zero matches.
+
+### Gate decision
+
+The research/test architecture advances to `R2+`. The plan is detailed enough to direct later range design, experiment power analysis and performer competitions, but no experiment has been run. `FIN`, `HCG-100` and every constituent system remain `R2+`; all twenty R3 gates and the rendering prohibition remain.
+
+### Stop decision
+
+The pass stopped after the creation/proof institutional split, ten-range network, 46-package experiment register, prototype cohorts, readiness ladder, mission threads, annual funding, facility capacity and failure sensitivities reconciled. The next gain is to generalize the innovation doctrine across hazard and service domains or apply equivalent experimental depth to the fire force—not to select flood vehicle exterior form.
