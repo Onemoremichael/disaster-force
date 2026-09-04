@@ -514,3 +514,56 @@ All 23 sheets were rendered and visually inspected. The exported workbook was re
 ### Stop decision
 
 The pass stopped after the three formations and four cases recalculated, the complete fire-control chain reconciled, a fluid-allocation defect and an aviation-portfolio reference defect were corrected, all independent checks passed, and the research and requirement ledgers recorded the result. The next gain is empirical and experimental: resolve the intercept tail, mixed-airspace capacity, agent-system throughput, robotic line productivity and hold/breach distributions before selecting vehicle geometries.
+
+## Pass 13 — flood response force engineering
+
+### Research question
+
+What complete operational force, purpose-built machinery, industrial base and research enterprise are required to control catastrophic inland and coastal flooding when present technology is treated as a baseline rather than a ceiling?
+
+### Evidence wave
+
+The pass used official USACE flood-response, pump-station, fixed-pumping and breach-research sources; FEMA swiftwater resource typing; NOAA and USGS operational water prediction and inundation mapping; NASA synthetic-aperture-radar flood mapping; NIOSH worker-hazard guidance; the USGS ARkStorm scenario; and UK government high- and ultra-high-volume pump references. Existing capabilities bounded hydraulic scale, task completeness and known limits. They were not adopted as the future fleet design.
+
+### Decisions
+
+1. Define flood response as hydraulic control across prediction, exclusion, rescue, breach, routing, dewatering, contamination, access and transfer.
+2. Establish a geographically distributed `Flood Intercept Network` and a separately generated deployable `Hydraulic Control Group`.
+3. Define `HCG-100` by a 100 m³/s installed gross water-movement portfolio across distinct heads and debris conditions.
+4. Organize the group around command/intelligence, survey/control structures, pump/drainage, barrier/breach, amphibious access, autonomous earthworks, environmental process, infrastructure protection and sustainment.
+5. Retain a common national core with inland and coastal operating modules; reject one universal flood vehicle or hydraulic ship.
+6. Establish four pump classes from tactical high-head through barge/closure stations, with common electric drives and controls but distinct wet ends.
+7. Admit the Rapid Drainage Spine as a separate acquisition family because large pump flow cannot be credited without a route to receiving water.
+8. Advance adaptive barriers and active breach arrest as full research programs with interior drainage, filtered transition and destructive testing.
+9. Separate shallow urban, swiftwater, high-water land, heavy amphibious and coastal/surf access classes.
+10. Establish a Flood and Hydraulic Systems Directorate inside `ARPA-R`, ten technology campaigns and an independent destructive test complex.
+11. Use an illustrative $1 trillion, 25-year capital/RDT&E portfolio while excluding routine personnel and operations.
+12. Advance integrated FIN and HCG-100 only to R2; preserve twenty evidence gates and the rendering prohibition.
+
+### First-principles calculations
+
+The reference trapped basin is 50 km² at 1.5 m average excess depth, or 75 million m³. At 100 m³/s installed flow, 75% utilization and 20 m³/s continuing inflow, net removal is 55 m³/s and ideal drawdown is 15.78 days. At 75 m³/s effective output with no inflow, one metre over 100 km² still requires 15.43 days and one metre over 1,000 km² requires 154.3 days. A megaflood therefore requires multiple formations, surviving fixed systems, gravity routes and triage.
+
+At 82% efficiency, 100 m³/s needs 5.98 MW at 5 m total head, 17.95 MW at 15 m, 35.89 MW at 30 m and 71.78 MW at 60 m before auxiliary loads and reserve. This supports source-neutral electric drives attached to safe grid or PRG sources and rejects one universal pump.
+
+Conveyance is a separate constraint. At 2 m/s, one 1 m line carries 1.57 m³/s and one 2 m line carries 6.28 m³/s. A 100 m³/s formation therefore needs roughly 64 one-metre or 16 two-metre lines before reserve, or must exploit channels, sewers, controlled cuts and gravity paths.
+
+A 10 km conventional emergency earth barrier, 2 m high with a 3 m crest and 3:1 slopes, has an 18 m² cross-section, 180,000 m³ of material and roughly 360,000 tonnes at an illustrative 2 t/m³. Ideal hydrostatic line load is 19.6 kN/m at 2 m depth and 78.5 kN/m at 4 m before wave, current, debris, seepage and foundation effects.
+
+A simplified 12 m-wide breach under 3 m head and discharge coefficient 0.6 flows near 166 m³/s. This exceeds HCG-100 pumping and dictates the sequence: warn, evacuate, arrest widening, reduce flow, close and armor, then dewater.
+
+### Material findings
+
+The main result is that flood power projection is a network and civil-works problem. Even clean-sheet megaflow pumps cannot overcome stored volume, continuing inflow, head, intake, conveyance, receiving-water stage or contamination. A barrier can create interior flooding; a dewatering operation can export harm; a nominally amphibious vehicle can fail in current, debris or surf. The Department's advantage must come from complete formations and purpose-built interfaces.
+
+The technology agenda is correspondingly ambitious: uncertainty-aware flood twins; expendable dense sensing; common-drive 1–15 m³/s pump modules; rapidly assembled 1–2 m drainage trunks; self-monitoring barriers; active flowing-breach closure; mixed autonomous surface/underwater/aerial fleets; optionally crewed heavy earthworks; environment-specific rescue and logistics craft; contamination-aware discharge; and modular riverine and coastal works carriers.
+
+The $1 trillion portfolio allocates $130B to research/prototypes/test, $220B to pumps/power/drainage, $150B to amphibious systems, $160B to barriers/breach/earthworks, $80B to sensing, $90B to works carriers, $70B to bases/stocks, $45B to industry, $30B to workforce/test and $25B to program uncertainty. These are strategic design allocations, not costs.
+
+### Gate decision
+
+`FIN` and `HCG-100` are R2. The mission, formation, governing balances, system families, variants, research campaigns, industrial sectors, failure cases and next model are explicit. Pump configurations, barrier structures, rescue craft, autonomous machines and works carriers remain below physics closure. No rendering is authorized.
+
+### Stop decision
+
+The pass stopped when the hydraulic-control chain, distributed/deployable architecture, inland/coastal split, HCG-100 reference, ten technology campaigns, $1 trillion portfolio, twenty gates and 29-sheet model specification were explicit. The next gain comes from building the configuration model, not describing exterior form.
