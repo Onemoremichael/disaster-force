@@ -57,6 +57,22 @@ Pass 3 finds that:
 
 See [Mission-engineering method](07-mission-engineering-method.md), [Design reference missions](08-design-reference-missions.md), and [Service-level library](09-service-level-library.md).
 
+Pass 4 finds that:
+
+1. The procurement object should be a **Resilience Arsenal** of complete mission threads—sense, decide, enter, produce, connect, distribute, sustain, repair, and transfer—not isolated prestige platforms.
+2. Common physical and digital interfaces, three logistics scales, connected/degraded/isolated/manual-safe operating modes, instrumented mission loads, and four repair echelons should form the Arsenal's shared technical substrate.
+3. Emergency water is principally a mass-distribution problem. Supplying one million people at 15 liters per person-day requires 15,000 cubic meters and tonnes per day; desalination energy is material but often smaller than the route, pumping, storage, quality, and last-mile burden.
+4. A floating nuclear water–energy platform is technically plausible for enduring coastal or island nodes. It should be modeled as a pre-licensed strategic infrastructure system—not a reactor improvised into an arbitrary disaster—and compared with grid, renewable, storage, fuel, and non-nuclear desalination alternatives.
+5. Fire aviation requires a product line for persistent sensing, rapid attack, regional scooping, heavy line building, precision rotorcraft, and mobile basing. Delivered objective yield—including cycle time, accuracy, availability, and ground hold—is the performance measure; tank size is not.
+6. Flood response divides into intelligence, pumping, barriers, breach/control works, amphibious rescue/logistics, earthworks, debris processing, utility corridors, crossings, and node opening. No universal flood vehicle can span urban shallows, current and debris, heavy transport, pumping, and construction.
+7. Maritime response should separate littoral connectors, port-opening groups, support carriers, sealift/sustainment, inland-waterway groups, and purpose-built medical tiers. A universal nuclear aviation-hospital-cargo ship is rejected because its safety cases and operating geometries conflict.
+8. Medical capacity is a completed care pathway constrained by specialty staff, utilities, infection control, movement, receiving care, and discharge—not nominal beds. The force needs neighborhood continuity teams, mobile acute care, modular theater hospitals, patient movement, workforce regeneration, and complementary littoral, regional, and strategic maritime systems.
+9. Organic mobility is required where demand is correlated, access is specialized, configuration is unique, or borrowed lift can be preempted. A novel short-field airlifter remains conditional on a network model showing a material advantage over runway repair and existing aircraft.
+10. Communications, observation, edge computing, logistics, maintenance, and robotics are operating infrastructure. Essential systems must function connected, degraded, isolated, and in a manual safe state; autonomy is used to change exposure, scale, or tempo while consequential authority remains human.
+11. The platform register now admits, holds, conditions, or rejects more than 60 systems and records the unknowns between mission need and engineering concept. None is yet physics-closed; renderings remain deferred.
+
+See [Systems architecture](10-systems-architecture.md), [Water, energy, and utility systems](11-water-energy-and-utility-systems.md), [Fire, flood, access, and earthworks](12-fire-flood-access-and-earthworks.md), [Maritime, air-mobility, and medical systems](13-maritime-air-mobility-and-medical.md), [Information, autonomy, and common enablers](14-information-autonomy-and-common-enablers.md), and the [Platform and system requirement register](15-platform-requirement-register.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -67,4 +83,6 @@ See [Mission-engineering method](07-mission-engineering-method.md), [Design refe
 - Service boundaries, command geography, active–reserve mix, personnel strength, and funding parity require sensitivity analysis before becoming recommendations.
 - Only two design reference missions currently have external quantitative anchors; the remaining cases require sourced low, base, and high demand curves.
 - Emergency service-level references are planning inputs, not universal safety standards or substitutes for U.S. codes, clinical judgment, and local requirements.
-- Platform concepts remain premature until time-phased requirements, alternatives, and lifecycle implications are documented.
+- The system concepts are requirement hypotheses, not acquisition recommendations. Most remain at functional definition; none yet closes mass, energy, flow, structure, crew, sustainment, lifecycle cost, and formation availability.
+- Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
+- Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
