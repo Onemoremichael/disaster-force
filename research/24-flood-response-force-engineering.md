@@ -694,7 +694,7 @@ This pass changes the Department of Resilience concept in six ways.
 - It treats contamination, discharge, public authority and downstream consequence as part of hydraulic effectiveness.
 - It gives `ARPA-R`, an independent test authority and prime-scale resilience industry explicit roles in creating capabilities beyond current technology.
 
-The next gain comes from the 29-sheet configuration model. More platform description before pump, pipe, barrier, breach, access, power, mass and workforce balances close would create false confidence. No flood rendering is authorized.
+The next gain comes from the 29-sheet configuration model. More platform description before pump, pipe, barrier, breach, access, power, mass and workforce balances close would create false confidence. No flood rendering is authorized. Pass 14 implements that model in [Flood hydraulic-control configuration model](25-flood-configuration-model.md).
 
 ## Sources
 

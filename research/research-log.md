@@ -567,3 +567,54 @@ The $1 trillion portfolio allocates $130B to research/prototypes/test, $220B to 
 ### Stop decision
 
 The pass stopped when the hydraulic-control chain, distributed/deployable architecture, inland/coastal split, HCG-100 reference, ten technology campaigns, $1 trillion portfolio, twenty gates and 29-sheet model specification were explicit. The next gain comes from building the configuration model, not describing exterior form.
+
+## Pass 14 — flood hydraulic-control configuration model
+
+### Research question
+
+When the Flood Intercept Network and inland/coastal Hydraulic Control Groups are forced into one auditable configuration model, can they act before the hazard threshold, reverse basin storage, protect the barrier interior, control breach flow, move people and material, and close deployment, workforce, readiness and capital balances?
+
+### Method
+
+The pass built a 29-sheet workbook linking three formation states, five flood cases, complete forecast/detection-to-effective-action clocks, basin zones, a 45-day storage balance, four pump families, head/availability/intake/debris derating, power, Rapid Drainage Spine geometry and mass, receiving-water constraints, barriers, interior drainage, breach arrest, rescue demand, five amphibious classes, wet-gap cargo, earthworks, contamination, infrastructure protection, deployment, workforce, readiness, works carriers, ten technology campaigns, capital/RDT&E, failure modes and twenty R3 gates. The model treats current technology as a baseline rather than a ceiling, while requiring every proposed advance to change an explicit mission variable and remain uncredited until representative evidence exists.
+
+### Decisions
+
+1. Retain separate FIN, inland HCG-100 and coastal HCG-100 formation states.
+2. Define effective group flow as the minimum of pump/intake, drainage-route, receiving-water and power capacity.
+3. Preserve installed gross flow in the formation name while reporting effective flow separately by case.
+4. Use P50 and P90 complete-action clocks and an exact P50/P90-matched logistic screening distribution.
+5. Track stored water for 45 days with explicit continuing inflow, rain, breach, gravity and pump terms.
+6. Treat protected-side interior drainage as a separate hydraulic obligation created by barriers.
+7. Require breach-flow reduction and closure before downstream pumping receives campaign-control credit.
+8. Retain five environment-specific amphibious classes and separate search demand from movement cycles.
+9. Carry large-bore route material, handling, crossings, machines, quality plant, workshops and command into deployment mass.
+10. Carry shift-complete deployed staffing and a 3.75 institutional multiplier into the same formation balance.
+11. Link all ten `ARPA-R` campaigns to a model variable, evidence gate and failure trigger.
+12. Advance integrated FIN/HCG-100 only to R2+ and preserve the rendering prohibition.
+
+### Material findings
+
+The inland trapped-basin baseline converts 100 m³/s nominal into 36.551 m³/s effective flow. Unit availability, head, intake/debris and 75% formation operating utilization bind before the 113.394 m³/s Drainage Spine, 76.950 m³/s receiving allowance and 167.176 m³/s power-equivalent capacity. The result produces +16.051 m³/s day-zero net removal and reaches zero modeled storage on day 28 under the explicit decaying-inflow assumption.
+
+Time and hydraulic control separate sharply. FIN acts before the urban case's 24-hour threshold with 99.9% modeled probability but produces only 3.591 m³/s, leaving basin storage growing. The inland HCG acts by that threshold only 50% of the time but reverses storage once operating. Across fifteen scenarios, FIN is an early sensing, rescue, isolation and interface-preparation system rather than a small HCG; heavy groups cannot recover flash-flood or breach time by adding mass after the event begins.
+
+The barrier model exposes a −14.01 m³/s protected-side drainage margin in the urban baseline. The breach screen exposes 165.7 m³/s initial flow, 9.2–9.7 times degraded HCG pumping. These two failures change the formation: dedicated interior drainage and live-flow breach arrest are first-order battalion functions, not accessories to the main pumps.
+
+The inland HCG baseline is 79,391 t dry, with 66,844 t requiring external lift. Drainage Spine material is 27,600 t and its provisional handling/crossing allowance another 6,900 t. The workforce screen is 7,039 deployed and 26,394 service billets. The national screen includes 1,176 owned pumps after procurement reserve and $35.375B of pump hardware; neither number includes the complete route, intake, power, base, research, training or lifecycle system.
+
+### Technology consequence
+
+The pass converts ambitious technology into falsifiable targets: minutes-to-trusted flood state; full-curve megaflow modules; tonnes and setup-hours per delivered m³/s-km of drainage route; instrumented barrier hold and interior-water control; live breach-flow reduction; safe mixed autonomy; productive optionally crewed earthworks; hydrodynamically distinct rescue/logistics families; contamination-aware discharge; and riverine/coastal works carriers. The nuclear coastal water–energy concept remains held behind comparative mission-energy, siting, licensing, security, heat-rejection and lifecycle evidence.
+
+### Verification
+
+All 29 sheets were rendered and visually inspected. The exported workbook was re-imported and restored to the Inland HCG-100/trapped-basin baseline after scenario switching. Pre-export, post-import and independent error scans returned zero spreadsheet-error matches. All fifteen formation–case combinations recalculated. Independent verification completed 237 checks covering workbook structure, action clocks, scenario switching, hydraulic minimums, pump-family derating, power, pipe geometry, barrier weighting, interior drainage, breach logic, every daily storage recursion, rescue, cargo, earthworks, contamination, manifest, workforce, readiness, cost, evidence status, archive integrity and file identity; no check failed. Repository and generated workbook hashes were identical.
+
+### Gate decision
+
+`FIN` and `HCG-100` advance to `R2+`. All twenty R3 gates remain open. No pump, barrier, amphibious craft, autonomous machine or works carrier is authorized for rendering.
+
+### Stop decision
+
+The pass stopped after all three formations and five cases recalculated, the complete hydraulic-control thread reconciled, the action distribution and workbook presentation were corrected, all independent checks passed, and the research, requirement and evidence records captured the result. The next gain is empirical: design the instrumented experiments and prototype campaigns that can close the action tail, pump/intake availability, drainage-spine mass/setup/transients, barrier interior drainage, breach-flow reduction and amphibious operating envelopes before selecting exterior geometry.
