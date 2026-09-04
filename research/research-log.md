@@ -64,3 +64,45 @@ Research stopped when three conditions were met:
 3. additional retrospective cases were unlikely to change the Pass 1 conclusions.
 
 The remaining gaps require a different research phase—technical throughput, service-restoration curves, readiness inventories, institutional alternatives, and force-sizing—not more general disaster anecdotes.
+
+## Pass 2 — zero-based force architecture
+
+### Research question
+
+What institutional and force structure could credibly own an assured national and global stabilization capability if current agencies and near-term political constraints were not treated as design limits?
+
+### Evidence wave
+
+The research compared operating logics rather than searching for a full precedent:
+
+- FEMA and NIMS for civil authority, unified command, lifelines, incident support, and mission assignment;
+- FEMA US&R for typed multidisciplinary teams, activation, two-shift operations, cache design, and initial self-sufficiency;
+- USACE for technical mission packages in power, water, debris, infrastructure, and temporary works;
+- HHS and NDMS for the patient pathway and the limits of intermittent workforce and borrowed definitive-care capacity;
+- NIFC for predictive posture, local–geographic–national mobilization, preparedness levels, and national scarcity allocation;
+- the National Guard for state–federal command and locally rooted reserve logic;
+- rescEU for centrally financed and strategically hosted multinational reserves;
+- Germany's THW for standardized distributed technical units and volunteer depth;
+- Japan's Emergency Fire Response Teams for nationally mobilized local units under affected-area leadership; and
+- the United Kingdom's National Resilience program for typed specialist modules, local hosting, national assurance, and pre-deployment.
+
+### Reframing after ambition review
+
+An initial institutional draft treated existing organizations as durable building blocks. That was rejected as too conservative for the stated premise. The revised design treats current institutions as evidence and transition sources only. The end state is a Department of Resilience comparable to the defense establishment in standing, professional depth, industrial capacity, mobility, global posture, and funding seriousness.
+
+### Architectural decisions
+
+1. Establish a cabinet-level Department of Resilience and statutory National Resilience Establishment.
+2. Use six services to organize, train, equip, and sustain forces: Land Engineering, Air Response, Maritime Response, Infrastructure Restoration, Health Protection, and Community Stabilization.
+3. Use joint geographic and functional commands to employ those forces.
+4. Separate civil authority over outcomes from operational control of forces through a two-key employment rule.
+5. Create independent science, acquisition, test, industrial-mobilization, education, depot, and logistics systems.
+6. Replace rather than preserve legacy operational fragmentation; transfer, split, absorb, or retire current functions during transition.
+7. Define readiness as delivered effect across people, equipment, lift, reception, sustainment, interfaces, and authority.
+8. Carry an initial `3C + 5M + 2G + 20R` simultaneous-campaign standard into quantitative testing.
+9. Build a six-layer posture from community interfaces through global access and pre-positioning.
+10. Defer major platform concepts until Pass 3 converts design reference missions into quantified service-effect demand.
+
+### Stop decision
+
+Institutional research stopped when the zero-based architecture could answer who generates forces, who employs them, who validates civil outcomes, how national scarcity is allocated, how capacity regenerates, and how legacy organizations transition. Further institutional examples would refine details but would not resolve the next binding uncertainty: how much effect each campaign requires over time.

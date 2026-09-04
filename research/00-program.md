@@ -85,10 +85,11 @@ Each pass is developed on a dedicated branch, reviewed for internal consistency,
 
 1. **Foundations:** empirical baseline, first-principles framework, terminology, and design reference mission method.
 2. **Force architecture:** doctrine, readiness, geographic posture, command, workforce, and common capability threads.
-3. **Systems:** purpose-built maritime, aviation, ground, infrastructure, space, communications, medical, and autonomous families.
-4. **Economics:** capitalization, recurring cost, industrial base, workforce, exports, and benefits model.
-5. **Operations:** compound scenarios, deployment timelines, capacity analysis, and failure modes.
-6. **Synthesis and visuals:** strategic implications, final report integration, and research-grounded renderings.
+3. **Mission engineering:** quantify design reference missions, service minima, demand curves, dependency chains, and time-to-effect requirements.
+4. **Systems:** derive purpose-built maritime, aviation, ground, infrastructure, space, communications, medical, and autonomous families from the mission requirements.
+5. **Economics:** capitalization, recurring cost, industrial base, workforce, exports, and benefits model.
+6. **Operations:** compound scenarios, deployment timelines, capacity analysis, and failure modes.
+7. **Synthesis and visuals:** strategic implications, final report integration, and research-grounded renderings.
 
 ## Modeling conventions
 
