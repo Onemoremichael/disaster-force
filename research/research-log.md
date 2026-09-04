@@ -678,3 +678,57 @@ The research/test architecture advances to `R2+`. The plan is detailed enough to
 ### Stop decision
 
 The pass stopped after the creation/proof institutional split, ten-range network, 46-package experiment register, prototype cohorts, readiness ladder, mission threads, annual funding, facility capacity and failure sensitivities reconciled. The next gain is to generalize the innovation doctrine across hazard and service domains or apply equivalent experimental depth to the fire force—not to select flood vehicle exterior form.
+
+## Pass 16 — Department-wide resilience technology frontier
+
+### Research question
+
+What would the Department of Resilience's technological frontier and innovation state look like if it were allowed to create capabilities beyond the present market with military-level ambition, while refusing to count speculative performance as operational readiness?
+
+### Evidence wave
+
+The pass used official and primary sources as lower-bound method analogues rather than institutional templates:
+
+- the FY2026 Department of Defense weapons-systems overview for the current scale of a peer RDT&E enterprise;
+- NASA Earth System Digital Twin and NOAA EPIC/Project EAGLE for continuous observation, community modeling, operational transition and trusted forecast comparison;
+- NSF NHERI for distributed shared-use destructive hazards infrastructure;
+- NIST for digital-twin VVUQ, interoperability and repeatable robotics measurement;
+- DOE microgrid, long-duration storage and water-security programs plus ARPA-E GRADIENTS for power, water and control frontiers;
+- ARPA-H PARADIGM, GIVE, BREATHE and UPGRADE for mobile advanced care, distributed biomanufacturing, indoor exposure control and cyber-physical health resilience;
+- USGS ShakeAlert for sensor-to-automated protective action; and
+- USDA protected-culture research for resource-efficient, stress-tolerant production.
+
+### Scale decision
+
+The first draft used a $750B reference. The DoD comparison showed that this understated the meaning of peer innovation: its FY2026 RDT&E request is $179.1B, roughly $4.48T across twenty-five flat years. The final workbook therefore distinguishes a $750B catalytic case, a selected $2T strategic case and a rounded $4.5T peer-intensity case. These are alternative classifications of the full technology enterprise and are not additive to the project's constrained $1T capital model or domain-specific fire/flood thought experiments.
+
+### Institutional decisions
+
+1. Establish eight non-substitutable innovation channels: `ARPA-R`, National Resilience Laboratories, a National Resilience Proving Network, independent `RTEA`, Service Technology Commands, a Resilience Manufacturing and Mobilization Administration, university consortia, and a Standards/Data/Public Assurance Office.
+2. Allocate the selected strategic case by both mission directorate and institutional function; both views reconcile to the same $2T rather than representing separate spending.
+3. Protect 10% for independent `RTEA` proof and prevent sponsor overruns from consuming it.
+4. Define technology by the operational coefficient or distribution it changes, not by adjectives such as autonomous, nuclear, AI-enabled or advanced.
+5. Require public-effect, accessibility, environmental, workforce, civil-authority and transfer evidence as part of technical evidence.
+6. Make failure an expected output and plan a 240-to-20 rival-path funnel.
+
+### Technology architecture
+
+The pass created twelve mission-science directorates and sixty initial campaigns spanning Earth intelligence; fire; flood; water; power and thermal systems; health and biosecurity; structures and ground; mobility and logistics; autonomy; materials and manufacturing; communications and cyber; and food/community stabilization.
+
+Ten common primitives prevent the directorates from becoming new stovepipes: observation fabric, causal digital twin, extreme-environment autonomy, mobile power/fluid/thermal bus, advanced separations, rapid infrastructure fabrication, adaptive structures/materials, distributed biomanufacturing, industrial digital thread and resilient communications/edge compute. Each must replicate across at least three hazard mission threads before being treated as common.
+
+### Model result
+
+The 16-sheet workbook allocates the selected $2T case across twelve directorates and eight institutional channels, registers sixty campaigns, profiles twenty-five annual tranches, models 240 paid rival concepts narrowing to twenty programs of record or open standards, and sizes ten range families. The National Resilience Proving Network receives $320B in the selected case. Its 58-site, 3,008-slot/year screening design reaches 75.93% peak modeled utilization under an 80% planning ceiling.
+
+The annual profile averages $80B, peaks at approximately $139.81B in years 9 and 10, assigns about $953.40B to years 1–10, $869.90B to years 11–19 and $176.70B to years 20–25. The profile is a capital timing hypothesis, not an acquisition schedule.
+
+A 25% range-facility shock, 20% prototype/redesign shock, 20% RTEA/integration shock, two-year delay at 3% annual carry and 15% manufacturing supply-chain shock raise calculated need to $2.494T. The 15% / $300B reserve is short by $194B. A severe compound case reaches $3.002T. These sensitivities are not forecasts; they make cancellation and resequencing authority material.
+
+### Verification
+
+All sixteen sheets were exported, rendered and visually inspected. The workbook was re-imported for inspection. Seventeen arithmetic and architecture checks pass; one intentional informational line flags the compound reserve shortfall. The formula-error scan found zero `#REF!`, `#DIV/0!`, `#VALUE!`, `#NAME?` or `#N/A` results, and the XLSX archive passed integrity testing.
+
+### Gate and stop decision
+
+No campaign receives R3 operational credit, and no platform rendering is authorized. The pass stopped when the Department-wide innovation institutions, funding-scale comparison, directorate portfolio, common primitives, stage gates, range families, industrial clusters, export doctrine, annual profile and cost sensitivities reconciled. The next gain is to design the National Resilience Proving Network at facility and experimental-power depth or specify the common technical interfaces before selecting exterior vehicle form.

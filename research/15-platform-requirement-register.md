@@ -27,6 +27,25 @@ Readiness for visualization uses a separate scale:
 
 Concept renderings begin at R3 and must show the complete operating system, not only a heroic exterior view. No concept in this pass is yet R3.
 
+## Department-level technology primitives
+
+Pass 16 adds a layer beneath individual platforms. These are common research programs, not vehicles and not operational credits.
+
+| ID | Primitive | Status | Department requirement | Acceptance condition before platform credit | State |
+|---|---|---|---|---|---|
+| TP-1 | Observation fabric | Admitted | Time, location, calibration, provenance and uncertainty across every sensor family | blind multi-hazard replication and graceful attrition | R1+ |
+| TP-2 | Causal digital twin | Admitted | Intervention-aware forecasts with explicit coupling and model error | prospective decision value in at least three hazard threads | R1+ |
+| TP-3 | Extreme-environment autonomy kernel | Admitted | Common mission, authority, safe-state and degraded-mode behavior | fault-injected smoke, water, debris, heat and communications-loss trials | R1 |
+| TP-4 | Mobile power/fluid/thermal bus | Admitted | Open mechanical, electrical, fluid, thermal, protection and metering interfaces | third-party interoperation, black start, fault isolation and field repair | R1+ |
+| TP-5 | Advanced separations | Admitted | Reconfigurable treatment across water, air, waste and resource recovery | unknown-feed trials with continuous quality and closed mass balance | R1 |
+| TP-6 | Rapid infrastructure fabrication | Admitted | Qualified conduit, bridge, pad, shelter and repair from unprepared sites | destructive load, installation, removal and reuse evidence | R1 |
+| TP-7 | Adaptive structures/materials | Conditional | Inspectable, self-sensing, repairable or sacrificial failure | reproducible health-state detection and field replacement | R1 |
+| TP-8 | Distributed biomanufacturing | Conditional | Multi-product switch, containment and integrated quality release | independent batch release under disrupted inputs and utilities | R1 |
+| TP-9 | Industrial digital thread | Admitted | Authoritative design, supplier, tooling, test, depot and repair provenance | cold alternate-supplier activation without configuration drift | R1+ |
+| TP-10 | Resilient communications/edge compute | Admitted | Trusted multi-bearer communications and sovereign compute through infrastructure loss | combined cyber/physical blackout with mission-essential offline mode | R1+ |
+
+Each primitive must replicate across at least three hazard mission threads before the Department may call it common. A successful component demonstration does not change a platform's force-sizing coefficient.
+
 ## Water, sanitation, power, and thermal safety
 
 | ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
@@ -144,5 +163,6 @@ The first rendering candidates are selected only after quantitative modeling and
 5. **Littoral and regional medical groups:** close patient demand, clinical flow, transfer, staff rotation, utility and discharge balances.
 6. **FIN and HCG-100:** execute the Pass 15 `ARPA-R` / independent `RTEA` campaign: 46 preregistered packages across ten purpose-built range families, rival prototype cohorts and eight escalating mission threads. Correlated action tails, full-curve pump/intake availability, drainage-spine mass/setup/transients, dedicated interior drainage, live-flow breach reduction and amphibious operating envelopes remain first priorities; no pump, craft, barrier, robot or works-carrier drawing precedes R3 closure.
 7. **Nuclear Water–Energy Platform:** proceed only after non-nuclear alternatives, siting/licensing system, heat and mass balance, lifecycle workforce and shore distribution are modeled.
+8. **Common technology architecture:** specify and test TP-1 through TP-10 across at least three hazard threads. Platform drawings must identify which interfaces are fixed, which remain competing research paths and which burdens are not closed.
 
 The visualization brief for each concept must include cutaways or operating diagrams showing connectors, payload flow, crew, power, waste, maintenance and surrounding formation. Exterior beauty views alone would repeat the platform-first error this research is designed to avoid.
