@@ -26,12 +26,13 @@ Capability precedes platform. The project names system families only after deriv
 - [`research/13-maritime-air-mobility-and-medical.md`](research/13-maritime-air-mobility-and-medical.md) — maritime access and support, air mobility, three-tier medical fleets, care echelons, and patient movement
 - [`research/14-information-autonomy-and-common-enablers.md`](research/14-information-autonomy-and-common-enablers.md) — resilient communications, observation, robotics, logistics, maintenance, and sovereign digital operation
 - [`research/15-platform-requirement-register.md`](research/15-platform-requirement-register.md) — admitted, conditional, held, and rejected concepts with unresolved technical requirements and visualization state
+- [`research/16-quantitative-model.md`](research/16-quantitative-model.md) — force-sizing equations, capital and workforce scale, model outputs, limitations, verification, and next quantitative work
 - [`research/evidence-ledger.md`](research/evidence-ledger.md) — research-gap ledger
 - [`research/source-ledger.md`](research/source-ledger.md) — claim provenance and access notes
 - `research/report-source.md` — canonical report manuscript as it develops
-- `models/` — model documentation and, in later passes, the editable financial workbook
+- [`models/disaster-force-model.xlsx`](models/disaster-force-model.xlsx) — editable mission-demand, force-sizing, capital, workforce, operating-cost, industry, benefit, sensitivity, and check model
 - `sources/` — source notes and reproducible data extracts where licensing permits
 
 ## Status
 
-Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience. Pass 3 establishes the mission-engineering chain, ten design reference missions, two externally modeled anchor cases, phased service levels, and the combined `3C + 5M + 2G + 20R` stress campaign. Pass 4 derives the Resilience Arsenal as interoperable system families and establishes a controlled requirement register. No concept is yet physics-closed or authorized for rendering. Pass 5 will build the quantitative demand, force-sizing, readiness, acquisition, operating-cost, and benefit models.
+Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience. Pass 3 establishes the mission-engineering chain, ten design reference missions, two externally modeled anchor cases, phased service levels, and the combined `3C + 5M + 2G + 20R` stress campaign. Pass 4 derives the Resilience Arsenal as interoperable system families and establishes a controlled requirement register. Pass 5 adds the editable quantitative model and exposes a material result: under its current illustrative assumptions, a $1 trillion capital tranche does not buy the full concurrency force. No concept is yet physics-closed or authorized for rendering.

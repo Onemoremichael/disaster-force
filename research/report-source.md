@@ -73,6 +73,19 @@ Pass 4 finds that:
 
 See [Systems architecture](10-systems-architecture.md), [Water, energy, and utility systems](11-water-energy-and-utility-systems.md), [Fire, flood, access, and earthworks](12-fire-flood-access-and-earthworks.md), [Maritime, air-mobility, and medical systems](13-maritime-air-mobility-and-medical.md), [Information, autonomy, and common enablers](14-information-autonomy-and-common-enablers.md), and the [Platform and system requirement register](15-platform-requirement-register.md).
 
+Pass 5 finds that:
+
+1. Capital and readiness must be modeled separately. The user-specified $1 trillion reference is treated as a 25-year capital, research, base, industrial, and strategic-stock tranche; recurring people, maintenance, training, stock rotation, deployments, and institutions remain visible operating requirements.
+2. Applying the `3C + 5M + 2G + 20R` standard to provisional capability packages and availability factors produces the first owned-inventory hypothesis. The equation is transparent, but the package coefficients still require direct derivation from population-service-time demand.
+3. Under current illustrative quantities, average unit costs, non-recurring engineering, bases/tooling, and risk allowances, the bottom-up concept portfolio is approximately $2.24 trillion. The workbook therefore reports `REVIEW`: the full concurrency force and the $1 trillion tranche are not reconciled.
+4. The mismatch creates an explicit strategy choice among more capital, lower concurrency, higher availability, greater reliance on assured industrial/commercial/allied capacity, or less costly system concepts. It is not resolved with an unlabelled plug.
+5. The reference workforce hypothesis is approximately 302,000 active and 396,500 reserve personnel, with about 29,700 annual accessions at maturity. This reflects complete crews, shifts, maintenance, health, community, acquisition, science, education, depot, and logistics functions—not a transition estimate based on current agencies.
+6. Mature annual operations are approximately $187.9 billion under reference assumptions, including about $99.1 billion in active and reserve personnel cost. The 25-year undiscounted real-dollar capital-plus-operating resource requirement is approximately $4.44 trillion.
+7. The initial avoided-loss model returns approximately $30.8 billion annually and $535.5 billion in 25-year present value, but deliberately omits strategic, humanitarian, distributional, ecological, confidence, and industrial values. Its probability, severity, addressability, and effectiveness inputs are scenario assumptions rather than causal evidence.
+8. The model is more useful as a falsification and research-priority instrument than as a point estimate. Its one material warning—the capital gap—is preserved; twelve other integrity and reconciliation checks pass, no spreadsheet error values were detected, and low/reference/high selectors were exercised after export.
+
+See [Quantitative model](16-quantitative-model.md) and the editable [Department of Resilience force and resource workbook](../models/disaster-force-model.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -86,3 +99,5 @@ See [Systems architecture](10-systems-architecture.md), [Water, energy, and util
 - The system concepts are requirement hypotheses, not acquisition recommendations. Most remain at functional definition; none yet closes mass, energy, flow, structure, crew, sustainment, lifecycle cost, and formation availability.
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
+- Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
+- The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
