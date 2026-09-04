@@ -312,3 +312,41 @@ WRG-50 therefore remains R2+. No rendering is authorized.
 ### Stop decision
 
 The pass stopped after the model linked every major WRG-50 subsystem, alternate controls recalculated, post-export inspection and visual QA passed, independent physics checks reconciled, and the R3 evidence deficit was explicit. The next gain must come from deeper source-specific, route, reliability, test and vendor engineering—not additional spreadsheet precision.
+
+## Pass 8 — mature force design
+
+### Research question
+
+What permanent organizational grammar turns the Department of Resilience from a cabinet concept and equipment portfolio into a force able to generate and employ complete formations across simultaneous campaigns?
+
+### Method
+
+The pass worked upward from the WRG-50 lesson: productive machinery is only a fraction of a ready civilian-service capability. It formalized the service-deficit and formation-output relationship, then separated generating-service responsibilities from joint operational employment. Existing incident and joint-force doctrine were used only as evidence for integration, modularity, theater opening, reception, onward movement, sustainment and transition—not as a template for a civilian institution.
+
+### Decisions
+
+1. Separate the Department of Resilience, National Resilience Establishment and employable Resilience Force so policy organization, generative capacity and operational readiness cannot be conflated.
+2. Derive formations from a time-indexed civilian service deficit and a delivered-effect matrix under movement, people, dependency, safety, waste, support and correlated-failure constraints.
+3. Preserve five distinct quantities: productive, delivered, ready, deployed and regenerable capacity.
+4. Retain six services as professional force generators, but organize campaigns under civil integration, hazard control, access/distribution, life-support utilities, health, community and theater-support commands.
+5. Adopt a seven-level formation grammar from technical team through catastrophe stabilization force, defined by accountable effect and operating ability rather than headcount alone.
+6. Define 35 permanent service formation families and six permanently joint formation families with complete operational threads and outcome metrics.
+7. Establish local, major, catastrophic and global force-package types as command-and-support frames filled by consequence-specialist effect groups.
+8. Separate civil-objective, operational, technical and administrative authority; use an explicit supported/supporting command for each phase and service objective.
+9. Treat deployment as six overlapping waves from anticipatory posture through transfer and regeneration.
+10. Use a minimum-link readiness vector, four force pools and formation-specific rotation rather than asset counts or one enterprise ratio.
+11. Assign distinct readiness labor to active, federal reserve, state/territorial, tribal, auxiliary and certified industrial components.
+12. Make acquisition deliver complete formation increments, including crew, lift interface, support, replacement, repair, training, bases, waste, transfer and recapitalization.
+13. Require analytical, command-post, deployment, endurance/replacement and transfer/regeneration gates before adopting a final force structure.
+
+### Scale decision
+
+The current 302,000 active and 396,500 reserve planning result remains an order-of-magnitude envelope. This pass does not distribute those people into a false-precision order of battle. The next allocation must be derived after representative heavy technical, care, mobility and theater-support formations receive configuration studies.
+
+### Rendering gate
+
+No rendering is authorized. Pass 8 clarifies that a platform cannot pass the visualization gate merely because its own mass and energy close; the formation, interfaces, transport, support, replacement, transfer and share of the civilian effect must also be known.
+
+### Stop decision
+
+The pass stopped when the institutional concept had a coherent generating and employing architecture, every service had permanent formation families, joint dependencies had owners, force packages and deployment waves were explicit, and the remaining quantitative closure work was defined. The next gain comes from configuration-modeling the Power Restoration Group or another deliberately contrasting formation, not from adding more labels to the organizational chart.

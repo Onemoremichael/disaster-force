@@ -117,6 +117,25 @@ Pass 7 finds that:
 
 See [WRG-50 configuration model](18-water-configuration-model.md) and the editable [water restoration engineering workbook](../models/water-restoration-engineering.xlsx).
 
+Pass 8 finds that:
+
+1. The **Department of Resilience**, **National Resilience Establishment**, and **Resilience Force** must be treated as separate objects. The Department governs; the Establishment generates; the Force is the certified capacity actually available for employment.
+2. Force design should begin with a time-indexed civilian service deficit and choose formations whose safely delivered effect closes that deficit under people, lift, access, power, sustainment, waste, safety, transfer and correlated-failure constraints.
+3. Productive capacity, delivered effect, ready capacity, deployed capacity and regenerable capacity are different quantities. Collapsing them is the central mechanism by which an impressive inventory becomes a hollow public promise.
+4. The six services should generate permanent professional formations, while geographic campaign commands employ them through civil integration, hazard control, access and distribution, life-support utilities, health protection, community continuity and theater support commands. The operational organization deliberately does not mirror service ownership.
+5. A common grammar now spans technical teams, detachments, mission modules, response groups, response commands, regional resilience forces and catastrophe stabilization forces. Headcount bands are provisional; accountable effect and independent operating ability define the echelon.
+6. Thirty-five permanent formation families are defined across Land Engineering, Air Response, Maritime Response, Infrastructure Restoration, Health Protection and Community Stabilization. Each owns a complete effect thread and a civilian outcome metric rather than an equipment category.
+7. Six capabilities must be permanently joint: civil integration and effects, theater opening, theater sustainment, resilience information, replacement and reconstitution, and transfer and demobilization. They cannot be assembled reliably after impact from unassigned staff.
+8. Four force-package types—local, major, catastrophic and global—combine a small command-and-support library with effect groups selected by service deficit. The Department does not pre-build separate hurricane, earthquake and wildfire institutions.
+9. Civil-objective, operational, technical and administrative authorities remain distinct. For every phase and effect, one command is supported and the others support it; this makes the complete civilian outcome more important than a service's individual output.
+10. Deployment is divided into anticipatory posture, find/connect, open/protect, substitute life support, expand/repair, and transfer/regenerate. Arrival is an intermediate event; the reporting object is sustainable service followed by a transfer without a service cliff.
+11. Readiness is governed by the weakest critical link among qualified people, equipment, stocks, movement, reception, sustainment, interfaces and authority. Committed, ready, preparing and recovering pools must be reported separately, and rotation factors must differ by formation and exposure.
+12. The current 302,000-active/396,500-reserve hypothesis establishes only an order of magnitude. A stable national order of battle should wait until a heavy technical formation, labor-dense care formation, mobility formation and theater-support formation receive configuration studies comparable to WRG-50.
+13. Acquisition programs should procure formation increments: platform, crews, replacement, transport, reception, data, sustainment, repair, training, waste, transfer, bases and recapitalization. A platform lot is not a ready effect.
+14. Five evidence gates—analytical, command-post, deployment, endurance/replacement, and transfer/regeneration—must be passed before the organizational hypothesis becomes a program of record.
+
+See [Mature force design](19-mature-force-design.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -129,6 +148,7 @@ See [WRG-50 configuration model](18-water-configuration-model.md) and the editab
 - Emergency service-level references are planning inputs, not universal safety standards or substitutes for U.S. codes, clinical judgment, and local requirements.
 - The system concepts are requirement hypotheses, not acquisition recommendations. Pass 7 provides a configuration-level steady-state water model, but its equipment manifest, source-specific performance, route transients, construction productivity, reliability, lifecycle cost and formation availability remain unverified.
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
+- Pass 8 formation names, personnel bands and package ranges are organizational hypotheses, not validated tables of organization. The national order of battle remains open until representative technical, care, mobility and theater-support formations are configuration-modeled and exercised.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.

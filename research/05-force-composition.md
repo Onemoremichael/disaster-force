@@ -415,6 +415,8 @@ This pass does not set final headcount, base locations, fleet quantities, or pla
 
 The next document defines the readiness and posture system that turns this composition into a credible national promise.
 
+Pass 8 returns to this architecture after the first configuration study and supplies the missing organizational middle: permanent formation families, joint command-and-support formations, four force-package types, command authorities, rotation logic, and a test program. See [Mature force design](19-mature-force-design.md).
+
 [^hhs-ahp]: Administration for Strategic Preparedness and Response, [*HHS All-Hazards Plan*](https://aspr.hhs.gov/legal/Documents/AHP-final-2024-508.pdf), 2024, Annex B.
 [^usace-power]: U.S. Army Corps of Engineers, [*USACE Emergency Employment of Army and Other Resources, ER 500-1-28*](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_500-1-28.pdf), January 31, 2011.
 [^uk-resilience]: UK Ministry of Housing, Communities and Local Government, [*National Co-ordination and Advisory Framework for England*](https://www.gov.uk/government/publications/national-coordination-and-advisory-framework-for-england/national-co-ordination-and-advisory-framework-for-england-accessible-version), updated April 2026.

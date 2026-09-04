@@ -64,6 +64,8 @@ The proposal assumes the political greenlight specified for this project. The te
 
 Create a **Department of Resilience** as a cabinet department and establish a statutory **National Resilience Establishment** comparable in permanence to the national-defense establishment. Names are provisional; scale and functional separation are not.
 
+The name **Department of Resilience** is now retained as the canonical cabinet-level identity. Pass 8 distinguishes it from the **National Resilience Establishment**—the services, commands, schools, science, acquisition, depots, reserves and industrial base that generate capacity—and the **Resilience Force**, meaning the certified formations actually available for employment. This prevents the existence of a bureaucracy, an equipment inventory or a contract from being mistaken for operational readiness. See [Mature force design](19-mature-force-design.md).
+
 ```text
 President and Congress
 └── Secretary of Resilience
