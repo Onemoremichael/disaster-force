@@ -203,6 +203,8 @@ Fossil-fueled systems remain valuable for rapid entry but create a continuing lo
 
 The Arsenal should use storage and renewable generation to reduce fuel burn and protect ride-through, not claim that batteries alone solve months of high-power demand.
 
+Pass 9 expands P-1 through P-5 into a complete deployable-electric-utility architecture, introduces the `PRG-100` reference formation, and distinguishes reuse, bypass, and rebuild network states. See [Power restoration force engineering](20-power-restoration-force-engineering.md).
+
 ## Requirement verdicts
 
 | Concept | Verdict | Reason |

@@ -24,7 +24,7 @@ The ambition is radical centralization of **capacity**, not of **community rule*
 The present system contains useful design evidence, but no current institution approximates the proposed scale or mandate.
 
 | Existing element | Evidence it provides | What the new establishment must supersede |
-|---|---|---|---|
+|---|---|---|
 | FEMA and the National Response Framework | Civil coordination, common language, lifeline framing, and federal mission assignment are necessary | A system that mainly coordinates and reimburses becomes one administrative component inside a department that also owns decisive operating capacity |
 | National Incident Management System and Incident Command System | Modular command, common terminology, and unified authority are valid interface principles | Incident organization remains, but national units arrive as complete forces rather than requests assembled from many agencies |
 | U.S. Army Corps of Engineers emergency missions | Power, debris, water, roofing, and infrastructure work can be organized as technical mission packages | Part-time mission teams and contract-management cells give way to standing engineering formations with organic plant, crews, lift, maintenance, and depth |
