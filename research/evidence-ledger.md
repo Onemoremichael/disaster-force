@@ -1,0 +1,26 @@
+# Evidence and research-gap ledger
+
+This ledger separates sourced facts, derived estimates, design choices, contradictions, and open questions. It will expand as research proceeds.
+
+| Claim family | Evidence needed | Preferred source class | Current status | Next action |
+| --- | --- | --- | --- | --- |
+| U.S. disaster mortality and loss baseline | Consistent annual and event-level definitions; inflation treatment; insured vs total loss | NOAA, FEMA, CDC, USGS, NCEI, CBO | Grounded; datasets remain incompatible | Preserve denominator guardrails in model; identify post-2024 NOAA continuity |
+| Future hazard environment | Observed trends, projections, regional uncertainty, compound hazards | Fifth National Climate Assessment, USGCRP, NOAA | Grounded directionally | Build regional design reference missions without treating projections as deterministic |
+| Disaster logistics bottlenecks | Port, road, bridge, grid, fuel, communications, medical, and last-mile failure evidence | GAO, FEMA and state after-action reports, USACE | Grounded across major cases | Convert evidence into time-phased demand and throughput variables |
+| Response-time value | Mortality/morbidity and service degradation as a function of delay | Medical, engineering, wildfire, flood, and public-health research | Partially grounded through consequence pathways | Identify phase-specific time thresholds and restoration curves |
+| Existing federal capacity | FEMA, Coast Guard, USACE, HHS, Forest Service, DoD civil support, NOAA, USAID/BHA | Statutes, budgets, doctrine, inventories, GAO | Organizational model grounded; capacity inventory open | Map mission-capable throughput and concurrency without assuming consolidation |
+| International analogues | Civil defense, disaster corps, rescEU, emergency ministries, medical and engineering forces | Government and EU documentation | Open | Identify transferable design principles and limits |
+| Mobile power | Capacity, fuel/logistics, setup time, microgrids, grid interconnection, safety | DOE, national labs, USACE, IEEE, manufacturer data | Failure chain grounded; technical classes open | Establish load tiers, interfaces, endurance, and alternatives |
+| Desalination and water | Energy intensity, pretreatment, brine, intake, pipeline, distribution, inland constraints | DOE, USGS, EPA, IAEA, engineering literature | Open | Bound feasible coastal and inland concepts |
+| Nuclear mobile infrastructure | Reactor size, licensing, security, thermal rejection, marine precedent, deployment time | NRC, DOE, IAEA, naval/marine engineering sources | Open | Separate technically plausible use cases from spectacle |
+| Fire suppression systems | Aircraft productivity, turnaround, water/retardant logistics, weather limits, ground integration | USFS, NIFC, DOI, GAO, aviation authorities | Hazard and recovery context grounded; system requirement open | Derive system requirement before aircraft geometry |
+| Flood response | Pumping, drainage, levee repair, access, debris, evacuation, temporary crossing | USACE, FEMA, CBO, state/local after-action reports | National loss scale grounded; operational classes open | Distinguish coastal, riverine, pluvial, flash, and dam-failure missions |
+| Medical force | Bed mix, staffing, oxygen, infection control, evacuation, public health, duration | HHS, ASPR, WHO, academic disaster medicine | Mismatch and endurance risks grounded; inventory open | Model care echelons, specialty demand, and workforce constraints |
+| Construction and debris | Equipment productivity, material flows, waste, temporary works, certification | USACE, EPA, FHWA, industry data | Open | Build engineering throughput library |
+| Communications | Survivable backhaul, local access, spectrum, power, interoperability, cyber risk | FCC, FirstNet, CISA, NIST, FEMA, GAO | Operational failure grounded; technical service tiers open | Define coverage, bandwidth, autonomy, latency, and restoration sequence |
+| Strategic lift and basing | Transit times, port/airfield dependency, sealift/airlift analogues, maintenance | TRANSCOM, MARAD, Coast Guard, GAO, commercial data | Open | Build access and time-to-effect model |
+| Workforce | Occupational mix, training pipelines, reserve models, fatigue, retention | OPM, BLS, military/civil service studies, professional bodies | Open | Derive workforce after capability threads |
+| Capital program | Relevant acquisition costs, construction inflation, learning curves, schedule risk | Federal budgets, SARs, GAO, CBO, industry data | Open | Define cost-estimating relationships with ranges |
+| Operating cost | Personnel, readiness, maintenance, fuel/energy, training, stock rotation | Federal budget exhibits and industry benchmarks | Open | Separate standing readiness from deployment costs |
+| Avoided loss and benefits | Counterfactuals, value of service continuity, mortality, displacement, productivity | FEMA benefit-cost methods, NIST, academic economics | Open | Build conservative benefit framework and prevent double counting |
+| Exports and industrial spillovers | Market size, standards, procurement models, dual-use demand | OECD, World Bank, UNDRR, trade data, industry research | Open | Treat as scenario, not guaranteed return |
