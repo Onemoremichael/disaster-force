@@ -182,3 +182,46 @@ The pass made several concept boundaries explicit:
 ### Stop decision
 
 Qualitative concept generation stopped after all major mission effects had a system family, rejected architectures were explicit, and each admitted concept had at least one falsifiable technical or operational unknown in the requirement register. Further prose would create false precision. Pass 5 must now build linked scenario, force-sizing, readiness, cost, industrial-base, and benefit models; those models will determine which concepts advance to physics closure and rendering.
+
+## Pass 5 — quantitative force and resource model
+
+### Research question
+
+What scale follows when the concurrency promise, system families, workforce, capital, readiness, industry, and partial benefits are linked in one auditable model rather than discussed separately?
+
+### Model decisions
+
+1. Treat the $1 trillion reference as a 25-year real-dollar capital, R&D, base, industrial, and strategic-stock tranche. Model personnel and operations separately.
+2. Convert campaign demand into ready requirement with `3 × catastrophic + 5 × major + 2 × global`, add the 20-percent residual reserve, and divide by availability to obtain owned inventory.
+3. Keep campaign-package coefficients and availability visible as editable assumptions until physical demand, throughput, cycle time, duration, rotation, and maintenance derive them.
+4. Build program capital from quantity, average unit cost, non-recurring engineering and test, bases/tooling, a selected case cost multiplier, and an explicit risk allowance.
+5. Build personnel from active FTE, reserve ratios, fully burdened active and reserve inputs, career length, and attrition.
+6. Build mature operations from personnel, installed asset base, asset O&M, training and stock rotation, deployment allowance, and other institutional costs.
+7. Use one low/reference/high selector, but state that these are ambition cases rather than statistical confidence intervals.
+8. Preserve a failed capital reconciliation instead of adding a management-reserve plug or scaling the force invisibly.
+9. Keep benefits narrow and explicit: expected event loss times addressable share times effectiveness, with strategic and unpriced values outside the calculation.
+
+### Initial result
+
+The reference force hypothesis produces a $2.24 trillion bottom-up portfolio against the $1 trillion top-down tranche. The approximately $1.24 trillion difference is the model's only material `REVIEW` condition.
+
+This does not establish a cost estimate. It shows that the present concurrency, inventory, and cost hypotheses cannot all be true inside the initial capital premise. The model forces an explicit choice among capital, concurrency, availability, ownership mix, and concept cost.
+
+The reference workforce is approximately 302,000 active and 396,500 reserve personnel. Mature personnel cost is about $99.1 billion annually; total mature annual operations are about $187.9 billion. Capital plus operating resources during the 25-year build total about $4.44 trillion in undiscounted real dollars.
+
+The partial benefits scenario produces approximately $30.8 billion in annual avoided loss and $535.5 billion in 25-year present value at a three-percent real rate. These values are not offered as a comprehensive benefit case because the inputs are design assumptions and major value domains are unpriced.
+
+### Verification
+
+- all thirteen sheets were rendered and visually inspected;
+- the saved workbook was imported and inspected after export;
+- no spreadsheet error values were detected;
+- twelve integrity and reconciliation checks pass;
+- the material capital gap remains visibly flagged `REVIEW`; and
+- low, high, and reference selector states were exercised after export and restored to reference.
+
+### Stop decision
+
+The initial model stopped when every major qualitative conclusion had an editable quantitative representation, the capital and mature operating requirements were separated, the unresolved mismatch was visible, and the control and integrity tests behaved correctly. Additional numerical precision would be misleading until force packages, availability, unit cost, staffing, event loss, and effectiveness receive sourced or structured expert inputs.
+
+The next pass should improve causal and engineering fidelity, not add decimal places. Priority work is a direct population-service-time-to-platform chain, a geographic access and mobility network, occupation-level workforce and formation cycles, subsystem cost-estimating relationships, and service-specific benefit functions. Renderings remain behind physics closure.

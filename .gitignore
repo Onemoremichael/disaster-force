@@ -5,3 +5,5 @@
 tmp/
 models/.working/
 models/previews/
+outputs/
+*.inspect.ndjson
