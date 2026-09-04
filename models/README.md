@@ -70,3 +70,13 @@ A compound 25% facility, 15% redesign, two-year delay and 15% integration shock 
 All 46 performance thresholds are research hypotheses. The workbook is not a statistical power analysis, range design, safety case, environmental authorization, independent cost estimate or acquisition baseline. All twenty flood evidence gates remain open, `FIN` and `HCG-100` remain `R2+`, and no flood system is authorized for rendering.
 
 See [`research/26-flood-research-test-and-evaluation.md`](../research/26-flood-research-test-and-evaluation.md) for the institutional doctrine, test philosophy, facility architecture, experiment design, mission-thread logic, portfolio interpretation and source notes.
+
+## Department-wide technology frontier model
+
+[`resilience-technology-frontier.xlsx`](resilience-technology-frontier.xlsx) generalizes the invention-and-proof architecture across the Department of Resilience. Its 16 sheets link three alternative 25-year funding cases, twelve mission-science directorates, eight institutional channels, sixty measured technology campaigns, ten common technological primitives, a 240-to-20 maturity funnel, ten proving-range families, annual funding, independent stage gates, decision rights, industrial clusters, export pathways and cost/schedule sensitivity.
+
+The workbook distinguishes a $750B catalytic case, selected $2T strategic case and rounded $4.5T peer-intensity case. Peer intensity is contextualized by the FY2026 defense RDT&E request of $179.1B, not asserted as a resilience cost estimate. In the selected case, `ARPA-R` receives $480B, National Resilience Laboratories $440B, the 58-site National Resilience Proving Network $320B, protected independent `RTEA` $200B, Service Technology Commands $240B, the Manufacturing and Mobilization Administration $200B, university consortia $80B and standards/data/public assurance $40B. These are two classifications of one envelope, not additive budgets.
+
+The funding profile averages $80B/year and peaks at approximately $139.81B in years 9 and 10. A compound facility, redesign, integration, two-year delay and supply-chain shock raises calculated need to $2.494T; the 15% / $300B reserve is short by $194B. Seventeen arithmetic and architecture checks pass and one informational line intentionally flags that shortfall. All future performance values remain design hypotheses, no campaign receives R3 operational credit and no vehicle or platform is authorized for rendering.
+
+See [`research/27-resilience-technology-frontier.md`](../research/27-resilience-technology-frontier.md) for the institution, technology taxonomy, proving doctrine, civil constraints, industrial implications and source notes.

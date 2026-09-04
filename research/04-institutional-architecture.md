@@ -276,6 +276,21 @@ The European Union's rescEU reserve shows that supranational ownership can compl
 
 These are not scale analogues for the proposed U.S. force. They are evidence that distributed ownership, common standards, central financing, national allocation, and local incident authority can coexist.
 
+## Innovation establishment
+
+The Department is not mature if it can only buy what today's emergency market already sells. Pass 16 adds a standing invention-to-field system to the National Resilience Establishment:
+
+- the **Advanced Resilience Projects Agency (`ARPA-R`)** frames measured high-risk opportunities, funds rival mechanisms and can terminate or redirect them;
+- **National Resilience Laboratories** own long-lived mission science, models, reference data, metrology and shared instruments;
+- a **National Resilience Proving Network** supplies representative, destructive and complete-mission environments at sovereign scale;
+- the independent **Resilience Test and Evaluation Authority (`RTEA`)** owns test plans, configuration lock, data custody, replication, readiness findings and operational acceptance;
+- **Service Technology Commands** integrate mature prototypes with formations, doctrine, training, maintainers, logistics and civil command;
+- a **Resilience Manufacturing and Mobilization Administration** owns manufacturing readiness, supplier depth, surge tooling, digital production baselines, repair and depots;
+- **National Resilience University Consortia** protect long-horizon science and workforce formation; and
+- a **Standards, Data and Public Assurance Office** maintains open interfaces, configuration provenance, privacy, accessibility, environmental evidence and public-effect accounting.
+
+Creation, proof, production, employment and civil authority remain separate decisions. A research sponsor cannot certify its own system; a technology command cannot create incident authority; a vendor cannot define the public-effect metric by which its product is accepted. See [The resilience technology frontier](27-resilience-technology-frontier.md).
+
 ## Functions the new institution should not absorb
 
 An equal national investment does not justify an unlimited mandate. The Department and Force should not become:
