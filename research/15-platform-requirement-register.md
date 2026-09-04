@@ -32,10 +32,11 @@ Concept renderings begin at R3 and must show the complete operating system, not 
 | ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
 |---|---|---|---|---|---|---|
 | W-1 | Point Water Cell | Admitted | Hours-scale safe water at isolated sites | pallet/trailer; source-flexible treatment; local quality verification | contaminant envelope, waste handling, operator burden | R1 |
-| W-2 | Regional Water Works | Admitted | Community-scale production and storage | road-mobile treatment trains; modular pretreatment and finishing | source-dependent output, setup, energy, membrane/media logistics | R1 |
+| W-2 | Regional Water Works | Admitted | Community-scale production and storage | six-train WRG-50 reference; five online plus one contingency; up to 50,000 m³/day | guaranteed feed/output envelopes, setup rate, detailed equipment and consumables | R2 |
 | W-3 | Strategic Water Works | Admitted | Sustained city/region supply | tens to hundreds of thousands m³/day by parallel trains | intake, concentrate, source seasonality, distribution loss | R2 |
 | W-4 | Rapid Water Grid | Admitted | Move bulk water from source to point of use | 0.5 m pipe at 1.5 m/s is roughly 25,000 m³/day before losses | route, pressure zones, anchoring, joints, crossings, repair | R2 |
-| W-5 | Wastewater and Residuals Works | Admitted | Prevent response-created sanitation and environmental failure | collection, treatment, residual and concentrate modules | influent variability, discharge authority, sludge and hazardous residuals | R1 |
+| W-5 | Wastewater and Residuals Works | Admitted | Prevent response-created sanitation and environmental failure | WRG-50 return-flow band 30,000–45,000 m³/day; seawater concentrate can equal product flow | influent/process variants, discharge authority, sludge and hazardous residuals | R2 |
+| WRG-50 | Water Restoration Group 50 reference formation | Admitted reference | Deliver a complete temporary utility, not source production | 50,000 m³/day; two 0.5 m-ID × 50 km trunks; 5,300 t illustrative pipe; 2,300–3,200 deployed personnel | route and surge model, pressure class, treatment feed case, manifest, installation rate, maintenance and degraded-mode trials | R2+ |
 | N-WEP | Nuclear Water–Energy Platform | Held | Long-duration coastal/island water and grid support | concept band 100–300 MWe net; 50,000–250,000 m³/day water | reactor choice, hull/stability, heat rejection, licensing, security, siting, crew, overhaul | R2 |
 | P-1 | Critical Facility Power Cell | Admitted | Energize a bounded life-safety load within hours | generators/storage/switchgear plus facility connection and fuel | standardized safe connection and actual facility load profiles | R1 |
 | P-2 | Community Grid Island | Admitted | Multi-building critical-load continuity | modular generation, storage, protection and local distribution | black-start, ownership boundary, fault duty, control and grounding | R1 |
@@ -127,7 +128,7 @@ Concept renderings begin at R3 and must show the complete operating system, not 
 
 ## Gate-to-rendering work queue
 
-The first rendering candidates should be selected only after quantitative Pass 5 modeling. Priority is determined by research value, not spectacle.
+The first rendering candidates are selected only after quantitative modeling and configuration-level physics closure. Pass 6 closes the water system boundary but keeps the reference formation at R2+; no concept is yet authorized for rendering. Priority is determined by research value, not spectacle.
 
 1. **Rapid Water Grid and Regional Water Works:** close source, pipe, pumping, storage, quality, waste, crew and deployment balances.
 2. **Fire aviation product line:** close mission cycles and compare delivered objective yield across FA-2/3/4 and their base systems.

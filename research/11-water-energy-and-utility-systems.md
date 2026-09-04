@@ -40,7 +40,7 @@ Elevation is consequential. Ideal pumping power is:
 P = \frac{\rho g Q H}{\eta}
 \]
 
-Moving 25,400 m³/day through 100 meters of total dynamic head at 75 percent efficiency requires about 4 MW before friction and local distribution. A coastal plant can therefore make emergency water with modest power relative to a reactor, while pushing it inland, uphill and through damaged networks may dominate energy and construction.
+Moving 25,400 m³/day through 100 meters of total dynamic head at 75 percent efficiency requires about **0.385 MW**, not 4 MW as an earlier draft stated. For a 100-kilometer, 0.5-meter internal-diameter line at 1.5 m/s and an assumed Darcy friction factor of 0.015, friction adds about 344 meters of head; with 100 meters of static lift, pump power is approximately 1.71 MW before minor losses, surge allowance and local distribution. A coastal plant can therefore make emergency water with modest power relative to a reactor, while route length, diameter, elevation, pressure zoning and damaged networks determine the delivery burden. Pass 6 develops the corrected balance and complete water formation in [`17-water-system-engineering.md`](17-water-system-engineering.md).
 
 ### Verdict on drone-laid pipe
 
