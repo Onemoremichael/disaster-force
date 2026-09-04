@@ -258,3 +258,57 @@ No rendering is authorized. The next water pass must turn the reference formatio
 ### Stop decision
 
 The pass stopped when every major water-service function had an owned force module, the principal mass/flow/energy relationships reconciled at reference-case level, the earlier numerical error was corrected in the record, and the remaining R3 evidence was explicit and testable. Additional visual detail would be premature.
+
+## Pass 7 — WRG-50 configuration model
+
+### Research question
+
+Can the reference water formation be represented as one auditable, editable configuration model, and does that model supply enough engineering evidence to advance WRG-50 from R2+ to R3?
+
+### Model decisions
+
+1. Build a separate 13-sheet water engineering workbook rather than forcing route, treatment and formation physics into the higher-level force-and-resource model.
+2. Use a default seawater case to expose the severe feed, energy and concentrate burden while retaining fresh-surface and brackish selectors.
+3. Make every major assumption editable and record its evidence class and validation method in the workbook.
+4. Use Darcy–Weisbach hydraulics and derive velocity, friction, minor loss, head, power, zone count and pipe geometry from mission controls.
+5. Represent pressure zones as a uniform arithmetic reference while refusing to treat them as a surveyed route or surge/transient design.
+6. Distinguish formula-derived pipe mass from preliminary assumed masses for treatment, construction, mobility, storage, sanitation, power, support and spares.
+7. Model water held in storage separately from deployment mass.
+8. Connect point-of-use channel shares to node and daily sampling counts, making accessibility a staffing and quality burden rather than a narrative afterthought.
+9. Connect delivered water to wastewater acceptance, temporary treatment and source-process residuals.
+10. Derive deployed personnel from continuous positions, shifts, relief and day staff; derive the service establishment from operational echelons and school/depot overhead.
+11. Use explicit degraded-capacity factors and safe operating responses to define tests, not claim reliability.
+12. Allow R3 only when every technical gate is marked `Verified`; `Model closed` and `Bounded` do not qualify.
+
+### Reference outputs
+
+- 0.579 m³/s total flow and 1.474 m/s velocity per trunk;
+- 232.6 m total dynamic head and 1.761 MW average hydraulic power;
+- four uniform pressure zones at 82.72 psi each;
+- 5,836 tonnes of pipe including reserve;
+- 23,516 tonnes of preliminary deployment mass including contingency, before stored water;
+- 9.58 MW average seawater treatment power, 11.34 MW treatment-plus-conveyance average, and 14.75 MW with installed reserve;
+- 47,917 m³ of storage on a simplified 38,333 m² gross site;
+- 37,500 m³/day community wastewater and a 22,500 m³/day temporary treatment gap under the selected acceptance assumption;
+- 2,720 deployed people and approximately 10,200 total service billets for one continuously generatable group;
+- 19.7 days for the untested rapid-surface installation case; and
+- R2+ visualization state with zero verified configuration gates.
+
+### Verification
+
+- all thirteen sheets were rendered and visually inspected;
+- the saved workbook was re-imported after export;
+- no formula-error values were found;
+- twelve model-integrity and design-consistency checks pass;
+- fresh-surface and enduring-construction control states recalculate correctly; and
+- independent calculations reproduce the workbook's velocity, hydraulic power and pipe mass within numerical precision.
+
+### Gate decision
+
+The workbook proves that the reference concept is internally calculable and exposes its dependencies. It does not prove the equipment exists at the assumed mass, that the route survives transient pressure, that crews can install it at the assumed rate, that the treatment trains meet source guarantees, or that the formation can maintain and recover itself.
+
+WRG-50 therefore remains R2+. No rendering is authorized.
+
+### Stop decision
+
+The pass stopped after the model linked every major WRG-50 subsystem, alternate controls recalculated, post-export inspection and visual QA passed, independent physics checks reconciled, and the R3 evidence deficit was explicit. The next gain must come from deeper source-specific, route, reliability, test and vendor engineering—not additional spreadsheet precision.

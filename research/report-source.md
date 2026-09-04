@@ -100,6 +100,23 @@ Pass 6 finds that:
 
 See [Water restoration force engineering](17-water-system-engineering.md).
 
+Pass 7 finds that:
+
+1. The default WRG-50 configuration closes a transparent steady-state chain from 50,000 cubic meters/day of seawater product through two 50-kilometer, 0.5-meter-ID trunks to storage and point-of-use channels. It remains a design study rather than a construction design.
+2. Total flow is 0.579 cubic meters/second and each trunk carries 0.289 cubic meters/second at 1.474 meters/second. Fifty kilometers at a Darcy friction factor of 0.015 adds 166.0 meters of friction head; minor losses and static rise produce 232.6 meters total dynamic head and 1.761 MW average hydraulic power.
+3. Four uniform reference pressure zones each carry 58.16 meters of head at 82.72 psi. The selected 100-psi operating ceiling sits below the 125-psi PE4710 DR17 reference class, but actual elevation, temperature, surge, air/vacuum and transient behavior remain unmodeled and prevent R3 closure.
+4. Formula-derived pipe mass is 5,305.8 tonnes before reserve and 5,836.4 tonnes after a ten-percent route and damage reserve. The preliminary full equipment manifest is 20,449 tonnes before contingency and 23,516 tonnes after contingency, excluding stored water, local earth/aggregate and recurring sustainment.
+5. The default seawater case requires 100,000 cubic meters/day of feed, creates 50,000 cubic meters/day of concentrate, and uses 9.58 MW average treatment power including assumed auxiliaries. Treatment plus conveyance averages 11.34 MW; a 30-percent reserve raises reference installed capacity to about 14.75 MW.
+6. Storage volume is approximately 47,917 cubic meters and tonnes, with a simplified gross footprint of 38,333 square meters. The access model requires 111 utility, critical-facility, district, tanker and packaged-water interfaces under its provisional channel assumptions.
+7. Community return flow is 37,500 cubic meters/day. Assuming surviving local systems accept 40 percent leaves 22,500 cubic meters/day of temporary wastewater capacity; combined wastewater, concentrate and treatment residual flow reaches 88,500 cubic meters/day in the default case.
+8. The shift-complete workforce model produces 2,720 deployed people. Three operational echelons plus a provisional 25-percent school/depot overhead require approximately 10,200 service billets and 816 annual accessions at an eight-percent replacement rate.
+9. The rapid-surface installation case reaches reference service in 19.7 days; shallow protected and enduring cases require 32.8 and 62.1 days. All rates are explicit test targets, not demonstrated performance.
+10. The workbook includes ten degraded cases. Losing one trunk preserves 25,000 cubic meters/day—enough arithmetically for 1.67 million people at 15 liters/day but only 500,000 at the 50-liter expanded service level.
+11. The exported workbook was re-imported, scanned for spreadsheet errors, rendered and visually inspected on all thirteen sheets, and tested under alternate treatment and construction controls. Independent calculations reproduce velocity, hydraulic power and pipe mass.
+12. All twelve model-integrity checks pass, but zero configuration gates are verified. WRG-50 remains R2+ and rendering remains prohibited pending a surveyed transient model, source and vendor guarantees, configuration manifest, construction trials, maintenance/reliability analysis and degraded-mode demonstrations.
+
+See [WRG-50 configuration model](18-water-configuration-model.md) and the editable [water restoration engineering workbook](../models/water-restoration-engineering.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -110,7 +127,7 @@ See [Water restoration force engineering](17-water-system-engineering.md).
 - Service boundaries, command geography, active–reserve mix, personnel strength, and funding parity require sensitivity analysis before becoming recommendations.
 - Only two design reference missions currently have external quantitative anchors; the remaining cases require sourced low, base, and high demand curves.
 - Emergency service-level references are planning inputs, not universal safety standards or substitutes for U.S. codes, clinical judgment, and local requirements.
-- The system concepts are requirement hypotheses, not acquisition recommendations. Pass 6 closes concept-level water mass, flow, energy, return-flow, workforce, and lift bands for one reference formation, but no concept yet closes configuration-level structure, pressure/surge, crew, sustainment, lifecycle cost, and formation availability.
+- The system concepts are requirement hypotheses, not acquisition recommendations. Pass 7 provides a configuration-level steady-state water model, but its equipment manifest, source-specific performance, route transients, construction productivity, reliability, lifecycle cost and formation availability remain unverified.
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
