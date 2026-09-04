@@ -383,3 +383,47 @@ No power concept is at R3. The formation lacks a sourced load archetype, solved 
 ### Stop decision
 
 The pass stopped when the full utility thread, mission-set architecture, network-state discriminator, first-order electrical and fuel balances, degraded cases, industrial structure and workbook specification were explicit. The next gain comes from a configuration model comparing reuse, bypass and rebuild states—not additional platform description.
+
+## Pass 10 — PRG-100 configuration model
+
+### Research question
+
+What source, storage, network, transformation, construction, fuel, workforce and thermal configuration is implied by a 100 MW net critical-load mission, and how does the formation change when the receiving grid can be reused, must be bypassed or must be rebuilt?
+
+### Method
+
+The pass implemented a 17-sheet editable workbook from the Pass 9 specification. A visible load registry and scenario controls drive balanced three-phase feeder screening, line loss, gross generation, source reserve, BESS power/energy, mobile transformation, route materials, construction time, fuel, thermal effects, deployment mass and shift-complete workforce. Reuse, bypass and rebuild states and three source portfolios were tested after export. Key results were independently recomputed outside workbook formulas.
+
+### Decisions
+
+1. Retain `Department of Resilience` as the institutional anchor and locate PRG-100 inside its Infrastructure Restoration Service.
+2. Use `Bypass` and `Liquid fuel dominant` as the reference case while keeping all three network and source states selectable.
+3. Define the baseline as 100 MW net through ten 34.5 kV feeders, five islands and 60 total circuit-kilometres.
+4. Round source capacity to fourteen 10 MW blocks, or 140 MW owned, after auxiliaries, environmental derating and reserve.
+5. Size storage to the greater of full-load ride-through and P0 endurance; seven 20 MW / 20 MWh blocks provide 140 MW / 140 MWh.
+6. Correct the mobile-substation rule after the first model check failed. Capacity plus N-1 requires eight 25 MVA units rather than one-per-island plus one reserve.
+7. Expose liquid fuel as a formation-defining flow: 152,461 gallons/day in the 80%-liquid baseline and 1.067 million gallons onsite for seven-day endurance.
+8. Separate stored fuel mass from the 18,332-tonne preliminary dry deployment manifest.
+9. Treat 2,796 deployed people and 10,485 service billets as a force-establishment hypothesis requiring occupational and endurance evidence.
+10. Advance PRG-100 to R2+ only. Fifteen gates remain unverified and rendering remains prohibited.
+
+### Scenario results
+
+| Scenario | Setup | Dry deployment | Liquid fuel | Gas energy |
+|---|---:|---:|---:|---:|
+| Bypass / liquid dominant | 13.57 d | 18,332 t | 152,461 gal/d | 0 |
+| Reuse / liquid dominant | 6.33 d | 13,932 t | lower route-loss variant | 0 |
+| Rebuild / liquid dominant | 39.29 d | 30,757 t | higher route-loss variant | 0 |
+| Bypass / gas hybrid | 13.57 d | 18,332 t | 47,644 gal/d | 12,343 MMBtu/d |
+
+### Verification
+
+The final workbook was rendered sheet by sheet, exported, re-imported, inspected and scenario-switched. All 17 sheets were present and the error scan returned zero formula-error cells. Reuse was lighter and faster than bypass; rebuild was heavier and slower; gas hybrid reduced liquid demand and produced nonzero gas demand. Independent arithmetic reproduced feeder current, resistive loss, gross dispatch, source-module count, BESS count, line mass, setup time, liquid demand and dry deployment mass to numerical precision. Controls were confirmed at the baseline values in the delivered file.
+
+### Gate decision
+
+PRG-100 is `R2+`. The model is coherent enough to direct experiments and vendor studies but does not close the one-line, protection, grounding, transient, item manifest, strategic mobility, construction productivity, maintainability, workforce endurance, thermal performance or cost gates. No rendering is authorized.
+
+### Stop decision
+
+The pass stopped when the three network states and source alternatives recalculated correctly, the baseline manifest and force establishment reconciled, the mobile-transformation capacity defect was corrected, and all independent checks passed. The next gain comes from sourced hourly load archetypes and a mixed-state electrical model or from a deliberately contrasting configuration study such as fire aviation, flood control or medical surge—not additional visual description of PRG-100.

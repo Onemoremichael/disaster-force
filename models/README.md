@@ -26,3 +26,13 @@ See [`research/16-quantitative-model.md`](../research/16-quantitative-model.md) 
 The default seawater case produces approximately 23,500 tonnes of preliminary deployment mass before stored water, 14.75 MW of installed treatment-plus-conveyance capacity after reserve, 47,900 m³ of storage, 2,720 deployed people, and a 19.7-day rapid-surface construction target. Most equipment masses and all construction rates remain explicit assumptions. The workbook remains `R2+`; passing model checks is not physics verification.
 
 See [`research/18-water-configuration-model.md`](../research/18-water-configuration-model.md) for equations, output interpretation, verification and open engineering evidence.
+
+## PRG-100 engineering model
+
+[`power-restoration-engineering.xlsx`](power-restoration-engineering.xlsx) converts the Power Restoration Group into a 17-sheet deployable-utility configuration study. It links an illustrative 100 MW critical-load registry, reuse/bypass/rebuild network states, three source cases, generation reserve, battery duties, feeder current and loss, mobile transformation, rapid distribution, fuel, thermal protection, deployment mass, workforce, failures, sources and the R3 gate.
+
+The default bypass/liquid-fuel-dominant case produces 103.89 MW of average gross dispatch, 140 MW of owned generation, 140 MW / 140 MWh of storage, eight 25 MVA mobile substations, 60 circuit-km of temporary network, 18,332 tonnes of preliminary dry deployment mass, 2,796 deployed people and 152,461 gallons/day of liquid fuel. Reuse lowers modeled dry mass to 13,932 tonnes and 6.3 setup days; rebuild raises it to 30,757 tonnes and 39.3 days. A gas-hybrid case lowers liquid demand to 47,644 gallons/day while creating a 12,343 MMBtu/day gas dependency.
+
+All equipment masses, construction rates, staffing coefficients and thermal intensities remain explicit design-study assumptions. The workbook is `R2+`; it is not an electrical construction design, transport plan, cost estimate or verified performance claim.
+
+See [`research/21-power-configuration-model.md`](../research/21-power-configuration-model.md) for equations, scenario interpretation, verification and open evidence.
