@@ -154,7 +154,7 @@ The pass made several concept boundaries explicit:
 
 1. At 15 liters per person-day, emergency domestic water for one million people is 15,000 cubic meters—and 15,000 tonnes—per day.
 2. At 4 kilowatt-hours per cubic meter, desalination for that quantity requires about 60 megawatt-hours per day, or 2.5 megawatts average, before intake, pumping, distribution and losses.
-3. A 0.5-meter internal-diameter pipe at 1.5 meters per second carries about 25,000 cubic meters per day before downtime and leakage. Raising that flow by 100 meters at 75 percent pump efficiency requires roughly 4 megawatts before friction.
+3. A 0.5-meter internal-diameter pipe at 1.5 meters per second carries about 25,000 cubic meters per day before downtime and leakage. **Pass 6 correction:** raising that flow through 100 meters of total dynamic head at 75-percent pump efficiency requires roughly 0.385 megawatts, not 4 megawatts. A 100-kilometer reference line at an assumed Darcy friction factor of 0.015 adds about 344 meters of friction head, producing about 1.71 megawatts at 444 meters total head before minor losses and surge allowance.
 4. These balances show why the difficult water problem is usually route, head, pipe, storage, quality and point-of-use distribution—not simply the energy inside a desalination box.
 5. Aerial drones can survey, mark and pull pilot lines, but bulk pipe, cable, pumps and structures still require ground, marine or heavy-lift systems. Autonomy changes exposure and tempo; it does not repeal mass.
 
@@ -225,3 +225,36 @@ The partial benefits scenario produces approximately $30.8 billion in annual avo
 The initial model stopped when every major qualitative conclusion had an editable quantitative representation, the capital and mature operating requirements were separated, the unresolved mismatch was visible, and the control and integrity tests behaved correctly. Additional numerical precision would be misleading until force packages, availability, unit cost, staffing, event loss, and effectiveness receive sourced or structured expert inputs.
 
 The next pass should improve causal and engineering fidelity, not add decimal places. Priority work is a direct population-service-time-to-platform chain, a geographic access and mobility network, occupation-level workforce and formation cycles, subsystem cost-estimating relationships, and service-specific benefit functions. Renderings remain behind physics closure.
+
+## Pass 6 — water restoration force engineering
+
+### Research question
+
+What complete force, machinery, and utility architecture are required to deliver regional emergency water at point of use, and do the Regional Water Works or Rapid Water Grid now meet the physics-closure gate for rendering?
+
+### Correction and model boundary
+
+The pass corrected the Pass 4 pumping-power error described above and rebuilt the water problem around Darcy–Weisbach hydraulics, pressure zones, pipe mass, treatment recovery, storage, distribution access, return flows, construction, quality authority, personnel, and lift. The correction changes a number, not the architectural conclusion: route and distribution remain defining constraints, but seawater treatment energy can exceed trunk hydraulic energy in the reference case.
+
+### Decisions
+
+1. Establish the Water Restoration Group as a deployable public utility with nine functions: demand/network assessment, source qualification, treatment, independent quality authority, conveyance, buffering, point-of-use distribution, return-flow control, and transfer.
+2. Use the `WRG-50` reference formation to expose scale: up to 50,000 m³/day from six nominal 10,000 m³/day treatment trains, with five online and one contingency/maintenance train.
+3. Bound a 50-kilometer, 50-meter-rise route using two parallel 0.5-meter-ID trunks. At the reference flow, the two lines require about 1.4–2.1 MW of hydraulic power across the stated friction-factor band and contain about 5,300 tonnes of illustrative DR-17 PE pipe before fittings and reserve.
+4. Treat pressure segmentation, surge, air/vacuum behavior, low-point pressure, temperature, anchors, crossings, and failure consequence as route-release criteria. A single plant rating or pump cannot define the system.
+5. Separate certified plant output, bulk delivery, accessible delivery, and safely used volume. Only the latter two count as civil response effects.
+6. Use surviving utility sectors first, then critical-facility connections, district loops/service islands, tankers, and packaged water. Tanker and household-container distribution cannot carry metropolitan-scale trunk demand.
+7. Bind wastewater and residuals to potable production. The WRG-50 reference yields a 30,000–45,000 m³/day return-flow planning band; 50-percent-recovery seawater RO can create concentrate flow approximately equal to product flow.
+8. Concentrate autonomy on survey, route preparation, pipe handling/joint inspection, leak detection, and hazardous repair. Aerial drones cannot carry a multi-thousand-tonne main.
+9. Bound deployed personnel at approximately 2,300–3,200 pending exercised position, shift, relief, maintenance, and rotation schedules.
+10. Keep the full group as a rail, sealift, barge, and heavy-road force; reserve airlift for command, survey, quality, point systems, critical spares, and early treatment.
+
+### Gate decision
+
+The WRG-50 is `R2+`, while W-2 and W-4 are `R2`. The concept-level mass, flow, approximate energy, storage, return-flow and workforce balances now cohere, but no configuration has closed pressure class, surge/minor losses, source-specific train performance, detailed equipment manifest, route installation rate, transport packaging, maintenance, or degraded-mode tests. W-5 advances from R1 to R2 because the scale and interfaces of the return-flow burden are now bounded.
+
+No rendering is authorized. The next water pass must turn the reference formation into a configuration-level engineering and deployment model; a later visual must show the complete utility formation rather than a freestanding purifier.
+
+### Stop decision
+
+The pass stopped when every major water-service function had an owned force module, the principal mass/flow/energy relationships reconciled at reference-case level, the earlier numerical error was corrected in the record, and the remaining R3 evidence was explicit and testable. Additional visual detail would be premature.

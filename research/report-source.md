@@ -86,6 +86,20 @@ Pass 5 finds that:
 
 See [Quantitative model](16-quantitative-model.md) and the editable [Department of Resilience force and resource workbook](../models/disaster-force-model.xlsx).
 
+Pass 6 finds that:
+
+1. A regional water capability must be procured and commanded as a deployable public utility. Its complete thread is demand/network assessment, source qualification, treatment, independent quality certification, conveyance, buffering, point-of-use distribution, return-flow control, and civil transfer.
+2. The `WRG-50` reference formation provides a falsifiable scale: up to 50,000 cubic meters per day from six nominal 10,000-cubic-meter/day treatment trains, with five online and one held for maintenance, source derating, or failure.
+3. A prior pumping calculation was overstated by approximately tenfold. A 0.5-meter-ID line at 1.5 m/s through 100 meters of total dynamic head requires about 0.385 MW at 75-percent efficiency. On a 100-kilometer line, however, an assumed Darcy friction factor of 0.015 adds about 344 meters of friction head and raises power to about 1.71 MW before minor losses and surge allowance.
+4. The WRG-50 route reference uses two parallel 0.5-meter-ID, 50-kilometer trunks over a 50-meter net rise. Together they contain approximately 5,300 tonnes of illustrative DR-17 polyethylene pipe before valves, fittings, anchors, crossings, pumps, packing, and reserve, and require roughly 1.4–2.1 MW of average hydraulic power across the stated friction-factor band.
+5. Aerial drones cannot deploy this mass. Autonomy is valuable in source and route survey, clearance, pipe handling, joint inspection, leak localization, and hazardous repair; ground, rail, barge, and heavy handling systems carry the main.
+6. The force must distinguish certified production, bulk delivery, accessible delivery, and safely used water. Only the latter two count as civil outcomes, and metropolitan volume should move first through safe utility sectors, direct critical-facility connections, and temporary district loops rather than tankers or household containers alone.
+7. A 50,000-cubic-meter/day service creates a planning band of roughly 30,000–45,000 cubic meters/day of return flow. A 50-percent-recovery seawater process can also produce concentrate flow approximately equal to potable product; potable water, wastewater, and residuals are one operational promise.
+8. A deployed WRG-50 is provisionally bounded at 2,300–3,200 people and five-figure total deployment tonnage. The main body is a surface and maritime lift force, with airlift reserved for first-entry command, reconnaissance, quality, point systems, critical spares, and early treatment.
+9. W-2 and W-4 remain R2, W-5 advances to R2, and the integrated WRG-50 is R2+. Pressure class, surge and minor losses, source-specific treatment performance, equipment manifest, installation productivity, transport packaging, maintenance, and degraded-mode trials remain open. No water concept is yet authorized for rendering.
+
+See [Water restoration force engineering](17-water-system-engineering.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -96,7 +110,7 @@ See [Quantitative model](16-quantitative-model.md) and the editable [Department 
 - Service boundaries, command geography, active–reserve mix, personnel strength, and funding parity require sensitivity analysis before becoming recommendations.
 - Only two design reference missions currently have external quantitative anchors; the remaining cases require sourced low, base, and high demand curves.
 - Emergency service-level references are planning inputs, not universal safety standards or substitutes for U.S. codes, clinical judgment, and local requirements.
-- The system concepts are requirement hypotheses, not acquisition recommendations. Most remain at functional definition; none yet closes mass, energy, flow, structure, crew, sustainment, lifecycle cost, and formation availability.
+- The system concepts are requirement hypotheses, not acquisition recommendations. Pass 6 closes concept-level water mass, flow, energy, return-flow, workforce, and lift bands for one reference formation, but no concept yet closes configuration-level structure, pressure/surge, crew, sustainment, lifecycle cost, and formation availability.
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
