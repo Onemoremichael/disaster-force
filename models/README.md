@@ -58,3 +58,15 @@ Across all 15 formation–case combinations, pump/intake and formation utilizati
 All hydraulic cases, equipment values, readiness, staffing, cost and technology coefficients are explicit design-study assumptions. The workbook is not a civil-works design, incident forecast, environmental authorization, navigation plan, acquisition estimate or verified performance claim. `FIN` and `HCG-100` are `R2+`; all twenty evidence gates remain open and no flood system is authorized for rendering.
 
 See [`research/25-flood-configuration-model.md`](../research/25-flood-configuration-model.md) for equations, results, scenario interpretation, technology priorities, verification and open evidence.
+
+## Flood research, test and evaluation model
+
+[`flood-research-test-evaluation.xlsx`](flood-research-test-evaluation.xlsx) converts the flood force's technological ambition into a 17-sheet, 25-year invention and proof campaign. It links editable controls, ten `ARPA-R` technology campaigns, an independent integration/test line, 46 experiment packages, twenty R3 evidence gates, ten purpose-built range families, annual funding, facility throughput, competing prototype cohorts, TRL/MRL transitions, four detailed protocol families, eight complete mission-thread trials, decision rights and cost/schedule failure sensitivity.
+
+The baseline reconciles to the existing $130B flood RDT&E allocation: $24B for the National Hydraulic Proving Network and $106B for science, prototypes, field trials, data, standards and transition. Protected independent integration and T&E is $13B, exactly 10% of the envelope. The annual profile peaks at approximately $11.32B in year 8. The modeled cohort begins with 54 rival technical paths and narrows to 43 at TRL 5, 30 at TRL 6 and 20 entering TRL 7. Parallel/distributed ranges hold average planned peak utilization to 75.82% under an 80% planning ceiling.
+
+A compound 25% facility, 15% redesign, two-year delay and 15% integration shock raises calculated need to $156.25B, $26.25B above the RDT&E envelope; the separate $25B program reserve is short by $1.25B. This is a sensitivity, not a forecast or estimate. It demonstrates why `ARPA-R` needs genuine cancellation authority and why `RTEA` evidence cannot be negotiated away by sunk cost.
+
+All 46 performance thresholds are research hypotheses. The workbook is not a statistical power analysis, range design, safety case, environmental authorization, independent cost estimate or acquisition baseline. All twenty flood evidence gates remain open, `FIN` and `HCG-100` remain `R2+`, and no flood system is authorized for rendering.
+
+See [`research/26-flood-research-test-and-evaluation.md`](../research/26-flood-research-test-and-evaluation.md) for the institutional doctrine, test philosophy, facility architecture, experiment design, mission-thread logic, portfolio interpretation and source notes.
