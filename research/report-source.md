@@ -153,6 +153,23 @@ Pass 9 finds that:
 
 See [Power restoration force engineering](20-power-restoration-force-engineering.md).
 
+Pass 10 finds that:
+
+1. The editable `PRG-100` configuration model closes the first-order relationship among critical load, feeder current and loss, auxiliaries, environmental derating, source reserve, battery duty, transformation, rapid distribution, fuel, construction, workforce and thermal protection.
+2. The baseline `Bypass` configuration delivers 100 MW net through ten 34.5 kV feeders. It requires 103.89 MW average gross dispatch, rounds to fourteen 10 MW source modules and carries 140 MW of owned nameplate.
+3. Fifteen minutes of full-load bridge energy is 25 MWh, while four hours for a 20 MW P0 subset is 80 MWh usable. After usable-depth, conversion and reserve allowances, power and energy jointly require seven illustrative 20 MW / 20 MWh blocks, or 140 MW / 140 MWh.
+4. An intuitive mobile-substation rule failed the first capacity check. One unit per island plus one reserve provided only 150 MVA. Capacity sizing plus N-1 requires eight 25 MVA units and 200 MVA in the baseline. Configuration balance therefore governs force rules, not verbal symmetry.
+5. The bypass network uses 60 total three-phase circuit-kilometres: 24 km of surface cable and 36 km of overhead line. At provisional multi-front production rates, setup is 13.57 days and line materials plus route-scaled construction equipment are 4,115 tonnes.
+6. The 80%-liquid baseline consumes 152,461 gallons/day, 577 m³/day or 16.9 nominal 9,000-gallon tanker loads/day. Its seven-day onsite reserve is 1.067 million gallons and about 3,372 tonnes, excluded from dry deployment mass.
+7. A gas-hybrid case reduces liquid demand to 47,644 gallons/day but requires 12,343 MMBtu/day of gas. Source diversity moves dependencies; it does not eliminate them.
+8. The preliminary bypass dry deployment is 18,332 tonnes. Reuse lowers the modeled total to 13,932 tonnes and 6.33 setup days; rebuild raises it to 30,757 tonnes and 39.29 days. Distribution state is therefore a formation-level discriminator.
+9. The deployed workforce hypothesis is 2,796 people. Three operational echelons plus 25% school/depot overhead imply 10,485 institutional billets before national headquarters or broader service support.
+10. Allocating 20 MWe to thermal safety produces 60 MWth at COP 3.0 and 1.92 million protected person-hours/day at the explicit 0.5 kWth/person and 16-hour assumptions. These are effect screens, not climate or building-load evidence.
+11. The exported workbook was re-imported, scenario-switched and independently recomputed. Seventeen sheets were present, no formula error was found, scenario directions were correct, and current, loss, generation, module counts, line mass, construction time, fuel and dry mass matched independent arithmetic.
+12. No R3 gate is verified. PRG-100 advances to `R2+`; rendering remains prohibited until electrical, mobility, construction, endurance, maintainability, workforce and cost evidence closes.
+
+See [PRG-100 configuration model](21-power-configuration-model.md) and the editable [power-restoration engineering workbook](../models/power-restoration-engineering.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -167,6 +184,7 @@ See [Power restoration force engineering](20-power-restoration-force-engineering
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
 - Pass 8 formation names, personnel bands and package ranges are organizational hypotheses, not validated tables of organization. The national order of battle remains open until representative technical, care, mobility and theater-support formations are configuration-modeled and exercised.
 - Pass 9 voltage/current and fuel calculations are transparent reference balances, not an electrical construction design or selected source specification. PRG-100 network, source, storage, protection, distribution, thermal, equipment, workforce and transport configurations remain open.
+- Pass 10 closes first-order PRG-100 configuration balances but not the site-specific one-line, power flow, fault duty, grounding, relay coordination, harmonics, transient stability, motor starts, item-level transport, verified construction productivity, reliability, occupational pipeline, thermal field performance or lifecycle cost. Equipment masses, production rates and staffing coefficients remain design-study assumptions.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
