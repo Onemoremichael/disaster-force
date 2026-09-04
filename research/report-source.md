@@ -46,6 +46,17 @@ Pass 2 finds that:
 
 See [Institutional architecture](04-institutional-architecture.md), [Force composition](05-force-composition.md), and [Readiness, posture, and force generation](06-readiness-posture-and-generation.md).
 
+Pass 3 finds that:
+
+1. The correct demand record is a population or critical function, in a location and access class, requiring a service level during a time interval.
+2. Force demand is the gap between phased service requirements and credible restoration by households, utilities, communities, markets, and partners—not the whole gross outage.
+3. Ten design reference missions are needed to expose different requirements for warning, access, correlation, duration, geography, workforce, and international employment.
+4. USGS's HayWired and ARkStorm scenarios provide initial external anchors: millions without water and large displacement in a no-notice earthquake case; mass evacuation, hundreds of miles of flooding, and months of lifeline restoration in a megaflood case.
+5. Water, food, shelter, sanitation, power, thermal safety, health, communications, mobility, and public works require phased effect units. Production at the plant or arrival node is not delivered service.
+6. Time to stabilized life-support is measured when the target population receives the stabilization bundle, not when the first federal element arrives.
+
+See [Mission-engineering method](07-mission-engineering-method.md), [Design reference missions](08-design-reference-missions.md), and [Service-level library](09-service-level-library.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -54,4 +65,6 @@ See [Institutional architecture](04-institutional-architecture.md), [Force compo
 - Current public sources do not expose mission-capable capacity, throughput, endurance, or simultaneous-theater coverage for many federal and commercial capabilities.
 - The 3C + 5M + 2G + 20R standard is an ambitious design hypothesis pending quantitative demand and rotation models.
 - Service boundaries, command geography, active–reserve mix, personnel strength, and funding parity require sensitivity analysis before becoming recommendations.
+- Only two design reference missions currently have external quantitative anchors; the remaining cases require sourced low, base, and high demand curves.
+- Emergency service-level references are planning inputs, not universal safety standards or substitutes for U.S. codes, clinical judgment, and local requirements.
 - Platform concepts remain premature until time-phased requirements, alternatives, and lifecycle implications are documented.

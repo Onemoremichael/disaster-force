@@ -106,3 +106,24 @@ An initial institutional draft treated existing organizations as durable buildin
 ### Stop decision
 
 Institutional research stopped when the zero-based architecture could answer who generates forces, who employs them, who validates civil outcomes, how national scarcity is allocated, how capacity regenerates, and how legacy organizations transition. Further institutional examples would refine details but would not resolve the next binding uncertainty: how much effect each campaign requires over time.
+
+## Pass 3 — mission engineering
+
+### Research question
+
+How should scientifically plausible catastrophe conditions be converted into time-phased, geographically explicit demand for complete resilience effects without prematurely selecting systems?
+
+### Decisions
+
+1. Use population-service-time cells as the fundamental demand record.
+2. Model the gap between required service and credible surviving or restoring capacity, not gross outage alone.
+3. Use survival, emergency, stabilized, and transfer service levels.
+4. Decompose time to effect into decision, alert, marshal, movement, reception, setup, connection, and distribution.
+5. Preserve access class and dependency graphs so production capacity cannot hide last-mile failure.
+6. Use ten reference missions spanning no-notice, forecast, regional, systemic, island, slow-onset, public-health, and global cases.
+7. Anchor the first mission set in USGS HayWired and ARkStorm outputs while labeling synthetic scenario values as assumptions.
+8. Measure water at point of use, power at the critical load, health as a completed care pathway, shelter as safe occupied person-nights, and logistics end to end.
+
+### Stop decision
+
+The pass stopped after establishing the common demand schema, mission set, time windows, service bundles, and initial quantitative references. Additional numbers should now enter an auditable scenario model rather than accumulate as disconnected prose. Major systems remain behind the platform gate until their requirement records are populated.
