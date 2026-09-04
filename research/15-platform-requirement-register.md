@@ -38,11 +38,12 @@ Concept renderings begin at R3 and must show the complete operating system, not 
 | W-5 | Wastewater and Residuals Works | Admitted | Prevent response-created sanitation and environmental failure | WRG-50 return-flow band 30,000–45,000 m³/day; seawater concentrate can equal product flow | influent/process variants, discharge authority, sludge and hazardous residuals | R2 |
 | WRG-50 | Water Restoration Group 50 reference formation | Admitted reference | Deliver a complete temporary utility, not source production | default model: 50,000 m³/day; four pressure zones; 5,836 t pipe with reserve; 23,516 t preliminary deployment; 2,720 deployed personnel | surveyed transient model, vendor feed/hardware guarantees, installation trials, reliability/maintenance and degraded-mode demonstrations | R2+ |
 | N-WEP | Nuclear Water–Energy Platform | Held | Long-duration coastal/island water and grid support | concept band 100–300 MWe net; 50,000–250,000 m³/day water | reactor choice, hull/stability, heat rejection, licensing, security, siting, crew, overhaul | R2 |
-| P-1 | Critical Facility Power Cell | Admitted | Energize a bounded life-safety load within hours | generators/storage/switchgear plus facility connection and fuel | standardized safe connection and actual facility load profiles | R1 |
-| P-2 | Community Grid Island | Admitted | Multi-building critical-load continuity | modular generation, storage, protection and local distribution | black-start, ownership boundary, fault duty, control and grounding | R1 |
-| P-3 | Regional Grid Bridge | Admitted | Substitute failed substations and key transmission/distribution nodes | mobile transformers, substations, reactive support and synchronization | voltage-class portfolio, transport geometry, spares and protection studies | R1 |
-| P-4 | Rapid Distribution System | Admitted | Restore the last electrical mile | modular poles, conductors, cable, protection, service drops and microgrid interfaces | deployment productivity, electrical code path, wind/ice/fire envelope | R1 |
-| P-5 | Thermal and Clean-Air Works | Admitted | Safe occupied temperature and air during heat, cold and smoke | district and building modules, filtration, cooling/heating and shelters | climate-zone loads, refrigerant, ducting, envelope and population behavior | R1 |
+| P-1 | Critical Facility Power Cell | Admitted | Energize a bounded life-safety load within hours | 0.25–5 MW source/storage blocks plus survey, protection, connection, fuel, maintenance and transfer | standardized safe connection, sourced load profiles, equipment configuration and field reliability | R2 |
+| P-2 | Community Grid Island | Admitted | Multi-building critical-load continuity | 5–25 MW islands with grid formation, load blocks, storage, medium-voltage distribution, control and synchronization | solved topology, short-circuit/transient studies, source portfolio, manual-safe operation and tests | R2 |
+| P-3 | Regional Grid Bridge | Admitted | Substitute failed substations and key transmission/distribution nodes | 50–300+ MW mobile transformation, switching, reactive support, protection and intertie/source options | voltage-class portfolio, transport geometry, fault duty, protection, spares and field commissioning | R2 |
+| P-4 | Rapid Distribution System | Admitted | Restore the last electrical mile | surface cable and overhead feeders with routes, poles/foundations, transformers, protection, grounding, crossings and service points | feeder quantities, conductor mass, installation productivity, electrical code path and hazard envelope | R2 |
+| P-5 | Thermal and Clean-Air Works | Admitted | Safe occupied temperature and air during heat, cold and smoke | people-hour outcome and facility, neighborhood, district and movement strategies defined | climate/building loads, equipment, water/air distribution, storage, access and population behavior | R1+ |
+| PRG-100 | Power Restoration Group 100 reference formation | Admitted reference | Deliver up to 100 MW net critical load as several safe utility islands or grid bridges | twelve-function utility thread; reuse/bypass/rebuild states; at 10,500 Btu/net-kWh, 100 MW continuous is about 184,000 gal diesel-equivalent/day | critical-load archetypes, solved one-line, equipment/line manifest, protection/transients, construction rates, workforce, reliability, thermal closure and demonstrations | R2 |
 
 ## Fire, flood, access, and public works
 
@@ -128,13 +129,14 @@ Concept renderings begin at R3 and must show the complete operating system, not 
 
 ## Gate-to-rendering work queue
 
-The first rendering candidates are selected only after quantitative modeling and configuration-level physics closure. Pass 7 makes the water configuration auditable but keeps the reference formation at R2+ because model closure is not verified hardware or field performance; no concept is yet authorized for rendering. Priority is determined by research value, not spectacle.
+The first rendering candidates are selected only after quantitative modeling and configuration-level physics closure. Pass 7 makes the water configuration auditable at R2+; Pass 9 defines the power formation at R2. Neither model closure nor concept architecture is verified hardware or field performance, and no concept is yet authorized for rendering. Priority is determined by research value, not spectacle.
 
-1. **Rapid Water Grid and Regional Water Works:** close source, pipe, pumping, storage, quality, waste, crew and deployment balances.
-2. **Fire aviation product line:** close mission cycles and compare delivered objective yield across FA-2/3/4 and their base systems.
-3. **Resilience Support Carrier group:** close module inventory, connectors, aviation, workshops, replenishment, crew, availability and alternative hull counts.
-4. **Littoral and regional medical groups:** close patient demand, clinical flow, transfer, staff rotation, utility and discharge balances.
-5. **Flood pump and amphibious group:** close hydraulic cases, power, debris, discharge, transport, rescue and access geometries.
-6. **Nuclear Water–Energy Platform:** proceed only after non-nuclear alternatives, siting/licensing system, heat and mass balance, lifecycle workforce and shore distribution are modeled.
+1. **Rapid Water Grid and Regional Water Works:** replace provisional equipment and rates with source/vendor evidence, surveyed transients, installation trials, reliability, maintenance and degraded-mode demonstrations.
+2. **PRG-100 deployable electric utility:** close reuse, bypass and rebuild cases across load, one-line, sources, storage, transformation, protection, distribution, fuel, thermal effect, workforce and deployment.
+3. **Fire aviation product line:** close mission cycles and compare delivered objective yield across FA-2/3/4 and their base systems.
+4. **Resilience Support Carrier group:** close module inventory, connectors, aviation, workshops, replenishment, crew, availability and alternative hull counts.
+5. **Littoral and regional medical groups:** close patient demand, clinical flow, transfer, staff rotation, utility and discharge balances.
+6. **Flood pump and amphibious group:** close hydraulic cases, power, debris, discharge, transport, rescue and access geometries.
+7. **Nuclear Water–Energy Platform:** proceed only after non-nuclear alternatives, siting/licensing system, heat and mass balance, lifecycle workforce and shore distribution are modeled.
 
 The visualization brief for each concept must include cutaways or operating diagrams showing connectors, payload flow, crew, power, waste, maintenance and surrounding formation. Exterior beauty views alone would repeat the platform-first error this research is designed to avoid.

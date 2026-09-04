@@ -350,3 +350,36 @@ No rendering is authorized. Pass 8 clarifies that a platform cannot pass the vis
 ### Stop decision
 
 The pass stopped when the institutional concept had a coherent generating and employing architecture, every service had permanent formation families, joint dependencies had owners, force packages and deployment waves were explicit, and the remaining quantitative closure work was defined. The next gain comes from configuration-modeling the Power Restoration Group or another deliberately contrasting formation, not from adding more labels to the organizational chart.
+
+## Pass 9 — power restoration force engineering
+
+### Research question
+
+What complete formation is required to deliver 100 MW of safe critical-load service across a damaged network, and which variables should determine purpose-built power systems before platform design begins?
+
+### Method
+
+The pass derived the power mission from electrical balance, critical-load service, network topology, protection, fuel and thermal outcomes. FEMA critical-facility guidance, NERC restoration requirements, FERC–NERC black-start evidence, DOE grid-forming and transformer work, and national-laboratory microgrid methods were used as engineering evidence. The Department's formation was designed zero-base rather than scaled from the present temporary-power mission.
+
+### Decisions
+
+1. Define power as net critical-load MWh delivered at required quality and point of use, plus protected thermal people-hours.
+2. Create the `PRG-100` as a reference deployable utility capable of accepting up to 100 MW net continuous critical load across one to ten islands or grid bridges.
+3. Make network state—reuse, bypass or rebuild—a primary control because it can change construction mass, labor and time independently of delivered MW.
+4. Require twelve functions from civil priority and electrical survey through source, grid formation, transformation, distribution, fuel, maintenance and transfer.
+5. Separate source, storage, substation, rapid distribution, thermal and utility-repair mission sets; do not embed the whole mission in one generator platform.
+6. Use line current, conductor loss, voltage, transformation, protection, fault, grounding and transient relationships to determine network architecture.
+7. Keep storage duties separate and make fuel an assured energy-hour problem. The 100 MW illustrative combustion case exposes approximately 184,000 gallons/day of diesel-equivalent demand.
+8. Treat black start as a planned and tested sequence with people, switching, paths, operating limits and authority transfer.
+9. Build a configurable transformer and grid-equipment portfolio with common interfaces, domestic sources, adaptation kits, depots and proving grounds.
+10. Measure thermal protection in people-hours and model building, climate, transport, access, air, water and staffing—not watts per person.
+11. Specify a 14-sheet configuration workbook spanning load, network, sources, storage, protection, construction, fuel, thermal works, deployment, workforce, failures and evidence.
+12. Advance P-1–P-4 to R2, P-5 to R1+, and introduce PRG-100 at R2.
+
+### Gate decision
+
+No power concept is at R3. The formation lacks a sourced load archetype, solved one-line, equipment and line manifest, power-flow/fault/transient/protection studies, construction and commissioning rates, workforce, transport, reliability and thermal closure. No rendering is authorized.
+
+### Stop decision
+
+The pass stopped when the full utility thread, mission-set architecture, network-state discriminator, first-order electrical and fuel balances, degraded cases, industrial structure and workbook specification were explicit. The next gain comes from a configuration model comparing reuse, bypass and rebuild states—not additional platform description.

@@ -136,6 +136,23 @@ Pass 8 finds that:
 
 See [Mature force design](19-mature-force-design.md).
 
+Pass 9 finds that:
+
+1. A deployable power capability is a temporary electric utility, not a generator fleet. The complete thread includes civil load priority, survey and electrical model, isolation and grounding, sources, grid formation, transformation and protection, distribution, storage, fuel, operations, maintenance and utility transfer.
+2. The `PRG-100` reference formation is defined around up to 100 MW of **net continuously delivered critical load**. It is a modeling scale rather than a population entitlement because load depends on climate, facility stock, water and health systems, industrial structure, and protected services.
+3. Network reuse is a first-class force variable. Reusing safe feeders may make source and fuel dominant; bypassing failed nodes adds substations and temporary trunks; rebuilding distribution turns the same 100 MW objective into a large electrical-construction campaign.
+4. At 100 MW and 0.90 power factor, approximate current is 4,649 A at 13.8 kV, 1,859 A at 34.5 kV, 930 A at 69 kV and 558 A at 115 kV. Metropolitan-scale temporary power therefore requires feeder division or higher-voltage movement, transformation, protection and sectionalization.
+5. At an illustrative 10,500 Btu/net-kWh and 137,000 Btu/gallon, 100 MW continuous combustion generation consumes approximately 184,000 gallons of diesel-equivalent per day. A seven-day supply is about 1.29 million gallons before contingency; fuel assurance can govern endurance.
+6. Storage must be sized by duty. Fifteen minutes at the full 100 MW is 25 MWh before loss and reserve, while four hours for a 20 MW P0 subset is 80 MWh. Grid formation, motor start, ride-through, peak shaving and variable-generation absorption are different requirements.
+7. Black start is an ordered system-restoration process involving isolation, source auxiliaries, cranking paths, voltage and frequency, switching, protection, load pickup, synchronization and return of authority—not an equipment checkbox.
+8. Power at this scale cannot travel through low-voltage expedients. The rapid distribution system requires medium- and selected high-voltage conductor, mobile transformation, switchgear, protection, grounding, crossings, construction crews and inspection.
+9. Transformer compatibility is an industrial-base problem. The Department should create a bounded configurable portfolio, common interfaces, stocked adaptation kits, multiple domestic sources and national test capacity rather than reproduce tens of thousands of utility-specific variants.
+10. Thermal protection is a separate civilian effect measured in protected people-hours. Restored building systems, neighborhood thermal-safety centers, district loops and relocation must be compared using climate, building, clean-air, accessibility, transport, water and staffing constraints.
+11. The PRG-100 is source-neutral at formation level. Combustion, storage, surviving grid and local resources, renewable generation, barges and enduring strategic sources connect through certified interfaces according to hazard, duration and logistics.
+12. P-1 through P-4 advance from R1 to R2; P-5 advances to R1+; the integrated PRG-100 enters at R2. No power configuration has closed its one-line, equipment manifest, protection, construction, workforce, reliability or thermal-service evidence, so rendering remains prohibited.
+
+See [Power restoration force engineering](20-power-restoration-force-engineering.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -149,6 +166,7 @@ See [Mature force design](19-mature-force-design.md).
 - The system concepts are requirement hypotheses, not acquisition recommendations. Pass 7 provides a configuration-level steady-state water model, but its equipment manifest, source-specific performance, route transients, construction productivity, reliability, lifecycle cost and formation availability remain unverified.
 - Numerical concept bands in Pass 4 are exploration boundaries intended to make the next model falsifiable. They are not specifications.
 - Pass 8 formation names, personnel bands and package ranges are organizational hypotheses, not validated tables of organization. The national order of battle remains open until representative technical, care, mobility and theater-support formations are configuration-modeled and exercised.
+- Pass 9 voltage/current and fuel calculations are transparent reference balances, not an electrical construction design or selected source specification. PRG-100 network, source, storage, protection, distribution, thermal, equipment, workforce and transport configurations remain open.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
