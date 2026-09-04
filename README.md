@@ -17,6 +17,9 @@ Capability precedes platform. The project will not name or render ships, aircraf
 - [`research/04-institutional-architecture.md`](research/04-institutional-architecture.md) — the Department of Resilience, operating services, commands, civil authority, science, acquisition, and transition
 - [`research/05-force-composition.md`](research/05-force-composition.md) — mission packages, service-effect portfolios, force components, professions, and unit-design rules
 - [`research/06-readiness-posture-and-generation.md`](research/06-readiness-posture-and-generation.md) — concurrency, readiness, force generation, basing, mobility, sustainment, and global posture
+- [`research/07-mission-engineering-method.md`](research/07-mission-engineering-method.md) — population-service-time demand, restoration curves, dependency graphs, access classes, and platform gate
+- [`research/08-design-reference-missions.md`](research/08-design-reference-missions.md) — ten catastrophe campaigns and the combined concurrency stress case
+- [`research/09-service-level-library.md`](research/09-service-level-library.md) — phased effect units for water, food, shelter, sanitation, power, health, communications, mobility, and public works
 - [`research/evidence-ledger.md`](research/evidence-ledger.md) — research-gap ledger
 - [`research/source-ledger.md`](research/source-ledger.md) — claim provenance and access notes
 - `research/report-source.md` — canonical report manuscript as it develops
@@ -25,4 +28,4 @@ Capability precedes platform. The project will not name or render ships, aircraf
 
 ## Status
 
-Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience, its six operating services, the complete mission-package construct, the initial `3C + 5M + 2G + 20R` concurrency standard, and a six-layer domestic and global posture. Pass 3 will quantify design reference missions and effect demand before any platform rendering.
+Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience. Pass 3 establishes the mission-engineering chain, ten design reference missions, two externally modeled anchor cases, phased service levels, and the combined `3C + 5M + 2G + 20R` stress campaign. Pass 4 will derive system families from these requirements; renderings remain deferred until the technical requirement records are complete.
