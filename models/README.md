@@ -46,3 +46,15 @@ In the default WUI campaign case, the IFCG produces 798.28 effective sorties and
 The model is assumption-driven. Its fire growth, arrival distribution, aircraft yield, robot productivity, line hold, public protection, readiness and cost relationships are test requirements, not performance claims. `IIN` and `IFCG` are `R2+`; no vehicle or system is authorized for rendering.
 
 See [`research/23-fire-configuration-model.md`](../research/23-fire-configuration-model.md) for equations, results, scenario interpretation, technology priorities, verification and open evidence.
+
+## Flood hydraulic-control engineering model
+
+[`flood-hydraulic-control-engineering.xlsx`](flood-hydraulic-control-engineering.xlsx) converts the Flood Intercept Network and inland/coastal Hydraulic Control Groups into a 29-sheet configuration study. It links three formation states, five flood cases, complete forecast-to-effective-action clocks, basin zones, a 45-day storage balance, four pump families, intake and debris derating, power, the Rapid Drainage Spine, receiving-water constraints, barriers, interior drainage, breach arrest, rescue demand, five amphibious classes, wet-gap logistics, earthworks, contamination, infrastructure protection, deployment mass, workforce, readiness, works carriers, technology campaigns, capital, failure modes and twenty R3 gates.
+
+In the default trapped-urban-basin case, the Inland HCG-100's 100 m³/s nominal portfolio becomes 36.551 m³/s effective flow after unit availability, head, intake/debris and 75% formation operating utilization. It produces +16.051 m³/s day-zero net removal and drains the assumed 75 million m³ basin in 28 modeled days. The same configuration has a −14.01 m³/s protected-side drainage margin, demonstrating that barrier interior drainage is a separate requirement. Its preliminary dry deployment is 79,391 tonnes, approximately 66,844 tonnes require external lift, and its workforce screen is 7,039 deployed people / 26,394 service billets.
+
+Across all 15 formation–case combinations, pump/intake and formation utilization bind before route, receiving-water or power capacity under the selected assumptions. FIN frequently acts before the hazard threshold while lacking positive hydraulic reversal; the HCG can reverse the trapped-basin case but does not beat flash or breach thresholds. The 12 m × 3 m breach screen produces 165.7 m³/s initial flow, 9.2–9.7 times degraded HCG pumping, preserving breach arrest as an upstream mission rather than treating pumping as a universal answer.
+
+All hydraulic cases, equipment values, readiness, staffing, cost and technology coefficients are explicit design-study assumptions. The workbook is not a civil-works design, incident forecast, environmental authorization, navigation plan, acquisition estimate or verified performance claim. `FIN` and `HCG-100` are `R2+`; all twenty evidence gates remain open and no flood system is authorized for rendering.
+
+See [`research/25-flood-configuration-model.md`](../research/25-flood-configuration-model.md) for equations, results, scenario interpretation, technology priorities, verification and open evidence.
