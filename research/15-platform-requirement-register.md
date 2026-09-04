@@ -1,0 +1,139 @@
+# Platform and system requirement register
+
+## Purpose
+
+This register is the control point between mission research and vehicle design. It records which concepts are admitted for further analysis, which are held behind an unresolved comparison, and which are rejected. Admission is not approval to procure or render a platform.
+
+The Department of Resilience should maintain this as a configuration-controlled technical record. Each program inherits the service-level target, design reference missions, mission thread, lifecycle and formation requirements in the earlier research.
+
+## Status grammar
+
+| Status | Meaning |
+|---|---|
+| Admitted | A persistent requirement exists; concept alternatives should be modeled |
+| Conditional | Requirement may justify a unique system, but an alternatives or network test remains open |
+| Held | Technically plausible but its strategic value or enabling regime is not yet established |
+| Rejected | Violates the system architecture or does not solve the stated need |
+
+Readiness for visualization uses a separate scale:
+
+| Visualization state | Meaning |
+|---|---|
+| R0 — verbal | Mission and role only |
+| R1 — functional | Major functions and interfaces identified |
+| R2 — bounded | Capacity, access, endurance, staffing and environment have credible ranges |
+| R3 — physics-closed | Mass, energy, flow, heat, structure, stability and lifecycle balances close |
+| R4 — formation-closed | Crew, maintenance, connectors, bases, sustainment and rotation demonstrated |
+
+Concept renderings begin at R3 and must show the complete operating system, not only a heroic exterior view. No concept in this pass is yet R3.
+
+## Water, sanitation, power, and thermal safety
+
+| ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
+|---|---|---|---|---|---|---|
+| W-1 | Point Water Cell | Admitted | Hours-scale safe water at isolated sites | pallet/trailer; source-flexible treatment; local quality verification | contaminant envelope, waste handling, operator burden | R1 |
+| W-2 | Regional Water Works | Admitted | Community-scale production and storage | road-mobile treatment trains; modular pretreatment and finishing | source-dependent output, setup, energy, membrane/media logistics | R1 |
+| W-3 | Strategic Water Works | Admitted | Sustained city/region supply | tens to hundreds of thousands m³/day by parallel trains | intake, concentrate, source seasonality, distribution loss | R2 |
+| W-4 | Rapid Water Grid | Admitted | Move bulk water from source to point of use | 0.5 m pipe at 1.5 m/s is roughly 25,000 m³/day before losses | route, pressure zones, anchoring, joints, crossings, repair | R2 |
+| W-5 | Wastewater and Residuals Works | Admitted | Prevent response-created sanitation and environmental failure | collection, treatment, residual and concentrate modules | influent variability, discharge authority, sludge and hazardous residuals | R1 |
+| N-WEP | Nuclear Water–Energy Platform | Held | Long-duration coastal/island water and grid support | concept band 100–300 MWe net; 50,000–250,000 m³/day water | reactor choice, hull/stability, heat rejection, licensing, security, siting, crew, overhaul | R2 |
+| P-1 | Critical Facility Power Cell | Admitted | Energize a bounded life-safety load within hours | generators/storage/switchgear plus facility connection and fuel | standardized safe connection and actual facility load profiles | R1 |
+| P-2 | Community Grid Island | Admitted | Multi-building critical-load continuity | modular generation, storage, protection and local distribution | black-start, ownership boundary, fault duty, control and grounding | R1 |
+| P-3 | Regional Grid Bridge | Admitted | Substitute failed substations and key transmission/distribution nodes | mobile transformers, substations, reactive support and synchronization | voltage-class portfolio, transport geometry, spares and protection studies | R1 |
+| P-4 | Rapid Distribution System | Admitted | Restore the last electrical mile | modular poles, conductors, cable, protection, service drops and microgrid interfaces | deployment productivity, electrical code path, wind/ice/fire envelope | R1 |
+| P-5 | Thermal and Clean-Air Works | Admitted | Safe occupied temperature and air during heat, cold and smoke | district and building modules, filtration, cooling/heating and shelters | climate-zone loads, refrigerant, ducting, envelope and population behavior | R1 |
+
+## Fire, flood, access, and public works
+
+| ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
+|---|---|---|---|---|---|---|
+| FA-1 | Persistent Fire Sentinel | Admitted | Find, map and coordinate fires through smoke and night | long endurance, multispectral sensing and relay | airspace mix, sensor validation, weather, base and data latency | R1 |
+| FA-2 | Rapid Attack Aircraft | Admitted | High sortie rate in the first operational period | roughly 800–2,000 gallon class; precision and austere basing over raw load | target cycle, low-altitude fatigue spectrum, agent/refill system, ground hold | R2 |
+| FA-3 | Regional Amphibious Suppressor | Admitted | Repeated attack near suitable water | roughly 2,000–4,000 gallon class; rapid scoop cycle | water-body geometry, sea state, corrosion, contamination, basing mix | R2 |
+| FA-4 | Heavy Line Builder | Admitted | Build long retardant/water line in sustained campaigns | roughly 8,000–15,000 gallon class; purpose-built high-cycle structure | delivered objective yield, runway/base footprint, fatigue, fleet availability | R2 |
+| FA-5 | Precision Lift and Suppression Rotorcraft | Admitted | Hover, lift, rescue and precision delivery | distinct external-load, suppression and rescue configurations | downwash, hot/high performance, noise, crew, maintenance and water cycle | R1 |
+| FA-6 | Fire Aviation Base System | Admitted | Sustain high sortie productivity | mobile agent mixing, fuel, maintenance, traffic and crew-support node | per-sortie service time, water source, environmental containment | R1 |
+| FG-1 | Wildland Mobility Engine | Admitted | Protect crews and deliver water/foam in extreme terrain and heat | variants by interface and terrain; not one national engine | rollover, thermal protection, pump-and-roll, water logistics, repair | R1 |
+| FG-2 | Autonomous Fireline Tractor | Admitted | Create and hold line in lethal conditions | optionally crewed dozer/masticator family | perception in smoke, safe separation, remote recovery, field repair | R1 |
+| FG-3 | Long-Reach Water and Hose System | Admitted | Deliver surface water beyond conventional hose reach | pump/relay/hose/storage/monitor formation | elevation, friction, water quality, hose placement and recovery | R1 |
+| FG-4 | Structure and Ember Protection System | Admitted | Reduce structure loss under ember exposure | sensing, temporary hardening, wetting and local suppression | water demand, installation time, effectiveness by building type | R1 |
+| FL-1 | Flood Intelligence Mesh | Admitted | Map evolving depth, velocity, contamination and failure risk | distributed sensing plus model/data fusion | calibration, communications loss, debris damage and public warnings | R1 |
+| FL-2 | High-Volume Pump Train | Admitted | Remove trapped water and control levels | pump, intake, debris, hose/pipe, power, fuel and discharge system | head/flow portfolio, cavitation, solids, downstream effects | R1 |
+| FL-3 | Temporary Barrier and Closure System | Admitted | Protect critical zones and close bounded openings | rapidly placed barriers, gates, seals and foundations | seepage, foundation prep, overtopping, deployment labor and recovery | R1 |
+| FL-4 | Breach and Control-Structure Works | Admitted | Stabilize levee, dam, canal and drainage failures | survey, stone/soil placement, sheet/pile, grouting and control systems | hydraulic forces, material supply, authority and failure consequence | R1 |
+| FL-5 | Amphibious Rescue and Logistics Family | Admitted | Move people and priority cargo across distinct flood geometries | shallow urban, current/debris and heavy-logistics variants | stability, wake, entanglement, patient access, road transport | R1 |
+| EW-2 | Common Autonomous Work Machine | Admitted | High-tempo debris and earthwork with lower exposure | optionally crewed carrier with dozer/excavator/loader tools | productivity, tool-change penalty, protection, recovery, maintenance | R1 |
+| EW-3 | Debris Processing Line | Admitted | Convert debris clearance into controlled material flow | sort, reduce, recover, contain, load, sample and document | waste composition, hazardous fraction, site area and disposition | R1 |
+| EW-4 | Rapid Utility Corridor System | Admitted | Place pipe, cable, hose and access along damaged routes | drones survey/pull pilot; ground/heavy systems carry mass | jointing rate, crossings, trench/no-trench mix, testing and code approval | R1 |
+| BR-1 | Immediate Crossing | Admitted | Hours-scale personnel/light vehicle access | light modular/temporary spans | bank prep, anchoring, current, inspection and load control | R1 |
+| BR-2 | Heavy Modular Bridge | Admitted | Days-scale heavy logistics access | common load classes; reusable spans and foundations | approach works, launch system, geometry portfolio and fatigue | R1 |
+| BR-3 | Accelerated Permanent Bridge | Admitted | Move from emergency to durable transport | prefabricated elements and standardized interfaces | code/site adaptation, foundation uncertainty, ownership and reuse | R1 |
+
+## Maritime, air mobility, and health
+
+| ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
+|---|---|---|---|---|---|---|
+| MR-1 | Littoral Access Craft | Admitted | Connect deep-draft ships to damaged shore and inland water | shallow draft; cargo/person/patient variants | payload-draft-speed trade, debris, sea state, propulsion and transport | R1 |
+| MR-2 | Port-Opening Group | Admitted | Restore safe berth/channel/cargo flow | survey, salvage, tow, dive, temporary works, power and traffic system | equipment mix by port class, environmental limits, mobilization time | R1 |
+| MR-3 | Resilience Support Carrier | Admitted | Sustain and repair distributed response forces without shore base | exploratory 20,000–60,000 tonnes payload/support; 15–30 days | hull count/size, module inventory, aviation/well access, crew, stability and cost | R2 |
+| MR-4 | Modular Sealift and Sustainment Ship | Admitted | Carry recurring campaign mass and retrograde | self-discharge, Ro/Ro, cold/hazard/battery zones | sovereign fleet floor, commercial mix, port envelope and cycle time | R1 |
+| MR-5 | Riverine/Inland-Waterway Group | Admitted | Work and distribute within flooded continental terrain | road/rail-deployable craft, barges, tows and shore systems | launch geometry, current/debris, locks, mooring, inter-basin transport | R1 |
+| MH-1 | Littoral Stabilization Ship | Admitted | Hours-to-days coastal emergency and limited surgical care | small, high-readiness, multiple patient paths | staff model, bed/holding mix, aviation/craft interface and endurance | R1 |
+| MH-2 | Regional Clinical Support Ship | Admitted | Weeks of specialty and chronic/acute support | modular acuity and specialty mix | clinical module geometry, infection zones, crew rotation, discharge path | R1 |
+| MH-3 | Strategic Health-Support Platform | Admitted | Regional workforce, specialty, laboratory and health logistics hub | hospital capacity expands only with staffing and pathway | common-hull value, health manufacturing, accreditation and lifecycle | R1 |
+| AM-1 | Strategic Mission-Module Airlift | Admitted requirement | Assured first-entry movement | own fleet/configuration floor; airframe source open | load/network model, fleet availability, basing and outsized need | R1 |
+| AM-2 | Short-Field Disaster Airlifter | Conditional | Frequent theater cycles to degraded 900–1,500 m fields | medium payload, self-loading, high-cycle and field-maintainable | advantage over runway repair/existing aircraft, payload-range and cost | R2 |
+| AM-3 | Vertical Access Family | Admitted | Patient, team, sensor, repair and priority-cargo access | separate medical, external-load and urban variants with common cores | payload/range, weather, noise/downwash, energy and fleet support | R1 |
+| AM-4 | Airborne Command/Sensing/Relay | Admitted | Restore coverage and observation over wide damaged areas | evaluate coverage-hours rather than aircraft count | altitude mix, spectrum, backhaul, weather and persistence | R1 |
+| AM-5 | Airfield-Opening Group | Admitted | Make aircraft throughput possible | survey, repair, lighting, traffic, fuel, handling and onward movement | package sizes by field class, certification, fuel and traffic capacity | R1 |
+| HM-1 | Community Health Continuity Team | Admitted | Maintain primary/chronic/public-health functions | neighborhood/mobile multidisciplinary teams | population caseload, medication/oxygen chain and local integration | R1 |
+| HM-2 | Mobile Acute-Care Unit | Admitted | Stabilize, diagnose, observe and prepare movement | staffed treatment positions with full clinical utilities | treatment rate, acuity mix, staffing, oxygen and evacuation queue | R1 |
+| HM-3 | Modular Theater Hospital | Admitted | Flexible staffed inpatient and specialty capacity | independent blocks around common utility/logistics spine | bed/acuity demand curves, workforce rotations, infection and discharge | R1 |
+| HM-4 | Patient Movement System | Admitted | Complete appropriate origin-to-destination journeys | ground, water and air modes plus command/records | receiving-bed visibility, accessible mix, escort staff and route loss | R1 |
+| HM-5 | Health Logistics/Workforce Group | Admitted | Sustain clinicians, supplies, quality and replacement rotations | credentialing, oxygen, blood, pharmacy, maintenance and staff support | staffing pipeline, cold chain, stock rotation, quality governance | R1 |
+
+## Information, observation, robotics, and sustainment
+
+| ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
+|---|---|---|---|---|---|---|
+| C-1 | Responder Mesh Kit | Admitted | Local life-safety voice/data/location in isolation | human/vehicle scale; offline operation | spectrum/interoperability portfolio, battery and usability | R1 |
+| C-2 | Incident Network Node | Admitted | Rapid local broadband, compute and gateways | road/air/boat-mobile; federated nodes | coverage/capacity bands, spectrum rights, power and backhaul | R1 |
+| C-3 | Airborne Coverage/Relay | Admitted | Area communications when towers/backhaul fail | aerostat/rotor/fixed/high-altitude product line | weather and airspace availability, link budget and support system | R1 |
+| C-4 | Strategic Backhaul/Emergency Cloud | Admitted | Diverse national connectivity and sovereign computation | multi-provider, regional edge and disconnected environment | capacity reservation, cyber boundary, identity and data governance | R1 |
+| C-5 | Public Continuity Package | Admitted | Accessible warnings, charging, connectivity and public services | neighborhood and institutional nodes | population use, language/accessibility, privacy and device scarcity | R1 |
+| O-1 | Rapid Damage/Service Survey | Admitted | Versioned population-service-time picture | multi-source observation with confidence and age | validation, sampling bias, owner data and field workflow | R1 |
+| O-2 | Infrastructure Dependency Graph | Admitted | Predict cascades and target restoration | planning fidelity, not universal real-time replica | data access, model validation, security and regional maintenance | R1 |
+| O-3 | Resilience Space Layer | Conditional | Fill unique revisit, sensing or communications gaps | mixed federal/commercial/allied/hosted/small-satellite architecture | gap analysis, orbital/ground resilience, lifecycle and duplication | R1 |
+| O-4 | Mission Decision Environment | Admitted | Show demand, uncertainty, alternatives and downstream effects | advisory optimization with accountable human decision | explainability, data age, rights, allocation rules and validation | R1 |
+| R-1 | Aerial Survey/Light Delivery | Admitted | Distributed sensing and urgent small payloads | standardized mission bays and safe loss-of-link | weather, airspace, batteries, fleet maintenance and recovery | R1 |
+| R-2 | Heavy Cargo Shuttle | Conditional | Repeat priority movement over broken routes | corridor- and payload-tier specific | whole-cycle productivity, energy, landing nodes, weather and safety | R1 |
+| R-3 | Hazardous Earthwork/Fireline Robot | Admitted | Reduce exposure in destructive work | optionally crewed, local stop and manual operation | perception, communications loss, productivity and recovery | R1 |
+| R-4 | Utility Inspection/Repair Robot | Admitted | Find and address faults in confined/damaged systems | aerial/ground/surface/underwater variants | manipulation limits, certification, access and fleet proliferation | R1 |
+| R-5 | Depot/Distribution Automation | Admitted | Improve readiness, inventory and loading | controlled-environment first | common item identity, offline/manual mode and cyber safety | R1 |
+| R-6 | Clinical/Community Robotics | Conditional | Materials, telepresence, mobility and bounded clinical support | no autonomous care or rights decisions | evidence of clinical/workforce value, privacy and infection control | R1 |
+
+## Rejected architectures
+
+| Architecture | Reason for rejection |
+|---|---|
+| One universal disaster ship | Concentrates availability and combines conflicting draft, aviation, clinical, nuclear, cargo and port-opening requirements |
+| Converted legacy platform as default acquisition model | Imports another mission's structure, fatigue, flow, maintenance and support compromises |
+| Tank capacity as fire-aircraft performance | Ignores cycle time, accuracy, availability, ground hold and objective completion |
+| Nominal beds as medical capacity | Ignores staffing, acuity, utilities, infection control, referral, evacuation and discharge |
+| Drone logistics as a massless substitute | Conceals payload, energy, handling, weather, maintenance and recovery burdens |
+| Production at source as delivered service | Omits connection, route, distribution, quality and point-of-use availability |
+| Proprietary cloud as a critical control dependency | Fails the disconnected and sovereign-sustainment requirement |
+| Armor and combat systems by default | Consume civil payload without solving the dominant environmental and infrastructure threats |
+
+## Gate-to-rendering work queue
+
+The first rendering candidates should be selected only after quantitative Pass 5 modeling. Priority is determined by research value, not spectacle.
+
+1. **Rapid Water Grid and Regional Water Works:** close source, pipe, pumping, storage, quality, waste, crew and deployment balances.
+2. **Fire aviation product line:** close mission cycles and compare delivered objective yield across FA-2/3/4 and their base systems.
+3. **Resilience Support Carrier group:** close module inventory, connectors, aviation, workshops, replenishment, crew, availability and alternative hull counts.
+4. **Littoral and regional medical groups:** close patient demand, clinical flow, transfer, staff rotation, utility and discharge balances.
+5. **Flood pump and amphibious group:** close hydraulic cases, power, debris, discharge, transport, rescue and access geometries.
+6. **Nuclear Water–Energy Platform:** proceed only after non-nuclear alternatives, siting/licensing system, heat and mass balance, lifecycle workforce and shore distribution are modeled.
+
+The visualization brief for each concept must include cutaways or operating diagrams showing connectors, payload flow, crew, power, waste, maintenance and surrounding formation. Exterior beauty views alone would repeat the platform-first error this research is designed to avoid.

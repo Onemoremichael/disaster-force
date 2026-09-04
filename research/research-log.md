@@ -127,3 +127,58 @@ How should scientifically plausible catastrophe conditions be converted into tim
 ### Stop decision
 
 The pass stopped after establishing the common demand schema, mission set, time windows, service bundles, and initial quantitative references. Additional numbers should now enter an auditable scenario model rather than accumulate as disconnected prose. Major systems remain behind the platform gate until their requirement records are populated.
+
+## Pass 4 — systems architecture and requirement concepts
+
+### Research question
+
+What purpose-built system families follow from the service levels and design reference missions, and which apparently ambitious concepts survive a first mass, energy, access, staffing, distribution, and lifecycle test?
+
+### Evidence wave
+
+The pass used official engineering, regulatory, operational, and oversight material to bound—not specify—candidate systems:
+
+- DOE desalination and microgrid sources for water-energy balances and distributed power;
+- EPA mobile water research for treatment modularity;
+- IAEA and NRC sources for nuclear cogeneration, floating applications, licensing, and siting;
+- NIFC, Forest Service, and GAO material for current fire-aircraft classes, severe mission loads, fleet limitations, and objective-dependent effectiveness;
+- USACE and FHWA material for flood fighting and accelerated bridge construction;
+- Navy, ASPR, and GAO sources for current hospital ships, littoral patient transfer, deployable medical teams, capability mismatch, and clinical quality; and
+- NIST deployable-network research for standalone communications, backhaul, power, interoperability, and edge operation.
+
+Existing equipment was used as empirical evidence for loads, bottlenecks, and interfaces. It was not adopted as the future fleet design.
+
+### First-principles calculations
+
+The pass made several concept boundaries explicit:
+
+1. At 15 liters per person-day, emergency domestic water for one million people is 15,000 cubic meters—and 15,000 tonnes—per day.
+2. At 4 kilowatt-hours per cubic meter, desalination for that quantity requires about 60 megawatt-hours per day, or 2.5 megawatts average, before intake, pumping, distribution and losses.
+3. A 0.5-meter internal-diameter pipe at 1.5 meters per second carries about 25,000 cubic meters per day before downtime and leakage. Raising that flow by 100 meters at 75 percent pump efficiency requires roughly 4 megawatts before friction.
+4. These balances show why the difficult water problem is usually route, head, pipe, storage, quality and point-of-use distribution—not simply the energy inside a desalination box.
+5. Aerial drones can survey, mark and pull pilot lines, but bulk pipe, cable, pumps and structures still require ground, marine or heavy-lift systems. Autonomy changes exposure and tempo; it does not repeal mass.
+
+### Architectural decisions
+
+1. Establish the **Resilience Arsenal** as interoperable system families connected by the mission thread `sense → decide → enter → produce → connect → distribute → sustain → repair → transfer`.
+2. Standardize human/pallet, road/container-compatible, and heavy mission-module logistics scales without forcing all equipment into an operating container.
+3. Require common physical interfaces and connected, degraded, isolated, and manual-safe digital modes.
+4. Divide system ownership into sovereign core, assured industrial capacity, mobilization reserve, commercial common capacity, and allied pools.
+5. Apply seven gates: need, alternatives, complete thread, physics, prototype, formation, and production.
+6. Define water/sanitation, power/thermal, fire, flood, earthworks, access, maritime, aviation, medical, information, observation, autonomy, logistics, and maintenance product lines.
+7. Reject universal disaster ships, nominal hospital beds, fire-aircraft tank size, source production, and drone payload claims as sufficient measures of delivered effect.
+8. Keep a nuclear water–energy platform in the design space only as a pre-licensed, enduring coastal or island node with a complete shore distribution and lifecycle system.
+9. Make the resilience support carrier a modular base and repair/sustainment node; separate it from nuclear process energy, hospital, sealift, port-opening, and inland-waterway roles.
+10. Treat a unique short-field airlifter, dedicated space layer, and heavy cargo drone fleet as conditional concepts pending network and alternatives modeling.
+
+### Reconciliation decisions
+
+- The request for ambitious purpose-built machinery is preserved, but ambition is measured by assured effect and industrial depth rather than platform size.
+- Purpose-built means the mission load, internal flow, maintenance, crew, corrosion/fatigue environment, and support system are designed together. It does not require a novel engine, airframe, hull, pump, or computer where a mature common core meets the requirement.
+- Nuclear power is neither dismissed as politically difficult nor adopted as a prestige symbol. It advances only where continuous process energy and long endurance outperform its licensing, security, workforce, heat-rejection, maintenance, and siting burden.
+- Medical ships become a three-tier clinical and health-support fleet embedded in shore teams, patient movement, workforce rotation, and referral pathways; the converted 1,000-bed monolith is not the future standard.
+- Robotics are admitted extensively for sensing, handling, inspection, delivery and hazardous work, with local stop, manual operation, recovery, maintenance, and accountable human authority.
+
+### Stop decision
+
+Qualitative concept generation stopped after all major mission effects had a system family, rejected architectures were explicit, and each admitted concept had at least one falsifiable technical or operational unknown in the requirement register. Further prose would create false precision. Pass 5 must now build linked scenario, force-sizing, readiness, cost, industrial-base, and benefit models; those models will determine which concepts advance to physics closure and rendering.
