@@ -427,3 +427,42 @@ PRG-100 is `R2+`. The model is coherent enough to direct experiments and vendor 
 ### Stop decision
 
 The pass stopped when the three network states and source alternatives recalculated correctly, the baseline manifest and force establishment reconciled, the mobile-transformation capacity defect was corrected, and all independent checks passed. The next gain comes from sourced hourly load archetypes and a mixed-state electrical model or from a deliberately contrasting configuration study such as fire aviation, flood control or medical surge—not additional visual description of PRG-100.
+
+## Pass 11 — fire response force engineering
+
+### Research question
+
+What would a fire capability look like if the Department of Resilience designed the complete fire-control effect from first principles, treated present technology as a baseline rather than a ceiling, and invested in research, industry and force structure at strategic scale?
+
+### Method
+
+The pass decomposed wildfire response into ignition interception, fire growth, aerial mission cycles, delivery geometry, durable line, airspace, bases, ground access, water and agent flow, community ignition, smoke/heat protection, sustainment and post-fire stabilization. Official USFS, NIFC, NWCG, GAO, NASA, NIST, EPA and NIOSH evidence bounded the current system and known research frontiers. The resulting architecture was tested against common false metrics—gallons, aircraft count, flight hours, line built and people mobilized—and against 13 degraded cases.
+
+### Decisions
+
+1. Retain `Department of Resilience` as the institutional anchor and treat fire control as a joint operational effect.
+2. Establish a geographically distributed `Ignition Intercept Network` and a separately generated deployable `Integrated Fire Control Group`.
+3. Measure the IIN by probability of effective action before escape and the tail of the complete detection-to-target clock.
+4. Measure campaigns by protected objectives, durable line completed/held/verified, structure-cluster survival, people-hours protected and exposure displaced.
+5. Treat every aircraft as part of an aircraft–base–crew–airspace–ground cycle; retain separate sentinel, rapid, amphibious, heavy and vertical product lines.
+6. Advance optionally crewed robotic fireline, long-reach water and community ember-defense systems as full formation elements rather than accessories.
+7. Pursue safe second-shift operations through portable airspace management, degraded-visual navigation, optional piloting, bounded autonomy and progressive certification.
+8. Use the Department's `Advanced Resilience Projects Agency`, create a Fire Technology Directorate and establish an independent Resilience Test and Evaluation Authority.
+9. Use a 25-year, ten-campaign research portfolio and distributed national fire-systems proving complex to drive technologies not presently available.
+10. Treat the illustrative $1 trillion allocation as a capital/RDT&E portfolio thought experiment, explicitly excluding routine personnel and operations and reserving resources for failed pathways.
+11. Advance `IIN`, `IFCG`, `FA-1`, `FA-5`, `FA-6` and `FG-1` through `FG-4` to R2; hold `FA-2` through `FA-4` at R2 pending configuration comparison.
+12. Continue the rendering prohibition until the 18 fire evidence gates and the complete mission formation are closed.
+
+### Material findings
+
+The two-force architecture is the main result. Initial interception rewards distributed readiness, small fast cycles and local knowledge; escaped-fire campaigning rewards heavy throughput, dense airspace management, deep bases, multiple shifts and sustainment. One fleet or organization cannot optimize both without sacrificing one mission. The second result is that aviation effect is conditional: placement and temporary behavior change produce public value only when the broader air–ground system completes and holds the objective.
+
+The technology program is deliberately more ambitious than an inventory recapitalization. It includes clean-sheet high-cycle aircraft, persistent multi-layer sensing, a calibrated fire digital twin, mixed crewed/uncrewed 24-hour airspace, robotic line and hose/pipe placement, new agent chemistry, community-scale ember protection, high-rate deployable bases and human-exposure engineering. The maturity map distinguishes near-term integration, major engineering and genuine scientific or regulatory breakthroughs.
+
+### Gate decision
+
+The integrated fire system is `R2`. Missions, formation logic, governing equations, interfaces, research campaigns, failure cases and the next model are explicit. No reference cell or campaign group yet closes aircraft counts, base capacity, water/agent, line hold, deployment, workforce, exposure, concurrency or lifecycle cost. No rendering is authorized.
+
+### Stop decision
+
+The pass stopped when the fire-control chain, two-force architecture, technology campaigns, industrial/test structure, budget thought experiment, failure cases and a 23-sheet configuration-model specification were explicit. The next gain comes from building that model, not adding more vehicle description.
