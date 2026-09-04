@@ -14,6 +14,9 @@ Capability precedes platform. The project will not name or render ships, aircraf
 - [`research/01-first-principles.md`](research/01-first-principles.md) — analytical framework for deriving the force
 - [`research/02-force-design-framework.md`](research/02-force-design-framework.md) — service portfolios, operational functions, force layers, readiness bands, and platform gate
 - [`research/03-empirical-baseline.md`](research/03-empirical-baseline.md) — all-hazard demand, cascading failures, operational bottlenecks, and denominator guardrails
+- [`research/04-institutional-architecture.md`](research/04-institutional-architecture.md) — the Department of Resilience, operating services, commands, civil authority, science, acquisition, and transition
+- [`research/05-force-composition.md`](research/05-force-composition.md) — mission packages, service-effect portfolios, force components, professions, and unit-design rules
+- [`research/06-readiness-posture-and-generation.md`](research/06-readiness-posture-and-generation.md) — concurrency, readiness, force generation, basing, mobility, sustainment, and global posture
 - [`research/evidence-ledger.md`](research/evidence-ledger.md) — research-gap ledger
 - [`research/source-ledger.md`](research/source-ledger.md) — claim provenance and access notes
 - `research/report-source.md` — canonical report manuscript as it develops
@@ -22,4 +25,4 @@ Capability precedes platform. The project will not name or render ships, aircraf
 
 ## Status
 
-Pass 1 establishes the empirical baseline and force-design method. Pass 2 will derive the mature institution, readiness and concurrency standards, geographic posture, workforce, and force packages before any platform rendering.
+Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience, its six operating services, the complete mission-package construct, the initial `3C + 5M + 2G + 20R` concurrency standard, and a six-layer domestic and global posture. Pass 3 will quantify design reference missions and effect demand before any platform rendering.
