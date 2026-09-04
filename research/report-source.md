@@ -170,6 +170,23 @@ Pass 10 finds that:
 
 See [PRG-100 configuration model](21-power-configuration-model.md) and the editable [power-restoration engineering workbook](../models/power-restoration-engineering.xlsx).
 
+Pass 11 finds that:
+
+1. A mature fire force is a national fire-control system, not an airtanker inventory. Its outputs are probability of intervention before escape, protected objectives, durable line controlled and verified, structure clusters surviving, people-hours protected and responder exposure displaced.
+2. The Department needs two forces with different readiness economics: a geographically distributed `Ignition Intercept Network` (`IIN`) for the first minutes and a deployable `Integrated Fire Control Group` (`IFCG`) for escaped fires, complexes and threatened communities.
+3. The governing intercept clock includes detection, verification, decision, launch, transit and target action. Average response time is insufficient; the force must control the tail and report the probability of effective action before a case-specific escape threshold.
+4. Aerial delivery creates transient behavior change. Delivered objective yield depends on payload, feasible cycles, dispatch availability, placement, fire interaction, ground completion and the value of the protected objective. Gallons dropped cannot stand in for control.
+5. Durable containment requires connected line that is completed, held and verified faster than reachable perimeter or control-feature requirements grow. Fireline productivity and breach must be represented as distributions by fuel, slope, method, access, shift and fatigue.
+6. The `IFCG` integrates command/modeling, persistent sensing, mixed airspace, rapid/amphibious/heavy/vertical aviation, ground line and robotics, water and agent networks, community ember defense, smoke/thermal protection, sustainment and post-fire stabilization.
+7. Clean-sheet aircraft remain a plural product line: `FA-1` persistent sensing, `FA-2` rapid attack, `FA-3` amphibious suppression, `FA-4` heavy line building and `FA-5` precision vertical action. Each competes as an aircraft–base–crew cycle; there is no universal fire aircraft.
+8. Safe night and obscured operations become a national engineering frontier. Portable airspace management, degraded-visual navigation, optionally piloted aircraft, bounded autonomy and robotic ground work should create added safe effect-hours through progressive test—not assume current daylight limitations are permanent.
+9. Community defense must address ember, radiation, flame and structure-to-structure pathways at parcel and cluster scale. Smoke, heat, rest and cumulative responder exposure are force-production constraints, not secondary health programs.
+10. The Department's `Advanced Resilience Projects Agency`, Fire Technology Directorate and independent test authority should run ten technology campaigns spanning minutes-to-intercept, fire digital twins, cooperative autonomy, clean-sheet aircraft, robotic line/water, precision agents, ember defense, high-rate bases and human endurance.
+11. An illustrative $1 trillion capital/RDT&E fire portfolio reserves $120 billion for research and advanced prototypes, $250 billion for aviation, $150 billion for ground control and water, and the remainder for sensing, bases, depots, community defense, reconstitution and program uncertainty. These values express strategic balance; they are not cost estimates.
+12. `IIN`, `IFCG`, `FA-1`, `FA-5`, `FA-6` and `FG-1` through `FG-4` enter or advance to R2. The next pass must close an editable intercept-to-campaign configuration model; no fire concept is R3 or authorized for rendering.
+
+See [Fire response force engineering](22-fire-response-force-engineering.md).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -185,6 +202,7 @@ See [PRG-100 configuration model](21-power-configuration-model.md) and the edita
 - Pass 8 formation names, personnel bands and package ranges are organizational hypotheses, not validated tables of organization. The national order of battle remains open until representative technical, care, mobility and theater-support formations are configuration-modeled and exercised.
 - Pass 9 voltage/current and fuel calculations are transparent reference balances, not an electrical construction design or selected source specification. PRG-100 network, source, storage, protection, distribution, thermal, equipment, workforce and transport configurations remain open.
 - Pass 10 closes first-order PRG-100 configuration balances but not the site-specific one-line, power flow, fault duty, grounding, relay coordination, harmonics, transient stability, motor starts, item-level transport, verified construction productivity, reliability, occupational pipeline, thermal field performance or lifecycle cost. Equipment masses, production rates and staffing coefficients remain design-study assumptions.
+- Pass 11 defines fire-control effects, formations and research programs but does not yet configuration-size an intercept cell or IFCG. Aircraft bands, budget allocations, maturity horizons and system capabilities are hypotheses pending cycle, growth, line, base, water/agent, workforce, exposure, deployment, cost and independent test evidence.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
