@@ -466,3 +466,51 @@ The integrated fire system is `R2`. Missions, formation logic, governing equatio
 ### Stop decision
 
 The pass stopped when the fire-control chain, two-force architecture, technology campaigns, industrial/test structure, budget thought experiment, failure cases and a 23-sheet configuration-model specification were explicit. The next gain comes from building that model, not adding more vehicle description.
+
+## Pass 12 — fire response force configuration model
+
+### Research question
+
+When the Ignition Intercept Network and Integrated Fire Control Group are forced into one auditable configuration model, can each meet its intended mission, what system constraints bind, and which technology advances deserve strategic-scale research rather than unearned performance credit?
+
+### Method
+
+The pass built a 23-sheet workbook linking controls, four fire cases, three formation states, complete detection-to-action clocks, a transparent elliptical fire-growth screen, five aircraft families, mission cycles, drop geometry, mixed-airspace capacity, base throughput, water and agent supply, ground line, hold and verification, robotics, community protection, deployment mass, workforce, national readiness, a 25-year technology roadmap, capital/RDT&E, failure modes and 18 R3 gates. The model treats current systems as a baseline rather than a technological ceiling, but any proposed advance must change a visible operational coefficient and remain behind an evidence gate until demonstrated.
+
+### Decisions
+
+1. Retain three distinct modeled formations: local intercept cell, reinforced initial attack and IFCG campaign.
+2. Compare formation effectiveness using both action-before-escape probability and closure margin; neither measure alone is sufficient.
+3. Use P50 and P90 stage times for the full intercept clock and label the logistic probability as an approximation rather than empirical evidence.
+4. Use constant-rate ellipse growth only as a transparent screening model and preserve calibrated fire behavior as an open gate.
+5. Constrain aircraft sorties by the minimum of fleet cycles, airspace, base and family-specific fluid availability.
+6. Convert drops to durable line only after placement, fire interaction, ground completion, continuity, hold and verification.
+7. Credit robotic line explicitly, while identifying its large share as a common-mode technology risk rather than hiding it in total ground productivity.
+8. Carry dry deployment mass, external-lift mass, shift-complete personnel and institutional billets into the same formation balance.
+9. Treat the aviation fleet cost as an airframe acquisition screen; reserve the remainder of the aviation portfolio for the complete industrial and operational system.
+10. Advance only the integrated `IIN` and `IFCG` references to R2+. Keep aircraft and ground-system families at R2 until subsystem evidence closes.
+11. Preserve all 18 R3 gates and the rendering prohibition.
+
+### Material findings
+
+The WUI screen produces the decisive contrast. The intercept cell's P50/P90 action is 28.2/62.8 minutes and its modeled probability of action before a 50-minute escape threshold is 81.2%, but its closure margin is −11.12 km/h. The IFCG's P50/P90 is 69.6/135.4 minutes and its modeled pre-escape probability is only 33.4%, but 411.80 km/day of effective line produces a +4.77 km/h margin and a 10.64-hour screening closure time. The reinforced echelon lies between them and does not close the WUI or rapid-grass cases.
+
+The result numerically supports overlapping forces rather than one universal formation. Regional cells buy time and preserve objectives; campaign groups must begin generating before the incident is fully classified and then assume control. Across all four fire cases, the cell closes only moderate timber, the reinforced echelon closes both timber cases, and the IFCG closes all four under the stated assumptions.
+
+The IFCG baseline produces 798.28 effective sorties/day. Bases are not the binding constraint at 28.8% maximum utilization, but airspace reaches 94.8% utilization and retardant demand reaches 1.427 million gallons/day against 1.2 million capacity. The fluid constraint is applied to relevant families rather than double-discounting the whole fleet.
+
+Effective line is 35.79 km/day from hand crews, 69.08 from conventional dozers, 205.08 from robotic tractors and 101.86 from aviation. Robotics supplies 49.8% of the total. That concentration elevates optional-crew autonomy, line-quality measurement, recovery, maintainability and degraded-communications trials to primary program risks.
+
+The preliminary campaign dry mass is 42,338.98 tonnes; approximately 39,960.8 tonnes require external lift. The workforce hypothesis is 12,330 deployed and 46,237.5 institutional billets. An aviation order-of-battle screen produces 1,158 aircraft and $106.55B in airframe acquisition, leaving $143.45B of the $250B aviation portfolio for development, test, spares, training, bases, depots, software, attrition and cost risk.
+
+### Verification
+
+All 23 sheets were rendered and visually inspected. The exported workbook was re-imported and restored to the IFCG/WUI baseline after scenario switching. Pre-export and post-import error scans returned zero spreadsheet error matches. The 12 formation–fire combinations recalculated in the expected directions. Independent calculations performed 124 checks covering intercept, aircraft cycles, minimum constraints, drop geometry, ground production, line hold, closure, deployment mass, workforce, capital, acquisition, the aviation remainder, error status and file identity; no check failed. The repository and generated workbook hashes were identical.
+
+### Gate decision
+
+`IIN` and `IFCG` advance to `R2+`. The model is coherent enough to set research targets and expose false portfolio logic, but all 18 evidence gates remain open. No aircraft, ground vehicle, deployable base or complete formation is authorized for rendering.
+
+### Stop decision
+
+The pass stopped after the three formations and four cases recalculated, the complete fire-control chain reconciled, a fluid-allocation defect and an aviation-portfolio reference defect were corrected, all independent checks passed, and the research and requirement ledgers recorded the result. The next gain is empirical and experimental: resolve the intercept tail, mixed-airspace capacity, agent-system throughput, robotic line productivity and hold/breach distributions before selecting vehicle geometries.
