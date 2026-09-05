@@ -1,5 +1,7 @@
 # Configuring the public-service pod
 
+> **Supersession note — Pass 29:** the bridge/reuse and full-substitution comparisons remain useful, but the 11,738.09-tonne independent-essential case below was an allowance screen rather than a closed human-sustainment configuration. The [`PCC-50` Population Continuity Complex](../capabilities/population-continuity/configuration-model.md) replaces shelter, food, sanitation, energy and workforce allowances with a cohort-specific configuration. It screens the independent pod at 15,152.86 tonnes and moves worst-case ten-pod closure from hour 71 to approximately hour 84.
+
 ## Executive judgment
 
 Pass 27 defined a six-cell Service Entry Force whose upland, air and offshore formations could lose any two cells and still deliver the first Cascadia public-service package by hour 72. It did so by treating the mass entering the theater as a uniformly mixed service kernel. That abstraction was useful for sizing the movement architecture, but it was not yet a force design. Real teams are indivisible. Food, shelter, clinical care and electrical service do not scale identically with tonnes. Batteries, fuel, oxygen, medicine and food impose different custody rules. A machine can arrive before its crew, a field hospital before its oxygen system, or a generator before anyone has authority to energize the line.

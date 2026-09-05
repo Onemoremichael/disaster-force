@@ -1300,3 +1300,47 @@ The saved workbook was re-opened through an independent spreadsheet reader. Base
 ### Continuation decision
 
 The next pass should replace the four largest ambiguous allowances—shelter, food, energy and workforce—with rival component configurations and actual shift-complete manifests. It should then compile the 106 lines into mode-specific load plans with dimensions, center of gravity, restraint, hazardous separation, cold-chain power and receiving equipment. A representative independent-essential pod must run for 72 hours without host utilities before any vehicle rendering is authorized.
+
+## Pass 29 — `PCC-50` Population Continuity Complex
+
+### Research question
+
+Can the 50,000-person shelter effect inside one `PSP-10` be closed as a complete, independent human service system—including occupied area, accessibility, thermal safety, food, water, sanitation, residuals, energy, staff shifts, site creation and civil release—without breaking the hour-72 two-cell-loss promise?
+
+### Repository decision
+
+The corpus gains a dedicated `capabilities/population-continuity/` domain. This is not another catalog category. It is the cross-service closure point where water, power, food, sanitation, health and shelter must become one protected-population outcome. The root README and research atlas now place it after pod configuration and before invention. The Pass 28 paper carries a direct supersession note, while the model catalog preserves the earlier workbook as lineage rather than current authority.
+
+### Cohort and topology decision
+
+The pod's service capacities are assigned to explicit cohorts. Fifty thousand protected campus residents receive the full life-support bundle. Another 210,000 people receive food through a separate community distribution channel. Responders are an internal sustainment cohort; power and health attach to facility/load contracts.
+
+The `PCC-50` has fifty 1,000-person districts, one hundred 500-person neighborhood nodes, eight resident food-production nodes, seventy community-distribution nodes, ten utility islands and ten waste-treatment/storage nodes. Common interfaces bind the complex; district isolation and implementation diversity constrain common modes.
+
+### Geometry and configuration result
+
+The selected planning geometry produces 4.05M ft² / 376,257 m² of dormitory and support area. The Pass 28 1,250-t allowance is therefore only 3.32 kg/m². The independent membrane campus screens at 3,545.67 t; a panel campus at 11,885.20 t; and an unproved technology target at 1,302.51 t.
+
+The selected hybrid food system is 885.20 t, configured sanitation 780 t, liquid service energy 1,840.53 t and the advanced-assisted workforce 4,513 people. The campus water balance is 1,504.46 m³/day, leaving 495.54 m³/day from the 2,000-m³/day pod effect for external priorities.
+
+### Adverse force result
+
+The configured independent pod is 15,152.86 t. The air-cell third-pod ceiling is 12,048.75 t; the offshore ceiling is 11,781 t. In the worst two-cell-loss case, only eight pods arrive by hour 72 and the tenth at hour 84.02. Six of fifteen loss pairs still pass because surviving upland capacity dominates, but the N-2 force claim fails.
+
+The configured prepared-receiver case is also too heavy at 12,632.94 t. Reusing buildings is therefore insufficient unless food, sanitation, energy, labor or mobility change as well.
+
+### Technology and workforce decision
+
+The transformational roster reaches 2,694 people after a 60-percent reduction, still 194 above the 2,500-person target. The model grants no hidden labor credit.
+
+Eight programs are derived from the failure: ultra-light occupied area, service-spine robotics, dense public food, closed sanitation, low-labor care and operations, portable service energy, a cohort/service digital twin and high-rate site preparation. A combined technology target reaches 11,818.20 t, clearing the air ceiling by 230.55 t but missing the offshore ceiling by 37.20 t. A fuel-flex target reaches 11,477.67 t and clears both, but neither receives capability credit before separate proof.
+
+### Model and verification
+
+The twenty-one-sheet workbook contains controls, service cohorts, district topology, geometry, five shelter pathways, four thermal cases, five food pathways, food operations, water/sanitation balances, five energy pathways, an eleven-function shift roster, workforce cases, six integrated configurations, mass-budget inversion, all fifteen two-cell-loss combinations, sensitivity, eight technology programs, fourteen evidence gates, sources and integrity checks.
+
+The saved workbook was reopened with an independent spreadsheet reader. Twenty-five independent checks pass, the formula-error scan returned zero matches, and all twenty-one sheets were rendered and visually inspected. Fourteen evidence gates remain `OPEN`; rendering authorization remains zero.
+
+### Continuation decision
+
+The next configuration target is one complete 1,000-person district: shell, floor, anchoring, drainage, accessible circulation, thermal zones, furnishings, local power and fluid distribution, sanitation, packed volume, crew tasks, setup sequence, repair and strike. A parallel force-level alternative must test larger/faster entry cells and prepared receiving sites so material science is not assumed to solve every mass contradiction.

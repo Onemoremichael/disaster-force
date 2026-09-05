@@ -32,7 +32,9 @@ The deterministic campaign closed. [The covariance study](campaigns/cascadia-net
 
 [The 72-hour Service Entry Force](force/72-hour-service-entry-force.md) answers the covariance failure with six independently originated cells: two upland, two air and two offshore. Any four carry 120 percent of the reference service effect. It establishes the cell as the smallest independently supported campaign path.
 
-[Configuring the public-service pod](force/service-entry-pod-configuration.md) is the current frontier. It decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. The baseline and essential configurations close the deterministic two-cell-loss test at hours 63 and 71; full substitution delivers only eight pods by hour 72 and therefore fails.
+[Configuring the public-service pod](force/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
+
+[The `PCC-50` Population Continuity Complex](capabilities/population-continuity/configuration-model.md) is the current frontier. It replaces the pod's shelter, food, sanitation, energy and labor allowances with a cohort-specific, shift-complete human service system. A complete 50,000-person campus screens at 15,152.86 tonnes; only eight pods arrive by hour 72 after both upland cells are lost, and the tenth arrives near hour 84. The earlier hour-71 finding is superseded.
 
 This is the present force-design doctrine:
 
@@ -70,7 +72,7 @@ CAMPAIGN PROOF
 
 COMPLETE-SERVICE PHYSICS
   capabilities/
-      water, power, fire, flood, access, mobility and health
+      population continuity, water, power, fire, flood, access, mobility and health
   architecture/
       common interfaces, autonomy and platform gates
 
@@ -103,6 +105,7 @@ The detailed configuration studies all make the same correction: the attractive 
 
 | Service | Configuration studies | Governing correction |
 | --- | --- | --- |
+| Population continuity | [`PCC-50` configuration](capabilities/population-continuity/configuration-model.md) | Shelter, food, water, sanitation, thermal safety, power, waste, staff and civil authority must close around explicit cohorts; a list of capacities is not a protected population. |
 | Water | [Force engineering](capabilities/water/force-engineering.md), [WRG-50](capabilities/water/configuration-model.md), [nuclear water–energy](capabilities/water/nuclear-water-energy-system.md), [utility anchors](capabilities/water/resilience-utility-anchors.md) | Treatment must close with source, power, pipe, pressure, quality, residuals, wastewater and delivery. |
 | Power | [Force engineering](capabilities/power/force-engineering.md), [PRG-100](capabilities/power/configuration-model.md) | A deployable generator fleet is not a temporary electric utility. |
 | Fire | [Force engineering](capabilities/fire/force-engineering.md), [configuration](capabilities/fire/configuration-model.md) | Detection-to-action, delivered objective effect, line, hold and community protection govern—not tank capacity. |
