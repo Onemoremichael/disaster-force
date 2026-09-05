@@ -117,6 +117,8 @@ Some capabilities are too scarce, interconnected, or global to divide regionally
 - **Industrial Mobilization Command** would maintain supplier maps, surge contracts, government-owned production capability, critical-material reserves, repair capacity, and emergency production plans.
 - **Training and Doctrine Command** would run common education, collective exercises, certification, doctrine, and the lessons system.
 
+The [National Resilience Deployment and Distribution Enterprise](joint-deployment-and-distribution-enterprise.md) makes the mobility–sustainment boundary explicit. Strategic Mobility Command owns the origin-to-theater movement and damaged-entry architecture; the supported Theater-Opening and Theater Sustainment Commands clear the force to operating locations; Strategic Sustainment Command owns national depots, replacement and reconstitution. This prevents “transport delivered” from being confused with “public service operating” without creating duplicate owners for the same supply chain.
+
 The wildfire system demonstrates the value of predictive posture, explicit preparedness levels, and national allocation of scarce resources.[^nifc-mobilization][^nifc-levels] The new establishment would apply that logic continuously across the entire force, backed by owned fleets and formations.
 
 ### Civil Resilience Authority

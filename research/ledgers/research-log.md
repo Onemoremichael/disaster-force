@@ -1079,3 +1079,55 @@ The Department-wide force advances to `R1/R2` institutional definition with `R2+
 The next pass should configuration-model the theater-opening and strategic-mobility system as one national deployment and distribution enterprise. It should use item-level loads, origins, routes, cycles, ports, airfields, inland terminals, weather, fuel, maintenance, alternate nodes, responder bases and return flow. A heavy land, acute-care and community formation should then be added to test whether the formation coefficients and workforce survive configuration detail.
 
 No rendering is authorized. The model allocates formation effects and enabling systems; it does not determine vehicle or facility form.
+
+## Pass 24 — National Resilience Deployment and Distribution Enterprise
+
+### Research question
+
+What permanent command, movement fleet, prepared entry lattice, mobile node-opening force, onward-distribution system, responder bases and sustainment architecture are required to turn the Pass 23 order of battle into public service inside ten simultaneously damaged theaters?
+
+### Conceptual correction
+
+Pass 23 correctly exposed mobility and reception as force-level constraints but used an intentionally coarse timing screen: the complete 11.58-million-tonne formation mass was divided by a seven- or fourteen-day full-effect window. Pass 24 separates five different obligations: anticipatory staging; 72-hour minimum viable service; 14-day initial operating capability; 45-day formation closure; and 90-day depth, replacement and endurance.
+
+This changes the unit of analysis from cargo moved to **service closure**. A campaign is ready only at the minimum of complete formation, origin loading, strategic movement, entry opening, reception, staging/onward movement, responder basing, sustainment/reverse flow, authority, technical release and host acceptance.
+
+### Institutional and force decision
+
+The Department receives a permanent **National Resilience Deployment and Distribution Enterprise (`NRDDE`)** led by Strategic Mobility Command. Six standing subcommands own strategic air; strategic surface and sealift; theater opening and node recovery; inland distribution; responder basing; and deployment data/allocation. Geographic or campaign commands retain public objectives and theater priorities. Generating services retain formation readiness. Independent technical authorities retain stop and release powers.
+
+Eleven existing Pass 23 formation families constitute the enterprise: `A-SMW`, `A-AAG`, `A-TDG`, `M-POG`, `M-LAG`, `M-IWG`, `M-OSG`, `M-SSG`, `L-ROG`, `J-TOC` and `J-TSC`. Their 1,078,510 direct billet-equivalents plus allocated institutional depth produce about 1,207,931 affiliated billet-equivalents.
+
+### Network and movement architecture
+
+The fixed network contains twenty-four Prepared Resilience Entry Complexes, forty-eight dispersed auxiliary airfield/terminal sites, seventy-two inland distribution campuses and sixty responder-base campuses. These are archetype counts, not selected sites. They are paired with deployable air, port, littoral, inland-water and land/rail opening groups.
+
+The illustrative movement fleet assigns 1.112M tonnes to air, 4.250M tonnes to ocean, 4.620M tonnes to land/rail and 1.598M tonnes to inland water. Payload, availability, cycles, activation and prepositioning are editable assumptions. All sixteen mode/deadline checks close.
+
+### End-to-end finding
+
+All ten reference campaigns close across reception, onward movement, responder basing and sustainment. Entry-node margins are large, but end-to-end margins are only 1.026×–1.448× because ordinary campaigns bind on onward movement, responder basing or daily supply.
+
+A deterministic correlated primary-path-loss case leaves eight campaigns closed. Cascadia and the allied coastal megacity earthquake both fall to a 0.765× weakest-link margin. Their reception, base and sustainment paths fail together; additional strategic lift alone cannot close the gap.
+
+### Capital, operating and innovation frame
+
+The eleven formation lines reconcile to $2.573T. Pass 24 allocates $1.380T from existing Pass 23 common lines: $600B prepared network, $220B mission R&D, $120B education/workforce, $90B digital and $350B industry. With an attributable $790.7B share of the existing reserve, the envelope is $4.744T. This is nested inside the $12.049T Pass 23 total and must not be added to it.
+
+Mature annual operations screen near $332.5B, including about $152.7B personnel, $77.2B formation O&M, $27.6B common enabling operation and $75B exercises, stocks, industrial readiness, continuing research and access.
+
+The $220B technology portfolio targets autonomous multimodal load choreography; runway regeneration; robotic port clearance; adaptive causeways; zero-host-utility bases; intermodal service modules; distributed cargo aircraft; damage-tolerant visibility; route certification; and reverse-flow hazard logistics. These are problem statements with evidence gates, not procurement requirements.
+
+### Evidence and verification
+
+Official Joint Chiefs of Staff, Air Force, Army, FEMA, MARAD, USACE and GAO sources establish lower-bound doctrine and observed failure modes. They support integrated transport management, destination-ready force closure, cross-functional airfield and port opening, staging, sealift readiness, workforce and exercise variables. They do not validate any model throughput, fleet size, cost or site.
+
+The 29-sheet workbook contains controls; campaigns; wave doctrine; fifty campaign-wave records; modal assignment; fleet and movement capacity; entry node classes and allocation; reception; onward movement; responder bases; sustainment; end-to-end and degraded cases; force structure; asset build; prepared network; workforce; capital crosswalk and annual funding; operating cost; innovation; authority; failure and evidence gates; sources; and checks.
+
+All twenty-nine sheets were rendered and visually inspected. The first audit identified invalid horizontal-to-vertical reception formulas, four output-link errors, two unsupported array checks, a $2.66B asset reconciliation difference, text-valued fixed-network totals, a summary-table overwrite and insufficient onward/base reference capacity. These were corrected. A second visual audit caught percentage columns displayed as rounded whole numbers and a shifted responder-base status column; both were corrected. Final re-import found zero formula-error cells. Nineteen checks pass and two intentional evidence/rendering checks remain `OPEN`.
+
+### Gate and continuation decision
+
+The `NRDDE` advances to `R1/R2` institutional architecture with `R2+` deterministic arithmetic. All payloads, cycles, throughput rates, node and route factors, base densities, workforce components and cost values remain assumptions. Twenty engineering and campaign gates remain open. No rendering is authorized.
+
+The next pass should build an item-level Cascadia deployment campaign: real formation load records; origin classes; independent air, port, littoral, rail, road and inland-water paths; queues; volume and handling; bridge and terminal constraints; aftershock and weather closures; safe-zone responder bases; 90-day supply; hazardous reverse flow; relief in place; and reconstitution.
