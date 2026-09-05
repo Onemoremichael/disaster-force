@@ -1,5 +1,7 @@
 # The `PCC-50` Population Continuity Complex
 
+> **Configuration lineage:** Pass 30 now configures the complete 1,000-person [`PCC-D1` district](district-configuration.md). Its 78.71-tonne transformational bill of material supersedes the 26.05-tonne district shelter target below. The resulting 14,451.07-tonne pod completes its tenth worst-case cargo load at hour 81.52. The PCC-50 cohort, topology, food, water, sanitation, energy and workforce findings remain authoritative.
+
 ## Executive judgment
 
 The `PSP-10` public-service pod cannot be treated as a list of proportional water, power, shelter, food and health capacities. People experience a service system, not a portfolio. A shelter resident without safe water, sanitation, thermal protection, food, access, health observation or accountable protection is not a fractionally served person. A generator, kitchen or tent produces no public effect when its interfaces, crews, consumables, residuals or release authorities are missing.

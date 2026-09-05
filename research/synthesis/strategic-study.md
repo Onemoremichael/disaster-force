@@ -502,6 +502,25 @@ Pass 29 replaces the pod's human-sustainment allowances with a cohort-specific o
 
 See [The `PCC-50` Population Continuity Complex](../capabilities/population-continuity/configuration-model.md) and the editable [population-continuity workbook](../../models/population-continuity-complex-model.xlsx).
 
+## Configuring the occupied district
+
+Pass 30 replaces the PCC-50's lightweight shelter target with a complete 1,000-person occupied-system configuration.
+
+1. PCC-D1 contains twenty 50-person bays, two neighborhood nodes and 7,525 m² of occupied/support area. It is the smallest repeatable unit at which accessibility, isolation, utilities, life safety, repair and civil release can be held accountable.
+2. The twenty-six-line bill of material includes envelope, frame, floor, access, anchors, ballast, furnishings, thermal and clean-air systems, electrical/data distribution, detection/suppression, survey, drainage, installation tools, spares, packaging and restraint.
+3. Complete district mass is 261.11 t in the current-analogue case, 156.77 t in the advanced case and 78.71 t in the transformational case. Packed volume is 1,093, 722 and 447 m³ respectively.
+4. The Pass 29 transformational shelter target of 26.05 t per district is superseded. With other pod services held constant, the air-compatible district budget is 30.66 t; the detailed transformational case exceeds it by 48.05 t.
+5. Load-position screens are volume-bound. The transformational district requires approximately twenty-five air positions or seven 40-ft-equivalent positions; fifty districts require 1,250 air positions or 350 40-ft-equivalent positions before the other pod services are loaded.
+6. The declared installation critical path is 66 h current, 42 h advanced and 27 h transformational after a supplied and released site is available. Fifty simultaneous transformational teams require 2,000 builders.
+7. Combining that construction peak with the separate 2,694-person transformational operating roster yields approximately 3,694 unique people even if half the builders can transition to operations. The 2,500-person pod target remains unclosed.
+8. Replacing all fifty district shelter lines raises the Pass 29 technology pod to 14,451.07 t. The worst N-2 case delivers eight pods by hour 72 and completes the tenth cargo load at hour 81.52.
+9. The timing model now separates shelter arrival, full pod cargo completion, district installation/commissioning and civil occupancy release. Cargo completion alone is not a public effect.
+10. A dependency-bounded prepared receiver that supplies 80 percent of occupied-area mass before the event reduces the pod to 11,302.77 t. It screens tenth cargo completion at hour 68.66 by air and 70.30 offshore, but only if the site, structure, records, interfaces and inspection path survive.
+11. The force architecture therefore gains a coequal National Receiving Lattice. Fixed receiving readiness and mobile force projection are one system; neither may hide dependencies in the other.
+12. Seven technology programs now own district mass, accessible sleep systems, site construction, packed volume, service-spine commissioning, continuous envelope evidence and receiving-lattice readiness. Fifteen empirical gates remain open and rendering remains blocked.
+
+See [The PCC-D1 population-continuity district](../capabilities/population-continuity/district-configuration.md) and the editable [district configuration workbook](../../models/population-continuity-district-model.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -533,6 +552,7 @@ See [The `PCC-50` Population Continuity Complex](../capabilities/population-cont
 - Pass 27 closes all two-cell-loss cases only because it assumes uniform service-kernel mixing, declared activation times and constant net throughput. It does not close aircraft design, runway bearing, sea state, no-pier mechanics, utility physics, last-mile distribution, item manifests, clinical staffing, hazardous compatibility, industrial schedules or lifecycle effects. Its 15-percent cell-loss and 0.2-percent common-mode allocations are targets, not observations; its cost factors are planning assumptions. Ten evidence gates and rendering remain open.
 - Pass 28 supersedes the continuous-mass timing result with whole-pod credit, but its 106-line manifest remains an allocation rather than a weighed design. Food, shelter, energy, staff, unit counts, package planning loads, activation and throughput are screening assumptions. The independent-essential hour-71 result has negligible deterministic margin, while the full-substitution case fails. Neither result is a performance forecast or a basis for acquisition quantities.
 - Pass 29 supersedes Pass 28's independent-essential hour-71 result. Its 376,257-m² geometry, shelter intensities, cohort split, food pathways, water and sanitation rates, thermal cases, energy masses, workforce factors and technology targets are declared configuration assumptions. The 15,152.86-t adverse result is a deterministic design screen, not an estimate of a fielded complex; all fourteen evidence gates remain open.
+- Pass 30 supersedes Pass 29's 26.05-t district shelter target. Its component intensities, packing densities, load positions, installation durations, labor hours, overlap credit and 80-percent prepared-receiver contribution are declared design assumptions. The 78.71-t independent and 15.74-t imported prepared-receiver district cases are not field estimates. Fifteen gates remain open; the apparent prepared-receiver timing success earns no capability credit until national availability, hazard covariance, post-event inspection, host authority, maintenance and complete occupied trials are demonstrated.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
