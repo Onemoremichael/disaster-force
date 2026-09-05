@@ -80,3 +80,11 @@ The workbook distinguishes a $750B catalytic case, selected $2T strategic case a
 The funding profile averages $80B/year and peaks at approximately $139.81B in years 9 and 10. A compound facility, redesign, integration, two-year delay and supply-chain shock raises calculated need to $2.494T; the 15% / $300B reserve is short by $194B. Seventeen arithmetic and architecture checks pass and one informational line intentionally flags that shortfall. All future performance values remain design hypotheses, no campaign receives R3 operational credit and no vehicle or platform is authorized for rendering.
 
 See [`research/27-resilience-technology-frontier.md`](../research/27-resilience-technology-frontier.md) for the institution, technology taxonomy, proving doctrine, civil constraints, industrial implications and source notes.
+
+## Common resilience technical architecture model
+
+[`resilience-common-technical-architecture.xlsx`](resilience-common-technical-architecture.xlsx) converts the ten common primitives into a 17-sheet Department-wide interface and conformance model. It links a $400B common layer within the selected $2T technology case, fifty interface contracts, twenty-five representative system families, 217 nonzero system–primitive dependencies, four degraded modes, five machine-action classes, a minimum operational data contract, twelve physical exploration bands, a full lifecycle digital thread, thirty-two common-mode failures, twenty fault-injected interoperability trials and a 25-year transition.
+
+Seventeen of eighteen workbook checks pass. The remaining line is intentionally `OPEN`: twenty-four common-mode failures meet or exceed the provisional risk-priority threshold, against a field-acceptance target of zero. No interface contract has representative-mission closure, all twenty-five systems remain blocked, and no rendering is authorized. The risk scores and thresholds are ordinal research controls, not probabilities, safety findings or acquisition requirements.
+
+See [`research/28-common-resilience-technical-architecture.md`](../research/28-common-resilience-technical-architecture.md) for the architecture doctrine, interface logic, civil-authority boundary, degraded modes, correlated-risk analysis, conformance chain and transition strategy.

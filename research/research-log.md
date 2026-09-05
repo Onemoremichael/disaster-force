@@ -732,3 +732,38 @@ All sixteen sheets were exported, rendered and visually inspected. The workbook 
 ### Gate and stop decision
 
 No campaign receives R3 operational credit, and no platform rendering is authorized. The pass stopped when the Department-wide innovation institutions, funding-scale comparison, directorate portfolio, common primitives, stage gates, range families, industrial clusters, export doctrine, annual profile and cost sensitivities reconciled. The next gain is to design the National Resilience Proving Network at facility and experimental-power depth or specify the common technical interfaces before selecting exterior vehicle form.
+
+## Pass 17 — Common resilience technical architecture
+
+### Research question
+
+What common technical constitution would allow a Department-scale force to combine independently designed systems under damaged conditions without surrendering safety, civil authority, configuration knowledge, degraded operation or competition?
+
+### Evidence wave
+
+The pass used official method baselines rather than present institutions as the end state: DoD modular open-systems architecture; NASA systems engineering; FEMA NIMS; NIST smart-grid interoperability, zero trust, AI risk management, secure-systems engineering, cyber-physical systems, digital thread and emergency-response robot testing; and DOE microgrid research.
+
+### Architecture decisions
+
+1. Treat architecture as a funded public capability with reference implementations, conformance services, independent evidence, change law and trained operators.
+2. Standardize boundary meaning, safety, authority, state and proof rather than one universal physical connector or vendor interior.
+3. Decompose ten common primitives into fifty controlled contracts.
+4. Require four degraded modes—connected, intermittent, 72-hour isolated and manual safe—and controlled reconciliation after isolation.
+5. Separate machine sophistication from authority using five action classes from observation through life-, rights- and irreversible decisions.
+6. Require eight minimum data groups: identity, time, location, measurement, configuration, authority, uncertainty and outcome.
+7. Organize physical-interface research into twelve power, fluid and mechanical bands while leaving actual profiles and hardware open.
+8. Bind evidence to a complete digital thread from measured need through retirement.
+
+### Model result
+
+The 17-sheet workbook assigns 20%, or $400B, of the selected $2T technology envelope to the common layer. Primitive allocations and work-type allocations reconcile as two classifications of that envelope. Fifty interface records are mapped through a 25-system requirement matrix with 217 nonzero dependencies.
+
+The failure-propagation register contains thirty-two common modes. Twenty-four meet or exceed the provisional ordinal risk-priority threshold of 75 against a pre-field target of zero. Twenty cross-system trials inject clock, datum, model, perception, authority, protection, media, pressure, version, contamination, identity, update and reconciliation faults.
+
+### Verification
+
+All seventeen sheets rendered and were visually inspected. Seventeen of eighteen checks pass. The one intentional `OPEN` check exposes the twenty-four critical common modes rather than treating them as workbook defects. Formula-error scanning found no spreadsheet error values, and the XLSX archive passed integrity testing.
+
+### Gate and stop decision
+
+No interface contract reaches representative-mission maturity. All twenty-five systems are blocked by unclosed primitives and/or project maturity; zero systems are eligible for rendering. The pass stops before connector selection or exterior form. Next work should create the common reference implementations and proving architecture, then allocate configuration-specific ports and trials to water, power, flood, fire, health and water–energy systems.
