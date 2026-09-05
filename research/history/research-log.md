@@ -1602,3 +1602,34 @@ All fifteen checks pass. The saved workbook was reopened and inspected across ev
 ### Continuation decision
 
 Build one coupled metropolitan campaign with a damaged routable collection graph, building-access states, time-dependent requests and queues, protected-local service options, `CTN` activation, selective `UCM` use, line haul, destination acceptance and return. Optimize protected-person-hours, geographic closure, coercion risk, workforce and lifecycle burden. Carry `A3` as the national reference and `A2` as the nested mobility subsystem. Do not render vehicles or nodes.
+
+## Pass 35 — Argument architecture and strategic synthesis
+
+### Research question
+
+How should a growing research corpus preserve detailed technical lineage without forcing a reader to encounter the Department of Resilience as a flat inventory of papers, platforms, models, or completed passes?
+
+### Structural decision
+
+The repository now separates four functions that had accumulated inside the front door and cumulative manuscript.
+
+1. The root README states the proposition, the mature force taking shape, the most important design reversals, the live frontier, and five deliberate entry points.
+2. The research guide organizes the corpus as a decision architecture: promise, institutional ownership, force readiness, campaign falsification, complete-service physics, invention and industry, then assurance.
+3. The current strategic study is rewritten as an integrated judgment organized by doctrine, institution, force, employment, technology, economics, evidence, and the forward program. It no longer grows by appending a numbered finding list after every pass.
+4. Chronology and current authority are separated. The former cumulative manuscript and research log move to `history/`; source provenance and falsification requirements move to `assurance/`.
+
+No research content was discarded. The former 637-line strategic manuscript remains intact as `history/pass-findings.md`, with an explicit archival notice. The source ledger, evidence ledger, and research log retain their contents under clearer ownership.
+
+### Conceptual advance
+
+The synthesis now describes the mature force as five coupled machines: force generation and anticipation; protected-local continuity; hazard control and lifeline restoration; service projection; and civil mobility, reception, and return. This makes the Department legible as an operating system rather than a collection of service branches.
+
+It also states a common employment grammar: forecast and sense; posture without preempting civil authority; protect locally; open access and control hazards; restore lifelines or move selectively; stabilize occupied systems; then transfer, return, and regenerate. The sequence exposes the decision boundary between protection and displacement while preserving movement as a complete civil-service chain.
+
+### Navigation rule
+
+Each major research directory now has a local README that owns its purpose, decision boundary, and internal path. Root navigation can therefore remain compact. Detailed inventories belong at the level where the distinctions become meaningful; they no longer compete with the central thesis.
+
+### Assurance and continuation
+
+All Markdown links were checked after the moves, and the branch contains no model or quantitative-result changes. The next substantive pass remains the coupled metropolitan protected-continuity and selective-mobility campaign identified in Pass 34. Pass 35 changes how that work will attach to the argument; it does not claim to have performed it.

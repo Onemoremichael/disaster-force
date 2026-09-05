@@ -1,151 +1,86 @@
-# Research atlas
+# Research guide
 
-The corpus develops one systems argument:
+This repository is one argument with several levels of proof. It should not be read as a list of vehicles, hazards, or completed passes.
 
-> A coequal resilience instrument must be designed backward from time-bounded public service, generated as a complete national force, projected through damaged infrastructure, and proved through science, industry, exercises and independent test.
+The argument begins with a public obligation: a defined population must receive a defined bundle of safe services by a stated time. It then asks who can own that obligation, what force can meet it, how the force moves through damage, what physical systems produce the service, what new technology is required, and what evidence would justify national-scale investment.
 
-The folders are lenses in that argument, not a chronology and not an equipment catalog. This atlas is a map of decisions: what has been established, what changed the design and which paper should be treated as authoritative for each claim.
-
-## The shortest serious reading path
-
-Read these in order if the objective is to understand the current concept rather than retrace every research pass.
-
-### I. Define the promise
-
-[First principles](foundations/first-principles.md) makes population-service-time the unit of national performance. It explains why activity, equipment delivered and nominal capacity cannot stand in for water safely used, power delivered, patients treated or communities protected.
-
-[Department of Resilience](institution/department-of-resilience.md) assigns that promise to a zero-based cabinet institution with seven operating services, joint commands, civil and technical authority, acquisition, science and industrial mobilization. It distinguishes the Department that governs, the Establishment that generates and the Force that can actually deploy.
-
-### II. Build a force, not a portfolio
-
-[Mature force design](force/generation/mature-force-design.md) supplies the missing organizational middle between a technical module and a national campaign. [Joint force allocation and order of battle](force/generation/joint-force-allocation-and-order-of-battle.md) then asks what permanent force follows from three catastrophic, five major and two global campaigns plus immediate reserve.
-
-The current screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. These are force-generation hypotheses, not validated staffing requirements.
-
-### III. Project the force through damage
-
-[Deployment and distribution](force/projection/joint-deployment-and-distribution-enterprise.md) models national inventory through origin, movement, reception, onward distribution, responder basing, sustainment, reverse flow, repair and release. [The Cascadia campaign](campaigns/cascadia-joint-resilience-campaign.md) makes the chain geographic: nine disconnected service islands, twelve paths, sixty-four loads and 1.763 million tonnes.
-
-The deterministic campaign closed. [The covariance study](campaigns/cascadia-network-covariance-and-assurance.md) then showed why that answer was too optimistic. Shared fuel, data, labor, authority, inspection and repair caused nominally different paths to fail together. A three-cell architecture reached 84.2 percent closure in the declared 500-trial screen and still missed the 95-percent design target.
-
-### IV. Configure the first public-service formation
-
-[The 72-hour Service Entry Force](force/projection/72-hour-service-entry-force.md) answers the covariance failure with six independently originated cells: two upland, two air and two offshore. Any four carry 120 percent of the reference service effect. It establishes the cell as the smallest independently supported campaign path.
-
-[Configuring the public-service pod](force/projection/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
-
-[Population continuity](capabilities/population-continuity/README.md) replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. `PCC-D1` then configures one complete 1,000-person occupied district. Its 78.71-tonne, 446.60-cubic-metre transformational case produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
-
-[The receiving subsystem](force/reception/README.md) makes land, buildings, utilities, stocks, inspectors, records, labor and civil release into generated force capacity. [National Receiving Geography](force/reception/national-receiving-geography.md) then replaces equal regions with thirty-two population-weighted catchments. Only 2,355.80 CDE survive against 2,500 demanded; a baseline four-mode corridor plan serves 2,066.42.
-
-[The mobility subsystem](force/mobility/README.md) is the current frontier. The [National Civil Mobility and Continuity Force](force/mobility/national-civil-mobility-and-continuity-force.md) replaces the corridor abstraction with federal network gates, human-compatible movement cohorts, purpose-built fleets and transfer nodes, route restoration and a joint stochastic allocation. [Civil Mobility Assurance Under Deep Uncertainty](force/mobility/mobility-assurance-under-deep-uncertainty.md) then breaks its apparent winner across 1,000 broad parameter worlds, adds four tract-scale collection pilots and configures `CTN-10` and `UCM-8` far enough to reopen force composition.
-
-The governing reversal is that protected-local continuity—not mass relocation—becomes the load-bearing national reference. The restorable mobility mesh remains a peer subsystem for rescue, selective movement and return. A transfer node also becomes a population-continuity formation: the first `CTN-10` screen requires 29,263 m², 4,513 t and 2,289 deployed staff.
-
-This is the present force-design doctrine:
-
-> A district is the smallest repeatable occupied system. A pod is the smallest effect-complete deployable increment. A cell is the smallest independently supported campaign path. Independence exists only inside a declared dependency envelope.
-
-### V. Invent and prove what the mission demands
-
-[The technology frontier](innovation/technology-frontier.md) organizes mission science around failed service threads rather than speculative gadgets. [The National Resilience Proving Network](innovation/national-proving-network.md) defines the laboratories, regional ranges, flagship facilities, measurement systems and destructive trials needed to move from configuration arithmetic to demonstrated formations.
-
-The [strategic study](synthesis/strategic-study.md) integrates all five parts into one manuscript.
-
-## How the rest of the corpus attaches
-
-The supporting papers should be read when the main argument reaches a question they own.
+## The decision architecture
 
 ```text
-PUBLIC PROMISE
-  foundations/
-      empirical hazard demand
-      design reference missions
-      service levels and mission engineering
+1. WHAT MUST REMAIN TRUE FOR PEOPLE?
+   foundations/ — service promise, demand, time, missions, method
+             │
+             ▼
+2. WHO OWNS THE PROMISE?
+   institution/ — Department, authority, professions, national capacity
+             │
+             ▼
+3. WHAT MUST BE READY BEFORE THE INCIDENT?
+   force/ — generation, projection, mobility, reception
+             │
+             ├──────── campaigns/ — geographic attempts to break the force
+             │
+             ▼
+4. WHAT PHYSICALLY PRODUCES COMPLETE SERVICE?
+   capabilities/ + architecture/ — service chains, interfaces, degraded modes
+             │
+             ▼
+5. WHAT MUST THE NATION INVENT AND INDUSTRIALIZE?
+   innovation/ + economics/ — rival technologies, proving, workforce, production
+             │
+             ▼
+6. WHAT IS THE WARRANT FOR BELIEF?
+   assurance/ — sources, evidence gates, falsification, maturity
 
-SOVEREIGN CAPACITY
-  institution/
-      Department design
-      National Utility Projection System
-  force/
-      generation/ — formation and readiness
-      projection/ — deployment, entry cells and pods
-      mobility/ — population collection, transfer, line-haul and return
-      reception/ — fixed readiness, geography and destination intake
-
-CAMPAIGN PROOF
-  campaigns/
-      Cascadia closure
-      covariance and assurance
-
-COMPLETE-SERVICE PHYSICS
-  capabilities/
-      population continuity, water, power, fire, flood, access, mobility and health
-  architecture/
-      common interfaces, autonomy and platform gates
-
-SCIENCE, INDUSTRY AND CONSEQUENCE
-  innovation/
-      technology portfolios and proving infrastructure
-  economics/
-      workforce, capital and operating scale
-
-SYNTHESIS AND CONTROL
-  synthesis/
-      cumulative manuscript
-  ledgers/
-      sources, evidence gaps and chronological decisions
+   synthesis/ states the current answer.
+   history/ preserves how that answer changed.
 ```
 
-### Foundations
+The arrows matter. A platform requirement cannot precede its service chain. A national inventory cannot precede its campaign and concurrency standard. A successful arithmetic check cannot precede representative evidence. History can explain a decision, but it does not remain authoritative merely because it came first.
 
-The foundation layer prevents a ship, aircraft, robot, reactor or mega-base from becoming its own requirement. [Empirical baseline](foundations/empirical-baseline.md) bounds demand without combining incompatible loss datasets. [Design reference missions](foundations/design-reference-missions.md) replaces an “average disaster” with ten compound campaigns. [Service levels](foundations/service-level-library.md), [mission engineering](foundations/mission-engineering-method.md), the [force-design framework](foundations/force-design-framework.md) and [research program](foundations/research-program.md) provide the shared grammar.
+## The shortest serious path
 
-### Institution and force
+Begin with [First principles](foundations/first-principles.md), which defines population–service–time as the governing unit. Then read [Department of Resilience](institution/department-of-resilience.md), which converts the promise into a zero-based sovereign institution rather than a coordination reform.
 
-The [force-design spine](force/README.md) is the canonical guide to the [generation](force/generation/README.md), [projection](force/projection/README.md), [mobility](force/mobility/README.md) and [reception](force/reception/README.md) subsystems. It records which earlier timing results have been superseded by physical configuration, geographic allocation and distributional assurance.
+[Mature force design](force/generation/mature-force-design.md) supplies the organizational middle between a national ambition and a technical module. [The force-design spine](force/README.md) carries that logic through generation, deployment, service entry, population continuity, mobility, reception, and return.
 
-The [National Utility Projection System](institution/national-utility-projection-system.md) tests one strategic function across twenty-six candidate anchor complexes, ten concurrent campaigns, about 198,200 billets and a $1.698 trillion capital hypothesis. It shows why a floating nuclear water-and-power source is not a self-contained capability.
+The argument becomes testable in [Cascadia](campaigns/cascadia-joint-resilience-campaign.md). Its deterministic closure is deliberately broken by [campaign covariance](campaigns/cascadia-network-covariance-and-assurance.md), which shows that fuel, data, labor, authority, inspection, and repair can couple nominally different routes. The resulting [72-hour Service Entry Force](force/projection/72-hour-service-entry-force.md) and [public-service pod](force/projection/service-entry-pod-configuration.md) create independently supported, indivisible increments of effect.
 
-[Force composition](force/generation/force-composition.md) and [readiness](force/generation/readiness-and-force-generation.md) define components, professions, availability and regeneration. Their readiness rule is the minimum across people, equipment, stocks, movement, reception, sustainment, interfaces and authority.
+[Population continuity](capabilities/population-continuity/README.md) then works downward from the pod to a complete occupied district. [National receiving geography](force/reception/national-receiving-geography.md) and the [civil mobility force](force/mobility/national-civil-mobility-and-continuity-force.md) work outward from that district to national movement and destination capacity. [Mobility assurance under deep uncertainty](force/mobility/mobility-assurance-under-deep-uncertainty.md) reverses the provisional answer: robust local protection becomes the reference architecture, while rescue, selective relocation, and return retain a purpose-built mobility force.
 
-### Capability physics
+Finish with the [technology frontier](innovation/technology-frontier.md), the [National Resilience Proving Network](innovation/national-proving-network.md), and the current [strategic synthesis](synthesis/strategic-study.md). Together they show how failed mission threads become rival inventions, test infrastructure, industrial programs, and eventually certified force.
 
-The detailed configuration studies all make the same correction: the attractive object is only one element of the service chain.
+## How work is divided
 
-| Service | Configuration studies | Governing correction |
-| --- | --- | --- |
-| Population continuity | [Domain map](capabilities/population-continuity/README.md), [`PCC-50` complex](capabilities/population-continuity/configuration-model.md), [`PCC-D1` district](capabilities/population-continuity/district-configuration.md) | Shelter, food, water, sanitation, thermal safety, power, waste, staff and civil authority must close around explicit cohorts; mobile mass and prepared reception must then close together. |
-| Water | [Force engineering](capabilities/water/force-engineering.md), [WRG-50](capabilities/water/configuration-model.md), [nuclear water–energy](capabilities/water/nuclear-water-energy-system.md), [utility anchors](capabilities/water/resilience-utility-anchors.md) | Treatment must close with source, power, pipe, pressure, quality, residuals, wastewater and delivery. |
-| Power | [Force engineering](capabilities/power/force-engineering.md), [PRG-100](capabilities/power/configuration-model.md) | A deployable generator fleet is not a temporary electric utility. |
-| Fire | [Force engineering](capabilities/fire/force-engineering.md), [configuration](capabilities/fire/configuration-model.md) | Detection-to-action, delivered objective effect, line, hold and community protection govern—not tank capacity. |
-| Flood | [Force engineering](capabilities/flood/force-engineering.md), [configuration](capabilities/flood/configuration-model.md), [RDT&E](capabilities/flood/research-test-and-evaluation.md) | Head, drainage, barriers, breach, debris, access and receiving water govern—not pump nameplate. |
+The major directories own different kinds of decisions:
 
-Portfolio papers hold domains that have not yet received a dedicated configuration study: [water, energy and utility systems](capabilities/water-energy-and-utility-systems.md), [hazard control, access and earthworks](capabilities/hazard-control-access-and-earthworks.md), and [maritime, air mobility and medical systems](capabilities/maritime-air-mobility-and-medical.md).
+- [Foundations](foundations/README.md) owns the public promise and analytical grammar.
+- [Institution](institution/README.md) owns sovereign responsibility, authority, and the Department's durable structure.
+- [Force](force/README.md) owns formations, readiness, deployment, civil mobility, reception, and regeneration.
+- [Campaigns](campaigns/README.md) owns geographically explicit attempts to falsify force closure.
+- [Capabilities](capabilities/README.md) owns complete-service physics from source to safely used effect.
+- [Architecture](architecture/README.md) owns common interfaces, degraded modes, autonomy, and platform admission.
+- [Innovation](innovation/README.md) owns invention portfolios and the national proving system.
+- [Economics](economics/README.md) owns resource consequences and the boundary between capital, operations, and social value.
+- [Assurance](assurance/README.md) owns provenance, uncertainty, evidence gaps, and maturity.
+- [Synthesis](synthesis/README.md) owns the current integrated answer; [history](history/README.md) owns chronology and superseded answers.
 
-### Shared architecture
+The [model catalog](../models/README.md) is separate because models cross these boundaries. Each workbook is an executable claim and sensitivity surface, not another chapter.
 
-[The Resilience Arsenal](architecture/resilience-arsenal.md) organizes systems around effects. [Information, autonomy and enablers](architecture/information-autonomy-and-enablers.md) defines observation, communications, maintenance, robotics and sovereign offline operation. [The common technical architecture](architecture/common-technical-architecture.md) controls interfaces, degraded modes, machine authority and provenance. [The platform requirement register](architecture/platform-requirement-register.md) prevents exterior form from outrunning evidence.
+## The live design doctrine
 
-The governing rule is **standardize boundaries; diversify critical implementations**. Interoperability without provider, software and component diversity can turn a common architecture into a national common-mode failure.
+Four nested units now anchor the force:
 
-### Economics
+> A **district** is the smallest repeatable occupied system. A **pod** is the smallest effect-complete deployable increment. A **cell** is the smallest independently supported campaign path. A **force** is the set of certified cells, fixed capacity, commands, sustainment, and regeneration that can meet the concurrency standard.
 
-[Force and resource modeling](economics/force-and-resource-model.md) preserves the first Department-wide top-down screen. Later bottom-up force generation supersedes its headcount while retaining its sensitivity structure. The current integrated frame is about $12.05 trillion over twenty-five years and $858 billion in mature annual operations. These are nested scale hypotheses, not estimates or budget recommendations.
+Independence exists only inside a declared dependency envelope. A formation that shares its only fuel source, data service, specialist workforce, inspection authority, repair chain, or receiving node with another formation cannot be counted as an independent path.
 
-## Evidence discipline
+The present national reference is therefore **protect locally where complete service can be made robust; move selectively where hazard, building, medical, duration, or restoration conditions require it; preserve reception and funded return as part of the same operation**. This is a doctrine to test, not a slogan to defend.
 
-Every major claim has a maturity state:
+## Research discipline
 
-| State | Meaning |
-| --- | --- |
-| `R0` | Verbal mission and public-effect hypothesis. |
-| `R1` | Functional architecture and complete-chain boundary. |
-| `R2` | Bounded operating concept with alternatives and failure modes. |
-| `R2+` | First-order configuration arithmetic that reconciles internally. |
-| `R3` | Closed physics and representative evidence for the complete system. |
-| `R4` | Demonstrated formation under realistic, adversarial and repeatable trials. |
+Claims progress from a verbal mission (`R0`) through functional architecture (`R1`), bounded concept (`R2`), first-order configuration (`R2+`), closed physics and representative evidence (`R3`), and repeatable formation demonstration (`R4`).
 
-The [source ledger](ledgers/source-ledger.md) records provenance. The [evidence ledger](ledgers/evidence-ledger.md) records what would falsify or change a claim. The [research log](ledgers/research-log.md) preserves chronology without requiring the reader to experience the work in discovery order.
+A green workbook check establishes only that declared arithmetic reconciles. National scale is not validated by multiplying an unproved module. Simulation is not a probability statement unless its parameter distribution is empirically warranted. Capacity receives credit only when the complete path to public effect closes.
 
-No major platform has reached `R3`; renderings remain blocked.
+No major platform is at `R3`. Renderings remain blocked.

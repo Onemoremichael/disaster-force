@@ -1,99 +1,74 @@
 # Disaster Force
 
-> What would the United States build if restoring life-support systems after catastrophe were treated as a coequal instrument of national power?
+> What would the United States build if preserving and restoring civilian life-support after catastrophe were treated as a coequal instrument of national power?
 
-Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**. It asks what permanent institutions, forces, industries and technologies would be required to project water, power, medical care, mobility, communications, shelter, food and civil stabilization with the seriousness now reserved for military force projection.
+Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**. It is not a proposal to enlarge emergency management, militarize relief, or populate a catalog with converted ships and aircraft. It asks what the nation would own, invent, staff, position, and continuously prove if water, power, medical care, thermal safety, communications, mobility, shelter, food, access, and civil stabilization were public promises rather than improvised outcomes.
 
-This is not an enlarged emergency agency, a civilian military auxiliary or a fleet of converted leftovers. The premise is purpose-built capacity: original vehicle and infrastructure classes, sovereign supply chains, standing professions, rival technology programs, independent test and a public promise measured in restored service over time.
+Political permission is assumed. Physics, geography, time, workforce, safety, rights, industrial capacity, environmental consequence, and the ability to operate after common infrastructure fails are not.
 
-Political permission is assumed. Physics, geography, workforce, safety, law, industrial capacity, civil legitimacy and environmental consequence are not.
+## Executive judgment
 
-## The argument in one page
+The United States cannot create resilience power by buying more response equipment. It must create a second national power-projection system whose unit of account is **protected or restored service for a defined population over time**.
 
-The Department is designed backward from a **population-service deficit over time**. Its measure of value is a safely delivered public effect by a deadline, not money spent, equipment dispatched or nominal capacity at the origin.
+That changes the design object. A desalination plant without intake, energy, residual control, pipe, pressure, storage, quality assurance, wastewater, operators, and civil transfer is not water capability. A hospital without staff, utilities, supply, referral, discharge, and patient movement is not medical capability. A seat leaving an affected area without collection, accessibility, custody, destination admission, continuity, and funded return is not mobility capability.
 
-That choice creates a hierarchy:
+The governing chain is:
 
-> public promise → national establishment → employable force → campaign path → service pod → occupied district → protected person-hour
+```text
+PUBLIC PROMISE
+      ↓
+DEPARTMENT OF RESILIENCE        sets policy, authority, funding, and accountability
+      ↓
+NATIONAL RESILIENCE ESTABLISHMENT
+      │                         generates people, formations, industry, science,
+      │                         bases, stocks, doctrine, and receiving capacity
+      ↓
+RESILIENCE FORCE                the certified portion actually ready to employ
+      ↓
+CAMPAIGN PATH → CELL → POD → OCCUPIED DISTRICT
+      ↓
+PROTECTED PERSON-HOURS AND RESTORED PUBLIC SERVICE
+```
 
-Each level must close before the next can receive credit.
+Credit flows from the bottom up. Equipment in inventory, mass delivered, or capacity at an origin cannot substitute for a safe public effect at the far end.
 
-The **Department of Resilience** owns the national promise. The **National Resilience Establishment** generates capacity through operating services, commands, laboratories, schools, ranges, depots, reserves, suppliers, standards and partners. The **Resilience Force** is the certified subset that can actually deploy. A cell is the smallest independently supported origin-to-effect path. A pod is the smallest indivisible increment of complete public service. A district is the smallest repeatable occupied system.
+## The force taking shape
 
-This is why the repository no longer treats ships, aircraft, reactors, robots or shelters as the organizing units. They are components inside service chains.
+The mature concept is a permanent civil establishment, not an incident headquarters. Seven operating services generate land engineering, air response, maritime response, infrastructure restoration, health protection, community stabilization, and civil mobility forces. Geographic and functional commands employ them. An independent civil authority governs priorities and legitimacy; separate technical authorities govern safety and release. Laboratories, proving grounds, academies, depots, arsenals, shipyards, production reserves, and supplier networks are part of the force because readiness cannot be borrowed during correlated national demand.
 
-## The current thesis
+Operationally, the Department combines four machines:
 
-The research now supports four connected conclusions.
+- **protected-local continuity**, which keeps people in safe service near home when movement would add risk;
+- **hazard control and lifeline restoration**, which changes the physical incident rather than merely enduring it;
+- **service projection**, which moves complete effect-producing formations through damaged networks; and
+- **civil mobility, reception, and return**, which moves selected people lawfully into prepared capacity and preserves their care, rights, family integrity, and path home.
 
-First, the Department must be a force-generating establishment, not a coordinating headquarters. The current national screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. Its roughly $12.05-trillion capital frame and $858-billion mature annual operating hypothesis describe the scale of the ambition; they are not estimates or recommendations.
+They are backed by a fifth machine: the force-generation, science, industrial, and proving establishment that keeps all four real between disasters.
 
-Second, nominally diverse deployment paths fail together. Cascadia closed deterministically, then fell below the assurance target when fuel, communications, labor, authority, inspection and repair were allowed to become shared causes. That failure produced independently supported entry cells, indivisible service pods and complete occupied districts.
+This is intentionally more ambitious than preserving current institutions. Existing agencies, utilities, military capabilities, contractors, nonprofits, and state systems are evidence and possible transition sources. None is allowed to define the mature boundary by inheritance.
 
-Third, fixed readiness is part of force projection. A prepared receiving lattice can remove most of the occupied-area burden from mobile cargo, but only if the sites survive where demand occurs. The population-weighted national screen found 2,355.80 CDE surviving against 2,500 demanded; mobility cannot route people into capacity that no longer exists.
+## What the research has changed
 
-Fourth, moving people is not a logistics afterthought—but mass relocation is not a substitute for robust local protection. The [National Civil Mobility and Continuity Force](research/force/mobility/national-civil-mobility-and-continuity-force.md) gates road, rail, air and water paths with federal network data and preserves five distinct movement needs. Its restorable mesh passed 98.8 percent of one fixed trial distribution. [Civil Mobility Assurance Under Deep Uncertainty](research/force/mobility/mobility-assurance-under-deep-uncertainty.md) then varied twelve uncertain conditions across 1,000 broad worlds: the mesh passed only 7.6 percent, while protected-local continuity passed 99.8 percent.
+The program began with platforms and a $1 trillion thought experiment. Complete-service engineering broke that framing.
 
-The same pass moved inside the catchment. Four tract pilots show that only 9.0–20.4 percent of weighted accessible collection burden lies within sixty minutes of the provisional node lattice even before network damage. The first `CTN-10` screen yields a 29,263-m², 4,513-t, 2,289-person formation—not the earlier 220-person detachment.
+Water and power studies showed that distribution, waste, construction, inspection, and labor can outweigh the attractive production module. Fire and flood studies showed that sortie counts and pump nameplates do not equal controlled fire or water. A national force-allocation screen then produced a much larger establishment hypothesis—roughly 714,000 people simultaneously deployed, 3.95 million affiliated billet-equivalents, $12.05 trillion in capital, and $858 billion in mature annual operations. These figures are scale hypotheses, not estimates or recommendations.
 
-That result is conditional and therefore useful. It identifies what must be proved next instead of allowing a national average to hide the same stranded populations.
+Cascadia campaign work showed that apparently diverse routes fail together through fuel, communications, labor, authority, inspection, and repair. That result produced independently supportable campaign cells and indivisible service pods. Population-continuity work then configured the occupied district beneath the pod and demonstrated how quickly human services, construction labor, and cargo mass break an elegant deployment schedule.
 
-> National resilience power requires four coequal machines—force generation, service projection, civil mobility and prepared reception—organized around a fifth governing choice: protect locally wherever possible and move selectively when necessary.
+The most important recent reversal concerns relocation. A national restorable mobility mesh passed 98.8 percent of trials under one fixed distribution, but only 7.6 percent of 1,000 broad uncertainty worlds. A protected-local architecture passed 99.8 percent of those worlds. That does not prove its real-world probability or economic optimality. It changes the burden of proof: mass relocation is now a selective subsystem of protection, not the default answer to failed local service.
 
-## What is established and what remains open
+## Where the inquiry is now
 
-| Established at the current maturity | Still unproved |
-| --- | --- |
-| Public effect over time is the governing unit | Causal service-to-outcome functions for most missions |
-| Force, pod, cell and district are distinct design levels | Representative hardware and occupied mission trials |
-| Route, receiver and shared-enabler failure must be modeled together | Fitted joint fragility and parameter distributions |
-| Accessibility, clinical regulation, custody and return consume capacity | Damaged-route, building- and person-scale door-to-berth performance |
-| Fixed-probability success can reverse under broad uncertainty | Fitted joint distributions and least-regret local-protection/mobility balance |
-| Fixed receivers and mobile formations are one system | Sites, vehicle geometry, detailed cost and industrial schedules |
+The current problem is the boundary between local protection and movement. National averages conceal the people stranded between a building and a transfer node, the queue between that node and line haul, and the gap between arrival and lawful destination admission. The next campaign must couple building access, damaged local roads, protected service options, transfer-node activation, accessible movement, destination capacity, and return in one metropolitan geography.
 
-No major platform has reached `R3`. Green model checks establish internal reconciliation, not real-world readiness.
+No major platform has reached `R3` engineering maturity. Renderings remain deferred. The next useful image must explain a system whose mass, energy, flow, structure, heat, crew, maintenance, movement, safety, waste, and degraded states already close; it cannot be used to make an unclosed idea feel inevitable.
 
-## Read by question
+## Enter the project
 
-Four paths cover most uses:
+For the argument as it stands, read the [strategic study](research/synthesis/strategic-study.md).
 
-| If you want to… | Begin with | Then follow |
-| --- | --- | --- |
-| Understand the whole thesis | [Strategic study](research/synthesis/strategic-study.md) | The linked evidence and models at each decision |
-| Audit how the argument is derived | [Research atlas](research/README.md) | Promise → institution → force → campaign → configuration → proof |
-| Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → mobility → reception |
-| Work at the current design frontier | [Mobility assurance under deep uncertainty](research/force/mobility/mobility-assurance-under-deep-uncertainty.md) | Local protection → collection → transfer → line haul → reception and return |
+For the logic behind every layer and the authoritative path through the corpus, use the [research guide](research/README.md).
 
-The [model catalog](models/README.md) connects every workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions. Chronology exists only in the [research log](research/ledgers/research-log.md).
+For executable assumptions and sensitivities, use the [quantitative model catalog](models/README.md). The workbooks are the only non-Markdown research artifacts.
 
-## Research architecture
-
-The repository is arranged by the role a claim plays:
-
-| Layer | What it controls | Location |
-| --- | --- | --- |
-| Promise | Public effects, populations, deadlines and design missions | [foundations](research/foundations/) |
-| Sovereign capacity | Departmental authority and national utility projection | [institution](research/institution/) |
-| Force | Generation, service projection, civil mobility and prepared reception | [force-design spine](research/force/README.md) |
-| Campaign proof | Geography, damaged networks, covariance and closure | [campaigns](research/campaigns/) |
-| Complete-service physics | Configuration of population, water, power, fire, flood, mobility and health effects | [capabilities](research/capabilities/) |
-| Shared boundaries | Interfaces, autonomy, degraded modes and admission gates | [architecture](research/architecture/) |
-| Invention and proof | Rival technology portfolios and proving infrastructure | [innovation](research/innovation/) |
-| Consequence | Workforce, industry, capital and operating burden | [economics](research/economics/) |
-| Integration | Cumulative argument and control records | [synthesis](research/synthesis/) and [ledgers](research/ledgers/) |
-
-Models are the only non-Markdown research artifacts. Renderings remain deferred.
-
-## How novelty enters
-
-The project is not technology-conservative. It anticipates high-rate no-pier logistics, strategic-to-austere airlift, compact utilities, climate-safe occupied systems, autonomous construction, rapid inspection, grid-forming power, water and residual treatment, disconnected information systems, machine-readable safety cases and automated cargo recomposition.
-
-Novelty is pulled by failed mission threads. A desalination carrier is useful only with intake, energy, treatment, residual custody, pipeline, pressure, storage, quality, wastewater and civil transfer. A firefighting aircraft is useful only inside sensing, basing, airspace, sortie, delivered-yield, line, hold, protection and smoke systems. A transport is useful only when its cargo becomes lawful public service at the far end.
-
-The mobility result demonstrates the method. A complete occupied system first broke the transport ceiling. Prepared receivers restored aggregate timing; real geography then broke the receiver assumption. An accessible fleet restored the national average; joint route-receiver damage then exposed the geographic tail. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
-
-## Evidence before imagery
-
-Claims move from a verbal mission (R0) to functional architecture (R1), bounded concept (R2), first-order configuration (R2+), closed physics (R3) and demonstrated formation (R4). A green workbook check means the declared formulas reconcile. It does not mean the system works.
-
-No major platform has reached R3. Rendering begins only after mass, energy, flow, heat, structure, stability, crew, maintenance, movement, reception, safety, dependencies and lifecycle evidence close for the complete operating system. The first images must explain those systems—connections, work fronts, crews, waste and degraded states—not conceal them behind an exterior form.
+For provenance and falsification, use [research assurance](research/assurance/README.md). For how the concept evolved—including superseded conclusions—use [research history](research/history/README.md).
