@@ -29,7 +29,7 @@ Concept renderings begin at R3 and must show the complete operating system, not 
 
 ## Department-level technology primitives
 
-Pass 16 adds a layer beneath individual platforms. These are common research programs, not vehicles and not operational credits.
+Pass 16 adds a layer beneath individual platforms. Pass 17 converts that layer into a controlled architecture with fifty boundary contracts and a 25-system conformance matrix. These are common research programs, not vehicles and not operational credits.
 
 | ID | Primitive | Status | Department requirement | Acceptance condition before platform credit | State |
 |---|---|---|---|---|---|
@@ -163,6 +163,6 @@ The first rendering candidates are selected only after quantitative modeling and
 5. **Littoral and regional medical groups:** close patient demand, clinical flow, transfer, staff rotation, utility and discharge balances.
 6. **FIN and HCG-100:** execute the Pass 15 `ARPA-R` / independent `RTEA` campaign: 46 preregistered packages across ten purpose-built range families, rival prototype cohorts and eight escalating mission threads. Correlated action tails, full-curve pump/intake availability, drainage-spine mass/setup/transients, dedicated interior drainage, live-flow breach reduction and amphibious operating envelopes remain first priorities; no pump, craft, barrier, robot or works-carrier drawing precedes R3 closure.
 7. **Nuclear Water–Energy Platform:** proceed only after non-nuclear alternatives, siting/licensing system, heat and mass balance, lifecycle workforce and shore distribution are modeled.
-8. **Common technology architecture:** specify and test TP-1 through TP-10 across at least three hazard threads. Platform drawings must identify which interfaces are fixed, which remain competing research paths and which burdens are not closed.
+8. **Common technology architecture:** execute the Pass 17 reference implementations, conformance harnesses and twenty interoperability trials. Twenty-four of thirty-two common-mode failures currently exceed the screening threshold; all fifty contracts and all twenty-five representative systems remain open. Platform drawings must identify fixed profiles, competing paths, adapters, degraded modes, action class, configuration baseline and every unclosed burden.
 
 The visualization brief for each concept must include cutaways or operating diagrams showing connectors, payload flow, crew, power, waste, maintenance and surrounding formation. Exterior beauty views alone would repeat the platform-first error this research is designed to avoid.

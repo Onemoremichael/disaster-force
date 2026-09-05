@@ -206,4 +206,8 @@ A communications kit is evaluated while pumps, medical devices, robots, aircraft
 | Common mission-module interfaces | Admit | Interface openness must not force false containerization or one vendor's internal design |
 | Proprietary-cloud-dependent critical equipment | Reject | Essential functions require disconnected and sovereign sustainment modes |
 
+## Common architecture control
+
+The cross-Department rules are specified in [The common resilience technical architecture](28-common-resilience-technical-architecture.md). The information and autonomy layer must operate across `D0` connected, `D1` intermittent, `D2` isolated and `D3` manual-safe states; carry action authority from `A0` observation through `A4` life-, rights- or irreversible decisions; and preserve identity, time, location, measurement, configuration, authority, uncertainty and outcome. It must also contain correlated fleet failure through diversity, partitions, canary updates, independent measurement, rollback and physical inhibits. A common model or signed update is not trusted merely because it is common or signed.
+
 [^nist-deployable]: National Institute of Standards and Technology, [*Public Safety 700-MHz Broadband Deployable Systems*](https://www.nist.gov/programs-projects/public-safety-700-mhz-broadband-deployable-systems), updated March 26, 2025.
