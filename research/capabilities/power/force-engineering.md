@@ -525,7 +525,7 @@ The Department should create a power-restoration industrial sector with the dept
 
 The Department's demand could reduce the current fragmentation of transformer and temporary-power specifications, fund multi-ratio and flexible-transformer research, establish multiple production sources, and keep national test and repair capacity warm. The export product would be more than hardware: certified utility islands, deployment doctrine, training, spares, digital models, and long-term maintenance.
 
-## Relationship to the six services
+## Relationship to the operating services
 
 The Infrastructure Restoration Service generates and technically governs the `PRG`. Operations require habitual support:
 
@@ -536,6 +536,7 @@ The Infrastructure Restoration Service generates and technically governs the `PR
 | Maritime Response | barge generation, island/coastal movement, port power, fuel and heavy transformer transport |
 | Health Protection | hospital and medical-device load definition, clinical consequence, health-facility transfer |
 | Community Stabilization | cooling/heating-center access, shelter and food nodes, vulnerable-user registry, public information |
+| Civil Mobility and Continuity | protected-person transfer nodes, accessible movement, passenger thermal continuity and destination intake |
 | Theater Opening Command | port, rail, road, cargo handling, staging and onward movement |
 | Theater Sustainment Command | fuel, repair parts, responder support, workshops, waste and replacement flow |
 | Resilience Information Group | communications, geospatial model, cyber, data exchange and public service status |

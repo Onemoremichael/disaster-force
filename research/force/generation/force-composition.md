@@ -4,7 +4,7 @@
 
 The Resilience Force should be composed as a **national and globally deployable system of complete mission packages**, not a warehouse of equipment and not a collection of hazard agencies. Each package must contain the people, tools, transport interface, command, data, consumables, maintenance, protection, and endurance needed to deliver a measured civilian service effect.
 
-The planning assumption is parity of seriousness with national defense. The force therefore includes mass as well as elite teams: full-time formations in every region; air, land, maritime, infrastructure, health, and community-stabilization services; strategic and tactical mobility; months of rotational depth; a very large reserve; overseas access and pre-positioning; national depots and production; and enough residual capacity to respond while another major operation is underway.
+The planning assumption is parity of seriousness with national defense. The force therefore includes mass as well as elite teams: full-time formations in every region; land, air, maritime, infrastructure, health, community-stabilization, and civil-mobility services; strategic and tactical mobility; months of rotational depth; a very large reserve; overseas access and pre-positioning; national depots and production; and enough residual capacity to respond while another major operation is underway.
 
 It is entirely plausible that quantitative design will produce a mature establishment of several hundred thousand active members, a reserve of comparable or greater size, hundreds of major aircraft and vessels, tens of thousands of specialized ground systems, and a budget measured in multiple percentage points of federal spending. This pass does not select those numbers by intuition. It makes clear that a boutique force is outside the design space.
 
@@ -22,18 +22,19 @@ No unit label is meaningful without all five.
 
 ## Services generate; joint task forces deliver
 
-The Department of Resilience's six services provide durable professional and industrial homes:
+The Department of Resilience's seven services provide durable professional and industrial homes:
 
 | Generating service | Primary force-generation responsibility | Recurring joint dependencies |
 |---|---|---|
-| Land Engineering Service | Ground access, heavy construction, flood works, debris, temporary infrastructure, ground fire operations | Air and maritime lift, infrastructure technicians, health protection, community transfer |
-| Air Response Service | Lift, aerial fire control, sensing, relay, evacuation, airborne delivery, uncrewed systems | Ground reception, fuel, medical regulation, weather and airspace coordination |
-| Maritime Response Service | Sealift, coastal and inland-water access, offshore production, port opening, salvage, floating support | Port and ground distribution, infrastructure connection, medical and community support |
+| Land Engineering Service | Ground access, heavy construction, flood works, debris, temporary infrastructure, ground fire operations | Air and maritime lift, infrastructure technicians, route certification, community transfer |
+| Air Response Service | Cargo and force lift, aerial fire control, sensing, relay, airborne delivery, austere aviation, uncrewed systems | Ground reception, fuel, civil-passenger regulation, weather and airspace coordination |
+| Maritime Response Service | Cargo sealift, coastal and inland-water access, offshore production, port opening, salvage, floating support | Port and ground distribution, civil-passenger regulation, infrastructure connection, medical and community support |
 | Infrastructure Restoration Service | Power, water, wastewater, communications, fuel systems, grid and utility restoration | Engineering works, strategic logistics, public health, owner transfer |
-| Health Protection Service | Field and definitive care, public health, patient movement, health workforce replacement | Power, water, oxygen, waste, communications, transport, shelter |
+| Health Protection Service | Field and definitive care, public health, patient regulation, health workforce replacement | Power, water, oxygen, waste, communications, protected movement, shelter |
 | Community Stabilization Service | Shelter, food, essential goods, information, accessible services, temporary civil support, housing transition | All producing services plus local institutions and recovery finance |
+| Civil Mobility and Continuity Service | Door-to-node collection; accessible road, rail, air and water movement; transfer nodes; clinical, household and custody continuity; reunification and return | Route restoration, common-user force lift, receiving capacity, health regulation, civil and sovereign authority |
 
-No service deploys a self-contained campaign. A coastal megastorm task force, for example, might contain Maritime port-opening and production groups, Land access and debris groups, Infrastructure power-water-communications groups, Health continuity groups, Air lift and sensing groups, and Community shelter and transition groups under one geographic commander.
+No service deploys a self-contained campaign. A coastal megastorm task force, for example, might contain Maritime port-opening and production groups, Land access and debris groups, Infrastructure power-water-communications groups, Health continuity groups, Air cargo and sensing groups, Civil Mobility collection and protected-movement groups, and Community shelter and transition groups under one geographic commander.
 
 ## The force is built from capability records
 
@@ -178,7 +179,7 @@ Communications modules should be evaluated by **priority users and geographic ar
 
 ## 6. Mobility, access, and distribution
 
-**Purpose:** open and sustain paths for people, responders, goods, utilities, and waste across damaged terrain and infrastructure.
+**Purpose:** open and sustain paths for people, responders, goods, utilities, and waste across damaged terrain and infrastructure. This is an effect portfolio shared across services, not a single service's ownership map.
 
 Required module families include:
 
@@ -188,11 +189,11 @@ Required module families include:
 - high-water, shallow-water, off-road, snow, and debris-field mobility;
 - airfield, heliport, railhead, port, and beach reception;
 - cargo handling, cross-docking, container management, and material-handling equipment;
-- evacuation and accessible mass transport;
+- door-to-node collection, accessible passenger movement, transfer, destination intake and return continuity;
 - last-mile delivery by crewed and uncrewed systems; and
 - movement-control centers that allocate scarce routes, slots, and lift.
 
-The unit of effect is **sustainable throughput from origin to point of use**. Tons arriving at a regional airport do not count if local roads, unloading equipment, storage, manifests, recipients, or return flows are absent.
+The unit of effect is **sustainable throughput from origin to point of use or person to complete service**. Tons arriving at a regional airport do not count if local roads, unloading equipment, storage, manifests, recipients, or return flows are absent. Passenger departure does not count if accessibility, clinical regulation, household and custody continuity, destination admission and return are unresolved. The Civil Mobility and Continuity Service generates that person-specific chain; Land, Air, Maritime and joint logistics formations still generate much of the route and common-user capacity on which it depends.
 
 ## 7. Water, sanitation, and hygiene
 
@@ -251,9 +252,9 @@ USACE notes that debris work ranges from emergency clearance to removal, demolit
 
 The service-effect portfolios cannot deploy themselves. Five enabling systems should be designed as first-class operational capabilities.
 
-### Strategic mobility and reception
+### Common-user deployment and distribution
 
-This command controls common-user air, sea, rail, and road movement; movement priorities; load planning; hazardous-material documentation; reception hubs; and onward movement. It does not need to own every carrier, but it must own enough assured lift and handling capacity to establish a credible deployment floor.
+Strategic Mobility Command controls common-user air, sea, rail and road movement for forces and cargo; movement priorities; load planning; hazardous-material documentation; force-reception hubs; and onward movement. It does not need to own every carrier, but it must own enough assured lift and handling capacity to establish a credible deployment floor. The National Civil Mobility and Continuity Command separately controls the lawful person-to-receiver chain. Shared vehicles or nodes require an explicit supported/supporting decision; neither command may count the same capacity twice.
 
 ### Sustainment and maintenance
 

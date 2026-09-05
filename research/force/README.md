@@ -2,9 +2,9 @@
 
 The Resilience Force is easier to understand as four coupled machines than as a catalog of formations.
 
-> generate capacity → move it through damage → receive and release it → sustain public service
+> generate service capacity → project it into damage → move people through danger → receive and sustain them
 
-The research is organized as three operating subsystems rather than a shelf of papers. Older results remain useful as model lineage, but later configuration work supersedes their headline arithmetic where noted.
+The research is organized as four operating subsystems rather than a shelf of papers. Older results remain useful as model lineage, but later configuration work supersedes their headline arithmetic where noted.
 
 ## The canonical path
 
@@ -26,11 +26,17 @@ These papers answer **how capacity reaches a region despite covariance**. Their 
 
 The pod result is then compiled by [population continuity](../capabilities/population-continuity/README.md). `PCC-50` assigns services to explicit populations; `PCC-D1` configures one complete 1,000-person occupied district. That physical configuration supersedes the pod's earlier shelter allowance and breaks the mobile-only hour-72 screen.
 
-### 4. Treat destination readiness as force capacity
+### 4. Move people as complete civil-service chains
+
+The [mobility subsystem](mobility/README.md) begins where evacuation doctrine usually stops. It distinguishes door-to-node collection, protected transfer, multimodal line-haul, destination admission and return. Its reference force uses observed national network gates, five mutually exclusive movement cohorts, four purpose-built fleets, two transfer-node classes, route-restoration groups, commands and bases.
+
+This is the current frontier. A universal-access architecture averages 97.8-percent national closure but passes the joint distributional rule in only 13.8 percent of trials. A restorable multimodal mesh is the first architecture to cross the provisional assurance target, at 98.8 percent under the declared 500-trial stress. All of its probabilities and performance remain unproved.
+
+### 5. Treat destination readiness as force capacity
 
 The [reception subsystem](reception/README.md) makes fixed sites, surviving buildings, utility interfaces, stocks, records, inspection, labor and civil release a coequal operational force. National Receiving Geography then joins thirty-two population-weighted catchments, concurrent receiver damage, four movement modes and destination intake.
 
-This is the current frontier: **the baseline force is both capacity-limited and geography-limited**. Only 2,355.80 CDE survive against 2,500 demanded; baseline corridors serve 2,066.42 CDE. Even frictionless transfer cannot close the aggregate deficit.
+This is the mobility force's destination half: **the baseline force is both capacity-limited and geography-limited**. Only 2,355.80 CDE survive against 2,500 demanded; baseline corridors serve 2,066.42 CDE. Even frictionless transfer cannot close the aggregate deficit.
 
 ## Supersession map
 
@@ -43,15 +49,17 @@ This is the current frontier: **the baseline force is both capacity-limited and 
 | National N-2 capacity closure | Population-weighted concurrent geography | Aggregate screen only; national closure denied |
 | Sixteen equal regions | Thirty-two connected population-weighted SCAs | Historical stress screen only |
 | Receiver transfer | Population relocation into surviving receivers | Capacity does not move; people and rights do |
+| Abstract corridor multiplier | National Civil Mobility and Continuity Force | Current fleet, node, workforce and stochastic reference |
+| National mean closure | Joint total, protected-cohort and bottom-decile rule | Current architecture admission test |
 
 ## Supporting papers
 
-The [generation](generation/README.md), [projection](projection/README.md) and [reception](reception/README.md) indexes are the stable navigation layer. Individual papers own bounded decisions inside each subsystem.
+The [generation](generation/README.md), [projection](projection/README.md), [mobility](mobility/README.md) and [reception](reception/README.md) indexes are the stable navigation layer. Individual papers own bounded decisions inside each subsystem.
 
 The campaign papers test the force against geography. The capability papers close the physical service systems. The architecture papers govern shared interfaces and rendering admission. The model catalog identifies the executable argument behind each decision.
 
 ## Current research decision
 
-Retain three rival architectures at `R1/R2`: anti-correlated dense local reception, a purpose-built national civil-mobility and continuity force, and greater mobile substitution in damaged areas. Replace the current planning paths with real multimodal networks and solve an equity-constrained stochastic allocation before selecting sites or vehicles.
+Advance the restorable multimodal mesh to adversarial research while retaining protected-local reception as a live rival. Replace fixed survival probabilities with parameter distributions, move from SCA averages to tract- and person-scale collection, and configuration-close one transfer node and one universal passenger module before selecting vehicles.
 
-All twenty geographic-allocation evidence gates remain open. No platform rendering is authorized.
+All twenty-two mobility evidence gates remain open. No platform rendering is authorized.

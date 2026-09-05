@@ -14,7 +14,7 @@ Read these in order if the objective is to understand the current concept rather
 
 [First principles](foundations/first-principles.md) makes population-service-time the unit of national performance. It explains why activity, equipment delivered and nominal capacity cannot stand in for water safely used, power delivered, patients treated or communities protected.
 
-[Department of Resilience](institution/department-of-resilience.md) assigns that promise to a zero-based cabinet institution with six operating services, joint commands, civil and technical authority, acquisition, science and industrial mobilization. It distinguishes the Department that governs, the Establishment that generates and the Force that can actually deploy.
+[Department of Resilience](institution/department-of-resilience.md) assigns that promise to a zero-based cabinet institution with seven operating services, joint commands, civil and technical authority, acquisition, science and industrial mobilization. It distinguishes the Department that governs, the Establishment that generates and the Force that can actually deploy.
 
 ### II. Build a force, not a portfolio
 
@@ -36,7 +36,9 @@ The deterministic campaign closed. [The covariance study](campaigns/cascadia-net
 
 [Population continuity](capabilities/population-continuity/README.md) replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. `PCC-D1` then configures one complete 1,000-person occupied district. Its 78.71-tonne, 446.60-cubic-metre transformational case produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
 
-[The receiving subsystem](force/reception/README.md) is the current frontier. The National Receiving Lattice first makes land, buildings, utilities, stocks, inspectors, records, labor and civil release into generated force capacity. [National Receiving Geography](force/reception/national-receiving-geography.md) then replaces equal regions with thirty-two population-weighted catchments. Only 2,355.80 CDE survive against 2,500 demanded; a baseline four-mode corridor plan serves 2,066.42. The next question is how anti-correlated local capacity, lawful civil mobility and mobile substitution should be combined.
+[The receiving subsystem](force/reception/README.md) makes land, buildings, utilities, stocks, inspectors, records, labor and civil release into generated force capacity. [National Receiving Geography](force/reception/national-receiving-geography.md) then replaces equal regions with thirty-two population-weighted catchments. Only 2,355.80 CDE survive against 2,500 demanded; a baseline four-mode corridor plan serves 2,066.42.
+
+[The mobility subsystem](force/mobility/README.md) is the current frontier. The [National Civil Mobility and Continuity Force](force/mobility/national-civil-mobility-and-continuity-force.md) replaces that corridor abstraction with federal network gates, human-compatible movement cohorts, purpose-built fleets and transfer nodes, route restoration and a joint stochastic allocation. Its central finding is that 97.8-percent average closure can coexist with repeated geographic exclusion.
 
 This is the present force-design doctrine:
 
@@ -66,7 +68,8 @@ SOVEREIGN CAPACITY
   force/
       generation/ — formation and readiness
       projection/ — deployment, entry cells and pods
-      reception/ — fixed readiness, geography and civil mobility
+      mobility/ — population collection, transfer, line-haul and return
+      reception/ — fixed readiness, geography and destination intake
 
 CAMPAIGN PROOF
   campaigns/
@@ -98,7 +101,7 @@ The foundation layer prevents a ship, aircraft, robot, reactor or mega-base from
 
 ### Institution and force
 
-The [force-design spine](force/README.md) is the canonical guide to the [generation](force/generation/README.md), [projection](force/projection/README.md) and [reception](force/reception/README.md) subsystems. It records which earlier timing results have been superseded by physical configuration and geographic allocation.
+The [force-design spine](force/README.md) is the canonical guide to the [generation](force/generation/README.md), [projection](force/projection/README.md), [mobility](force/mobility/README.md) and [reception](force/reception/README.md) subsystems. It records which earlier timing results have been superseded by physical configuration, geographic allocation and distributional assurance.
 
 The [National Utility Projection System](institution/national-utility-projection-system.md) tests one strategic function across twenty-six candidate anchor complexes, ten concurrent campaigns, about 198,200 billets and a $1.698 trillion capital hypothesis. It shows why a floating nuclear water-and-power source is not a self-contained capability.
 

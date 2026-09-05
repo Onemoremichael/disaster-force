@@ -44,7 +44,7 @@ DOE's microgrid program describes standardized, adaptive control, automation and
 
 ### Command position
 
-`UPCOM` should be a unified functional command reporting through the Chief of the Resilience Staff. It receives formations from the six operating services and assigns them to domestic geographic commands or Global Resilience Command. In routine conditions, it operates the anchor network and controls strategic readiness. During a campaign, the affected geographic commander normally becomes the supported commander for civilian outcomes, while `UPCOM` remains the supporting command for scarce utility forces, network rerouting and national continuity.
+`UPCOM` should be a unified functional command reporting through the Chief of the Resilience Staff. It receives formations from the seven operating services and assigns them to domestic geographic commands or Global Resilience Command. In routine conditions, it operates the anchor network and controls strategic readiness. During a campaign, the affected geographic commander normally becomes the supported commander for civilian outcomes, while `UPCOM` remains the supporting command for scarce utility forces, network rerouting and national continuity.
 
 When a failure spans several geographic commands—such as a multiregional grid event, fuel-system collapse or simultaneous drought and heat emergency—the Secretary may designate `UPCOM` as supported for the national utility campaign. Civil priority remains with the Civil Resilience Authority and affected governments; operational unity does not confer power to set social allocation without them.
 

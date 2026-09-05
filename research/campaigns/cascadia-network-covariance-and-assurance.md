@@ -158,7 +158,7 @@ The cellular case adds a provisional $228B to the $373.44B Pass 25 regional attr
 
 ### From functional services to cell-generating services
 
-The Department's six operating services should still maintain professional depth, but readiness reporting should shift from platform or formation counts to certified cells. A service would be responsible not merely for producing aircraft, ships, power modules or hospitals, but for contributing complete cell layers with declared independence pedigrees.
+The Department's seven operating services should still maintain professional depth, but readiness reporting should shift from platform or formation counts to certified cells. A service would be responsible not merely for producing aircraft, ships, power modules, protected-movement systems or hospitals, but for contributing complete cell layers with declared independence pedigrees.
 
 A cell readiness record should include:
 
