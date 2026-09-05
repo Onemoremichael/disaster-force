@@ -52,6 +52,7 @@ Each developed domain then has a deliberate pair: a force-engineering paper deri
 | Domain | Force engineering | Configuration analysis | Central finding |
 | --- | --- | --- | --- |
 | Water | [Water restoration force](capabilities/water/force-engineering.md) | [WRG-50](capabilities/water/configuration-model.md) | Distribution, pressure, storage, quality, wastewater, construction, and lift dominate the idea of a treatment plant. |
+| Strategic water–energy | [Water, energy, and utility systems](capabilities/water-energy-and-utility-systems.md) | [Nuclear Water–Energy System](capabilities/water/nuclear-water-energy-system.md) | The preferred research reference separates the protected energy core from replaceable process and corridor modules at prepared nodes. |
 | Power | [Power restoration force](capabilities/power/force-engineering.md) | [PRG-100](capabilities/power/configuration-model.md) | Reuse, bypass, or rebuild of the receiving network can matter more than the generator technology. |
 | Fire | [Fire response force](capabilities/fire/force-engineering.md) | [Fire configuration](capabilities/fire/configuration-model.md) | Distributed interception and campaign closure are different force problems connected by a common control system. |
 | Flood | [Flood response force](capabilities/flood/force-engineering.md) | [Flood configuration](capabilities/flood/configuration-model.md) | Early action, hydraulic reversal, interior drainage, breach control, access, and dewatering are separate tests. |

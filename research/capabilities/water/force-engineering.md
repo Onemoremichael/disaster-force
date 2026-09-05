@@ -301,7 +301,7 @@ Lockheed-Martin-scale industrial ambition belongs here: high-rate pipe and fitti
 | `W-2` Regional Water Works family | **Remain R2** | common functional architecture is credible, but source-specific treatment trains need guaranteed feed/output/consumable envelopes |
 | `W-4` Rapid Water Grid family | **Remain R2** | hydraulic reference closes, but pressure-zoned hardware, crossings, joining productivity, recovery, and tested setup rates remain open |
 | `W-5` Wastewater and Residuals Works | **Advance R1 to R2** | return-flow and desalination-residual scale are bounded; process variants and discharge cases remain open |
-| `N-WEP` Nuclear Water–Energy Platform | **Remain held at R2** | abundant production power does not close source, shore manifold, trunk mass, pressure zones, wastewater, receiving site, licensing, security, crew, or alternative comparison |
+| `N-WES` Nuclear Water–Energy System | **Advance segmented reference to R2+** | Pass 20 closes first-order core, power, heat, water, pipe, fleet, workforce and capital screens while retaining six alternatives; receiving nodes, safety, environment, solved interfaces, reliability and cost remain open |
 
 No water platform is authorized for concept rendering yet. The next gate is a configuration-level engineering model of the WRG-50: route profiles, pump and pressure-zone schedule, treatment/feed cases, storage site plan, equipment and lift manifest, construction productivity, crew positions, maintenance/spares, and three degraded-mode demonstrations. The eventual first rendering must show the **whole utility formation**—source works, treatment, laboratory, pipeline factory, booster nodes, storage, district interfaces, sanitation, support, and people—not a futuristic desalination box.
 
