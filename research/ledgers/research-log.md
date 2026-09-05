@@ -1131,3 +1131,53 @@ All twenty-nine sheets were rendered and visually inspected. The first audit ide
 The `NRDDE` advances to `R1/R2` institutional architecture with `R2+` deterministic arithmetic. All payloads, cycles, throughput rates, node and route factors, base densities, workforce components and cost values remain assumptions. Twenty engineering and campaign gates remain open. No rendering is authorized.
 
 The next pass should build an item-level Cascadia deployment campaign: real formation load records; origin classes; independent air, port, littoral, rail, road and inland-water paths; queues; volume and handling; bridge and terminal constraints; aftershock and weather closures; safe-zone responder bases; 90-day supply; hazardous reverse flow; relief in place; and reconstitution.
+
+## Pass 25 — Cascadia Joint Resilience Campaign
+
+### Research question
+
+What mature Department of Resilience formation, command architecture, access network, sustainment system and technology program can restore public service after a magnitude-9 Cascadia rupture when the region's ports, roads, bridges, utilities, fuel, communications and workforce access fail together?
+
+### Scenario and conceptual correction
+
+Official USGS scenario and probability material, Washington exercise and transport assessments, the Oregon Resilience Plan and DOGAMI mapping establish a region-scale, long-duration and multimodal failure problem. A legacy federal analytical draft supplies provisional food/water, shelter, injury and patient-movement anchors but is explicitly labeled old and unvalidated.
+
+The campaign is not modeled as one metropolitan incident. It becomes nine temporarily disconnected service islands supplied from eight safe-zone or afloat origins. Damaged metropolitan airports and ports are receiving nodes, not assumed sources of unaffected fuel, labor, lodging, power or water.
+
+### Item-level campaign architecture
+
+Twelve paths in eleven correlation groups combine distributed upland caches, north and south heavy-air bridges, vertical lift, Puget and Oregon no-pier operations, recovered deepwater access, Columbia–Willamette shallow draft, Washington and Oregon east–west surface routes, rail and offshore support.
+
+Sixty-four formation-load records retain mass, volume, TEU, handling burden, cold-chain, hazardous and outsized state, origin, target, assigned and alternate modes, service effect, readiness and latest useful arrival. They reconcile exactly to 1,762,600 tonnes across four waves: 88,130 tonnes by day 3; 317,268 by day 14; 828,422 by day 45; and 528,780 by day 90.
+
+The first calculation failed the day-3 promise because the 650 MW grid-forming starter reached the south-air lattice on day 4. Back-solving the closure exposed a minimum 18,733.6 gross handling-equivalent tonnes/day under the declared 0.92 node factor and 0.80 deployment share. The modeled requirement was set at 19,000 and retained as an open evidence threshold.
+
+### Public-service and endurance decision
+
+Eleven service families are tested at days 3, 14, 45 and 90. A row receives credit only after the associated load arrives and then closes at the minimum of material effect, sustainment and responder-base support. All forty-four service tests close in the selected correlated-aftershock-and-winter case.
+
+The deployed force reaches 108,110 people. Nine base systems provide 97,920 stress-adjusted spaces by day 3 and 150,720 by day 45 without assuming damaged host utilities. Daily sustainment rises from 15,996 tonnes to 22,520.4 tonnes. An 80,000-tonne survival reserve supports opening operations, while local water production prevents bottled-water transport from dominating the movement system.
+
+Protected reverse flow handles medical waste, contaminated material, treatment residuals and damaged energy systems. Patient movement and thirty-day responder relief use protected seats rather than unused cargo capacity. A 180-day depot screen returns and releases the `R1/R2` equipment mass by day 120 under a thirty-day lag.
+
+### Technology and industrial result
+
+The campaign creates twelve measurable technology programs: strategic-to-austere cargo aircraft; aftershock-tolerant runway regeneration; no-pier throughput; robotic port survey and obstruction removal; civil heavy bridging; autonomous route-certification support; zero-host-utility bases; a disconnected movement ledger; hazardous reverse flow; shallow-draft distribution; rapid utility corridors; and campaign reconstitution.
+
+The attributable regional capital hypothesis is $311.2B plus $62.24B reserve, or $373.44B. Mature annual operations are $34.2B. Both are nested in the Pass 24 and Pass 23 work breakdowns and are not additional Department totals.
+
+### Evidence and verification
+
+The 32-sheet workbook contains read-me and controls; scenario, service, zone, origin, node and path records; 1,092 path-day rows; sixty-four cargo and clearance records; queues and wave closure; zone-path independence; responder bases; supply demand and capacity; service and campaign closure; reverse, patient and staff flow; reconstitution; innovation, capital and operating profiles; authority, failure and evidence gates; sources and checks.
+
+All thirty-two sheets were rendered and visually inspected. The first visual audit found that titles and subtitles were confined to narrow cells; merged title bands and row heights corrected the defect. Formula audits corrected a mode-fit reference, time-versus-mass readiness comparison, cargo delivery equation, zone-capacity reference, source check and a responder-relief capacity edge.
+
+Final calculation has no spreadsheet error values. Twenty-two checks pass. Two required research states remain `OPEN`: all twenty evidence gates and the rendering gate. The workbook archive passes structural integrity testing.
+
+### Gate and continuation decision
+
+The Cascadia campaign advances to `R2` architecture with `R2+` deterministic arithmetic. Its clean closure is a requirements demonstration, not a forecast or acquisition baseline. Every scenario quantity, path opening, throughput rate, handling factor, service effect, responder-base coefficient, workforce, authority chain, cost and technology threshold still requires representative evidence.
+
+The next pass should build asset-level path and utility covariance; replace aggregate lots with item manifests; run stochastic aftershock, weather, damage, queue, maintenance and loss cases; and design full-mission prototypes for no-pier operations, austere air, zero-host bases, utility corridors and reconstitution. An unfamiliar global campaign should follow to expose assumptions hidden by U.S. geography and authority.
+
+No rendering is authorized. The study has defined performance and test thresholds, not exterior vehicle geometry.

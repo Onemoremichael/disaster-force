@@ -259,7 +259,7 @@ Select one representative unit from each system—heavy land engineering, strate
 
 ### 13.2 Joint deployment and distribution
 
-Pass 24 establishes the institutional, time-phased and first-order capacity architecture for this enterprise. It replaces the all-mass-at-once screen with anticipatory, 72-hour, 14-day, 45-day and 90-day closure bands; reconciles eleven formation lines; and tests movement, reception, onward distribution, responder bases and sustainment as one weakest-link chain. The next step remains an item-level origin–destination–load–cycle model with real node classes, routes, distances, queues, damage, weather, fuel, maintenance and return flow. Cascadia is the first priority because it fails the correlated primary-path-loss screen.
+Pass 24 establishes the institutional, time-phased and first-order capacity architecture for this enterprise. It replaces the all-mass-at-once screen with anticipatory, 72-hour, 14-day, 45-day and 90-day closure bands; reconciles eleven formation lines; and tests movement, reception, onward distribution, responder bases and sustainment as one weakest-link chain. Pass 25's [Cascadia Joint Resilience Campaign](cascadia-joint-resilience-campaign.md) supplies the first item-level origin–destination–load–cycle test: nine service islands, twelve paths, sixty-four loads, ninety-day sustainment and reconstitution. It closes under declared coefficients but leaves asset-level damage, queues, weather, fuel, maintenance, cost and performance unvalidated.
 
 ### 13.3 Occupation and institutional force
 

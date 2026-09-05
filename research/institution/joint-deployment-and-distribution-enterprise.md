@@ -38,6 +38,10 @@ The central finding is therefore:
 
 > The Department's decisive mobility asset is not a ship, aircraft, convoy or port. It is a rehearsed chain of independent paths that converts national inventory into measurable public service while the receiving society's own support systems are impaired.
 
+### Pass 25 continuation
+
+The [Cascadia Joint Resilience Campaign](cascadia-joint-resilience-campaign.md) now executes the item-level study proposed below. It replaces the single correlated-loss scalar with nine service islands, eight safe-zone or afloat origins, twelve paths in eleven correlation groups, sixty-four mission-package records, responder bases, ninety-day sustainment, protected reverse and people flow, and reconstitution. The declared stress architecture closes all four waves and forty-four service rows, while exposing a day-3 south-air handling threshold and twenty still-open evidence gates. This does not validate Pass 24; it turns its failure into configuration and test requirements.
+
 ## 1. The object being designed
 
 ### 1.1 Not transportation, but service closure
@@ -456,7 +460,7 @@ It does not establish:
 - the environmental acceptability of a site or operation; or
 - an `R3` evidence basis for renderings.
 
-All twenty evidence gates in the model remain open. The next research pass should build one item-level, time-phased deployment dataset for the Cascadia campaign, because it combines no notice, port and route damage, high deployed mass, thin sustainment margin and correlated entry loss. That study should trace representative formations from home-station load plans through actual candidate path classes, queues, bridge and terminal constraints, self-sustaining bases, 90-day replenishment, reverse flow and reconstitution. It should produce requirements for configurations only after the chain is solved.
+All twenty Pass 24 evidence gates remain open. Pass 25 has built the first item-level, time-phased Cascadia dataset because the campaign combines no notice, port and route damage, high deployed mass, thin sustainment margin and correlated entry loss. It traces representative formations from safe-zone origins through candidate path classes, queues, node constraints, self-sustaining bases, ninety-day replenishment, reverse flow and reconstitution. The next step is to replace its design coefficients with asset-level damage covariance, item manifests, discrete-event queues, representative prototypes and multi-week independent trials.
 
 ## Conclusion
 
