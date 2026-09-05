@@ -8,6 +8,8 @@
 
 **Decision:** retain twelve provisional references and three rehearsal commitments for independent reproduction; do not generate `A2` or `S3` outcomes
 
+**Topology update:** Pass 41's [street-topology audit](new-york-l0-street-topology-audit.md) supersedes this paper's polygon-adjacency proxy. The corrected universe contains 847 candidates rather than 844 and preserves all twelve references and all three commitments.
+
 ## Executive judgment
 
 The first New York selection run demonstrates that a serious resilience force cannot begin a metropolitan test by pointing to twelve convenient neighborhoods. It must first build a governed evidence surface, define the population unit, turn built form into falsifiable strata, expose every exclusion and missing join, and commit to a selection order before either architecture produces a result.
@@ -149,8 +151,8 @@ That is not an argument for a single omniscient federal database. It is an argum
 
 `L0` closes only after the following actions are complete:
 
-1. **Street-topology audit.** Replace polygon touch with a versioned pedestrian/local-street graph that handles grade separation, bridges, restricted land, waterways and island components. Publish every tract-group change relative to this rehearsal.
-2. **Independent reproduction.** A separate team re-downloads the declared sources, verifies hashes or documents source drift, reimplements the canonical method and reconciles all 844 candidates, twelve provisional references and three custodian records.
+1. **Street-topology audit.** **Operator complete in Pass 41.** The [registered correction](new-york-l0-street-topology-audit.md) replaces polygon touch with official `LION 26b` node-and-level topology, publishes the 831 retained, thirteen removed and sixteen added candidates, and preserves all references. Independent reproduction remains required.
+2. **Independent reproduction.** A separate team re-downloads the declared sources, verifies hashes or documents source drift, reimplements the corrected canonical method and reconciles all 847 street-connected candidates, twelve provisional references and three custodian records. It must also reproduce the full polygon-to-street difference ledger.
 3. **Salted custody.** Transfer holdout compositions to an independent authority, publish salted commitments and destroy operator access to the salts.
 4. **Demographic enrichment.** Acquire a reproducible official age, disability and household denominator with uncertainty; keep it outside selection and use it only for synthetic-population construction and sample design.
 5. **Field-validity sample.** Before mission modeling, draw a blinded building and facility sample in every reference catchment to estimate BBL/device linkage, elevator function classes, backup load coverage, domestic-water dependencies, accessible egress and facility admission readiness.

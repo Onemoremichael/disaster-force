@@ -1832,3 +1832,39 @@ The active frontier therefore remains unchanged and more visible: no New York ou
 ### Verification
 
 All internal Markdown links were mechanically recalculated from each file's former and new location, then checked as resolved filesystem targets after the move. The final tree contains no broken relative Markdown links. Workbook binaries and quantitative calculations are unchanged.
+
+## Pass 41 — New York `L0` street-topology audit
+
+### Research question
+
+Does the Pass 39 provisional catchment set survive replacement of tract-polygon contact with the registered local-street topology test, and what can that graph legitimately establish before incident access and architecture outcomes exist?
+
+### Frozen official graph
+
+The audit uses the official NYC Department of City Planning `LION 26b` geodatabase archive aligned to the frozen `26b` tract surface. The 45,981,902-byte archive has SHA-256 `14a2514303f0c53419cdc370bfd851db41dec038450b88b19d0897a35dad0660` and contains 243,237 line records. Official LION metadata and Record Processing Location documentation supply feature, segment, roadway, pedestrian, endpoint-node and relative-level semantics. The simplified NYC OTI Citywide Street Centerline supplies a public-safety and classification cross-check but lacks the node identifiers needed to govern adjacency.
+
+The primary graph retains constructed public/addressable street, alley, path, boardwalk, bridge, driveway and step-street records; excludes vehicle-only, highway, tunnel, ramp, ferry, non-physical and duplicate roadbed-layer records; requires travel direction and endpoint node-level keys; collapses only exact name/topology duplicates; and retains 107 distinct topologies that reuse a segment identifier. The result is 126,779 canonical edges, 97,108 `(NodeID, NodeLevel)` keys, about 6,479 mapped edge-miles and 7,129 street-supported tract pairs.
+
+`NodeLevel` is used only relative to the same node so an overpass and underpass do not become an intersection. It is not an elevation, terrain or grade measure. Tract pairs are supported when they occupy opposite faces of one eligible edge or appear on eligible edges incident to the same node-level key. All 7,129 primary pairs retain visible witness counts.
+
+### Candidate correction and robustness
+
+The downstream builder remains unchanged: projected-centroid frontier growth, 32,000–38,000 population bounds, canonical GEOID serialization, protocol-seeded SHA-256 order, `V1`/`V2`/`V3` processing order, non-overlap and borough-balance rules all remain frozen. Percentile thresholds are recomputed on the corrected universe.
+
+The primary graph makes 2,224 populated residential tracts eligible and produces 847 unique candidates. Relative to the polygon run, 831 candidates are retained, thirteen removed and sixteen added. Two island/causeway-area tracts—one in City Island and one in the Rockaway/Broad Channel geography—gain a modeled street-supported neighbor after having none under polygon contact.
+
+Every disclosed reference composition remains exactly unchanged across the correction. The three unsalted rehearsal commitments are also unchanged. A strict mobility sensitivity removing DOE-restricted and step-street records yields 120,894 edges and 7,074 tract pairs; a permissive sensitivity yields 134,314 edges and 7,134 pairs. Both produce the same 847 candidates, all selection thresholds, all twelve references and all three holdouts as the primary graph.
+
+### Epistemic boundary
+
+The result closes an operator topology prerequisite, not an access or architecture gate. LION does not observe sidewalk continuity, curb ramps, accessible width, slope, fences, doors, traffic, construction, debris, signals, floodwater, heat exposure, incident authority or current bridge and path condition. The graph establishes modeled topological connection only. It cannot certify a person-, device- or vehicle-specific route.
+
+Formal `L0` therefore remains open. A separate implementation must reproduce the 126,779 edges, 7,129 pairs, 847 candidates, twelve references, 107 retained reused-ID topologies and three commitments. Governed demographic enrichment, salted external holdout custody, disability-led access review and empty 24,000-row outcome-table registration remain required before either architecture runs.
+
+### Repository and model
+
+The new campaign paper becomes the authoritative topology correction while the Pass 39 paper remains the historical polygon rehearsal. Root, research, force, proving, campaign, protocol, test-program, synthesis, source-ledger, evidence-ledger and model-catalog entries now distinguish operator topology closure from formal `L0` closure.
+
+The fourteen-sheet workbook contains the source manifest, row funnel, three graph summaries, all 2,325 tract degrees, all 7,129 primary adjacency pairs and witness counts, the 860-candidate union reconciliation, exact reference reconciliation, reference composition, thresholds, sensitivity, unchanged commitments and fifteen formula-backed checks. All checks pass, formula-error scanning finds no match and every sheet is rendered and visually inspected.
+
+No `A2` or `S3` outcome is generated. No `NCAC` gate advances. No rendering is authorized.

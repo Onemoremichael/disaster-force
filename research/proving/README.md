@@ -29,4 +29,4 @@ The [test enterprise](test-enterprise/README.md) begins where that complete miss
 
 ## Current stop condition
 
-The New York architecture contest remains sealed. The `L0` rehearsal generated a provisional selection surface but did not satisfy the registered local-street topology rule, complete demographic enrichment, secure holdout custody or independent reproduction. Until those controls close, neither `A2` nor `S3` may produce an outcome table.
+The New York architecture contest remains sealed. The operator-level [street-topology audit](campaigns/new-york-l0-street-topology-audit.md) now satisfies the registered geometry correction with official `LION 26b` nodes and relative levels: it produces 847 candidates and preserves all twelve references across three declared graph screens. Formal `L0` still requires independent reproduction, demographic enrichment, secure holdout custody and empty outcome-table registration. Until those controls close, neither `A2` nor `S3` may produce an outcome table.

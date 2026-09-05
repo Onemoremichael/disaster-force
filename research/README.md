@@ -48,7 +48,7 @@ This layer can establish first-order physics and configuration. It cannot infer 
 
 [Proving](proving/README.md) joins three functions that should not be separated: campaigns expose the force to geography and compound failure; the test enterprise turns failed mission threads into rival technology and representative trials; assurance controls sources, uncertainty, maturity and claim admission.
 
-The active chain runs from deterministic Cascadia closure, through covariance failure, to the Harris County building-to-return campaign and now to a preregistered New York vertical heat-blackout replication. The New York `L0` rehearsal stopped before architecture outcomes because its geography and custody controls were not yet adequate. That stop is binding.
+The active chain runs from deterministic Cascadia closure, through covariance failure, to the Harris County building-to-return campaign and now to a preregistered New York vertical heat-blackout replication. The New York `L0` rehearsal stopped before architecture outcomes because its geography and custody controls were not yet adequate. The operator has now replaced polygon contact with a versioned `LION 26b` node-and-level graph; all references survive the correction, but independent reproduction and the remaining custody controls keep the stop binding.
 
 ## The supporting layers
 
@@ -81,4 +81,4 @@ Claims progress from a verbal mission (`R0`) through functional architecture (`R
 
 ## Active frontier
 
-The next research obligation is not another architecture result. It is to replace polygon contact with a versioned local-street topology test in the New York selection pipeline, complete the missing covariates, establish salted external holdout custody, register empty outcome tables and obtain independent reproduction. Only then may the frozen conventional and technology architectures enter the metropolitan contest.
+The next research obligation is not another architecture result. The operator street-topology correction is complete and auditable; a separate team must now reproduce its 126,779 canonical edges, 7,129 tract pairs, 847 candidates, twelve references and three unchanged commitments. In parallel, the program must complete the missing covariates, establish salted external holdout custody and register empty outcome tables. Only then may the frozen conventional and technology architectures enter the metropolitan contest.

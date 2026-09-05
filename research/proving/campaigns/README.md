@@ -29,7 +29,7 @@ The [Harris County continuity and selective-mobility campaign](harris-county-con
 
 The [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) changes the mechanism again. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. The `A2` conventional reference and `S3` technology target remain frozen, and no architecture outcome exists.
 
-Pass 39's [New York `L0` catchment rehearsal](new-york-l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. It also refuses formal freeze because polygon adjacency is not a street network, demographic covariates remain incomplete, the holdouts lack salted external custody and no independent team has reproduced the pipeline.
+Pass 39's [New York `L0` catchment rehearsal](new-york-l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. Pass 41's [street-topology audit](new-york-l0-street-topology-audit.md) replaces polygon contact with official `LION 26b` endpoint and relative-level topology. The corrected universe contains 847 candidates; all twelve references and all three commitments survive three declared graph screens. Formal freeze still waits for independent reproduction, demographic completion, salted external custody and empty-table registration.
 
 ## What a campaign owns
 
@@ -46,6 +46,6 @@ Capability studies own component physics. Force studies own formation design and
 
 ## Current decision
 
-Do not run the New York architecture contest yet. Complete the local-street topology audit, independent reproduction, salted holdout custody, demographic enrichment and empty outcome-table registration first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
+Do not run the New York architecture contest yet. The operator topology correction is complete; independent reproduction must now challenge it. Salted holdout custody, demographic enrichment and empty outcome-table registration must also close first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
 
 No campaign has admitted a national formation or authorized a rendering.
