@@ -1,11 +1,51 @@
-# Campaigns
+# Campaigns: where the theory is allowed to fail
 
-Campaigns are attempts to break the force in real geography. They join hazards, infrastructure, time, service islands, origins, routes, nodes, bases, sustainment, people, reverse flow, and recovery. A campaign is successful only when complete public-service effects reach their populations—not when cargo arrives.
+A campaign is a geographic attempt to break the force. It connects hazards, people, buildings, utilities, routes, entry nodes, service sites, receiving capacity, sustainment and return. Cargo arrival is not the outcome. A campaign closes only when defined populations receive complete, safe service by the required time and the force can continue or regenerate.
 
-[Cascadia Joint Resilience Campaign](cascadia-joint-resilience-campaign.md) is the first item-level regional closure study. [Cascadia network covariance and assurance](cascadia-network-covariance-and-assurance.md) then removes the assumption that different paths fail independently and exposes common fuel, communications, labor, authority, inspection, and repair dependencies.
+The campaign sequence is cumulative rather than encyclopedic:
 
-[Harris County continuity and selective mobility](harris-county-continuity-and-selective-mobility-campaign.md) is the first coupled metropolitan campaign. It joins 1,111 tracts, a corrected road graph, mapped flood exposure, building-access proxies, local protection, collection, transfer, line haul, destination admission and return. The strongest rival wins all 300 paired broad worlds but passes the complete rule in only 55.3 percent. It defines the `NCAC` requirement but does not admit an architecture.
+```text
+CASCADIA
+deterministic regional closure
+      ↓ breaks under shared dependencies
+CASCADIA COVARIANCE
+fuel, data, labor, authority, inspection and repair couple the paths
+      ↓ forces independent service-entry cells
+HARRIS COUNTY
+local protection, access and selective movement joined in one metro
+      ↓ exposes the building–household–street seam
+NEW YORK
+vertical heat blackout tests whether the resulting NCAC is portable
+      ↓ if coherent, not necessarily successful
+THIRD METROPOLITAN HOLDOUT
+independent geography chosen before New York is interpreted
+```
 
-[The New York vertical heat-blackout replication protocol](new-york-vertical-heat-blackout-replication-protocol.md) is the next falsification. It freezes the Pass 37 `A2` and `S3` formations before outcome-blind selection of twelve 35,000-person-class catchments across three vertical-city archetypes. Power loss is allowed to propagate through cooling, elevators, domestic water, communications, records, medical support and field labor. Five hypotheses co-govern advancement; three additional catchments remain sealed against overfit.
+## The active chain
 
-No New York outcomes have been generated. The protocol is an evidence commitment, not a favorable simulation presented after design.
+The [Cascadia Joint Resilience Campaign](cascadia-joint-resilience-campaign.md) is the first item-level regional closure study. Its apparent success is deliberately attacked by [Cascadia network covariance and assurance](cascadia-network-covariance-and-assurance.md), which shows that nominally different routes can share decisive dependencies.
+
+The [Harris County continuity and selective-mobility campaign](harris-county-continuity-and-selective-mobility-campaign.md) then moves from regional logistics to a coupled metropolitan service problem. It joins 1,111 tracts, a corrected road graph, flood exposure, local protection, collection, transfer, line haul, destination admission and return. Its strongest rival wins every paired world but passes the complete rule in only 55.3 percent. That failure defines the Neighborhood Continuity and Access Cell requirement; it does not validate an architecture.
+
+The [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) changes the mechanism again. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. The `A2` conventional reference and `S3` technology target remain frozen, and no architecture outcome exists.
+
+Pass 39's [New York `L0` catchment rehearsal](new-york-l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. It also refuses formal freeze because polygon adjacency is not a street network, demographic covariates remain incomplete, the holdouts lack salted external custody and no independent team has reproduced the pipeline.
+
+## What a campaign owns
+
+Campaign work owns the joint geography and chronology that single capabilities cannot:
+
+- the population–service–time demand state;
+- hazard and infrastructure dependencies, including common modes;
+- origin-to-effect paths and their bottlenecks;
+- local protection, mandatory movement, destination admission and return;
+- missingness, exclusions, covariance and failure adjudication;
+- the rule for transferring responsibility without a service cliff.
+
+Capability studies own component physics. Force studies own formation design and readiness. Assurance owns the warrant for belief. A campaign joins them and can reject their preferred answer.
+
+## Current decision
+
+Do not run the New York architecture contest yet. Complete the local-street topology audit, independent reproduction, salted holdout custody, demographic enrichment and empty outcome-table registration first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
+
+No campaign has admitted a national formation or authorized a rendering.
