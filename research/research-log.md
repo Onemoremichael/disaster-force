@@ -767,3 +767,39 @@ All seventeen sheets rendered and were visually inspected. Seventeen of eighteen
 ### Gate and stop decision
 
 No interface contract reaches representative-mission maturity. All twenty-five systems are blocked by unclosed primitives and/or project maturity; zero systems are eligible for rendering. The pass stops before connector selection or exterior form. Next work should create the common reference implementations and proving architecture, then allocate configuration-specific ports and trials to water, power, flood, fire, health and water–energy systems.
+
+## Pass 18 — National Resilience Proving Network
+
+### Research question
+
+What national facility, measurement and test-force infrastructure is required to turn a military-scale resilience technology program into reproducible knowledge rather than demonstrations and unverified performance claims?
+
+### Evidence wave
+
+The pass used official facilities and methods as lower-bound analogues: NSF NHERI's distributed natural-hazards infrastructure; NIST's National Fire Research Laboratory, 20 MW calorimetry, emergency-response robotics and engineering-statistics methods; ERDC coastal/hydraulic and breach facilities; NREL ARIES; EPA emergency water research; Idaho National Laboratory's Water Security Test Bed; NIH/CDC biosafety guidance; FEMA HSEEP; NASA systems engineering; and DOE capital-project governance.
+
+### Architecture decisions
+
+1. Retain the Pass 16 total of fifty-eight sites but divide it into ten national flagships, twenty-one regional ranges and twenty-seven satellite/conformance nodes.
+2. Allocate the $320B envelope 45% to flagships, 35% to regional ranges and 20% to nodes. This remains a cross-classification within the selected $2T technology case.
+3. Create ten facility families covering Earth decisions, fire/atmosphere, hydraulics/coast, water/environment, grid/thermal, health/bioresponse, built environment/ground, mobility/autonomy, manufacturing/mobilization and joint public effect.
+4. Treat proposed extremes as questions to be tested in reference design, not specifications: 250 MW fire, 250 m³/s hydraulics, 100,000 m³/day water, 300 MW grid exchange, 10,000-tonne structural payload and municipality-scale campaigns.
+5. Separate six evidence levels and require a preregistered causal bridge among high-repetition elemental tests, subsystem faults, full-scale mechanisms, formation trials and operational replication.
+6. Make maximum credible events, independent stops, environmental mass balances, emergency response and restoration part of every facility's technical baseline.
+7. Reserve facility capacity for independent `RTEA` replication, event response and open competition so sponsor schedules cannot consume the entire network.
+
+### Model result
+
+The 20-sheet workbook contains fifty-eight site records, ten flagship requirement records, utility and capacity screens, a six-level experiment ladder, binary/mean/reliability power equations, eleven measurement domains, ten safety and environmental cases, twenty initial protocols, a $32B/448-unit mobile test portfolio, a 36,700-FTE resident workforce, annual funding, ten construction gates and cost-risk sensitivity.
+
+The largest preliminary family utilization is 74.3% against an 80% ceiling. A 250 m³/s hydraulic loop at 12 m head and 75% efficiency requires approximately 39.24 MW of first-order drive power. At 95% confidence, a zero-failure screen requires 299 independent trials to bound a binary failure probability below 1%, illustrating why a few large demonstrations cannot establish rare reliability.
+
+The annual profile reconciles to $320B and peaks at $22.4B in years 6–10. Base calculated need excluding the $16B contingency is $304B. The compound screen reaches $367.04B and creates a $47.04B shortfall; the severe screen reaches $428.96B.
+
+### Verification
+
+All twenty workbook sheets were rendered and visually inspected. Eighteen of twenty checks pass. The two intentional open conditions record zero of ten closed flagship safety cases and negative $47.04B compound headroom. Formula-error scanning found no spreadsheet error values, and the XLSX archive passed integrity testing.
+
+### Gate and stop decision
+
+The proving network advances to a facility requirement architecture, not construction or operating readiness. No parcel is selected, no safety case is closed and no cost is independently estimated. Vehicle renderings remain prohibited. The next gain is a configuration-level reference design for one flagship paired with the system family it must test, or a platform-specific common-interface allocation that exposes actual test ports and failure modes.

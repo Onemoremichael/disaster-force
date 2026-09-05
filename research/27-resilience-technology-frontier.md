@@ -210,6 +210,8 @@ Today's research facilities establish that distributed national infrastructure c
 
 The model includes **58 sites** and approximately **3,008 nominal experiment slots per year**. The busiest range family reaches about **75.9 percent** planned utilization, below an 80 percent planning ceiling. These numbers are capacity hypotheses, not facility designs. They expose a systems truth: if expensive prototypes must wait years for one uniquely configured range, test infrastructure becomes the hidden critical path and program offices gain incentives to accept weak surrogate evidence.
 
+Pass 18 replaces this initial aggregate slot screen with the facility-scale [National Resilience Proving Network](29-national-resilience-proving-network.md): ten national flagships, twenty-one regional ranges, twenty-seven satellite/conformance nodes, family-specific campaign capacity, experimental-power screens, measurement systems, safety and environmental cases, mobile test assets, workforce, construction gates and cost sensitivity. Capacity remains comparable only within a facility family.
+
 The network should operate four kinds of trial:
 
 1. **mechanism trials**, isolating whether the claimed phenomenon exists;

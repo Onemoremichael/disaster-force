@@ -299,7 +299,7 @@ Fourth, the greatest systemic danger is correlated failure. Diversity, partition
 
 Fifth, platform form remains downstream. The model maps 217 nonzero dependencies among twenty-five representative systems and ten primitives. Every system still has unclosed primitives. None has reached the combined project-physics and architecture threshold for rendering.
 
-The next research should proceed on two fronts. One is facility-level design of the National Resilience Proving Network, including experimental power, safety envelopes, environmental control, replication capacity and cost. The other is platform-specific interface allocation: take `WRG-50`, `PRG-100`, `HCG-100`, the fire force and the water–energy platform through actual port maps, physical boundary sheets, fault trees and complete mission trials. Only then can exterior form begin to communicate engineering reality rather than substitute for it.
+Pass 18 begins the first front with a facility-scale [National Resilience Proving Network](29-national-resilience-proving-network.md), including experimental power, safety envelopes, environmental control, replication capacity and cost. The remaining front is platform-specific interface allocation: take `WRG-50`, `PRG-100`, `HCG-100`, the fire force and the water–energy platform through actual port maps, physical boundary sheets, fault trees and complete mission trials. Only then can exterior form begin to communicate engineering reality rather than substitute for it.
 
 The stop decision is deliberate. The architecture has enough structure to govern the next engineering passes, but not enough evidence to close a single interface contract. Twenty-four critical common modes remain open. All renderings remain deferred.
 
