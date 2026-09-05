@@ -32,11 +32,13 @@ Cascadia is the first integrated campaign test. A deterministic architecture mov
 
 The response was a six-cell **72-hour Service Entry Force** with two upland, two air and two offshore paths. Continuous mass arithmetic first appeared to close the loss of any two cells. Indivisible public-service pods narrowed that result. Configuring the people inside one pod overturned it.
 
-The current frontier is the **National Receiving Lattice**. Configuring a complete 1,000-person occupied district broke the mobile-only hour-72 screen: the district-propagated pod weighs 14,451.07 tonnes and completes its tenth cargo at hour 81.52 after both upland cells are lost. The force therefore has to divide completeness deliberately between what moves and what is already maintained at the destination.
+The current frontier is **National Receiving Geography**. Configuring a complete 1,000-person occupied district first broke the mobile-only hour-72 screen. A prepared receiving lattice restored the aggregate timing screen by maintaining 72.1 percent of the occupied-area burden at destinations. The unresolved question was whether that capacity survives where people need it and whether people can reach the remainder.
 
 The first balanced lattice contains four receiver classes, eight independent domestic assurance cells and sixteen synthetic operating regions. Its 7,200 nominal district equivalents fall to 3,707 after provisional readiness, two-cell loss and common-mode stress—enough for the 3,000-equivalent domestic contract. A capacity-weighted 72.1-percent fixed share reduces the pod to 11,612.76 tonnes and screens its tenth cargo at hour 70.05.
 
-But the harder result is negative. When eight campaigns cluster and eight receiving regions are degraded together, only 1,621.94 equivalents remain against 2,500 required. National inventory closes; geographic allocation does not. The next design choice is therefore among a denser lattice, proved interregional transfer, greater mobile substitution, lawful population movement or a narrower early promise.
+Pass 32 replaces sixteen equal regions with twenty-nine connected, population-weighted CONUS catchments plus Alaska, Hawaii and Puerto Rico. Under the concurrent domestic stress, only 2,355.80 CDE survive against 2,500 demanded. Local matching serves 1,525.92 CDE; the baseline four-mode corridor plan raises that to 2,066.42. Even frictionless transfer remains 144.20 CDE short because mobility cannot create receiver capacity.
+
+The least-cost closing candidate tested combines a 1.50× denser lattice with a 1.732× corridor enterprise, at roughly $2.311 trillion over twenty-five years. It is not a preferred design or an optimum. It reveals the new institutional requirement: interregional service is population relocation, with accessibility, medical and family continuity, lawful custody, destination intake and funded return as capacity constraints.
 
 That produces the most important architectural change since the Department itself:
 
@@ -51,7 +53,7 @@ Four paths cover most uses:
 | Understand the whole thesis | [Strategic study](research/synthesis/strategic-study.md) | The linked evidence and models at each decision |
 | Audit how the argument is derived | [Research atlas](research/README.md) | Promise → institution → force → campaign → configuration → proof |
 | Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → reception → public service |
-| Work at the current design frontier | [National Receiving Lattice](research/force/national-receiving-lattice.md) | Fixed/mobile division → assurance → geographic allocation |
+| Work at the current design frontier | [Reception and population continuity](research/force/reception/README.md) | Fixed/mobile division → survival → lawful geographic allocation |
 
 The [model catalog](models/README.md) connects every workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions. Chronology exists only in the [research log](research/ledgers/research-log.md).
 
@@ -79,7 +81,7 @@ The project is not technology-conservative. It anticipates high-rate no-pier log
 
 Novelty is pulled by failed mission threads. A desalination carrier is useful only with intake, energy, treatment, residual custody, pipeline, pressure, storage, quality, wastewater and civil transfer. A firefighting aircraft is useful only inside sensing, basing, airspace, sortie, delivered-yield, line, hold, protection and smoke systems. A transport is useful only when its cargo becomes lawful public service at the far end.
 
-The receiving-lattice result demonstrates the method. A complete occupied system first broke the transport ceiling. Moving 72.1 percent of its occupied-area burden into maintained receivers restored the aggregate timing screen, but correlated regional damage then broke the allocation claim. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
+The receiving-system result demonstrates the method. A complete occupied system first broke the transport ceiling. Moving 72.1 percent of its occupied-area burden into maintained receivers restored aggregate timing. Real population and concurrent receiver damage then proved that baseline surviving capacity is smaller than the promise. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
 
 ## Evidence before imagery
 

@@ -1447,3 +1447,51 @@ All seventeen integrity and decision checks pass, including the required adverse
 ### Continuation decision
 
 Replace the synthetic equal-region model with a population-weighted, multimodal, multi-hazard national network. Compare dense local capacity with time-feasible interregional receiver transfer under joint receiver and route loss. In parallel, close complete `RRC`, `DPS` and `BAN` reference designs far enough to test structure, utility, inspection, occupancy, maintenance and lifecycle accounts without authorizing imagery.
+
+## Pass 32 — National Receiving Geography
+
+### Research question
+
+Does the Pass 31 receiving lattice survive where concurrent campaign demand occurs, and can a lawful multimodal corridor system connect affected populations to spare receiver capacity inside seventy-two hours?
+
+### Repository decision
+
+The force corpus is reorganized into three stable subsystems: `generation/`, `projection/` and `reception/`. Each has a short index explaining the decisions it owns. The parent force index now carries the systems chain rather than exposing a flat paper list. National Receiving Geography becomes the authoritative current frontier; Pass 31 remains the fixed-readiness foundation.
+
+### Data and inference boundary
+
+The model joins Census Vintage 2025 population, 2025 Gazetteer internal points and areas, 2025 county adjacency, and FEMA NRI v1.20 county hazard scores. It represents 344,969,692 people across the states, District of Columbia and Puerto Rico.
+
+Twenty-nine connected CONUS catchments plus separate Alaska, Hawaii and Puerto Rico cells form thirty-two Service Catchment Areas. Reference place names identify the largest county or municipio in a cluster; they are not site recommendations. FEMA NRI scores remain relative hazard salience and never become receiver-survival probabilities.
+
+### Geographic result
+
+The prior 7,200 nominal CDE retain the readiness, N-2 and common-mode factor and are allocated through a thirty-five-CDE territorial floor plus population share. Three catastrophic and five major campaigns allocate 2,500 CDE of demand by affected-state population. Declared 50-percent catastrophic and 30-percent major receiver-loss stresses multiply across overlapping campaigns with a 25-percent survival floor.
+
+Scenario-surviving capacity is 2,355.80 CDE. Local matching serves 1,525.92 CDE, or 61.0 percent, leaving 974.08 CDE geographically stranded.
+
+### Civil-mobility result
+
+Road, rail, air and water modes receive explicit speed, mobilization, reception, arc and origin-mode limits. Destination spare is constrained again by an intake ceiling. A deterministic shortest-time greedy witness produces thirty-four flows, relocates 540.50 CDE and raises service to 2,066.42 CDE, or 82.7 percent. The residual shortfall is 433.58 CDE.
+
+Frictionless redistribution cannot exceed the 2,355.80 CDE that survived, leaving 144.20 CDE uncovered. This proves that baseline capacity cannot close through corridor investment alone.
+
+### Architecture decision
+
+Dense local closure without relocation requires 4.196 times the baseline lattice and screens at $3.092T over twenty-five years. The first closing hybrid tested combines 1.50 times the lattice with 1.732 times the baseline corridor enterprise and screens at $2.311T. The hybrid is not preferred or optimal; it is the next rival to challenge with real networks, equity constraints and stochastic damage.
+
+Interregional service is redefined as population relocation rather than receiver transfer. It receives no credit without voluntary or lawful movement, disability access, medical and family continuity, property and data custody, sovereign authority, destination intake, and funded return or durable settlement.
+
+### Technology and institution
+
+The pass generates a National Civil Mobility and Continuity Command concept and five standing profession families: accessible movement, transfer-node operations, network recovery, dispatch and rights, and fleet sustainment. Seven mission-science programs address autonomous corridors, universal accessible lift, self-sufficient transfer nodes, damage-tolerant rail, austere air, waterborne civil bridges and a disconnected capacity digital twin.
+
+### Model and verification
+
+The twenty-four-sheet workbook contains source boundaries, 32 catchments, 3,222 county/municipio membership records, 576 hazard-profile rows, campaign demand and receiver survival, 58 catchment adjacencies, a 992-pair multimodal path matrix, baseline dispatch, origin closure, destination intake, five architecture screens, cost, workforce, technology, rights, sources and twenty evidence gates.
+
+All nineteen checks pass. The exported workbook was reopened and inspected across seventeen decision ranges; the formula-error scan returned zero matches. All twenty-four sheets were rendered and visually reviewed. Independent preprocessing reproduced population, demand, capacity, dispatch, architecture and cost results.
+
+### Continuation decision
+
+Ingest actual national road, rail, airport, port and waterway layers; add population subgroup and accessible-movement demand; fit joint receiver, utility, route, communications and labor damage states; and solve an equity-constrained stochastic allocation. Keep anti-correlated local reception, civil mobility and mobile substitution as live rival architectures. Do not select sites or render platforms.

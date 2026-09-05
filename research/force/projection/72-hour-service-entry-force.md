@@ -1,6 +1,6 @@
 # The 72-hour Service Entry Force
 
-> **Configuration note:** this paper establishes the six-cell architecture. Pass 28's [public-service pod configuration](service-entry-pod-configuration.md) superseded its continuously divisible timing with whole-pod credit. Pass 29's [`PCC-50` Population Continuity Complex](../capabilities/population-continuity/configuration-model.md) then superseded the hour-71 independent-essential allowance: a configured 15,152.86-tonne pod delivers eight pods by hour 72 in the worst two-cell-loss case, with the tenth near hour 84. The bridge/reuse hour-63 result remains a dependency-bounded screen.
+> **Configuration note:** this paper establishes the six-cell architecture. Pass 28's [public-service pod configuration](service-entry-pod-configuration.md) superseded its continuously divisible timing with whole-pod credit. Pass 29's [`PCC-50` Population Continuity Complex](../../capabilities/population-continuity/configuration-model.md) then superseded the hour-71 independent-essential allowance: a configured 15,152.86-tonne pod delivers eight pods by hour 72 in the worst two-cell-loss case, with the tenth near hour 84. The bridge/reuse hour-63 result remains a dependency-bounded screen.
 
 ## Executive judgment
 
@@ -16,7 +16,7 @@ This force cannot be assembled from mature commercial equipment. It implies a ci
 
 The attributable planning frame is $471.125 billion in new capital and $70.706 billion in mature annual operations. When nested with the Pass 25 Cascadia baseline, the regional attribution becomes $844.565 billion and $104.906 billion per year. These are scale hypotheses in constant 2026 dollars, not cost estimates. Pass 27 supersedes the provisional Pass 26 assurance increment; it must not be stacked on top of it.
 
-The accompanying [72-hour Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx) exposes the module mass, service requirements, cell design, delivery timeline, all two-cell-loss cases, reliability allocation, workforce, capital, operating cost, industrial architecture and falsification gates.
+The accompanying [72-hour Service Entry Force workbook](../../../models/72-hour-service-entry-force-model.xlsx) exposes the module mass, service requirements, cell design, delivery timeline, all two-cell-loss cases, reliability allocation, workforce, capital, operating cost, industrial architecture and falsification gates.
 
 ## Why 72 hours is a distinct force-design problem
 

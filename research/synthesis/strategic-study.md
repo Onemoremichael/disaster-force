@@ -44,7 +44,7 @@ Pass 2 finds that:
 5. The national posture requires community interfaces, forward stations, regional complexes, strategic mobility bases, national depots and laboratories, and overseas access and pre-positioning.
 6. Existing institutions may seed the transition but do not define the end state. The Department should possess its own air, land, maritime, infrastructure, health, and community-stabilization professions and industrial systems.
 
-See [Institutional architecture](../institution/department-of-resilience.md), [Force composition](../force/force-composition.md), and [Readiness, posture, and force generation](../force/readiness-and-force-generation.md).
+See [Institutional architecture](../institution/department-of-resilience.md), [Force composition](../force/generation/force-composition.md), and [Readiness, posture, and force generation](../force/generation/readiness-and-force-generation.md).
 
 Pass 3 finds that:
 
@@ -134,7 +134,7 @@ Pass 8 finds that:
 13. Acquisition programs should procure formation increments: platform, crews, replacement, transport, reception, data, sustainment, repair, training, waste, transfer, bases and recapitalization. A platform lot is not a ready effect.
 14. Five evidence gates—analytical, command-post, deployment, endurance/replacement, and transfer/regeneration—must be passed before the organizational hypothesis becomes a program of record.
 
-See [Mature force design](../force/mature-force-design.md).
+See [Mature force design](../force/generation/mature-force-design.md).
 
 Pass 9 finds that:
 
@@ -386,7 +386,7 @@ Pass 23 asks what the Department-wide force becomes when every service, campaign
 11. The Department's center of gravity is a joint deployment and distribution enterprise for public service: movement, damaged-node reception, responder bases, sustainment, replacement, technical release and regeneration designed with the operating force.
 12. Twenty evidence gates remain open. Representative formation configurations, item-level movement, damaged-node throughput, occupation pipelines, home-base minimum staffing, independent cost, Department-wide WBS reconciliation and a full campaign/regeneration trial must close before validation or rendering.
 
-See [Joint Force Allocation and National Order of Battle](../force/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
+See [Joint Force Allocation and National Order of Battle](../force/generation/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
 
 ## National Resilience Deployment and Distribution Enterprise
 
@@ -405,7 +405,7 @@ Pass 24 asks what must exist between a ready formation at home and restored publ
 11. A $220B technology allocation targets autonomous multimodal load choreography, runway regeneration, robotic port clearance, adaptive causeways, zero-host-utility bases, intermodal service modules, distributed cargo aircraft, damage-tolerant visibility, route certification and reverse-flow hazard logistics. Novelty earns no force credit until it changes a visible coefficient through independent representative evidence.
 12. Twenty evidence gates remain open. Cascadia is the first item-level priority because it must trace configuration-controlled people and cargo through independent paths, queues, damaged structures, responder bases, ninety-day sustainment, reverse flow and reconstitution. Rendering remains blocked.
 
-See [National Resilience Deployment and Distribution Enterprise](../force/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/joint-deployment-distribution-model.xlsx).
+See [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/joint-deployment-distribution-model.xlsx).
 
 ## Cascadia Joint Resilience Campaign
 
@@ -462,7 +462,7 @@ Pass 27 converts the dominant Pass 26 failure into a configured force requiremen
 11. The $376.9B capital subtotal plus 25-percent reserve yields $471.125B incremental and $844.565B with the Pass 25 baseline. Mature incremental operations are $70.706B/year; nested regional operations are $104.906B/year. These are planning hypotheses, not estimates.
 12. Ten evidence gates remain open. The next pass must decompose one cell into indivisible teams, equipment, consumables, service-kernel tranches and physical interfaces. The architecture remains `R2` with `R2+` arithmetic; rendering remains blocked.
 
-See [The 72-hour Service Entry Force](../force/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx).
+See [The 72-hour Service Entry Force](../force/projection/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx).
 
 ## Configuring the public-service pod
 
@@ -481,7 +481,7 @@ Pass 28 replaces the Service Entry Force's continuously divisible cargo assumpti
 11. Nine mission-science programs now target kernel compilation, autonomous cross-docking, compact shelter, dense resilient nutrition, portable service energy, low-labor services, higher-throughput air and no-pier movement, and machine-readable release. They decompose the existing $60B Pass 27 RDT&E line rather than create a new budget layer.
 12. Twelve evidence gates remain open. `PSP-10`, `SEC-30`, `SEC-E35` and `SEC-F50` are `R2+` configuration hypotheses; no vehicle or formation rendering is authorized.
 
-See [Configuring the public-service pod](../force/service-entry-pod-configuration.md) and the editable [pod configuration workbook](../../models/service-entry-pod-configuration-model.xlsx).
+See [Configuring the public-service pod](../force/projection/service-entry-pod-configuration.md) and the editable [pod configuration workbook](../../models/service-entry-pod-configuration-model.xlsx).
 
 ## Closing the population-continuity system
 
@@ -539,7 +539,28 @@ Pass 31 converts the prepared-receiver dependency into a permanent force with it
 12. All seventeen workbook checks pass, including the required clustered-demand failure. All twenty-seven sheets were reopened, inspected, error-scanned, rendered and visually reviewed; independent arithmetic reproduces the governing outputs.
 13. The NRL advances to `R1/R2` with `R2+` arithmetic. All eighteen evidence gates remain open. National closure and rendering remain prohibited.
 
-See [The National Receiving Lattice](../force/national-receiving-lattice.md) and the editable [receiving-lattice workbook](../../models/national-receiving-lattice-model.xlsx).
+See [The National Receiving Lattice](../force/reception/national-receiving-lattice.md), [National Receiving Geography](../force/reception/national-receiving-geography.md), and the model catalog.
+
+## Converting the lattice into national receiving geography
+
+Pass 32 replaces equal synthetic regions with population-weighted, connected geography and makes civil mobility part of the force.
+
+1. Thirty-two Service Catchment Areas cover the states, District of Columbia and Puerto Rico: twenty-nine connected CONUS graph partitions plus separate Alaska, Hawaii and Puerto Rico cells. Their 344.97M-person denominator uses Census Vintage 2025 estimates.
+2. The catchments are planning abstractions, not jurisdictions, sites or investment decisions. County internal points and adjacency support reproducibility but do not prove a road, rail, airport, port or receiver.
+3. FEMA NRI v1.20 scores provide relative eighteen-hazard salience with explicit coverage. They are not converted into receiver failure probabilities. Campaign damage remains a separate declared stress assumption.
+4. The 7,200 nominal domestic CDE retain the Pass 31 readiness, N-2 and common-mode factor. Capacity is allocated through a thirty-five-CDE SCA floor plus population share.
+5. The concurrent 3C + 5M domestic stress allocates 2,500 CDE of demand by affected-state population. Overlapping campaigns compound receiver loss inside California, Texas and other shared geographies.
+6. Scenario-surviving capacity falls to 2,355.80 CDE. Local matching serves 1,525.92 CDE, or 61.0 percent, and strands 974.08 CDE geographically.
+7. A four-mode road, rail, air and water screen adds route time, arc and origin-mode capacities, and destination intake. A thirty-four-flow greedy witness relocates 540.50 CDE and raises closure to 82.7 percent, leaving 433.58 CDE unserved.
+8. Even frictionless transfer cannot exceed 2,355.80 CDE, leaving 144.20 CDE uncovered. The baseline architecture is therefore capacity-limited as well as geography-limited; mobility alone cannot close it.
+9. Dense local closure requires about 4.196 times the baseline lattice with no relocation. The least-cost closing candidate among the limited cases tested uses a 1.50-times lattice and 1.732-times corridor enterprise.
+10. Under common planning rules, baseline lattice plus corridors screens at $1.639T over twenty-five years; dense local closure at $3.092T; and the closing hybrid at $2.311T. These are scale comparisons, not estimates.
+11. Interregional service is population relocation, not receiver relocation. Accessibility, medical and family continuity, lawful authority, custody, destination intake, sovereignty, privacy and funded return become throughput constraints.
+12. Seven technology programs target autonomous emergency corridors, universal accessible lift, resilience transfer nodes, damage-tolerant rail, austere passenger air bridges, waterborne civil bridges and a disconnected national capacity digital twin.
+13. The force-design corpus is reorganized into generation, projection and reception subsystems. Stable subsystem indexes now carry the reading path; chronology remains in the research log.
+14. All twenty evidence gates remain open. The model is `R2+` arithmetic for an `R1/R2` architecture; it does not authorize sites, platforms or renderings.
+
+See [National Receiving Geography](../force/reception/national-receiving-geography.md) and the editable [geographic allocation workbook](../../models/national-receiving-geography-model.xlsx).
 
 ## Material limitations and disagreements
 

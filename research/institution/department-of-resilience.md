@@ -64,7 +64,7 @@ The proposal assumes the political greenlight specified for this project. The te
 
 Create a **Department of Resilience** as a cabinet department and establish a statutory **National Resilience Establishment** comparable in permanence to the national-defense establishment. Names are provisional; scale and functional separation are not.
 
-The name **Department of Resilience** is now retained as the canonical cabinet-level identity. Pass 8 distinguishes it from the **National Resilience Establishment**—the services, commands, schools, science, acquisition, depots, reserves and industrial base that generate capacity—and the **Resilience Force**, meaning the certified formations actually available for employment. This prevents the existence of a bureaucracy, an equipment inventory or a contract from being mistaken for operational readiness. See [Mature force design](../force/mature-force-design.md).
+The name **Department of Resilience** is now retained as the canonical cabinet-level identity. Pass 8 distinguishes it from the **National Resilience Establishment**—the services, commands, schools, science, acquisition, depots, reserves and industrial base that generate capacity—and the **Resilience Force**, meaning the certified formations actually available for employment. This prevents the existence of a bureaucracy, an equipment inventory or a contract from being mistaken for operational readiness. See [Mature force design](../force/generation/mature-force-design.md).
 
 ```text
 President and Congress
@@ -111,6 +111,7 @@ Geographic commanders would control assigned active forces and receive additiona
 Some capabilities are too scarce, interconnected, or global to divide regionally:
 
 - **Strategic Mobility Command** would own or control long-range airlift, sealift, rail mobilization, common-user trucking, reception hubs, aerial refueling where justified, and global movement control.
+- **National Civil Mobility and Continuity Command** would own the person-specific chain from affected origin through accessible road, rail, air and water movement to destination intake, medical and family continuity, custody, reunification and funded return. Strategic Mobility Command supplies common-user lift; Civil Mobility and Continuity determines whether that lift becomes lawful population service.
 - **Strategic Sustainment Command** would control depots, arsenals, shipyards, aviation maintenance centers, strategic stocks, fuel, medical supply, and the national distribution network.
 - **Resilience Medical Command** would regulate patients and scarce clinical capacity across regions while the Health Protection Service generates the units.
 - **Information and Forecast Command** would fuse hazards, infrastructure status, vulnerability, supply chains, public health, and readiness into operational forecasts and allocation recommendations.
@@ -118,7 +119,7 @@ Some capabilities are too scarce, interconnected, or global to divide regionally
 - **Industrial Mobilization Command** would maintain supplier maps, surge contracts, government-owned production capability, critical-material reserves, repair capacity, and emergency production plans.
 - **Training and Doctrine Command** would run common education, collective exercises, certification, doctrine, and the lessons system.
 
-The [National Resilience Deployment and Distribution Enterprise](../force/joint-deployment-and-distribution-enterprise.md) makes the mobility–sustainment boundary explicit. Strategic Mobility Command owns the origin-to-theater movement and damaged-entry architecture; the supported Theater-Opening and Theater Sustainment Commands clear the force to operating locations; Strategic Sustainment Command owns national depots, replacement and reconstitution. This prevents “transport delivered” from being confused with “public service operating” without creating duplicate owners for the same supply chain.
+The [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) makes the mobility–sustainment boundary explicit. Strategic Mobility Command owns common-user origin-to-theater movement and damaged-entry architecture; National Civil Mobility and Continuity Command owns the accessible person-to-receiver chain; supported Theater-Opening and Theater Sustainment Commands clear forces to operating locations; Strategic Sustainment Command owns national depots, replacement and reconstitution. This prevents “transport delivered” from being confused with “public service operating” without creating duplicate owners for the same supply chain.
 
 The wildfire system demonstrates the value of predictive posture, explicit preparedness levels, and national allocation of scarce resources.[^nifc-mobilization][^nifc-levels] The new establishment would apply that logic continuously across the entire force, backed by owned fleets and formations.
 

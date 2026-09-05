@@ -21,7 +21,7 @@ These figures are not an estimate, recommendation or forecast. They are the cons
 
 More importantly, buying the modeled formations does not close the force. Four of five strategic-movement channels are short, and all ten damaged-theater reception screens are short. Daily sustainment screens close only under coarse coefficients that exclude several likely dominant burdens. The binding design problem is therefore not simply how many specialized units to own. It is how to create a **Joint Deployment and Distribution Enterprise for public service under infrastructure failure**.
 
-The accompanying [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx) exposes every coefficient, component credit, formation demand, readiness vector, double-count boundary and evidence gate. No platform rendering is authorized by this study.
+The accompanying [joint force allocation workbook](../../../models/joint-force-allocation-model.xlsx) exposes every coefficient, component credit, formation demand, readiness vector, double-count boundary and evidence gate. No platform rendering is authorized by this study.
 
 ## 1. The missing layer
 
@@ -259,7 +259,7 @@ Select one representative unit from each system—heavy land engineering, strate
 
 ### 13.2 Joint deployment and distribution
 
-Pass 24 establishes the institutional, time-phased and first-order capacity architecture for this enterprise. It replaces the all-mass-at-once screen with anticipatory, 72-hour, 14-day, 45-day and 90-day closure bands; reconciles eleven formation lines; and tests movement, reception, onward distribution, responder bases and sustainment as one weakest-link chain. Pass 25's [Cascadia Joint Resilience Campaign](../campaigns/cascadia-joint-resilience-campaign.md) supplies the first item-level origin–destination–load–cycle test: nine service islands, twelve paths, sixty-four loads, ninety-day sustainment and reconstitution. It closes under declared coefficients but leaves asset-level damage, queues, weather, fuel, maintenance, cost and performance unvalidated.
+Pass 24 establishes the institutional, time-phased and first-order capacity architecture for this enterprise. It replaces the all-mass-at-once screen with anticipatory, 72-hour, 14-day, 45-day and 90-day closure bands; reconciles eleven formation lines; and tests movement, reception, onward distribution, responder bases and sustainment as one weakest-link chain. Pass 25's [Cascadia Joint Resilience Campaign](../../campaigns/cascadia-joint-resilience-campaign.md) supplies the first item-level origin–destination–load–cycle test: nine service islands, twelve paths, sixty-four loads, ninety-day sustainment and reconstitution. It closes under declared coefficients but leaves asset-level damage, queues, weather, fuel, maintenance, cost and performance unvalidated.
 
 ### 13.3 Occupation and institutional force
 

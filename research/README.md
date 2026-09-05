@@ -18,25 +18,25 @@ Read these in order if the objective is to understand the current concept rather
 
 ### II. Build a force, not a portfolio
 
-[Mature force design](force/mature-force-design.md) supplies the missing organizational middle between a technical module and a national campaign. [Joint force allocation and order of battle](force/joint-force-allocation-and-order-of-battle.md) then asks what permanent force follows from three catastrophic, five major and two global campaigns plus immediate reserve.
+[Mature force design](force/generation/mature-force-design.md) supplies the missing organizational middle between a technical module and a national campaign. [Joint force allocation and order of battle](force/generation/joint-force-allocation-and-order-of-battle.md) then asks what permanent force follows from three catastrophic, five major and two global campaigns plus immediate reserve.
 
 The current screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. These are force-generation hypotheses, not validated staffing requirements.
 
 ### III. Project the force through damage
 
-[Deployment and distribution](force/joint-deployment-and-distribution-enterprise.md) models national inventory through origin, movement, reception, onward distribution, responder basing, sustainment, reverse flow, repair and release. [The Cascadia campaign](campaigns/cascadia-joint-resilience-campaign.md) makes the chain geographic: nine disconnected service islands, twelve paths, sixty-four loads and 1.763 million tonnes.
+[Deployment and distribution](force/projection/joint-deployment-and-distribution-enterprise.md) models national inventory through origin, movement, reception, onward distribution, responder basing, sustainment, reverse flow, repair and release. [The Cascadia campaign](campaigns/cascadia-joint-resilience-campaign.md) makes the chain geographic: nine disconnected service islands, twelve paths, sixty-four loads and 1.763 million tonnes.
 
 The deterministic campaign closed. [The covariance study](campaigns/cascadia-network-covariance-and-assurance.md) then showed why that answer was too optimistic. Shared fuel, data, labor, authority, inspection and repair caused nominally different paths to fail together. A three-cell architecture reached 84.2 percent closure in the declared 500-trial screen and still missed the 95-percent design target.
 
 ### IV. Configure the first public-service formation
 
-[The 72-hour Service Entry Force](force/72-hour-service-entry-force.md) answers the covariance failure with six independently originated cells: two upland, two air and two offshore. Any four carry 120 percent of the reference service effect. It establishes the cell as the smallest independently supported campaign path.
+[The 72-hour Service Entry Force](force/projection/72-hour-service-entry-force.md) answers the covariance failure with six independently originated cells: two upland, two air and two offshore. Any four carry 120 percent of the reference service effect. It establishes the cell as the smallest independently supported campaign path.
 
-[Configuring the public-service pod](force/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
+[Configuring the public-service pod](force/projection/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
 
 [Population continuity](capabilities/population-continuity/README.md) replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. `PCC-D1` then configures one complete 1,000-person occupied district. Its 78.71-tonne, 446.60-cubic-metre transformational case produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
 
-[The National Receiving Lattice](force/national-receiving-lattice.md) is the current frontier. It treats land, buildings, utility interfaces, stocks, records, inspectors, activation labor and civil release as generated force capacity. The balanced reference restores aggregate hour-72 movement with a 72.1-percent fixed occupied-area share, but it fails the geographically clustered damaged-region case by 878 CDE. The next question is no longer whether fixed readiness is needed; it is how much must be local, how much can move between regions, and what independence can actually be proved.
+[The receiving subsystem](force/reception/README.md) is the current frontier. The National Receiving Lattice first makes land, buildings, utilities, stocks, inspectors, records, labor and civil release into generated force capacity. [National Receiving Geography](force/reception/national-receiving-geography.md) then replaces equal regions with thirty-two population-weighted catchments. Only 2,355.80 CDE survive against 2,500 demanded; a baseline four-mode corridor plan serves 2,066.42. The next question is how anti-correlated local capacity, lawful civil mobility and mobile substitution should be combined.
 
 This is the present force-design doctrine:
 
@@ -64,9 +64,9 @@ SOVEREIGN CAPACITY
       Department design
       National Utility Projection System
   force/
-      generation and allocation
-      deployment and entry cells
-      public-service pods and receiving lattice
+      generation/ — formation and readiness
+      projection/ — deployment, entry cells and pods
+      reception/ — fixed readiness, geography and civil mobility
 
 CAMPAIGN PROOF
   campaigns/
@@ -98,11 +98,11 @@ The foundation layer prevents a ship, aircraft, robot, reactor or mega-base from
 
 ### Institution and force
 
-The [force-design spine](force/README.md) is the canonical guide to formation generation, deployment, service-entry cells, public-service pods and the National Receiving Lattice. It records which earlier timing results have been superseded by physical configuration.
+The [force-design spine](force/README.md) is the canonical guide to the [generation](force/generation/README.md), [projection](force/projection/README.md) and [reception](force/reception/README.md) subsystems. It records which earlier timing results have been superseded by physical configuration and geographic allocation.
 
 The [National Utility Projection System](institution/national-utility-projection-system.md) tests one strategic function across twenty-six candidate anchor complexes, ten concurrent campaigns, about 198,200 billets and a $1.698 trillion capital hypothesis. It shows why a floating nuclear water-and-power source is not a self-contained capability.
 
-[Force composition](force/force-composition.md) and [readiness](force/readiness-and-force-generation.md) define components, professions, availability and regeneration. Their readiness rule is the minimum across people, equipment, stocks, movement, reception, sustainment, interfaces and authority.
+[Force composition](force/generation/force-composition.md) and [readiness](force/generation/readiness-and-force-generation.md) define components, professions, availability and regeneration. Their readiness rule is the minimum across people, equipment, stocks, movement, reception, sustainment, interfaces and authority.
 
 ### Capability physics
 

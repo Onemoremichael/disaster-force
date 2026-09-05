@@ -1,6 +1,6 @@
 # Configuring the public-service pod
 
-> **Supersession note — Pass 29:** the bridge/reuse and full-substitution comparisons remain useful, but the 11,738.09-tonne independent-essential case below was an allowance screen rather than a closed human-sustainment configuration. The [`PCC-50` Population Continuity Complex](../capabilities/population-continuity/configuration-model.md) replaces shelter, food, sanitation, energy and workforce allowances with a cohort-specific configuration. It screens the independent pod at 15,152.86 tonnes and moves worst-case ten-pod closure from hour 71 to approximately hour 84.
+> **Supersession note — Pass 29:** the bridge/reuse and full-substitution comparisons remain useful, but the 11,738.09-tonne independent-essential case below was an allowance screen rather than a closed human-sustainment configuration. The [`PCC-50` Population Continuity Complex](../../capabilities/population-continuity/configuration-model.md) replaces shelter, food, sanitation, energy and workforce allowances with a cohort-specific configuration. It screens the independent pod at 15,152.86 tonnes and moves worst-case ten-pod closure from hour 71 to approximately hour 84.
 
 ## Executive judgment
 
@@ -14,7 +14,7 @@ That discrete rule changes the timing result. The Pass 27 bridge/reuse configura
 
 This is the principal finding: **independence is not a property of a vehicle or unit. It is a time-bounded claim about a public service inside a declared dependency envelope.** A force can bridge a damaged local system, deliver minimum life support without local utilities, or substitute for the larger system. Those are different missions with different mass, workforce, movement and technology.
 
-The accompanying [service-entry pod configuration model](../../models/service-entry-pod-configuration-model.xlsx) contains twenty-seven sheets, 106 component lines, three independence cases, all fifteen two-cell-loss combinations, package classes, a current-analogue workforce screen, interface loads, technology programs and twelve evidence gates.
+The accompanying [service-entry pod configuration model](../../../models/service-entry-pod-configuration-model.xlsx) contains twenty-seven sheets, 106 component lines, three independence cases, all fifteen two-cell-loss combinations, package classes, a current-analogue workforce screen, interface loads, technology programs and twelve evidence gates.
 
 ## From cargo to a public-service object
 
