@@ -46,6 +46,20 @@ Pass 16 adds a layer beneath individual platforms. Pass 17 converts that layer i
 
 Each primitive must replicate across at least three hazard mission threads before the Department may call it common. A successful component demonstration does not change a platform's force-sizing coefficient.
 
+## Service-entry formations and interfaces
+
+Passes 27 and 28 add the first force-level configuration family. These entries govern what transport and utility platforms must carry; they are not vehicles themselves.
+
+| ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
+|---|---|---|---|---|---|---|
+| PSP-10 | Public Service Pod 10 | Admitted reference | Deliver an indivisible, released increment of command, access, base, water, food, shelter, sanitation, power, communications, health and hazard control | 9,870.56 t bridge/reuse; 11,738.09 t independent-essential; 16,818.71 t full-substitution screens; ten pods close the hour-72 effect contract | weighed configuration, dimensions and center of gravity, team/shift closure, food/shelter/energy evidence, package compatibility, independent release and representative 72 h mission | R2+ |
+| SEC-30 | Bridge/Reuse Service Entry Cell | Admitted reference | Project three `PSP-10` pods while reusing explicitly verified host systems | 29,611.68 t per cell; worst two-cell-loss closure at hour 63 with Pass 27 movement rates | dependency verification speed, fallback configuration, actual load plan and complete cell trial | R2+ |
+| SEC-E35 | Independent-Essential Service Entry Cell | Admitted target | Project three pods able to sustain minimum life support for 72 h without host utilities | 35,214.27 t per cell; deterministic worst two-cell-loss closure at hour 71 | ≤25 kg/person climate shelter, 65 MW service energy, residuals, 2,500-person staffing and release margin | R2+ |
+| SEC-F50 | Full-Substitution Service Entry Cell | Conditional stress case | Replace the larger early service system where useful host infrastructure is absent | 50,456.13 t per cell; only eight pods by hour 72 after both upland cells are lost | scope definition, 6,643-person analogue workforce, food/shelter/energy density and at least 934 t/h net air or 1,201 t/h net offshore throughput | R2+ |
+| KIF | Kernel Interface Families | Admitted requirement | Compile one service pod into air-pallet, ISO, flatrack, rolling, tank, cold and battery positions without losing effect completeness | eight provisional external families and a 106-line manifest | exact geometry, restraint, road legality, hazardous/cold separation, data/energy/fluid interfaces and receiving equipment | R1+ |
+
+The pod is the smallest effect-complete increment. The cell is the smallest independently supported origin-to-effect path. Three pods sharing one cell do not receive three-path assurance credit.
+
 ## Water, sanitation, power, and thermal safety
 
 | ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
@@ -155,6 +169,8 @@ Each primitive must replicate across at least three hazard mission threads befor
 ## Gate-to-rendering work queue
 
 The first rendering candidates are selected only after quantitative modeling and configuration-level physics closure. Pass 7 makes the water configuration auditable at R2+; Pass 10 does the same for the power formation; Pass 12 makes the fire-force configuration auditable at R2+; Pass 14 makes the integrated flood-force configuration auditable at R2+. None is verified hardware or field performance, and no concept is yet authorized for rendering. Priority is determined by research value, not spectacle.
+
+The immediate cross-cutting gate is the `PSP-10`: replace its shelter, food, energy and support allowances with weighed rival configurations; compile all 106 lines into released air, sea and surface loads; close shift-complete staffing; and demonstrate one independent-essential pod for 72 hours without host utilities. Vehicle geometry downstream of the pod remains provisional until that work closes.
 
 1. **Rapid Water Grid and Regional Water Works:** replace provisional equipment and rates with source/vendor evidence, surveyed transients, installation trials, reliability, maintenance and degraded-mode demonstrations.
 2. **PRG-100 deployable electric utility:** close reuse, bypass and rebuild cases across load, one-line, sources, storage, transformation, protection, distribution, fuel, thermal effect, workforce and deployment.

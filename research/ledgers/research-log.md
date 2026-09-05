@@ -1255,3 +1255,48 @@ The capital subtotal is $376.9B. A 25-percent pre-reference-design reserve produ
 The 22-sheet workbook was rendered in full and visually inspected. Thirteen checks resolve as intended: eleven model-integrity and closure checks pass, while evidence and rendering states remain open. The final formula-error scan returned zero matches.
 
 The architecture advances to `R2` with `R2+` first-order mass, timing, reliability-allocation, workforce and finance arithmetic. Ten empirical gates remain open. The next pass should decompose a single cell into configuration-controlled service-kernel tranches and physical interfaces. No rendering is authorized.
+
+## Pass 28 — Public Service Pod configuration
+
+### Research question
+
+Can one 29,611.68-tonne Service Entry Cell be decomposed into repeatable, indivisible and auditable public-service units while respecting team sizes, effect complementarity, cargo interfaces, hazardous and cold-chain separation, workforce, activation, endurance and host dependencies?
+
+### Repository decision
+
+The front door was rewritten around one decision chain—promise, sovereign capacity, force projection, campaign proof, configuration and invention—rather than a growing list of outputs. The research atlas now provides a five-part reading path and treats domain papers as attachments to the decisions they inform. Chronology remains confined to this log. Model navigation adds an analytical-level entry for service-entry configuration.
+
+### Configuration decision
+
+1. Replace the continuously divisible service kernel with the `PSP-10` Public Service Pod.
+2. Place three pods in each of the six Service Entry Cells, producing eighteen force-wide.
+3. Require five linked records for credit: effect contract, configuration manifest, dependency passport, interface/load record and authority/safety release.
+4. Define the pod effect as one command node; 3,000 t/day access; 3,000-person responder base; 2,000 m³/day water; 260,000 people/day food; 50,000 people each of shelter and sanitation; 65 MW; communications for 280,000 users; sixty staffed beds; and 12 route-equivalent km/day of hazard control.
+5. Require ten whole pods because food is the binding service threshold.
+6. Preserve cells as the assurance unit. Three pods sharing origin, movement, command and support do not receive three-path independence credit.
+
+### Independence-envelope result
+
+The phrase “self-sufficient” was rejected unless paired with a declared dependency envelope.
+
+- **Bridge/reuse:** 9,870.56 t/pod; 29,611.68 t/cell; worst two-cell-loss closure at hour 63.
+- **Independent essential:** 11,738.09 t/pod after climate-managed shelter and 72-hour liquid-energy-equivalent increments; 35,214.27 t/cell; worst closure at hour 71.
+- **Full substitution:** 16,818.71 t/pod after full shelter, three ready-to-eat meals per person-day, 72-hour energy and current-analogue workforce support; 50,456.13 t/cell; only eight pods by hour 72 after both upland cells are lost.
+
+The full-substitution failure implies 934.37 net t/h per air cell or 1,201.34 net t/h per offshore cell if the six-cell topology, activation times and pod mass remain fixed. Under the Pass 27 aircraft assumptions, the air case implies roughly 147 aircraft per cell rather than 105.
+
+### Workforce and technology decision
+
+A current-resource analogue stack screens at 6,643 deployed people per pod. The 2,500-person target therefore requires a 62.4-percent reduction or a narrower service definition. No generic automation credit is granted; occupation, qualification, shift, fatigue, remote support, repair and assurance labor must be modeled explicitly.
+
+Nine technology programs are derived from the failed configuration: kernel compiler, autonomous cross-dock, compact climate shelter, dense resilient nutrition, portable service energy, low-labor service production, higher-throughput air mobility, higher-throughput no-pier movement and machine-readable technical release. They allocate the existing $60B Service Entry Force RDT&E line rather than add a new budget layer.
+
+### Model and verification
+
+The 27-sheet workbook contains controls, baseline cell, effect contracts, pod effects and closure; a 106-line manifest and module reconciliation; support build; eight package classes and mode compatibility; current analogues; workforce and dependency screens; three configuration cases; cell mass; 54 pod-delivery records; all forty-five case-by-loss combinations; an hourly worst-case timeline; throughput gaps; technology, interface and program registers; evidence gates, sources and checks.
+
+The saved workbook was re-opened through an independent spreadsheet reader. Baseline, essential and full-substitution masses, pod completion times, throughput targets and aircraft quantities were recomputed separately and matched. All twenty-seven sheets were rendered and visually inspected. The formula-error scan returned zero matches and all ten integrity/decision checks pass. Twelve empirical gates remain `OPEN`.
+
+### Continuation decision
+
+The next pass should replace the four largest ambiguous allowances—shelter, food, energy and workforce—with rival component configurations and actual shift-complete manifests. It should then compile the 106 lines into mode-specific load plans with dimensions, center of gravity, restraint, hazardous separation, cold-chain power and receiving equipment. A representative independent-essential pod must run for 72 hours without host utilities before any vehicle rendering is authorized.

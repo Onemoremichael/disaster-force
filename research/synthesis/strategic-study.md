@@ -464,6 +464,25 @@ Pass 27 converts the dominant Pass 26 failure into a configured force requiremen
 
 See [The 72-hour Service Entry Force](../force/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx).
 
+## Configuring the public-service pod
+
+Pass 28 replaces the Service Entry Force's continuously divisible cargo assumption with an indivisible, auditable force element.
+
+1. The `PSP-10` Public Service Pod becomes the smallest effect-complete deployable increment. Each Service Entry Cell contains three pods; the six-cell force contains eighteen.
+2. One pod carries approximately ten percent of the Pass 25 first-wave effect: one service-island command node, 3,000 t/day of access, a 3,000-person responder base, 2,000 m³/day of water, 260,000 people/day of food, 50,000 people each of shelter and sanitation, 65 MW, communications for 280,000 users, sixty staffed beds and 12 route-equivalent km/day of hazard control.
+3. Ten complete pods close the hour-72 contract. Food is binding at 9.23 pod-equivalents; fractional tonnes receive no effect credit.
+4. Every pod is defined by five linked records: effect contract, configuration manifest, dependency passport, interface/load record and authority/safety release. A mismatch denies complete-pod credit.
+5. The baseline bridge/reuse pod is 9,870.56 t. Its worst two-cell-loss case closes at hour 63, superseding Pass 27's hour-60 continuous-mass result.
+6. An independent-essential case adds 25 kg/person climate-managed shelter and 72 hours of liquid-energy-equivalent reserve. The 11,738.09-t pod, 35,214.27-t cell and 211,285.62-t six-cell force close the worst case at hour 71.
+7. A full-substitution case adds 75 kg/person shelter, three ready-to-eat meals per person-day, 72-hour energy and a 6,643-person current-resource analogue workforce. Its 16,818.71-t pod and 302,736.78-t six-cell force deliver only eight pods by hour 72 after both upland cells are lost.
+8. Restoring full-substitution closure requires about 934.37 net t/h per air cell or 1,201.34 net t/h per offshore cell if activation, pod mass and the six-cell topology remain fixed. The air target implies about 147 `SAC-120` aircraft per cell under prior payload and cycle assumptions.
+9. The workforce screen is a design challenge, not a staffing recommendation. Moving from 6,643 current-analogue personnel to the 2,500-person target requires a 62.4% reduction or a narrower service contract; automation must prove service quality and count its own remote, repair and assurance labor.
+10. A 106-line manifest and eight provisional Kernel Interface Families translate the pod into air-pallet, ISO, flatrack, rolling, tank, cold and battery positions. The stable object is the effect and interface record, not one universal container.
+11. Nine mission-science programs now target kernel compilation, autonomous cross-docking, compact shelter, dense resilient nutrition, portable service energy, low-labor services, higher-throughput air and no-pier movement, and machine-readable release. They decompose the existing $60B Pass 27 RDT&E line rather than create a new budget layer.
+12. Twelve evidence gates remain open. `PSP-10`, `SEC-30`, `SEC-E35` and `SEC-F50` are `R2+` configuration hypotheses; no vehicle or formation rendering is authorized.
+
+See [Configuring the public-service pod](../force/service-entry-pod-configuration.md) and the editable [pod configuration workbook](../../models/service-entry-pod-configuration-model.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -493,6 +512,7 @@ See [The 72-hour Service Entry Force](../force/72-hour-service-entry-force.md) a
 - Pass 25 closes the Cascadia campaign only under a deterministic set of sixty-four loads, twelve path profiles, eleven correlation groups, eleven service-effect families, base and sustainment coefficients, protected reverse and passenger capacities and depot rules. Its clean checks establish internal requirement consistency, not asset survival, throughput, causal public effect, legal release, workforce supply, cost or field performance. All twenty evidence gates and the rendering gate remain open.
 - Pass 26 uses a reproducible Gaussian-factor screen with 500 trials, four architectures, eleven path groups and five shared enablers. Its marginal probabilities, state thresholds, correlation coefficients, copy capacities, pooling rules, assurance target and cost deltas are design assumptions. The simple binomial interval excludes parameter uncertainty, and the common-minimum enabler model is deliberately conservative. Architecture ranking and thresholds must be replaced by fitted joint distributions and full-mission evidence before reliability credit.
 - Pass 27 closes all two-cell-loss cases only because it assumes uniform service-kernel mixing, declared activation times and constant net throughput. It does not close aircraft design, runway bearing, sea state, no-pier mechanics, utility physics, last-mile distribution, item manifests, clinical staffing, hazardous compatibility, industrial schedules or lifecycle effects. Its 15-percent cell-loss and 0.2-percent common-mode allocations are targets, not observations; its cost factors are planning assumptions. Ten evidence gates and rendering remain open.
+- Pass 28 supersedes the continuous-mass timing result with whole-pod credit, but its 106-line manifest remains an allocation rather than a weighed design. Food, shelter, energy, staff, unit counts, package planning loads, activation and throughput are screening assumptions. The independent-essential hour-71 result has negligible deterministic margin, while the full-substitution case fails. Neither result is a performance forecast or a basis for acquisition quantities.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
