@@ -38,7 +38,9 @@ The deterministic campaign closed. [The covariance study](campaigns/cascadia-net
 
 [The receiving subsystem](force/reception/README.md) makes land, buildings, utilities, stocks, inspectors, records, labor and civil release into generated force capacity. [National Receiving Geography](force/reception/national-receiving-geography.md) then replaces equal regions with thirty-two population-weighted catchments. Only 2,355.80 CDE survive against 2,500 demanded; a baseline four-mode corridor plan serves 2,066.42.
 
-[The mobility subsystem](force/mobility/README.md) is the current frontier. The [National Civil Mobility and Continuity Force](force/mobility/national-civil-mobility-and-continuity-force.md) replaces that corridor abstraction with federal network gates, human-compatible movement cohorts, purpose-built fleets and transfer nodes, route restoration and a joint stochastic allocation. Its central finding is that 97.8-percent average closure can coexist with repeated geographic exclusion.
+[The mobility subsystem](force/mobility/README.md) is the current frontier. The [National Civil Mobility and Continuity Force](force/mobility/national-civil-mobility-and-continuity-force.md) replaces the corridor abstraction with federal network gates, human-compatible movement cohorts, purpose-built fleets and transfer nodes, route restoration and a joint stochastic allocation. [Civil Mobility Assurance Under Deep Uncertainty](force/mobility/mobility-assurance-under-deep-uncertainty.md) then breaks its apparent winner across 1,000 broad parameter worlds, adds four tract-scale collection pilots and configures `CTN-10` and `UCM-8` far enough to reopen force composition.
+
+The governing reversal is that protected-local continuity—not mass relocation—becomes the load-bearing national reference. The restorable mobility mesh remains a peer subsystem for rescue, selective movement and return. A transfer node also becomes a population-continuity formation: the first `CTN-10` screen requires 29,263 m², 4,513 t and 2,289 deployed staff.
 
 This is the present force-design doctrine:
 

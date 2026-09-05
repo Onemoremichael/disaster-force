@@ -1562,3 +1562,43 @@ All fifteen checks pass. The exported workbook was reopened and inspected across
 ### Continuation decision
 
 Attack `A2` with broad parameter and model-form uncertainty; replace SCA averages with tract-scale collection and time-dependent door-to-berth queues; and configure one transfer node and one universal passenger module through mass, energy, sanitation, staffing, information, safety and rights budgets. Preserve protected-local continuity as a live rival. Do not begin vehicle renderings.
+
+## Pass 34 — Civil Mobility Assurance Under Deep Uncertainty
+
+### Research question
+
+Does the Pass 33 restorable multimodal mesh remain the preferred national architecture when its probability model is not trusted, door-to-node collection is observed at tract scale, and one transfer node and continuity module are configured as complete operating systems?
+
+### Architecture reversal
+
+One thousand paired Latin-hypercube worlds vary twelve broad conditions: demand, common receiver availability, hardening realization, route and terminal shifts, restoration realization, fleet availability, collection reach, destination acceptance, queue performance, added mode-family common failure and accessible realization. The ranges are exploratory coverage, not fitted probability distributions.
+
+`A1` succeeds in 0.3 percent of worlds, `A2` in 7.6 percent and `A3` in 99.8 percent. `A3` is the lexicographic performance winner in 969 worlds, `A2` in twenty-nine and `A1` in two. The Pass 33 `A2` admission is therefore falsified as a national architecture decision, though its accessible fleets, nodes, restoration and return system remain required inside `A3`.
+
+### Tract collection
+
+The pass joins 2,430 2024 ACS tract records for population, disability and vehicle availability to 2024 Census Gazetteer internal points across Harris County, Miami-Dade County, King County and San Juan Municipio. A reproducible weighted farthest-first screen selects sixteen analytical candidate nodes for a ten-percent, seven-day campaign.
+
+Only 9.0 to 20.4 percent of weighted accessible burden lies within sixty minutes under favorable undamaged centroid-distance assumptions. Candidate coordinates are not sites. The result establishes door-to-node collection as a separate force layer requiring building access, vertical extraction, accessible pickup, neighborhood dispatch, support and rights assurance.
+
+### `CTN-10` configuration
+
+A 10,000-person/day, eighteen-hour node has a 1,000-person/hour design peak. Seven process stages require 614 staff on shift; thirty-five-percent support adds 215. Shift and relief factors produce a 2,289-person deployed formation, 10.4 times the Pass 33 crew assumption.
+
+Six hours of mean dwell produces 3,750 peak occupants, 20,903 m² occupied area and a 29,263-m² gross campus. The provisional utility account is 550 m³/day water, 188 toilets, 75 showers, 2.8 MW average and 4.5 MW peak power, 67.2 MWh/day and 22.4 MWh usable battery. The first mass ledger totals 4,513 t with reserve, or 181 twenty-five-tonne-equivalent moves.
+
+Across 128 `CTN-10` nodes, replacing 220 crew with 2,289 adds 264,832 direct positions before training, reserve and supplier multipliers. The mobility workforce and cost account reopen. One node class should split into prepared, mobile and expeditionary variants.
+
+### `UCM-8` configuration
+
+The first universal continuity module uses a nominal twenty-foot envelope, carries eight people and targets 5,300 kg gross, 5 kW average/20 kW peak power, 60 kWh usable battery and twelve-hour transfer endurance. It is universal across modes but selective across people: targeting twenty percent of `CTN-10` flow requires 250 module movements/day; universal use requires 1,250 and likely creates a handling bottleneck.
+
+### Model and verification
+
+The fifteen-sheet workbook contains controls, architecture summaries, 3,000 world rows, rank sensitivity, four pilot summaries, 2,430 tract rows, sixteen analytical nodes, `CTN-10` process and system budgets, `UCM-8`, finance/workforce consequences, fourteen evidence gates, sources and checks.
+
+All fifteen checks pass. The saved workbook was reopened and inspected across every decision sheet; formula-error scanning returned zero matches. Every sheet was rendered and visually inspected. The model remains `R1/R2` with `R2+` exploratory arithmetic; all fourteen evidence gates and rendering remain blocked.
+
+### Continuation decision
+
+Build one coupled metropolitan campaign with a damaged routable collection graph, building-access states, time-dependent requests and queues, protected-local service options, `CTN` activation, selective `UCM` use, line haul, destination acceptance and return. Optimize protected-person-hours, geographic closure, coercion risk, workforce and lifecycle burden. Carry `A3` as the national reference and `A2` as the nested mobility subsystem. Do not render vehicles or nodes.
