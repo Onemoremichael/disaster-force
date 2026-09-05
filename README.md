@@ -32,11 +32,13 @@ Second, nominally diverse deployment paths fail together. Cascadia closed determ
 
 Third, fixed readiness is part of force projection. A prepared receiving lattice can remove most of the occupied-area burden from mobile cargo, but only if the sites survive where demand occurs. The population-weighted national screen found 2,355.80 CDE surviving against 2,500 demanded; mobility cannot route people into capacity that no longer exists.
 
-Fourth, moving people is not a logistics afterthought. The new [National Civil Mobility and Continuity Force](research/force/mobility/national-civil-mobility-and-continuity-force.md) gates road, rail, air and water paths with federal network data and preserves five distinct movement needs. A universal-access fleet reaches 97.8-percent mean national closure yet passes the joint distributional rule in only 13.8 percent of trials. The first architecture to advance combines a larger accessible fleet with hardened receivers, deployable transfer nodes and route restoration; it passes 98.8 percent of the declared trials at a roughly $4.987-trillion twenty-five-year burden.
+Fourth, moving people is not a logistics afterthought—but mass relocation is not a substitute for robust local protection. The [National Civil Mobility and Continuity Force](research/force/mobility/national-civil-mobility-and-continuity-force.md) gates road, rail, air and water paths with federal network data and preserves five distinct movement needs. Its restorable mesh passed 98.8 percent of one fixed trial distribution. [Civil Mobility Assurance Under Deep Uncertainty](research/force/mobility/mobility-assurance-under-deep-uncertainty.md) then varied twelve uncertain conditions across 1,000 broad worlds: the mesh passed only 7.6 percent, while protected-local continuity passed 99.8 percent.
+
+The same pass moved inside the catchment. Four tract pilots show that only 9.0–20.4 percent of weighted accessible collection burden lies within sixty minutes of the provisional node lattice even before network damage. The first `CTN-10` screen yields a 29,263-m², 4,513-t, 2,289-person formation—not the earlier 220-person detachment.
 
 That result is conditional and therefore useful. It identifies what must be proved next instead of allowing a national average to hide the same stranded populations.
 
-> National resilience power requires four coequal machines: force generation, service projection, civil mobility and prepared reception.
+> National resilience power requires four coequal machines—force generation, service projection, civil mobility and prepared reception—organized around a fifth governing choice: protect locally wherever possible and move selectively when necessary.
 
 ## What is established and what remains open
 
@@ -45,7 +47,8 @@ That result is conditional and therefore useful. It identifies what must be prov
 | Public effect over time is the governing unit | Causal service-to-outcome functions for most missions |
 | Force, pod, cell and district are distinct design levels | Representative hardware and occupied mission trials |
 | Route, receiver and shared-enabler failure must be modeled together | Fitted joint fragility and parameter distributions |
-| Accessibility, clinical regulation, custody and return consume capacity | Person- and tract-scale door-to-berth performance |
+| Accessibility, clinical regulation, custody and return consume capacity | Damaged-route, building- and person-scale door-to-berth performance |
+| Fixed-probability success can reverse under broad uncertainty | Fitted joint distributions and least-regret local-protection/mobility balance |
 | Fixed receivers and mobile formations are one system | Sites, vehicle geometry, detailed cost and industrial schedules |
 
 No major platform has reached `R3`. Green model checks establish internal reconciliation, not real-world readiness.
@@ -59,7 +62,7 @@ Four paths cover most uses:
 | Understand the whole thesis | [Strategic study](research/synthesis/strategic-study.md) | The linked evidence and models at each decision |
 | Audit how the argument is derived | [Research atlas](research/README.md) | Promise → institution → force → campaign → configuration → proof |
 | Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → mobility → reception |
-| Work at the current design frontier | [Civil mobility and continuity](research/force/mobility/README.md) | Collection → transfer → line-haul → intake → return |
+| Work at the current design frontier | [Mobility assurance under deep uncertainty](research/force/mobility/mobility-assurance-under-deep-uncertainty.md) | Local protection → collection → transfer → line haul → reception and return |
 
 The [model catalog](models/README.md) connects every workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions. Chronology exists only in the [research log](research/ledgers/research-log.md).
 

@@ -30,7 +30,9 @@ The pod result is then compiled by [population continuity](../capabilities/popul
 
 The [mobility subsystem](mobility/README.md) begins where evacuation doctrine usually stops. It distinguishes door-to-node collection, protected transfer, multimodal line-haul, destination admission and return. Its reference force uses observed national network gates, five mutually exclusive movement cohorts, four purpose-built fleets, two transfer-node classes, route-restoration groups, commands and bases.
 
-This is the current frontier. A universal-access architecture averages 97.8-percent national closure but passes the joint distributional rule in only 13.8 percent of trials. A restorable multimodal mesh is the first architecture to cross the provisional assurance target, at 98.8 percent under the declared 500-trial stress. All of its probabilities and performance remain unproved.
+Pass 33 found that a universal-access architecture could average 97.8-percent national closure while passing the joint distributional rule in only 13.8 percent of trials. Its restorable multimodal mesh then crossed the provisional target at 98.8 percent under one fixed distribution. [Civil Mobility Assurance Under Deep Uncertainty](mobility/mobility-assurance-under-deep-uncertainty.md) breaks that apparent result: `A2` passes only 7.6 percent of 1,000 broad parameter worlds, while protected-local continuity passes 99.8 percent.
+
+The current frontier is therefore not a larger line-haul fleet. It is the boundary among local protection, door-level collection, transfer, line haul, reception and return. Four tract pilots expose collection delay, and the first `CTN-10` configuration turns a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis.
 
 ### 5. Treat destination readiness as force capacity
 
@@ -51,6 +53,8 @@ This is the mobility force's destination half: **the baseline force is both capa
 | Receiver transfer | Population relocation into surviving receivers | Capacity does not move; people and rights do |
 | Abstract corridor multiplier | National Civil Mobility and Continuity Force | Current fleet, node, workforce and stochastic reference |
 | National mean closure | Joint total, protected-cohort and bottom-decile rule | Current architecture admission test |
+| Fixed-distribution `A2` admission | Broad parameter worlds and tract collection | `A3` is the robust reference; `A2` becomes a nested mobility subsystem |
+| 220-person `CTN-10` crew | Complete queue, utility, mass and relief screen | 2,289-person provisional formation; national workforce reopened |
 
 ## Supporting papers
 
@@ -60,6 +64,6 @@ The campaign papers test the force against geography. The capability papers clos
 
 ## Current research decision
 
-Advance the restorable multimodal mesh to adversarial research while retaining protected-local reception as a live rival. Replace fixed survival probabilities with parameter distributions, move from SCA averages to tract- and person-scale collection, and configuration-close one transfer node and one universal passenger module before selecting vehicles.
+Advance protected-local continuity as the national reference and retain the restorable multimodal mesh as a nested rescue, selective-relocation and return subsystem. Build one coupled metropolitan campaign with damaged routable collection, time-dependent queues, building access, local service options, `CTN` activation, selective `UCM` use, destination acceptance and return.
 
-All twenty-two mobility evidence gates remain open. No platform rendering is authorized.
+Split `CTN-10` into prepared, mobile and expeditionary variants and reopen mobility workforce and cost. Fourteen new assurance and configuration gates remain open. No platform rendering is authorized.
