@@ -29,7 +29,7 @@ The [Harris County dossier](harris-county/README.md) then moves from regional lo
 
 The [New York dossier](new-york/README.md) changes the mechanism again. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. The `A2` conventional reference and `S3` technology target remain frozen, and no architecture outcome exists.
 
-Pass 39's [`L0` catchment rehearsal](new-york/l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. Pass 41's [street-topology audit](new-york/l0-street-topology-audit.md) replaces polygon contact with official `LION 26b` endpoint and relative-level topology. Pass 42's [empty outcome registration](new-york/l0-empty-outcome-registration.md) separates catchment and campaign decision levels and binds the entire row universe. Formal freeze still waits for independent reproduction, demographic completion, generator and dependence registration, salted external custody and countersignature.
+Pass 39's [`L0` catchment rehearsal](new-york/l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. Pass 41's [street-topology audit](new-york/l0-street-topology-audit.md) replaces polygon contact with official `LION 26b` endpoint and relative-level topology. Pass 42's [empty outcome registration](new-york/l0-empty-outcome-registration.md) separates catchment and campaign decision levels and binds the entire row universe. Pass 43's [world-generator registration](new-york/l0-world-generator-registration.md) populates the twelve design factors—but no outcome—through an explicit hierarchical dependence model and centered Latin-hypercube design. Formal freeze still waits for independent reproduction, population and building completion, service-territory and causal-feasibility work, alternative dependence cases, salted external custody and countersignature.
 
 ## What a campaign owns
 
@@ -46,6 +46,6 @@ Capability studies own component physics. Force studies own formation design and
 
 ## Current decision
 
-Do not run the New York architecture contest yet. The operator topology correction and empty-table registration are complete; independent reproduction must now challenge them. Salted holdout custody, governed demographic enrichment, generator registration and external countersignature must also close first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
+Do not run the New York architecture contest yet. Operator topology, row identities and the hierarchical world generator are complete; independent reproduction must now challenge all three. Salted holdout custody, governed population and building enrichment, observed service territories or explicit approval of the borough proxy, causal-feasibility rules, alternative dependence cases and external countersignature must also close first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
 
 No campaign has admitted a national formation or authorized a rendering.

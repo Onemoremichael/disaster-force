@@ -1914,3 +1914,59 @@ Operator empty-table registration is complete; formal `L0` is not. Architecture 
 The sixteen-sheet workbook was built through the spreadsheet artifact workflow, rendered sheet by sheet and visually inspected. All seventeen formula checks display `PASS`, formula-error scanning finds no match and the archive passes structural validation. The dossier restructuring was followed by a full relative-link audit.
 
 No `A2` or `S3` outcome is generated. No `NCAC` evidence gate advances. No platform requirement changes. No rendering is authorized.
+
+## Pass 43 — New York `L0` hierarchical world-generator registration
+
+### Research question
+
+Can the operator convert twelve independent factor ranges into a reproducible joint stress surface without manufacturing false diversification, implying occurrence probability or allowing either architecture to influence the worlds it will later face?
+
+### Design decision
+
+Registration `DF-NYC-L0-PR43-GEN-v1` preserves every pair identity from the Pass 42 empty registry and fills only its twelve design factors. The generator is a hierarchical centered Latin hypercube rather than twelve independent permutations. For replicate `r`, catchment `c`, primary borough `b(c)` and factor `f`, the latent score combines four declared layers:
+
+```text
+Z[r,c,f] = A_city[f] · G[r]
+         + A_borough[f] · B[r,b(c)]
+         + A_local[f] · L[r,c]
+         + a_residual[f] ε[r,c,f]
+```
+
+Four citywide drivers represent regional heat, grid failure, operational capacity and cell common mode. Two borough drivers represent sub-city infrastructure and operating access. Four catchment drivers represent building resilience, neighborhood heat burden, local access and local utility capacity. Factor-specific residuals remain material; the smallest residual variance share is 0.285. Because the covariance is constructed from loading products and a residual diagonal, the target within-catchment matrix is positive definite with minimum eigenvalue 0.34490312.
+
+Borough is retained only as a registered proxy. The current evidence surface does not yet carry validated feeder, carrier, water-pressure, labor, depot or transportation-control territories. Replacing that proxy is a new generator version, not an invisible refinement.
+
+### Deterministic stream and marginal coverage
+
+Every normal variate begins with a SHA-256 label containing protocol, generator version, attempt, replicate, hierarchy, spatial unit and driver or factor. The first 64 digest bits map to an open-interval uniform; two independently labeled uniforms enter a Box–Muller transform. Latent scores are ranked within each catchment–factor, exact ties break by replicate index, and rank `k` maps to centered quantile `(k − 0.5) / 1000` before linear scaling to the Pass 42 range.
+
+This produces 12,000 catchment–world vectors and 144,000 factor values. All 144 catchment–factor margins contain every stratum from one through 1,000 exactly once, with zero missing or out-of-range strata. Centered margins are design coverage. They carry no annual probability, recurrence interval, climate-scenario weight or empirical frequency.
+
+### Dependence acceptance
+
+The generator retains the first attempt from zero through ninety-nine satisfying five predeclared implementation diagnostics. Attempt zero passes:
+
+| Diagnostic | Actual | Limit |
+| --- | ---: | ---: |
+| mean within-catchment maximum absolute Spearman deviation | 0.024427 | 0.055000 |
+| mean within-catchment Spearman RMSE | 0.009146 | 0.020000 |
+| worst individual-catchment maximum absolute deviation | 0.102952 | 0.120000 |
+| same-borough cross-catchment maximum absolute deviation | 0.031551 | 0.070000 |
+| different-borough cross-catchment maximum absolute deviation | 0.023235 | 0.050000 |
+
+Thirteen catchment pairs share a primary borough and fifty-three cross boroughs. The accepted design preserves compound tails: 938 rows combine at least 144 hours of grid loss with commercial communications no greater than 0.10; 1,240 combine indoor-heat burden at least 1.25 with prepared cooling no greater than 0.60; and 813 combine high heat, at least 120 hours of grid loss and communications no greater than 0.15. These counts diagnose design coverage and are not estimated frequencies.
+
+### Integrity and evidence boundary
+
+The generator specification, algorithm text, inherited world-key order and world-factor values are committed by four SHA-256 digests:
+
+- specification: `2c774e7c2e29b5971eafe7d16e665cb445738c1a105a3e7890200da93bb47836`;
+- algorithm text: `d8169a6497ac777a32315ebbad709cd2affbd32e959d6d6b0e6f97e1f0e9d164`;
+- inherited ordered world keys: `01acbda9db5a642edd304c847a5d4aa077bcaaa8f650ce7c63a310cff190d326`; and
+- ordered world factor values: `7ef09ee18a97cdb0d7ded2677c23f924611fb8815d1ca5893df33a31768fe45d`.
+
+The 17-sheet workbook includes the fixed algorithm, factor ranges, all 132 loading rows, variance allocation, target/achieved/deviation matrices at three geographic levels, per-catchment diagnostics, all world values, all stratum identities, marginal QA, attempt log, compound-tail coverage, sources and formula-backed integrity controls. All fifteen workbook controls display `PASS`; the required formula-error scan finds none; and every sheet is rendered and visually inspected.
+
+These operator hashes do not create independent custody. Architecture execution remains prohibited until a second implementation reproduces topology, identities, values and hashes; governed population and building inputs are acquired; observed service territories replace or independently justify the borough proxy; causal-feasibility and alternative-dependence cases are registered; salted holdouts enter external custody; and the complete package receives disability-led, rights, safety, statistical, privacy, labor and technical review.
+
+No architecture response, campaign result or occurrence probability is produced. No `NCAC` evidence gate advances. The generator creates an institutional requirement instead: a mature Department of Resilience needs an experimental-world authority capable of maintaining adversarial, reproducible joint stress spaces independently of the program offices whose designs they test. No rendering is authorized.

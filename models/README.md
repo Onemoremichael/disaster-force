@@ -19,7 +19,7 @@ OCCUPIED DISTRICT → RECEIVING GEOGRAPHY → CIVIL MOBILITY
       ↓                                      ↓
 LOCAL PROTECTION ───────────────────────→ NCAC-35
                                              ↓
-                        NEW YORK PREREGISTRATION → L0 → STREET AUDIT → EMPTY REGISTRY
+                        NEW YORK PREREGISTRATION → L0 → STREET AUDIT → EMPTY REGISTRY → WORLD GENERATOR
 ```
 
 Later workbooks often supersede one conclusion while retaining the earlier model as a lower bound, sensitivity surface or lineage record. Budgets are not automatically additive: several studies allocate or deepen capacity already carried by a parent force.
@@ -48,10 +48,11 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | [Civil mobility assurance](civil-mobility-assurance-model.xlsx) | Robustness to broad uncertainty and tract-scale collection | Reverses the prior result: the mesh passes 7.6% of broad worlds; protected-local continuity passes 99.8%. [Analysis](../research/force/mobility/mobility-assurance-under-deep-uncertainty.md) |
 | [Harris County campaign](harris-county-continuity-mobility-campaign.xlsx) | Building-to-return closure in one coupled metropolitan geography | The strongest rival wins all paired worlds but passes the complete rule in only 55.3%, exposing the neighborhood seam. [Campaign](../research/proving/campaigns/harris-county/README.md) |
 | [Neighborhood Continuity and Access Cell](neighborhood-continuity-access-cell-model.xlsx) | Formation that owns household contact, building access, local service and selective movement | Conventional `A2` closes nine of ten required cases but only 79.6% household verification under communications loss; `S3` depends on unproved technology. [Analysis](../research/force/mobility/neighborhood-continuity-and-access-cell.md) |
-| [Vertical-city replication protocol](ncac-vertical-city-replication-test-protocol.xlsx) | Preregistered `A2` versus `S3` falsification and test program | Freezes the rival architectures, hypotheses and evidence ladder; Pass 42 separately registers the complete empty result surface. [Protocol](../research/proving/campaigns/new-york/README.md) |
+| [Vertical-city replication protocol](ncac-vertical-city-replication-test-protocol.xlsx) | Preregistered `A2` versus `S3` falsification and test program | Freezes the rival architectures, hypotheses and evidence ladder; later controls separately register the empty result surface and primary world generator. [Protocol](../research/proving/campaigns/new-york/README.md) |
 | [New York `L0` selection](nyc-l0-catchment-selection.xlsx) | Outcome-blind metropolitan candidate construction | Rehearsal produces 844 candidates and provisional references, then keeps `L0` open for topology, covariates, custody and reproduction. [Audit](../research/proving/campaigns/new-york/l0-catchment-rehearsal.md) |
 | [New York `L0` street topology](nyc-l0-street-topology-audit.xlsx) | Official node-and-level correction of the catchment adjacency rule | `LION 26b` yields 126,779 canonical edges, 7,129 tract pairs and 847 candidates; all twelve references and three commitments survive primary, strict and permissive screens. Formal freeze still awaits reproduction, covariates and custody. [Audit](../research/proving/campaigns/new-york/l0-street-topology-audit.md) |
 | [New York `L0` empty outcome registry](nyc-l0-empty-outcome-registry.xlsx) | Pre-outcome row universe, schemas, missingness and two-level decision structure | Registers 12,000 world identities, 24,000 paired architecture rows and 2,000 campaign aggregates; all 1,018,000 reserved cells remain blank and seventeen integrity checks pass. [Registration](../research/proving/campaigns/new-york/l0-empty-outcome-registration.md) |
+| [New York `L0` world generator](nyc-l0-world-generator-registration.xlsx) | Deterministic factor values and hierarchical dependence before architecture execution | Populates 144,000 factor values across 12,000 registered worlds, preserves every one of 1,000 centered strata per catchment–factor and passes five dependence tolerances on attempt zero. It is design coverage, not probability; all architecture outcomes remain empty. [Registration](../research/proving/campaigns/new-york/l0-world-generator-registration.md) |
 
 ## Utility and hazard-control systems
 
