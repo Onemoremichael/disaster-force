@@ -4,110 +4,125 @@ The corpus develops one systems argument:
 
 > A coequal resilience instrument must be designed backward from time-bounded public service, generated as a complete national force, projected through damaged infrastructure, and proved through science, industry, exercises and independent test.
 
-The folders are stages and lenses in that argument—not a chronology and not an equipment catalogue.
+The folders are lenses in that argument, not a chronology and not an equipment catalog. This atlas is a map of decisions: what has been established, what changed the design and which paper should be treated as authoritative for each claim.
+
+## The shortest serious reading path
+
+Read these in order if the objective is to understand the current concept rather than retrace every research pass.
+
+### I. Define the promise
+
+[First principles](foundations/first-principles.md) makes population-service-time the unit of national performance. It explains why activity, equipment delivered and nominal capacity cannot stand in for water safely used, power delivered, patients treated or communities protected.
+
+[Department of Resilience](institution/department-of-resilience.md) assigns that promise to a zero-based cabinet institution with six operating services, joint commands, civil and technical authority, acquisition, science and industrial mobilization. It distinguishes the Department that governs, the Establishment that generates and the Force that can actually deploy.
+
+### II. Build a force, not a portfolio
+
+[Mature force design](force/mature-force-design.md) supplies the missing organizational middle between a technical module and a national campaign. [Joint force allocation and order of battle](force/joint-force-allocation-and-order-of-battle.md) then asks what permanent force follows from three catastrophic, five major and two global campaigns plus immediate reserve.
+
+The current screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. These are force-generation hypotheses, not validated staffing requirements.
+
+### III. Project the force through damage
+
+[Deployment and distribution](force/joint-deployment-and-distribution-enterprise.md) models national inventory through origin, movement, reception, onward distribution, responder basing, sustainment, reverse flow, repair and release. [The Cascadia campaign](campaigns/cascadia-joint-resilience-campaign.md) makes the chain geographic: nine disconnected service islands, twelve paths, sixty-four loads and 1.763 million tonnes.
+
+The deterministic campaign closed. [The covariance study](campaigns/cascadia-network-covariance-and-assurance.md) then showed why that answer was too optimistic. Shared fuel, data, labor, authority, inspection and repair caused nominally different paths to fail together. A three-cell architecture reached 84.2 percent closure in the declared 500-trial screen and still missed the 95-percent design target.
+
+### IV. Configure the first public-service formation
+
+[The 72-hour Service Entry Force](force/72-hour-service-entry-force.md) answers the covariance failure with six independently originated cells: two upland, two air and two offshore. Any four carry 120 percent of the reference service effect. It establishes the cell as the smallest independently supported campaign path.
+
+[Configuring the public-service pod](force/service-entry-pod-configuration.md) is the current frontier. It decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. The baseline and essential configurations close the deterministic two-cell-loss test at hours 63 and 71; full substitution delivers only eight pods by hour 72 and therefore fails.
+
+This is the present force-design doctrine:
+
+> A pod is the smallest effect-complete deployable increment. A cell is the smallest independently supported campaign path. Independence exists only inside a declared dependency envelope.
+
+### V. Invent and prove what the mission demands
+
+[The technology frontier](innovation/technology-frontier.md) organizes mission science around failed service threads rather than speculative gadgets. [The National Resilience Proving Network](innovation/national-proving-network.md) defines the laboratories, regional ranges, flagship facilities, measurement systems and destructive trials needed to move from configuration arithmetic to demonstrated formations.
+
+The [strategic study](synthesis/strategic-study.md) integrates all five parts into one manuscript.
+
+## How the rest of the corpus attaches
+
+The supporting papers should be read when the main argument reaches a question they own.
 
 ```text
-NEED                         NATIONAL PROMISE                 CAMPAIGN PROOF
-foundations        →         institution + force      →       campaigns
-    ↓                            ↓                              ↓
-service deficit              complete formations             damaged-theater closure
-    ↓                            ↓                              ↓
-capability physics  ←        shared architecture       →       covariance and adaptation
-    ↓                            ↓                              ↓
-economics          ←         innovation + test         →       falsifiable evidence
+PUBLIC PROMISE
+  foundations/
+      empirical hazard demand
+      design reference missions
+      service levels and mission engineering
+
+SOVEREIGN CAPACITY
+  institution/
+      Department design
+      National Utility Projection System
+  force/
+      composition, readiness and allocation
+      deployment, entry cells and public-service pods
+
+CAMPAIGN PROOF
+  campaigns/
+      Cascadia closure
+      covariance and assurance
+
+COMPLETE-SERVICE PHYSICS
+  capabilities/
+      water, power, fire, flood, access, mobility and health
+  architecture/
+      common interfaces, autonomy and platform gates
+
+SCIENCE, INDUSTRY AND CONSEQUENCE
+  innovation/
+      technology portfolios and proving infrastructure
+  economics/
+      workforce, capital and operating scale
+
+SYNTHESIS AND CONTROL
+  synthesis/
+      cumulative manuscript
+  ledgers/
+      sources, evidence gaps and chronological decisions
 ```
 
-## The core argument in eight papers
+### Foundations
 
-These papers form the shortest serious reading path. Each answers a different question; none is a summary of the one before it.
+The foundation layer prevents a ship, aircraft, robot, reactor or mega-base from becoming its own requirement. [Empirical baseline](foundations/empirical-baseline.md) bounds demand without combining incompatible loss datasets. [Design reference missions](foundations/design-reference-missions.md) replaces an “average disaster” with ten compound campaigns. [Service levels](foundations/service-level-library.md), [mission engineering](foundations/mission-engineering-method.md), the [force-design framework](foundations/force-design-framework.md) and [research program](foundations/research-program.md) provide the shared grammar.
 
-1. [First principles](foundations/first-principles.md) — What public effect should a national resilience instrument promise?
-2. [Department of Resilience](institution/department-of-resilience.md) — What sovereign institution can own that promise without inheriting the limits of the current system?
-3. [Mature force design](force/mature-force-design.md) — What permanent formations, components, commands and regeneration system make the promise repeatable?
-4. [Joint force allocation and order of battle](force/joint-force-allocation-and-order-of-battle.md) — What national scale follows from ten simultaneous campaigns?
-5. [Deployment and distribution enterprise](force/joint-deployment-and-distribution-enterprise.md) — How does national inventory become service inside a damaged theater?
-6. [Cascadia joint campaign](campaigns/cascadia-joint-resilience-campaign.md) — Can an item-level regional campaign close across disconnected service islands?
-7. [Cascadia covariance and assurance](campaigns/cascadia-network-covariance-and-assurance.md) — Do apparently separate paths remain independent after their shared dependencies fail?
-8. [72-hour Service Entry Force](force/72-hour-service-entry-force.md) — What complete force closes the dominant early bottleneck after any two entry cells are lost?
+### Institution and force
 
-The [strategic study](synthesis/strategic-study.md) is the cumulative manuscript. The modular papers are authoritative for their own assumptions, derivations and evidence gates.
+The [National Utility Projection System](institution/national-utility-projection-system.md) tests one strategic function across twenty-six candidate anchor complexes, ten concurrent campaigns, about 198,200 billets and a $1.698 trillion capital hypothesis. It shows why a floating nuclear water-and-power source is not a self-contained capability.
 
-## Foundations: define success before choosing machinery
+[Force composition](force/force-composition.md) and [readiness](force/readiness-and-force-generation.md) define components, professions, availability and regeneration. Their readiness rule is the minimum across people, equipment, stocks, movement, reception, sustainment, interfaces and authority.
 
-The foundation layer turns “respond to disaster” into measurable public obligations.
+### Capability physics
 
-- [Empirical baseline](foundations/empirical-baseline.md) bounds national hazard demand while keeping incompatible loss datasets separate.
-- [Design reference missions](foundations/design-reference-missions.md) creates ten compound campaigns rather than one average event.
-- [Service-level library](foundations/service-level-library.md) defines water, power, care, shelter, sanitation, communications, mobility and public works by phase.
-- [Mission-engineering method](foundations/mission-engineering-method.md) converts those conditions into population-service-time deficits and completion standards.
-- [Force-design framework](foundations/force-design-framework.md) and [research program](foundations/research-program.md) control maturity, alternatives and evidence.
+The detailed configuration studies all make the same correction: the attractive object is only one element of the service chain.
 
-This layer prevents a ship, aircraft, robot, reactor or mega-base from becoming its own requirement.
-
-## Institution: own the promise
-
-The institutional layer is intentionally zero-based.
-
-The [Department of Resilience](institution/department-of-resilience.md) defines six operating services, joint commands, a Civil Resilience Authority, independent technical authority, acquisition, science and industrial mobilization. It distinguishes the cabinet Department, the larger National Resilience Establishment and the actually employable Resilience Force.
-
-The [National Utility Projection System](institution/national-utility-projection-system.md) then tests the idea at strategic scale: a source-neutral functional command, twenty-six candidate anchor complexes, a ten-campaign force, about 198,200 billets and a $1.698T capital hypothesis. It demonstrates why a nuclear desalination carrier is not a self-contained capability.
-
-## Force: generate, move and regenerate complete formations
-
-The force layer connects institutional ambition to operating reality.
-
-- [Force composition](force/force-composition.md) defines deployable effects, components and professions.
-- [Readiness and force generation](force/readiness-and-force-generation.md) defines posture, employability and regeneration.
-- [Mature force design](force/mature-force-design.md) supplies the organizational middle between a technical module and a national campaign.
-- [Joint force allocation and order of battle](force/joint-force-allocation-and-order-of-battle.md) generates thirty-four formation families across five components and ten simultaneous campaigns.
-- [Deployment and distribution enterprise](force/joint-deployment-and-distribution-enterprise.md) models anticipatory, 72-hour, 14-day, 45-day and 90-day closure as a weakest-link system.
-- [72-hour Service Entry Force](force/72-hour-service-entry-force.md) converts the Pass 26 failure into six independently supported upland, air and offshore cells whose mixed service kernels close after any two-cell loss.
-
-The current force-generated screen reaches about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. The deployment enterprise attributes about 1.208 million of those billet-equivalents and $4.744T of the Department envelope to movement, reception and support. Both results remain unvalidated design hypotheses.
-
-## Campaigns: make the architecture fight the whole problem
-
-Campaign papers integrate hazard, geography, services, formations, movement, basing, supply, authority, repair and time.
-
-The [Cascadia joint campaign](campaigns/cascadia-joint-resilience-campaign.md) tracks sixty-four loads and 1.763 million tonnes across twelve paths and nine service islands. Its deterministic stress case closes all four deployment waves, forty-four public-service tests, responder bases, ninety-day supply, protected return flow and reconstitution.
-
-The [covariance and assurance study](campaigns/cascadia-network-covariance-and-assurance.md) then removes the assumption that different path labels imply independent failure. Five shared enablers and hierarchical system/family shocks cause the Pass 25 reference architecture to close only 5.8 percent of the declared trials. A three-cell architecture reaches 84.2 percent but still misses the 95-percent design target.
-
-The resulting doctrine is cellular: an independent campaign path must include its own origin, movement, reception, utilities, command, workforce, repair, technical release and civil interface. Platform diversity without support diversity is not campaign resilience.
-
-## Capabilities: close the complete service chain
-
-Configuration studies test the physical and organizational system behind each public effect.
-
-| Domain | Authoritative study | Configuration lesson |
+| Service | Configuration studies | Governing correction |
 | --- | --- | --- |
-| Water | [Water Restoration Force](capabilities/water/force-engineering.md) and [WRG-50](capabilities/water/configuration-model.md) | Treatment is only one element of source, quality, pipe, pressure, storage, wastewater and transfer. |
-| Power | [Power Restoration Force](capabilities/power/force-engineering.md) and [PRG-100](capabilities/power/configuration-model.md) | The damaged receiving network can matter more than the generator. |
-| Fire | [Fire Response Force](capabilities/fire/force-engineering.md) and [configuration](capabilities/fire/configuration-model.md) | Early interception and campaign closure require different formations. |
-| Flood | [Flood Response Force](capabilities/flood/force-engineering.md), [configuration](capabilities/flood/configuration-model.md) and [RDT&E](capabilities/flood/research-test-and-evaluation.md) | Pump nameplate gives way to hydraulic head, drainage, access, debris, breach and receiving-water constraints. |
-| Strategic utility | [Nuclear Water–Energy System](capabilities/water/nuclear-water-energy-system.md) and [Resilience Utility Anchors](capabilities/water/resilience-utility-anchors.md) | Large sources require prepared, source-neutral receiving nodes and rival energy pathways. |
+| Water | [Force engineering](capabilities/water/force-engineering.md), [WRG-50](capabilities/water/configuration-model.md), [nuclear water–energy](capabilities/water/nuclear-water-energy-system.md), [utility anchors](capabilities/water/resilience-utility-anchors.md) | Treatment must close with source, power, pipe, pressure, quality, residuals, wastewater and delivery. |
+| Power | [Force engineering](capabilities/power/force-engineering.md), [PRG-100](capabilities/power/configuration-model.md) | A deployable generator fleet is not a temporary electric utility. |
+| Fire | [Force engineering](capabilities/fire/force-engineering.md), [configuration](capabilities/fire/configuration-model.md) | Detection-to-action, delivered objective effect, line, hold and community protection govern—not tank capacity. |
+| Flood | [Force engineering](capabilities/flood/force-engineering.md), [configuration](capabilities/flood/configuration-model.md), [RDT&E](capabilities/flood/research-test-and-evaluation.md) | Head, drainage, barriers, breach, debris, access and receiving water govern—not pump nameplate. |
 
-Portfolio papers hold capability families that have not yet reached configuration study: [water, energy and utilities](capabilities/water-energy-and-utility-systems.md), [hazard control, access and earthworks](capabilities/hazard-control-access-and-earthworks.md), and [maritime, air mobility and medical](capabilities/maritime-air-mobility-and-medical.md).
+Portfolio papers hold domains that have not yet received a dedicated configuration study: [water, energy and utility systems](capabilities/water-energy-and-utility-systems.md), [hazard control, access and earthworks](capabilities/hazard-control-access-and-earthworks.md), and [maritime, air mobility and medical systems](capabilities/maritime-air-mobility-and-medical.md).
 
-## Architecture and innovation: invent without creating national single points of failure
+### Shared architecture
 
-The [Resilience Arsenal](architecture/resilience-arsenal.md) organizes systems around public effects. [Information, autonomy and common enablers](architecture/information-autonomy-and-enablers.md) defines observation, communications, logistics, maintenance, robotics and sovereign offline operation. The [common technical architecture](architecture/common-technical-architecture.md) controls interfaces, degraded modes, machine authority and configuration provenance. The [platform requirement register](architecture/platform-requirement-register.md) prevents exterior form from outrunning system evidence.
+[The Resilience Arsenal](architecture/resilience-arsenal.md) organizes systems around effects. [Information, autonomy and enablers](architecture/information-autonomy-and-enablers.md) defines observation, communications, maintenance, robotics and sovereign offline operation. [The common technical architecture](architecture/common-technical-architecture.md) controls interfaces, degraded modes, machine authority and provenance. [The platform requirement register](architecture/platform-requirement-register.md) prevents exterior form from outrunning evidence.
 
-The [technology frontier](innovation/technology-frontier.md) treats research as a standing operating system rather than a list of speculative gadgets. The [National Resilience Proving Network](innovation/national-proving-network.md) translates it into laboratories, regional ranges, flagship facilities, measurement systems and destructive full-mission trials.
+The governing rule is **standardize boundaries; diversify critical implementations**. Interoperability without provider, software and component diversity can turn a common architecture into a national common-mode failure.
 
-Pass 26 adds a crucial design tension: common interfaces are necessary for substitution, but common implementations can create correlated failure. The emerging rule is **standardize boundaries; diversify critical implementations**.
+### Economics
 
-Pass 27 makes that rule concrete. Government owns service-kernel interfaces, reference missions and safety evidence; rival suppliers compete on aircraft, sea lift, no-pier systems, autonomy, utilities and support implementations. Functional configuration now precedes exterior form.
-
-## Economics: reveal the actual scale
-
-The [force and resource model](economics/force-and-resource-model.md) preserves the first Department-wide fiscal screen and the original contradiction between a symbolic $1T premise and a complete institution. Later force-generated work supersedes its headcount while retaining its sensitivity structure.
-
-The current integrated design frame is about $12.05T over twenty-five years and $858B in mature annual operations. These are scale hypotheses, not estimates. Every regional, functional and assurance figure must be reconciled as a nested attribution before it is used in a Department-wide work breakdown.
+[Force and resource modeling](economics/force-and-resource-model.md) preserves the first Department-wide top-down screen. Later bottom-up force generation supersedes its headcount while retaining its sensitivity structure. The current integrated frame is about $12.05 trillion over twenty-five years and $858 billion in mature annual operations. These are nested scale hypotheses, not estimates or budget recommendations.
 
 ## Evidence discipline
 
-Every claim carries an implicit maturity state:
+Every major claim has a maturity state:
 
 | State | Meaning |
 | --- | --- |
@@ -118,6 +133,6 @@ Every claim carries an implicit maturity state:
 | `R3` | Closed physics and representative evidence for the complete system. |
 | `R4` | Demonstrated formation under realistic, adversarial and repeatable trials. |
 
-The [source ledger](ledgers/source-ledger.md) records provenance and evidence class. The [evidence ledger](ledgers/evidence-ledger.md) records what would change a conclusion. The [research log](ledgers/research-log.md) preserves chronological decisions without forcing the reader to follow the order of discovery.
+The [source ledger](ledgers/source-ledger.md) records provenance. The [evidence ledger](ledgers/evidence-ledger.md) records what would falsify or change a claim. The [research log](ledgers/research-log.md) preserves chronology without requiring the reader to experience the work in discovery order.
 
 No major platform has reached `R3`; renderings remain blocked.

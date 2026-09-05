@@ -1,5 +1,7 @@
 # The 72-hour Service Entry Force
 
+> **Configuration note:** this paper establishes the six-cell architecture. Pass 28's [public-service pod configuration](service-entry-pod-configuration.md) supersedes its continuously divisible mass timing with whole-pod credit: bridge/reuse closes the worst two-cell-loss case at hour 63, independent-essential at hour 71, and full substitution fails at hour 72.
+
 ## Executive judgment
 
 Pass 26 found that Cascadia campaign failure concentrates in the first 72 hours. A cellular mesh improved modeled campaign closure from 5.8 percent to 84.2 percent, but seventy-five of its seventy-nine failed trials first broke at day-three force closure. This paper therefore asks a narrower and harder question: **what standing force must exist if the first complete public-service package is required to survive the loss of any two entry formations and still close within 72 hours?**
