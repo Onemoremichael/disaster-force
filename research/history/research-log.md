@@ -1751,3 +1751,41 @@ The root README is rewritten around the proposition, the five-machine answer, th
 The twenty-two-sheet workbook freezes the protocol, architecture, hypotheses, design space, measurements, evidence ladder, sample-size and reliability screens, rights and data controls, cost build, annual profile, sources and twenty integrity checks. All checks pass, formula-error scanning finds no match and every sheet is rendered and visually inspected.
 
 No `NCAC` architecture is admitted. No evidence gate closes. No vehicle, site or formation rendering is authorized. The immediate next action is `L0` source acquisition, protocol registration and independent reproduction, with external review of the five `L1` human-system designs.
+
+## Pass 39 — New York `L0` catchment rehearsal and evidence-surface audit
+
+### Research question
+
+Can the operator construct the registered New York outcome-blind catchment universe, select provisional references and create defensible holdout commitments before any `A2` or `S3` outcome exists—and what prevents formal `L0` freeze?
+
+### Evidence build
+
+Seven frozen official extracts join NYC DCP 26b land-tract geometry, exact 2020 Census `POP100`, residential PLUTO lots, constructed building-footprint aggregates, 2024 HVI rankings, elevator safety-compliance records and public-facility coordinates. The workbook records retrieval timestamps, row and byte counts, source and metadata SHA-256 digests, reconstructable queries and inferential boundaries.
+
+Of 2,325 land tracts, 2,292 have positive 2020 population and 2,222 also have positive PLUTO residential units and a polygon neighbor. HVI postcodes cover 99.97 percent of 3,734,341 residential units and positive roof-height joins cover 98.05 percent. Only 62,982 of 120,187 latest elevator records, 52.4 percent, join through PLUTO BBLs. Elevator counts therefore remain administrative stratifiers rather than installed or operable capacity.
+
+The 2024 ACS API required a key at retrieval. The run substitutes exact decennial population only for catchment sizing and leaves civilian noninstitutionalized population, disability and age 65+ explicitly unmeasured. None enters selection.
+
+### Candidate and selection result
+
+Each eligible seed grows through contiguous polygon neighbors nearest the current population-weighted centroid until it first reaches 32,000 people; groups above 38,000 are rejected and identical GEOID sets are deduplicated. This yields 844 candidates. Hash order is SHA-256 of ascending pipe-delimited GEOIDs followed by `DF-NYC-HB-PR38-v1`, correcting an initially detected double-hash implementation before any outcome existed.
+
+Frozen pre-outcome rules yield 80 `V1` tower-intensive candidates, 170 `V2` mid-rise heat-burden candidates and 25 `V3` campus/service-friction candidates. Of all candidates, 578 satisfy no rule, 257 satisfy one and nine satisfy two. The archetypes are therefore mechanisms rather than exhaustive city categories.
+
+Processing `V1`, `V2` and `V3` in order, while prohibiting tract overlap, limiting one primary borough to three of five and requiring the second selection to add a borough, produces twelve disclosed provisional references across 87 distinct tracts and 414,234 people. `V1` includes Flushing–Willets Point, Upper West Side–Manhattan Valley, Murray Hill–Kips Bay and East Harlem North. `V2` includes University Heights North–Fordham, East Flatbush–Farragut, Bedford-Stuyvesant East and East New York–City Line. `V3` includes Astoria Central, Parkchester, Rockaway Beach–Arverne–Edgemere and Forest Hills.
+
+Three additional compositions are withheld behind published SHA-256 commitments. They are rehearsal commitments, not sealed holdouts, because the public universe and deterministic unsalted method make their compositions inferable.
+
+### Protocol audit and decision
+
+Formal `L0` remains open. The operator used tract-polygon contact, while the protocol requires a connected local-street component. Candidate growth, exact-distance ties, GEOID serialization, multi-archetype assignment and borough-balance order also required implementation choices that must become a registered amendment. No independent team has reproduced the 844-candidate universe, and empty 24,000-row outcome tables are not yet frozen.
+
+The next work is a versioned local-street topology audit, independent second implementation, external salted holdout custody, official demographic enrichment, blinded field-validity sampling, empty design-matrix publication and data-governance review. The provisional set can focus that work but cannot support architecture comparison yet.
+
+### Repository and model
+
+The campaign index is reorganized as a cumulative falsification chain rather than a list of studies. The root and research guides now make `L0`'s self-blocking decision the live frontier. The protocol, full-mission program, model catalog, evidence ledger and source ledger share the same status.
+
+The twelve-sheet workbook contains a read-me, formula control, frozen source manifest, coverage and missingness, thresholds, provisional references, full 87-tract composition, rehearsal commitments, complete 844-candidate universe, complete 2,325-tract evidence surface, sensitivity and fourteen formula-backed checks. All checks pass, no formula-error cell is found and every sheet is rendered and visually inspected.
+
+No `A2` or `S3` outcome is generated. No `NCAC` architecture advances. No rendering is authorized.
