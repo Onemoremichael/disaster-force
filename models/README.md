@@ -88,3 +88,11 @@ See [`research/27-resilience-technology-frontier.md`](../research/27-resilience-
 Seventeen of eighteen workbook checks pass. The remaining line is intentionally `OPEN`: twenty-four common-mode failures meet or exceed the provisional risk-priority threshold, against a field-acceptance target of zero. No interface contract has representative-mission closure, all twenty-five systems remain blocked, and no rendering is authorized. The risk scores and thresholds are ordinal research controls, not probabilities, safety findings or acquisition requirements.
 
 See [`research/28-common-resilience-technical-architecture.md`](../research/28-common-resilience-technical-architecture.md) for the architecture doctrine, interface logic, civil-authority boundary, degraded modes, correlated-risk analysis, conformance chain and transition strategy.
+
+## National Resilience Proving Network model
+
+[`national-resilience-proving-network.xlsx`](national-resilience-proving-network.xlsx) converts the strategic case's $320B proving-network allocation into a 20-sheet facility, evidence and transition model. It links ten national flagships, twenty-one regional ranges, twenty-seven satellite/conformance nodes, family-specific capacity and demand, utility envelopes, an experiment ladder, binary/mean/reliability power screens, measurement systems, ten safety cases, environmental control, twenty campaign protocols, $32B of mobile test assets, a 36,700-person resident workforce, annual funding, facility gates and cost-risk sensitivity.
+
+Eighteen of twenty checks pass. The two intentional `OPEN` findings are substantive: none of the ten flagship safety cases has concept-level closure, and the compound cost screen raises calculated need from $304B before contingency to $367.04B, $47.04B above the selected envelope. The severe screen reaches $428.96B. The 58 sites and facility scales are requirement hypotheses, not siting decisions, construction estimates or operating authorizations.
+
+See [`research/29-national-resilience-proving-network.md`](../research/29-national-resilience-proving-network.md) for the facility doctrine, flagship concepts, experimental-power argument, safety/environment model, workforce and transition.
