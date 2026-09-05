@@ -1671,3 +1671,45 @@ The pass defines a new configuration problem: the **Neighborhood Continuity and 
 The twenty-sheet workbook contains assumptions, four architecture bundles, tract inputs and outcomes, road recovery, six-hour service clocks, 1,200 trial rows, failure and sensitivity screens, finance, workforce, technology missions, sources, eighteen evidence gates and checks. All eighteen workbook checks pass, no formula errors were found, and all sheets were rendered and visually inspected.
 
 Campaign capital hypotheses range from $87.69B for `P2` to $116.16B for `M0`; twenty-five-year capital-plus-operations ranges from $471.26B to $600.45B. Deployed workforce ranges from 46,150 to 56,554. These are comparative design factors, not independent estimates or additive Department budgets. Every campaign evidence gate remains open. Vehicle and formation renderings remain blocked.
+
+## Pass 37 — Neighborhood Continuity and Access Cell configuration
+
+### Research question
+
+What permanent formation must own the seam from a protected district through household and building access, accessible collection, local route release, utilities, transfer, civil continuity, destination admission and return—and what fails when commercial infrastructure is unavailable?
+
+### Configuration boundary
+
+The pass takes `N01`, one 61-tract analytical catchment from the Harris campaign, and applies a 1.15 design factor to its `H3` demand. The resulting `NCAC-35` contract contains 34,956.8 demand people, 28,671.1 protected-local people, 6,285.7 complete movements, 14,268.1 household records, 1,503.1 assisted vertical movements, 60 route-km, 7.2 MW average power, 650 m³/day water and an abstract communications requirement. `N01` remains a workload boundary, not a jurisdiction or site.
+
+Four rival formations are tested against eight serial capability accounts. `T0` is a thin interface detachment, `I1` an integrated base-case cell, `A2` an assured conventional cell and `S3` a distributed technology target. A case passes only when protected local service, household verification, vertical access, collection, route release, power, water and communications all meet their requirement.
+
+### Loss and time results
+
+Ten required cases include the base mission, loss of one contact company, one vertical company, one collection squadron, one route detachment, five districts, two power blocks, one water island, one communications node and commercial communications/cloud. A compound case is diagnostic.
+
+`T0` passes none. `I1` passes only the base. `A2` passes the base and all eight physical losses, but commercial-network loss reduces hour-36 household verification to 79.6 percent. `S3` passes all ten required arithmetic cases at 102.2-percent isolated contact, but fails the diagnostic compound case at 87.7 percent.
+
+The six-hour service clock exposes the distinction between eventual effect and timely knowledge. `A2` isolated still reaches 100-percent aggregate modeled service by hour 72, but misses the independent household-contact deadline. `S3` isolated reaches 96.3-percent service by hour 36 and closes contact, conditional on its unproved parameters.
+
+### Formation and resource consequence
+
+The `A2` development reference contains 34 protected districts, 300 household teams in five companies, 100 vertical teams in five companies, five collection squadrons, seven route detachments, ten power blocks, nine water islands, seven communications nodes and a 720-person joint civil/rights/clinical/data/communications allowance.
+
+Its workforce is 7,586.55 deployed people. Functional materiel is 5,323.75 tonnes; packed deployment mass is 6,388.50 tonnes and volume 18,391 m³. The coarse movement screen yields 1,409 notional air positions, 275 forty-foot positions and 256 twenty-five-tonne road moves. Utility hypotheses include 7.2 MW average, 11 MW peak, 28.8 MWh usable battery, 650 m³/day water and 520 m³/day wastewater/residuals.
+
+Comparative finance screens `A2` at $6.866B capital, $1.586B annual operations and $46.525B over twenty-five years. Fourteen cells imply 106,212 deployed people and $22.209B/year before CTNs, line haul, destinations, higher command or regeneration. Those figures exceed the entire Pass 36 Harris `H3` hypotheses of 56,554 people and $19.405B/year. This is a contradiction test, not a force proposal; the prior campaign workforce and operating account are superseded as adequate.
+
+### Technology and rights decision
+
+Seven mission-driven programs replace premature vehicle concepts: a disconnected household continuity ledger, building-access mission system, powered vertical continuity, common-cabin collection family, dynamic civil route-assurance cell, neighborhood utility island and prepared-district adapter. Each states a parameter change, representative test and kill condition. `S3` receives no operational credit.
+
+Ten rights controls are part of mission closure: civil outcome authority; consent or lawful authority; household binding; accessibility exceptions and remedy; clinical regulation; data minimization; offline provenance; destination acceptance; property and benefit continuity; and return or durable continuity.
+
+### Repository and assurance
+
+The root, research, force and mobility guides now route readers through the live argument rather than stopping at the Harris requirement. The new formation paper sits in the mobility subsystem because it owns the remain-or-move seam, while its command and capability content remains explicitly joint. The model catalog, synthesis, Harris campaign, platform register, source ledger and evidence ledger all record the supersession.
+
+The twenty-one-sheet workbook contains mission, tract input, assumptions, rival architectures, base and loss closure, the service clock, task, workforce, equipment, logistics, utilities, finance, rights, technology, evidence, source and check views. All twenty checks pass; no formula errors were found; every sheet was rendered and visually inspected. All twenty external evidence gates remain open.
+
+`A2` advances only as the conventional development reference and `S3` only as a technology target. Neither formation is admitted. No rendering is authorized. The next work is a preregistered second metropolitan campaign and a representative 168-hour full-mission experiment centered on disconnected household continuity and building access.
