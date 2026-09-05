@@ -349,6 +349,8 @@ Pass 36 defined the `NCAC` requirement. This pass establishes its first formatio
 
 The next inquiry should not immediately draw a vehicle or scale `NCAC-35` nationally. It should produce a **preregistered second metropolitan campaign and a representative field experiment design** around the two linked failures that govern the cell: disconnected household continuity and building access. A different hazard and built form should test whether the `A2`/`S3` distinction survives outside the Harris-derived catchment.
 
+Pass 38 now supplies those designs. The [New York vertical heat-blackout replication protocol](../../campaigns/new-york-vertical-heat-blackout-replication-protocol.md) freezes `A2` and `S3` before outcome-blind selection of twelve reference catchments and three sealed holdouts across tower, mid-rise and outer-borough campus forms. The [NCAC full-mission test program](../../innovation/ncac-full-mission-test-program.md) turns this paper's open gates into a staged evidence enterprise with 888 element units, 60 utility sequences, 48 occupied-district trials, twelve developmental full-cell missions and thirty confirmatory missions for a frozen selected candidate. It reports no performance outcome and closes no gate; it replaces an underspecified “demonstration” with a falsifiable research commitment.
+
 In parallel, the program should:
 
 - replace the 61-tract analytical catchment with named but non-selected site alternatives and building inventories;
@@ -361,4 +363,4 @@ In parallel, the program should:
 
 The mature force is now more ambitious and less platform-centric than the original thought experiment. At neighborhood scale, national resilience power is the ability to know who needs service, reach them through damaged buildings and streets, keep them safely in place where possible, move them completely where necessary, preserve their rights and continuity, and regenerate the formation to do it again. The equipment matters because it serves that chain. The chain—not the equipment—is the weapon system analogue.
 
-No rendering is authorized. All twenty gates remain open.
+No rendering is authorized. All twenty gates remain open. The immediate authorized research action is protocol registration and `L0` data rehearsal, not national scaling.
