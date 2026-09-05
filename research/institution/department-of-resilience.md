@@ -71,7 +71,7 @@ President and Congress
 └── Secretary of Resilience
     ├── Civil Resilience Authority             civil outcomes, activation, assistance, recovery
     ├── Chief of the Resilience Staff          joint requirements, plans, readiness, doctrine
-    │   ├── Six operating services             organize, train, equip, sustain
+    │   ├── Seven operating services           organize, train, equip, sustain
     │   ├── Domestic geographic commands       employ joint forces in the United States
     │   ├── Global Resilience Command          overseas posture and operations
     │   └── Unified functional commands        mobility, sustainment, medical, information,
@@ -83,20 +83,21 @@ President and Congress
 
 ### Department leadership and Resilience Staff
 
-The Secretary of Resilience would be responsible for national resilience policy, force employment, acquisition, international engagement, and preparedness. A civilian Deputy Secretary would manage the department. A **Chief of the Resilience Staff**, supported by the chiefs of six operating services, would be the principal professional adviser on force readiness and employment.
+The Secretary of Resilience would be responsible for national resilience policy, force employment, acquisition, international engagement, and preparedness. A civilian Deputy Secretary would manage the department. A **Chief of the Resilience Staff**, supported by the chiefs of seven operating services, would be the principal professional adviser on force readiness and employment.
 
 The Resilience Staff would conduct joint planning, force design, requirements integration, global posture, readiness assessment, and lessons. It would prevent each service from building a self-contained response system that cannot combine with the others.
 
-### Six operating services
+### Seven operating services
 
 The services organize, train, equip, and sustain forces. Joint commands employ them.
 
-1. **Land Engineering Service** — access, earthmoving, bridging, debris, flood control, temporary works, housing infrastructure, ground transport, and large-scale fire ground operations.
-2. **Air Response Service** — strategic and tactical lift, aerial fire control, sensing, communications relay, evacuation, medical movement, airborne delivery, and uncrewed aviation.
-3. **Maritime Response Service** — ocean, coastal, riverine, and lake access; sealift; offshore life-support production; port restoration; salvage; evacuation; and floating bases.
+1. **Land Engineering Service** — access, earthmoving, bridging, debris, flood control, temporary works, housing infrastructure, and large-scale fire ground operations.
+2. **Air Response Service** — strategic and tactical cargo lift, aerial fire control, sensing, communications relay, airborne delivery, austere aviation and uncrewed systems.
+3. **Maritime Response Service** — ocean, coastal, riverine and lake access; cargo sealift; offshore life-support production; port restoration; salvage; and floating bases.
 4. **Infrastructure Restoration Service** — power, water, wastewater, communications, grid components, industrial controls, fuel systems, utility repair, and deployable public works.
-5. **Health Protection Service** — field and definitive care, public health, medical logistics, patient movement, chronic-care continuity, workforce replacement, veterinary support, and fatality management.
+5. **Health Protection Service** — field and definitive care, public health, medical logistics, patient regulation, chronic-care continuity, workforce replacement, veterinary support, and fatality management.
 6. **Community Stabilization Service** — shelter, feeding, essential goods, accessible services, public information, civil liaison, education continuity, temporary administration, housing transition, and local economic restart.
+7. **Civil Mobility and Continuity Service** — door-to-node collection; accessible road, rail, air and water passenger movement; transfer nodes; clinical and custodial continuity; family reunification; and funded return.
 
 This division is not a prediction that every occupation fits neatly inside one service. It establishes durable professional homes and acquisition sponsors while requiring cross-service response task forces for operations.
 
@@ -111,7 +112,7 @@ Geographic commanders would control assigned active forces and receive additiona
 Some capabilities are too scarce, interconnected, or global to divide regionally:
 
 - **Strategic Mobility Command** would own or control long-range airlift, sealift, rail mobilization, common-user trucking, reception hubs, aerial refueling where justified, and global movement control.
-- **National Civil Mobility and Continuity Command** would own the person-specific chain from affected origin through accessible road, rail, air and water movement to destination intake, medical and family continuity, custody, reunification and funded return. Strategic Mobility Command supplies common-user lift; Civil Mobility and Continuity determines whether that lift becomes lawful population service.
+- **National Civil Mobility and Continuity Command** would employ the person-specific forces generated by the Civil Mobility and Continuity Service and integrate support from the other services. It owns the chain from affected origin through accessible road, rail, air and water movement to destination intake, medical and family continuity, custody, reunification and funded return. Strategic Mobility Command supplies common-user cargo and force lift; Civil Mobility and Continuity determines whether passenger movement becomes lawful population service.
 - **Strategic Sustainment Command** would control depots, arsenals, shipyards, aviation maintenance centers, strategic stocks, fuel, medical supply, and the national distribution network.
 - **Resilience Medical Command** would regulate patients and scarce clinical capacity across regions while the Health Protection Service generates the units.
 - **Information and Forecast Command** would fuse hazards, infrastructure status, vulnerability, supply chains, public health, and readiness into operational forecasts and allocation recommendations.
@@ -119,7 +120,7 @@ Some capabilities are too scarce, interconnected, or global to divide regionally
 - **Industrial Mobilization Command** would maintain supplier maps, surge contracts, government-owned production capability, critical-material reserves, repair capacity, and emergency production plans.
 - **Training and Doctrine Command** would run common education, collective exercises, certification, doctrine, and the lessons system.
 
-The [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) makes the mobility–sustainment boundary explicit. Strategic Mobility Command owns common-user origin-to-theater movement and damaged-entry architecture; National Civil Mobility and Continuity Command owns the accessible person-to-receiver chain; supported Theater-Opening and Theater Sustainment Commands clear forces to operating locations; Strategic Sustainment Command owns national depots, replacement and reconstitution. This prevents “transport delivered” from being confused with “public service operating” without creating duplicate owners for the same supply chain.
+The [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) makes the mobility–sustainment boundary explicit. Strategic Mobility Command owns common-user origin-to-theater cargo and force movement and damaged-entry architecture; National Civil Mobility and Continuity Command owns the accessible person-to-receiver chain; supported Theater-Opening and Theater Sustainment Commands clear forces to operating locations; Strategic Sustainment Command owns national depots, replacement and reconstitution. The [National Civil Mobility and Continuity Force](../force/mobility/national-civil-mobility-and-continuity-force.md) supplies the first dedicated service design. This prevents “transport delivered” from being confused with “public service operating” without creating duplicate owners for the same supply chain.
 
 The wildfire system demonstrates the value of predictive posture, explicit preparedness levels, and national allocation of scarce resources.[^nifc-mobilization][^nifc-levels] The new establishment would apply that logic continuously across the entire force, backed by owned fleets and formations.
 

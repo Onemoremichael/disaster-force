@@ -1495,3 +1495,70 @@ All nineteen checks pass. The exported workbook was reopened and inspected acros
 ### Continuation decision
 
 Ingest actual national road, rail, airport, port and waterway layers; add population subgroup and accessible-movement demand; fit joint receiver, utility, route, communications and labor damage states; and solve an equity-constrained stochastic allocation. Keep anti-correlated local reception, civil mobility and mobile substitution as live rival architectures. Do not select sites or render platforms.
+
+## Pass 33 — National Civil Mobility and Continuity Force
+
+### Research question
+
+What purpose-built institution, fleet, node system, route-restoration force, workforce and industrial base are required to move people—not fictitious receiver capacity—through a damaged national network while preserving accessibility, clinical care, households, custody and return?
+
+### Repository decision
+
+The root front door is rewritten around the current thesis and unresolved decisions rather than a pass-by-pass catalog. The force corpus now contains four stable subsystems: `generation`, `projection`, `mobility` and `reception`. Mobility is separated from projection because common-user cargo and force lift do not by themselves complete a lawful person journey. Superseded results remain in the research log and subsystem decision tables rather than dominating navigation.
+
+### Data and inference boundary
+
+The Pass 32 population and thirty-two Service Catchment Areas are joined to 2024 ACS disability, vehicle-availability and group-quarters tables. The model then gates modes through federal major-road, rail, primary-airport, intermodal passenger, ferry, principal-port and waterway footprints.
+
+The resulting screen contains 3,968 ordered origin-destination-mode records. Within the seventy-two-hour time gate, 476 road, 596 rail, 992 air and 142 water paths remain. These counts demonstrate only observed network presence under declared speed and access rules. They do not establish current condition, bridge or track survival, runway or berth usability, traffic, rights, crew availability or passenger throughput.
+
+Waterway `FIPS` was found to identify state rather than county. The preprocessing logic was corrected to assign waterway nodes by their coordinates to the nearest SCA within the reported state. The model was rebuilt and reverified after this boundary error was discovered.
+
+### Human movement demand
+
+Five mutually exclusive cohorts are applied by precedence: 3.488M people in clinical continuity, 44.334M in accessible support, 2.078M in institutional or custodial continuity, 16.412M in households without a vehicle after modeled overlap, and 278.658M in the general cohort. Their screening place factors are 2.00, 1.35, 1.20, 1.10 and 1.00 respectively.
+
+The factors convert a 2,500-CDE campaign into 2,652.634 movement-place CDE. They expose equipment, caregiver, clinical and custody burdens but are not individual classifications. The clinical share of community disability, the 4.5-person coefficient for four-or-more-person households and modeled overlap removal remain declared assumptions.
+
+### Force decision
+
+Civil mobility becomes the Department's seventh operating service: the **Civil Mobility and Continuity Service**. A National Civil Mobility and Continuity Command employs its person-specific formations while Strategic Mobility Command retains common-user cargo and force lift.
+
+The reference force contains 12,000 `ACM-60` accessible road cells, 600 `MCT-1200` continuity trainsets, 400 `ACA-250` civil airlifters, 180 `WCB-1800` waterborne bridge vessels, 128 `CTN-10` and 32 `CTN-50` transfer nodes, 160 network-restoration and route-assurance groups, sixteen mobility/continuity/custody commands and thirty-two distributed bases and depots.
+
+The moving fleets provide 3,554 gross CDE-place in seventy-two hours before readiness, impairment, path, cohort, collection, intake and receiver constraints. No fleet count is service capacity by itself.
+
+### Architecture competition
+
+Four architectures receive 500 fixed-seed trials beginning with seed 330905. A trial succeeds only if total closure reaches 99 percent, every protected cohort reaches 97 percent and the population-weighted bottom demand decile reaches 95 percent.
+
+1. `A0`, a borrowed-fleet baseline, averages 67.067-percent closure and passes no trials.
+2. `A1`, a universal-access force, averages 97.800-percent closure but passes only 13.8 percent of trials. Protected cohorts close nationally, yet the mean bottom-demand-decile result is 81.695 percent. Accessibility inside vehicles does not solve route and terminal covariance.
+3. `A2`, a restorable multimodal mesh, averages 99.985-percent closure and passes 494 of 500 trials, or 98.8 percent. It combines a 1.60-times receiver lattice, a 1.25-times mobility force, a thirty-percent receiver-hardening factor, ninety-two-percent terminal survival, eighty-eight-percent route survival, sixty-percent failed-route restoration and a ten-percent common-mode-failure parameter.
+4. `A3`, protected-local continuity, passes every declared trial with a 4.20-times receiver lattice and 0.60-times mobility force.
+
+`A2` is the first architecture to clear the provisional ninety-five-percent admission threshold. It advances to testing only. The fixed assumptions, pseudo-random trials and six observed model failures do not constitute a real-world reliability estimate.
+
+### Institution, industry and finance
+
+The force has $927B of line capital before reserve and $1.15875T after a twenty-five-percent planning reserve. Mature mobility operations screen at $86.906B per year. The direct workforce is 443,080; relief and training factors create a 1.026M active-establishment screen, and component multipliers produce 3.444M affiliated billet-equivalents.
+
+Combined with the receiver lattice, `A2` carries $2.35053T in capital, $166.745B in mature annual operations and $4.98677T over twenty-five years. `A3` carries $6.29936T over the same horizon. These are common-rule planning screens, not independent estimates or additive Department budget claims.
+
+The industrial object is not a bus order. It includes accessible vehicle and common-module manufacturing, continuity trainsets and deployable rail interfaces, a civil transport-aircraft prime, shallow-draft shipyards, self-sufficient transfer nodes, route sensing and repair, distributed depots, schoolhouses, civil identity and dispatch systems, and a licensed export architecture.
+
+### Technology and governance
+
+Eight programs are pulled by the failure chain: a universal continuity module, autonomous collection mesh, damage-tolerant civil rail bridge, austere accessible air bridge, shallow-draft civil bridge, self-proving route restoration, disconnected continuity digital twin, and reunification and return system.
+
+Operational dispatch does not absorb independent civil-rights, accessibility, clinical, network-safety, privacy, Tribal, territorial or host-government authority. No journey earns service credit without door-to-node collection, compatible interfaces, lawful destination intake and funded return or durable continuity.
+
+### Model and verification
+
+The twenty-three-sheet workbook contains controls, source boundaries, cohort rules, 3,222 county or municipio records, SCA and national cohorts, network sources, SCA footprints, network edges, mode paths, fleet classes, architectures, the reference case, 2,000 stochastic trial rows, finance, workforce, technology, rights, evidence gates, sources and checks.
+
+All fifteen checks pass. The exported workbook was reopened and inspected across its decision ranges; the formula-error scan returned zero matches. Every sheet was rendered and visually reviewed after the final network correction. Independent preprocessing reproduces cohort, network, fleet, architecture, finance and workforce results.
+
+### Continuation decision
+
+Attack `A2` with broad parameter and model-form uncertainty; replace SCA averages with tract-scale collection and time-dependent door-to-berth queues; and configure one transfer node and one universal passenger module through mass, energy, sanitation, staffing, information, safety and rights budgets. Preserve protected-local continuity as a live rival. Do not begin vehicle renderings.

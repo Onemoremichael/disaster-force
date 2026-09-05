@@ -7,7 +7,7 @@ The Department of Resilience should not be organized as an enlarged emergency-ma
 The mature structure has three distinct objects:
 
 1. the **Department of Resilience**, which makes policy, sets the national readiness promise, controls resources, governs civil authority, and maintains public accountability;
-2. the **National Resilience Establishment**, which includes the six operating services, commands, schools, laboratories, acquisition system, depots, reserves, state and tribal components, and certified industrial base that generate capacity; and
+2. the **National Resilience Establishment**, which includes the seven operating services, commands, schools, laboratories, acquisition system, depots, reserves, state and tribal components, and certified industrial base that generate capacity; and
 3. the **Resilience Force**, meaning the certified headquarters, units, stocks, transport, and support actually assigned or available for operations.
 
 These are not synonyms. A department can exist without a ready force. An inventory can exist without crews. A contractor can exist without being available during correlated national demand. A technical module can arrive without the reception, distribution, waste, replacement, and transfer systems that turn output into sustained civilian service. The proposed institution is credible only if its public promise can be traced through all three objects.
@@ -20,7 +20,7 @@ That is a much larger proposition than coordinating federal assistance. It is th
 
 ## What this pass adds
 
-Earlier passes established the [Department and six services](../../institution/department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../../economics/force-and-resource-model.md). They did not fully specify the organizational layer between a technical module and a national campaign.
+Earlier passes established the [Department and its operating services](../../institution/department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../../economics/force-and-resource-model.md). Pass 33 subsequently separated person-specific mobility from common-user logistics and made it a seventh professional service. The formation grammar below remains valid with that addition.
 
 This pass defines that missing layer:
 
@@ -106,16 +106,17 @@ The [WRG-50 configuration study](../../capabilities/water/configuration-model.md
 
 ### The generating organization
 
-The six services organize, train, equip, certify, sustain, and professionally govern forces:
+The seven services organize, train, equip, certify, sustain, and professionally govern forces:
 
 | Service | Permanent responsibility | What it does not own alone |
 |---|---|---|
 | Land Engineering Service | Access, earthworks, crossings, debris, flood works, structural stabilization, ground fire control | Strategic movement, utility operation, clinical care, civil priorities |
-| Air Response Service | Air mobility, aerial fire control, sensing, relay, evacuation, airborne delivery, deployable air operations | Ground reception, onward distribution, medical regulation, community transfer |
-| Maritime Response Service | Ocean, coastal, lake, and river access; port opening; sealift; salvage; offshore production and support | Inland distribution, utility connection, local patient pathways |
+| Air Response Service | Cargo and force mobility, aerial fire control, sensing, relay, airborne delivery, deployable air operations | Ground reception, onward distribution, civil-passenger regulation, community transfer |
+| Maritime Response Service | Ocean, coastal, lake, and river access; port opening; cargo sealift; salvage; offshore production and support | Inland distribution, civil-passenger regulation, utility connection, local patient pathways |
 | Infrastructure Restoration Service | Water, wastewater, power, thermal safety, communications utility, fuel systems, controls, and grid repair | Major civil works, strategic transport, public-health authority |
-| Health Protection Service | Clinical care, public health, medical logistics, patient movement, workforce replacement, health protection | General power, water, shelter, and transport systems on which care depends |
+| Health Protection Service | Clinical care, public health, medical logistics, patient regulation, workforce replacement, health protection | General power, water, shelter, and protected-movement systems on which care depends |
 | Community Stabilization Service | Shelter, food, essential goods, accessible services, population support, housing transition, public information, local economic continuity | Bulk production, strategic logistics, technical utility release |
+| Civil Mobility and Continuity Service | Door-to-node collection; accessible road, rail, air and water passenger movement; transfer nodes; household, clinical and custody continuity; reunification and return | Common-user cargo lift, route repair, receiving capacity, civil priority and sovereign authority |
 
 Each service controls professional qualification, maintenance standards, configuration, safety, technical release, and formation readiness. It does not retain operational control of deployed units merely to protect institutional ownership.
 
@@ -141,7 +142,7 @@ Civil objectives and local authority
         └── Retrograde, transfer, and reconstitution
 ```
 
-This operational structure is intentionally not a mirror of the six services. If it were, service seams would become incident seams. The Infrastructure Restoration Service may generate a water group, the Land Engineering Service its corridor-construction elements, the Maritime Response Service its intake and connector elements, and the Health Protection Service its quality and surveillance elements; once assigned, the combined water mission answers to the life-support utilities commander.
+This operational structure is intentionally not a mirror of the seven services. If it were, service seams would become incident seams. The Infrastructure Restoration Service may generate a water group, the Land Engineering Service its corridor-construction elements, the Maritime Response Service its intake and connector elements, and the Health Protection Service its quality and surveillance elements; once assigned, the combined water mission answers to the life-support utilities commander.
 
 Joint Publication 3-33 uses a headquarters to integrate forces generated by different services, while preserving service responsibilities and specialist advice.[^jp333] That integration problem is real even though the Department of Resilience should use different language, civilian authority, and outcome measures.
 

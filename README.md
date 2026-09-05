@@ -22,27 +22,33 @@ The **Department of Resilience** owns the national promise. The **National Resil
 
 This is why the repository no longer treats ships, aircraft, reactors, robots or shelters as the organizing units. They are components inside service chains.
 
-## What the research has discovered
+## The current thesis
 
-The mature reference force is intentionally disruptive: six operating services, geographic and functional commands, civil and technical authorities, a technology enterprise, a national proving network and an industrial mobilization system. Its planning promise is three catastrophic, five major and two invited global campaigns at once, with twenty percent immediately employable reserve in every scarce effect.
+The research now supports four connected conclusions.
 
-The current force-generated screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. The integrated design frame is roughly $12.05 trillion over twenty-five years and $858 billion in mature annual operations. These are scale hypotheses, not cost estimates or budget recommendations.
+First, the Department must be a force-generating establishment, not a coordinating headquarters. The current national screen contains thirty-four formation families, about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. Its roughly $12.05-trillion capital frame and $858-billion mature annual operating hypothesis describe the scale of the ambition; they are not estimates or recommendations.
 
-Cascadia is the first integrated campaign test. A deterministic architecture moved sixty-four mission-package loads and 1.763 million tonnes across nine service islands. Once shared fuel, communications, labor, authority, inspection and repair failures were added, its nominally diverse paths proved highly correlated. A three-cell mesh reached 84.2 percent closure in the declared 500-trial screen and still missed the 95-percent target.
+Second, nominally diverse deployment paths fail together. Cascadia closed deterministically, then fell below the assurance target when fuel, communications, labor, authority, inspection and repair were allowed to become shared causes. That failure produced independently supported entry cells, indivisible service pods and complete occupied districts.
 
-The response was a six-cell **72-hour Service Entry Force** with two upland, two air and two offshore paths. Continuous mass arithmetic first appeared to close the loss of any two cells. Indivisible public-service pods narrowed that result. Configuring the people inside one pod overturned it.
+Third, fixed readiness is part of force projection. A prepared receiving lattice can remove most of the occupied-area burden from mobile cargo, but only if the sites survive where demand occurs. The population-weighted national screen found 2,355.80 CDE surviving against 2,500 demanded; mobility cannot route people into capacity that no longer exists.
 
-The current frontier is **National Receiving Geography**. Configuring a complete 1,000-person occupied district first broke the mobile-only hour-72 screen. A prepared receiving lattice restored the aggregate timing screen by maintaining 72.1 percent of the occupied-area burden at destinations. The unresolved question was whether that capacity survives where people need it and whether people can reach the remainder.
+Fourth, moving people is not a logistics afterthought. The new [National Civil Mobility and Continuity Force](research/force/mobility/national-civil-mobility-and-continuity-force.md) gates road, rail, air and water paths with federal network data and preserves five distinct movement needs. A universal-access fleet reaches 97.8-percent mean national closure yet passes the joint distributional rule in only 13.8 percent of trials. The first architecture to advance combines a larger accessible fleet with hardened receivers, deployable transfer nodes and route restoration; it passes 98.8 percent of the declared trials at a roughly $4.987-trillion twenty-five-year burden.
 
-The first balanced lattice contains four receiver classes, eight independent domestic assurance cells and sixteen synthetic operating regions. Its 7,200 nominal district equivalents fall to 3,707 after provisional readiness, two-cell loss and common-mode stress—enough for the 3,000-equivalent domestic contract. A capacity-weighted 72.1-percent fixed share reduces the pod to 11,612.76 tonnes and screens its tenth cargo at hour 70.05.
+That result is conditional and therefore useful. It identifies what must be proved next instead of allowing a national average to hide the same stranded populations.
 
-Pass 32 replaces sixteen equal regions with twenty-nine connected, population-weighted CONUS catchments plus Alaska, Hawaii and Puerto Rico. Under the concurrent domestic stress, only 2,355.80 CDE survive against 2,500 demanded. Local matching serves 1,525.92 CDE; the baseline four-mode corridor plan raises that to 2,066.42. Even frictionless transfer remains 144.20 CDE short because mobility cannot create receiver capacity.
+> National resilience power requires four coequal machines: force generation, service projection, civil mobility and prepared reception.
 
-The least-cost closing candidate tested combines a 1.50× denser lattice with a 1.732× corridor enterprise, at roughly $2.311 trillion over twenty-five years. It is not a preferred design or an optimum. It reveals the new institutional requirement: interregional service is population relocation, with accessibility, medical and family continuity, lawful custody, destination intake and funded return as capacity constraints.
+## What is established and what remains open
 
-That produces the most important architectural change since the Department itself:
+| Established at the current maturity | Still unproved |
+| --- | --- |
+| Public effect over time is the governing unit | Causal service-to-outcome functions for most missions |
+| Force, pod, cell and district are distinct design levels | Representative hardware and occupied mission trials |
+| Route, receiver and shared-enabler failure must be modeled together | Fitted joint fragility and parameter distributions |
+| Accessibility, clinical regulation, custody and return consume capacity | Person- and tract-scale door-to-berth performance |
+| Fixed receivers and mobile formations are one system | Sites, vehicle geometry, detailed cost and industrial schedules |
 
-> National resilience projection requires both a mobile service force and a prepared receiving lattice. Fixed readiness and moving force are one system.
+No major platform has reached `R3`. Green model checks establish internal reconciliation, not real-world readiness.
 
 ## Read by question
 
@@ -52,8 +58,8 @@ Four paths cover most uses:
 | --- | --- | --- |
 | Understand the whole thesis | [Strategic study](research/synthesis/strategic-study.md) | The linked evidence and models at each decision |
 | Audit how the argument is derived | [Research atlas](research/README.md) | Promise → institution → force → campaign → configuration → proof |
-| Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → reception → public service |
-| Work at the current design frontier | [Reception and population continuity](research/force/reception/README.md) | Fixed/mobile division → survival → lawful geographic allocation |
+| Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → mobility → reception |
+| Work at the current design frontier | [Civil mobility and continuity](research/force/mobility/README.md) | Collection → transfer → line-haul → intake → return |
 
 The [model catalog](models/README.md) connects every workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions. Chronology exists only in the [research log](research/ledgers/research-log.md).
 
@@ -65,7 +71,7 @@ The repository is arranged by the role a claim plays:
 | --- | --- | --- |
 | Promise | Public effects, populations, deadlines and design missions | [foundations](research/foundations/) |
 | Sovereign capacity | Departmental authority and national utility projection | [institution](research/institution/) |
-| Force | Formations, readiness, allocation, movement and service entry | [force-design spine](research/force/README.md) |
+| Force | Generation, service projection, civil mobility and prepared reception | [force-design spine](research/force/README.md) |
 | Campaign proof | Geography, damaged networks, covariance and closure | [campaigns](research/campaigns/) |
 | Complete-service physics | Configuration of population, water, power, fire, flood, mobility and health effects | [capabilities](research/capabilities/) |
 | Shared boundaries | Interfaces, autonomy, degraded modes and admission gates | [architecture](research/architecture/) |
@@ -81,7 +87,7 @@ The project is not technology-conservative. It anticipates high-rate no-pier log
 
 Novelty is pulled by failed mission threads. A desalination carrier is useful only with intake, energy, treatment, residual custody, pipeline, pressure, storage, quality, wastewater and civil transfer. A firefighting aircraft is useful only inside sensing, basing, airspace, sortie, delivered-yield, line, hold, protection and smoke systems. A transport is useful only when its cargo becomes lawful public service at the far end.
 
-The receiving-system result demonstrates the method. A complete occupied system first broke the transport ceiling. Moving 72.1 percent of its occupied-area burden into maintained receivers restored aggregate timing. Real population and concurrent receiver damage then proved that baseline surviving capacity is smaller than the promise. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
+The mobility result demonstrates the method. A complete occupied system first broke the transport ceiling. Prepared receivers restored aggregate timing; real geography then broke the receiver assumption. An accessible fleet restored the national average; joint route-receiver damage then exposed the geographic tail. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
 
 ## Evidence before imagery
 

@@ -4,6 +4,8 @@
 
 > **Pass 32 decision:** a receiving force is not national because its inventory is nationally owned. It is national only when surviving capacity is reachable from the people who need it, by a lawful and accessible path, inside the service deadline.
 
+> **Mobility note — Pass 33:** this paper remains authoritative for the population-weighted receiving geography and the aggregate capacity deficit. [The National Civil Mobility and Continuity Force](../mobility/national-civil-mobility-and-continuity-force.md) supersedes its abstract corridor rates with federal network gates, population cohorts, fleet and transfer-node classes, and joint route-receiver trials.
+
 The [National Receiving Lattice](national-receiving-lattice.md) established that land, buildings, utility interfaces, stocks, inspectors, records, activation labor and civil release are operational force capacity. Its synthetic sixteen-region screen exposed a geographic shortfall but could not say whether the failure came from population distribution, concurrent hazard exposure, receiving-site loss or insufficient movement.
 
 This paper replaces that abstraction with a population-weighted national allocation model. It is not a siting study. It does not recommend a city, parcel, port, airport or rail terminal. It creates thirty-two reproducible **Service Catchment Areas** (`SCA`) so that capacity, damage, demand, movement, reception and rights can be tested in the same argument.
@@ -347,7 +349,7 @@ Advance neither the baseline lattice nor the closing hybrid as a preferred progr
 2. **civil mobility at national scale**—purpose-built accessible road, rail, air and water movement with transfer nodes and destination intake; and
 3. **mobile substitution**—additional complete service moved into the damaged area where lawful relocation is infeasible or undesirable.
 
-The next pass should ingest actual multimodal network and facility layers, define population subgroups and accessibility demand, and solve an equity-constrained stochastic allocation problem. It should ask not only whether 2,500 CDE close, but who remains unserved under each covariance state and why.
+Pass 33 performs that first multimodal and distributional screen in [The National Civil Mobility and Continuity Force](../mobility/national-civil-mobility-and-continuity-force.md). It finds that a universal-access force can average 97.8-percent closure while passing the joint distributional rule in only 13.8 percent of trials. The next frontier is parameter uncertainty, tract-scale collection, door-to-berth exercises and reference configuration of the transfer node and common passenger module.
 
 Only then should the program select receiver classes for site-level engineering or mobility systems for platform configuration. Rendering remains prohibited.
 
