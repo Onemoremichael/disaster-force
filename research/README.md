@@ -50,7 +50,9 @@ The argument becomes testable in [Cascadia](campaigns/cascadia-joint-resilience-
 
 The [Harris County continuity and selective-mobility campaign](campaigns/harris-county-continuity-and-selective-mobility-campaign.md) then joins those layers in one metropolitan geography. Its corrective architecture wins all 300 paired broad worlds but clears the complete rule in only 55.3 percent. The resulting [Neighborhood Continuity and Access Cell](force/mobility/neighborhood-continuity-and-access-cell.md) makes the missing seam concrete. Its first conventional configuration is a 7,587-person formation that survives every declared physical component loss but fails disconnected household verification. The rival technology target closes that arithmetic only through unproved records, access productivity, and prepared-site assumptions.
 
-Finish with the [technology frontier](innovation/technology-frontier.md), the [National Resilience Proving Network](innovation/national-proving-network.md), and the current [strategic synthesis](synthesis/strategic-study.md). Together they show how failed mission threads become rival inventions, test infrastructure, industrial programs, and eventually certified force.
+The inquiry now changes mode. The [New York vertical heat-blackout protocol](campaigns/new-york-vertical-heat-blackout-replication-protocol.md) freezes both architectures before selecting twelve reference catchments and three sealed holdouts across tower, mid-rise, and outer-borough campus forms. The companion [full-mission test program](innovation/ncac-full-mission-test-program.md) converts twenty open formation gates into a twelve-year evidence ladder: 888 element experimental units, 60 utility sequences, 48 occupied-district trials, twelve developmental missions, thirty confirmatory missions, and independent metropolitan replication. No outcomes are reported and no architecture is admitted.
+
+Finish with the [technology frontier](innovation/technology-frontier.md), the [National Resilience Proving Network](innovation/national-proving-network.md), the concrete `NCAC` test program, and the current [strategic synthesis](synthesis/strategic-study.md). Together they show how failed mission threads become rival inventions, test infrastructure, industrial programs, and eventually certified force.
 
 ## How work is divided
 
@@ -83,6 +85,6 @@ The present national reference is therefore **protect locally where complete ser
 
 Claims progress from a verbal mission (`R0`) through functional architecture (`R1`), bounded concept (`R2`), first-order configuration (`R2+`), closed physics and representative evidence (`R3`), and repeatable formation demonstration (`R4`).
 
-A green workbook check establishes only that declared arithmetic reconciles. National scale is not validated by multiplying an unproved module. Simulation is not a probability statement unless its parameter distribution is empirically warranted. Capacity receives credit only when the complete path to public effect closes.
+A green workbook check establishes only that declared arithmetic reconciles. National scale is not validated by multiplying an unproved module. Simulation is not a probability statement unless its parameter distribution is empirically warranted. Capacity receives credit only when the complete path to public effect closes. A confirmatory architecture must remain frozen; a material change begins a new evidence lineage.
 
 No major platform is at `R3`. Renderings remain blocked.

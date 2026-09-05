@@ -1713,3 +1713,41 @@ The root, research, force and mobility guides now route readers through the live
 The twenty-one-sheet workbook contains mission, tract input, assumptions, rival architectures, base and loss closure, the service clock, task, workforce, equipment, logistics, utilities, finance, rights, technology, evidence, source and check views. All twenty checks pass; no formula errors were found; every sheet was rendered and visually inspected. All twenty external evidence gates remain open.
 
 `A2` advances only as the conventional development reference and `S3` only as a technology target. Neither formation is admitted. No rendering is authorized. The next work is a preregistered second metropolitan campaign and a representative 168-hour full-mission experiment centered on disconnected household continuity and building access.
+
+## Pass 38 — Vertical-city replication and full-mission evidence program
+
+### Research question
+
+How can the project test whether the Pass 37 `A2`/`S3` distinction survives a radically different metropolitan hazard and built form without allowing outcome-driven catchment selection, architecture retuning, weak demonstrations or sponsor self-certification?
+
+### Preregistered campaign
+
+The pass creates protocol `DF-NYC-HB-PR38-v1` for a seven-day New York extreme-heat event coupled to power and commercial-communications loss. The contrast is mechanistic: the dominant exposure clock moves indoors; low-, mid- and high-rise buildings replace dispersed flood geometry; electricity couples cooling, elevators, domestic water pumps, communications, records and medical support; roads remain mostly physically present while street operability degrades through signals, curbs, transit, congestion and heat.
+
+`A2` and `S3` are copied from Pass 37 without New York tuning. Twelve non-overlapping 32,000–38,000-demand-person reference catchments will be selected outcome-blind across three archetypes—tower-intensive core, mid-rise heat-burden grid and outer-borough elevator-dependent campus. One additional catchment per archetype remains sealed. Deterministic selection uses a frozen source snapshot and a hash order based on the GEOID set and protocol seed.
+
+Each reference catchment receives 1,000 paired broad worlds for each architecture, creating 24,000 architecture-world rows. Twelve factors span demand, indoor heat, outage duration, building backup, elevator and domestic-pump availability, commercial communications, workforce, street productivity, prepared cooling, cell utility output and heat-sensitive illness. Declared dependence prevents a long outage from being modeled as independent of elevator, pump, communications and cooling loss. The worlds cover a design space; they are not event probabilities.
+
+Five hypotheses jointly govern advancement. `S3` must beat `A2` by at least fifteen percentage points overall and remain positive in every archetype; pass at least 80 percent of broad worlds in every archetype; meet household and high-risk contact clocks; meet total safe-service and destination-admission clocks; and produce no rights or safety regression. A sixth condition requires at least 80 percent next-mission capacity at hour 168. There is no compensating score and no campaign outcome is reported in this pass.
+
+### Full-mission test program
+
+The pass replaces the phrase “representative demonstration” with an evidence ladder. `L0` freezes and independently reproduces source, geography, code, seed, exclusions and the synthetic population. `L1` contains five two-arm human-system experiments: disconnected ledger reconciliation, household contact, vertical movement, route release and complete collection duty cycle. Normal-approximation planning with declared clustering, ten-percent attrition and twelve-unit block rounding produces 888 experimental units.
+
+`L2` contains sixty seven-day utility and district fault sequences. `L2B` adds forty-eight occupied seventy-two-hour district trials. `L3` contains twelve developmental 168-hour full-cell missions, six per architecture, in which design changes are allowed but reset the version. `L4` contains thirty confirmatory missions for the selected frozen candidate. With zero failures, thirty trials produce an approximately 90.5-percent one-sided lower confidence screen at 95-percent confidence; changes to hardware, software, staffing, doctrine or interfaces restart the count. `L5` is the New York metropolitan replication, followed by an independent third city.
+
+Twelve failure injections remove commercial cloud and backhaul, contact and vertical companies, a five-district service cluster, a collection squadron, a route detachment, power blocks and a feeder, a water island and building-pump cluster; add a common software defect, conflicting civil records and heat-related workforce attrition; and conclude with a no-notice second mission at hour 168.
+
+Rights and safety are test outcomes and operating constraints. No essential service is withdrawn to create realism. Disability-led design, paid participation, independent adjudication, worker stop authority, synthetic identities, safe abort and rescue, household integrity, destination acceptance, privacy and public amendment records are required.
+
+### Cost consequence
+
+The first program screen contains $46.2 billion of dedicated capital, including an $11.0-billion vertical-city range and utility yard, $5.5 billion of instrumented residential archetypes and $18.0 billion of rival full-scale `A2`/`S3` test articles. Twelve-year research and test operations total $42.9 billion, including $18.9 billion for forty-two developmental and confirmatory full missions using a visible $450-million design factor. A 30-percent reserve yields a $115.83-billion authorization screen. These are design assumptions, not an independent estimate or acquisition baseline.
+
+### Repository decision
+
+The root README is rewritten around the proposition, the five-machine answer, the intellectual reversals and the live evidence frontier. The campaign and innovation directories now carry the two new research objects, while the research guide, mobility spine, synthesis, model catalog, platform register, evidence ledger and source ledger share one current decision. The repository front door no longer ends with a list of accumulated concepts; it explains why the argument changed and what would falsify it next.
+
+The twenty-two-sheet workbook freezes the protocol, architecture, hypotheses, design space, measurements, evidence ladder, sample-size and reliability screens, rights and data controls, cost build, annual profile, sources and twenty integrity checks. All checks pass, formula-error scanning finds no match and every sheet is rendered and visually inspected.
+
+No `NCAC` architecture is admitted. No evidence gate closes. No vehicle, site or formation rendering is authorized. The immediate next action is `L0` source acquisition, protocol registration and independent reproduction, with external review of the five `L1` human-system designs.

@@ -321,9 +321,11 @@ The next pass should do two things in sequence.
 
 First, configure one `NCAC` around a bounded Harris County operating area. Replace shares and aggregate rates with a building inventory, named service points, explicit crew tasks, accessible vehicle cycles, route classes, energy and fuel, maintenance, communications, data custody, command, shift relief, and itemized deployment. The design should fail if the cell cannot reach its assigned buildings and close a complete person journey while one service point, one route group, and commercial communications are lost.
 
-Second, preregister and repeat the architecture comparison in a different metropolitan system with a different hazard and built form—for example, extreme heat plus grid failure in Phoenix or smoke plus earthquake access loss in the Puget Sound region. The ranges and admission rule should be fixed before the corrective architecture sees the result.
+Second, preregister and repeat the architecture comparison in a different metropolitan system with a different hazard and built form. Pass 38 selects New York extreme heat plus prolonged power and communications loss because it shifts the dominant network into occupied vertical buildings while leaving much road pavement physically present. The ranges and admission rule are fixed before the corrective architecture sees the result.
 
 Only after those tests should the Department decide whether `NCAC` is a permanent formation, how it nests under a campaign cell, and which novel machines deserve first-principles configuration.
+
+The resulting [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) reports no outcomes. Its companion [full-mission test program](../innovation/ncac-full-mission-test-program.md) converts the representative experiment into a staged, independently governed evidence enterprise.
 
 ## Sources and interpretation boundaries
 
