@@ -1,6 +1,6 @@
 # The 72-hour Service Entry Force
 
-> **Configuration note:** this paper establishes the six-cell architecture. Pass 28's [public-service pod configuration](service-entry-pod-configuration.md) supersedes its continuously divisible mass timing with whole-pod credit: bridge/reuse closes the worst two-cell-loss case at hour 63, independent-essential at hour 71, and full substitution fails at hour 72.
+> **Configuration note:** this paper establishes the six-cell architecture. Pass 28's [public-service pod configuration](service-entry-pod-configuration.md) superseded its continuously divisible timing with whole-pod credit. Pass 29's [`PCC-50` Population Continuity Complex](../capabilities/population-continuity/configuration-model.md) then superseded the hour-71 independent-essential allowance: a configured 15,152.86-tonne pod delivers eight pods by hour 72 in the worst two-cell-loss case, with the tenth near hour 84. The bridge/reuse hour-63 result remains a dependency-bounded screen.
 
 ## Executive judgment
 

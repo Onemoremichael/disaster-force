@@ -23,6 +23,8 @@ fight a real regional campaign and remove hidden dependencies
         ↓
 configure indivisible public-service units
         ↓
+close the human service bundle around a protected population
+        ↓
 invent, test and industrialize what does not yet exist
 ```
 
@@ -30,7 +32,7 @@ Three documents provide three useful entry points:
 
 - [Strategic study](research/synthesis/strategic-study.md) — the cumulative, book-length argument.
 - [Research atlas](research/README.md) — the derivation, arranged by decisions rather than chronology.
-- [Service-entry pod configuration](research/force/service-entry-pod-configuration.md) — the present research frontier: what one repeatable unit of projected public service actually contains.
+- [Population Continuity Complex](research/capabilities/population-continuity/configuration-model.md) — the present research frontier: whether one pod can actually sustain people once occupied area, food, water, sanitation, thermal safety, energy, waste and shifts are closed together.
 
 The [model catalog](models/README.md) connects each quantitative workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions.
 
@@ -60,7 +62,11 @@ Cascadia is the first complete campaign test. Its deterministic architecture mov
 
 The response was a six-cell **72-hour Service Entry Force**: two upland, two air and two offshore formations with independent origins and complete service mixes. Pass 27 showed that any four cells could provide 120 percent of the reference effect under continuously divisible mass assumptions.
 
-Pass 28 now replaces that abstraction with eighteen indivisible `PSP-10` public-service pods—three inside each cell. Ten complete pods are needed because food is the binding early-service contract. The bridge/reuse force closes its worst two-cell-loss case at hour 63. A more demanding independent-essential configuration closes at hour 71. A full-substitution force fails, delivering only eight pods by hour 72. This is the present design frontier.
+Pass 28 replaced that abstraction with eighteen indivisible `PSP-10` public-service pods—three inside each cell. Ten complete pods are needed because food is the binding early-service contract. Its independent-essential allowance appeared to close the worst two-cell-loss case at hour 71.
+
+Pass 29 configures the human-sustainment system inside one pod as a `PCC-50` Population Continuity Complex. Fifty thousand protected residents require about 376,257 square metres of occupied and support area, while another 210,000 people are reached through a separate food channel. Closing shelter, thermal safety, food, water, sanitation, service energy, waste and a shift-complete workforce raises the independent pod from 11,738.09 to 15,152.86 tonnes. Only eight pods arrive by hour 72 in the worst two-cell-loss case; the tenth arrives near hour 84. The hour-71 claim is superseded.
+
+This is the present design frontier: either invent a complete 50,000-person service complex below the 12,048.75-tonne air-entry ceiling, increase the movement architecture, or create prepared receiving capacity before catastrophe. A numerical 11,818.20-tonne technology target exists, but all of its shelter, food, sanitation, labor and energy claims remain unproved.
 
 The resulting doctrine is:
 
@@ -78,6 +84,7 @@ The resulting doctrine is:
 | Assurance | Are apparently separate paths actually independent? | [Cascadia covariance](research/campaigns/cascadia-network-covariance-and-assurance.md) |
 | Entry force | What survives the loss of any two first-entry formations? | [72-hour Service Entry Force](research/force/72-hour-service-entry-force.md) |
 | Configuration | What must one repeatable public-service unit physically contain? | [Public-service pod](research/force/service-entry-pod-configuration.md) |
+| Population continuity | Can shelter, food, water, sanitation, thermal safety, energy, waste and labor close as one protected-population system? | [PCC-50 configuration](research/capabilities/population-continuity/configuration-model.md) |
 | Invention | How are missing capabilities created and disproved? | [Technology frontier](research/innovation/technology-frontier.md) |
 
 This table is the repository's spine. Domain studies in water, power, fire, flood, mobility, health and architecture attach to the decision they inform; they are not parallel chapters competing for attention.
@@ -86,7 +93,7 @@ This table is the repository's spine. Domain studies in water, power, fire, floo
 
 The current integrated design frame reaches about **$12.05 trillion over 25 years** and **$858 billion in mature annual operations**. The deployment enterprise attributes $4.744 trillion of that envelope to movement, reception and support. The configured 72-hour force carries $471.125 billion in incremental capital and $70.706 billion in mature annual operations, producing nested Cascadia attributions of $844.565 billion and $104.906 billion per year.
 
-These figures are nested rather than additive. They are editable scale hypotheses whose purpose is to reveal omitted formations, dependencies and industrial burdens. They are not cost estimates, appropriations or benefit-cost conclusions. Pass 28 changes mass and throughput requirements but does not invent a new cost layer before reference designs exist.
+These figures are nested rather than additive. They are editable scale hypotheses whose purpose is to reveal omitted formations, dependencies and industrial burdens. They are not cost estimates, appropriations or benefit-cost conclusions. Passes 28 and 29 change mass, throughput and technology requirements but do not invent a new cost layer before reference designs exist.
 
 ## Why the machinery will be novel
 
@@ -104,7 +111,7 @@ research/
 ├── institution/    sovereign ownership and utility projection
 ├── force/          formations, readiness, entry and deployment
 ├── campaigns/      integrated regional tests and assurance
-├── capabilities/   configuration and physics by service domain
+├── capabilities/   configuration and physics by service domain, including population continuity
 ├── architecture/   shared interfaces, autonomy and platform gates
 ├── innovation/     technology portfolios and independent proof
 ├── economics/      workforce, industry and resource consequences
