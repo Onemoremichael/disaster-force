@@ -350,6 +350,25 @@ Pass 21 tests what the N-WES phrase “prepared node” actually requires and fi
 
 See [Resilience Utility Anchors](../capabilities/water/resilience-utility-anchors.md) and the editable [anchor alternatives workbook](../../models/resilience-utility-anchor-alternatives.xlsx).
 
+## National Utility Projection System
+
+Pass 22 asks what happens when strategic water–energy capacity becomes a national force promise rather than a platform or node study.
+
+1. The Department requires a **National Utility Projection System (`NUPS`)**: one Utility Projection Command, a continental and territorial anchor network, permanently generated formations, source-neutral interfaces, strategic mobility, depots, industrial reserves and independent release authorities.
+2. Utility Projection Command is a unified functional command rather than another equipment owner. It integrates six services, controls national readiness and scarce pools, supports domestic geographic commands, can become supported for multiregional utility failure, and cannot displace civil priority or licensed technical stop authority.
+3. Five permanent systems sit below it: Anchor Network Command; Energy and Water Projection Command; Utility Corridor Command; Utility Assurance Center; and Utility Sustainment and Industrial Command. The proving network remains sufficiently independent to test the command's claims.
+4. Each anchor is a complex: a wet or source node; a hazard-dissimilar back node; two or more pre-engineered corridors; critical-load service cells and storage; an alternate reception path; and resident bridge capacity. A high-scoring waterfront point cannot compensate for failure of any of these obligations.
+5. The initial planning portfolio contains twenty-six candidate zones rather than selected sites: ten regional coastal `RUA-300` complexes, eight island or remote `IUA-60` complexes, six inland/Great Lakes `LUA-150` complexes, and two national utility integration complexes.
+6. The Department-wide `3C + 5M + 2G + 20R` standard becomes ten simultaneous utility campaigns: two catastrophic regional, one catastrophic island/remote, five major and two global. It creates seven large and five compact source-equivalent slots before reserve and availability.
+7. At an assumed independent 65% material availability, eight large cores have a 97.47% probability of supplying three units but only a 16.91% probability of supplying seven. Fifteen raise the seven-unit screen to 95.78%; twelve compact cores give a 97.45% probability of at least five. Correlated design, regulator, supplier, port, software and workforce holds remain unmodeled.
+8. The reference mobile force also includes fourteen non-nuclear firm-energy units; seventeen large and twenty compact water-process modules; seventeen large and twenty compact shore-interface groups; thirty-two heavy and twenty-five island/high-head corridor groups; twenty-five storage/distribution groups; and nineteen marine-support groups. These are force-design hypotheses, not procurement quantities.
+9. The workforce screen reaches about 198,200 mature billets: roughly 113,600 in rotating mobile formations, 33,200 resident at anchors and 51,400 in command, education, independent safety, science, acquisition, depots and industrial mobilization.
+10. The integrated capital hypothesis is $1.698T over twenty-five years: $344B for anchor complexes, $571B for the mobile force, $500B for industrial, research, training, common and reserve infrastructure, and $283B explicit program reserve. Capital peaks near $118.86B per year in years 6–10; mature annual operation screens near $119B.
+11. The program is a utility-projection industrial economy—energy cores, grid-forming power electronics, water process, cables, hoses, pipe, crossings, storage, environmental systems, workboats, controls, metrology, strategic materials and licensed professions—not a reactor or shipbuilding program.
+12. All eighteen evidence gates remain open. Candidate parcels, compatible data, population-service catchments, hazard covariance, damaged-route distributions, regional/island/inland utility engineering, source substitution, fleet queues, correlated holds, workforce supply, industry, cost, authority and Department-wide work-breakdown reconciliation must close before readiness or rendering credit.
+
+See the [National Utility Projection System](../institution/national-utility-projection-system.md) and editable [national utility projection workbook](../../models/national-utility-projection-system.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
