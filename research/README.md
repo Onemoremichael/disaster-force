@@ -1,6 +1,6 @@
 # Research architecture
 
-This corpus is organized by **burden of proof**, not by hazard, platform or date of production. Each layer inherits a harder question from the layer above and is allowed to reject the answer below it.
+This corpus is organized as a **proof architecture**, not as a list of hazards, platforms or passes. Each layer owns one kind of claim, inherits constraints from the layer above and is allowed to reject the proposed answer below it. The folder tree therefore separates normative obligation, force design, technical closure and evidence rather than mirroring an incumbent bureaucracy.
 
 ```text
 MANDATE
@@ -48,7 +48,7 @@ This layer can establish first-order physics and configuration. It cannot infer 
 
 [Proving](proving/README.md) joins three functions that should not be separated: campaigns expose the force to geography and compound failure; the test enterprise turns failed mission threads into rival technology and representative trials; assurance controls sources, uncertainty, maturity and claim admission.
 
-The active chain runs from deterministic Cascadia closure, through covariance failure, to the Harris County building-to-return campaign and now to a preregistered New York vertical heat-blackout replication. The New York `L0` rehearsal stopped before architecture outcomes because its geography and custody controls were not yet adequate. The operator has now replaced polygon contact with a versioned `LION 26b` node-and-level graph; all references survive the correction, but independent reproduction and the remaining custody controls keep the stop binding.
+The active chain runs from deterministic Cascadia closure, through covariance failure, to the Harris County building-to-return campaign and now to a preregistered New York vertical heat-blackout replication. Campaigns now live in geographic dossiers so that protocol, correction, registration and eventual results share one bounded context. The New York `L0` work has completed its operator topology correction and empty result registry; independent reproduction, governed demographics, generator registration and external custody keep the stop binding.
 
 ## The supporting layers
 
@@ -61,8 +61,8 @@ The active chain runs from deterministic Cascadia closure, through covariance fa
 | If you want to understand… | Begin here | Then test it against… |
 | --- | --- | --- |
 | the national proposition | [First principles](mandate/first-principles.md) → [Department of Resilience](mandate/department-of-resilience.md) | [Strategic study](synthesis/strategic-study.md) |
-| the mature operating force | [Mature force design](force/generation/mature-force-design.md) → [force-design spine](force/README.md) | [Cascadia covariance](proving/campaigns/cascadia-network-covariance-and-assurance.md) |
-| why local protection displaced universal evacuation | [Population continuity](systems/population-continuity/README.md) → [mobility assurance](force/mobility/mobility-assurance-under-deep-uncertainty.md) | [Harris County](proving/campaigns/harris-county-continuity-and-selective-mobility-campaign.md) |
+| the mature operating force | [Mature force design](force/generation/mature-force-design.md) → [force-design spine](force/README.md) | [Cascadia covariance](proving/campaigns/cascadia/covariance-assurance.md) |
+| why local protection displaced universal evacuation | [Population continuity](systems/population-continuity/README.md) → [mobility assurance](force/mobility/mobility-assurance-under-deep-uncertainty.md) | [Harris County](proving/campaigns/harris-county/README.md) |
 | what must be invented and proved next | [`NCAC-35`](force/mobility/neighborhood-continuity-and-access-cell.md) → [technology frontier](proving/test-enterprise/technology-frontier.md) | [full-mission test program](proving/test-enterprise/ncac-full-mission-test-program.md) and [assurance](proving/assurance/README.md) |
 
 ## Authority rules
@@ -81,4 +81,4 @@ Claims progress from a verbal mission (`R0`) through functional architecture (`R
 
 ## Active frontier
 
-The next research obligation is not another architecture result. The operator street-topology correction is complete and auditable; a separate team must now reproduce its 126,779 canonical edges, 7,129 tract pairs, 847 candidates, twelve references and three unchanged commitments. In parallel, the program must complete the missing covariates, establish salted external holdout custody and register empty outcome tables. Only then may the frozen conventional and technology architectures enter the metropolitan contest.
+The next research obligation is not another architecture result. The operator street-topology correction and complete empty result surface are now auditable: 12,000 world identities, 24,000 paired architecture rows and 2,000 campaign aggregates exist, while every factor and outcome field remains blank. A separate team must reproduce the 126,779 canonical edges, 7,129 tract pairs, 847 candidates, twelve references and row ledgers. In parallel, the program must complete governed covariates, register the generator and within-/cross-catchment dependence matrices, and establish salted external holdout custody. Only then may the frozen conventional and technology architectures enter the metropolitan contest.

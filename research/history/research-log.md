@@ -1868,3 +1868,49 @@ The new campaign paper becomes the authoritative topology correction while the P
 The fourteen-sheet workbook contains the source manifest, row funnel, three graph summaries, all 2,325 tract degrees, all 7,129 primary adjacency pairs and witness counts, the 860-candidate union reconciliation, exact reference reconciliation, reference composition, thresholds, sensitivity, unchanged commitments and fifteen formula-backed checks. All checks pass, formula-error scanning finds no match and every sheet is rendered and visually inspected.
 
 No `A2` or `S3` outcome is generated. No `NCAC` gate advances. No rendering is authorized.
+
+## Pass 42 — Campaign dossiers and the New York empty outcome registry
+
+### Research-management question
+
+Can the repository become easier to reason through without flattening its work into a shorter list, while the New York program closes the next genuinely pre-outcome obligation?
+
+### Information-architecture decision
+
+The prior burden-of-proof restructuring was correct at the top level, but `proving/campaigns/` still treated seven long papers as peers. That structure hid the fact that a protocol, geographic rehearsal, topology correction and result registry are stages of one New York campaign—not four independent studies.
+
+Campaign work is now organized as geographic dossiers:
+
+- `campaigns/cascadia/` contains the deterministic joint campaign and the covariance study that breaks it;
+- `campaigns/harris-county/` contains the building-to-return metropolitan campaign; and
+- `campaigns/new-york/` contains the vertical heat-blackout protocol and its ordered `L0` evidence chain.
+
+The root README now presents the project as a causal argument from public obligation to institution, force, mission-system closure and geographic falsification. The research guide explicitly describes a proof architecture rather than an inventory. Campaign, proving, force, model and synthesis entry points now route readers into dossiers and bounded decisions instead of chronology-shaped filenames.
+
+### Protocol defect found before outcomes
+
+Materializing the promised empty table exposed an ambiguity that prose alone had concealed. The parent protocol defined the catchment–world pair as the primary unit but included a “worst reference catchment” gate, which exists only across a twelve-catchment campaign replicate. It also required every catchment to achieve 95 percent safe service while separately applying a 90 percent worst-catchment floor, making the floor redundant.
+
+Pre-outcome amendment `DF-NYC-HB-PR42-A1` separates the levels. Every catchment–world must achieve at least 90 percent safe service and pass household disposition, high-risk contact, mandatory admission, unsafe-exposure, next-capacity and sentinel gates. Every campaign replicate must achieve at least 95 percent population-weighted safe service and 95 percent aggregate mandatory admission, with no catchment below 90 percent and every non-aggregate gate passed. `H1` and `H2` remain paired catchment–world tests; `H4` becomes the twelve-catchment campaign test.
+
+### Registered result surface
+
+Registration `DF-NYC-L0-PR42-EMPTY-v1` creates:
+
+- twelve frozen reference catchments;
+- 12,000 catchment–world identities with global and local seed commitments;
+- one frozen `A2-PR37-v1` and one frozen `S3-PR37-v1` row for every world, producing 24,000 paired architecture rows;
+- 2,000 campaign aggregate identities, one per architecture across each of 1,000 twelve-catchment replicate blocks; and
+- a ninety-two-field schema spanning world generation, execution custody, raw counts and denominators, next-capacity components, rights and safety sentinels, missingness, adjudication and campaign aggregation.
+
+All 240,000 reserved world cells, 744,000 architecture cells and 34,000 campaign cells remain blank. No Latin-hypercube factor, simulated demand, performance measure, failure, hypothesis result or architecture comparison exists. Seventeen independent build checks and seventeen workbook formulas reconcile the row universe and zero-population contract.
+
+The canonical registration SHA-256 is `8124258f13574d1fd03243a49067e6e592e16dbda757ca4e2a219c1eb5d6ae94`. Ordered world, outcome and campaign ledgers are separately bound by `01acbda9db5a642edd304c847a5d4aa077bcaaa8f650ce7c63a310cff190d326`, `79f029f3d3b6b99dafadd17513fbaa1f683739407e78811bb1360f732137af5f` and `677ae43ca4f62fadabfda6c066c6ed97647c3f016978fadc659d7bab606c99e0`.
+
+### Evidence boundary and next decision
+
+Operator empty-table registration is complete; formal `L0` is not. Architecture execution remains prohibited until an independent implementation reproduces the topology, selection and row ledgers; governed age, disability, medical-power, accessibility and household inputs are acquired; the world generator and within-/cross-catchment dependence matrices are registered; salted holdouts enter external custody; independent rights, safety, statistical and privacy authorities approve the design; and the full registration receives an external timestamp or countersignature.
+
+The sixteen-sheet workbook was built through the spreadsheet artifact workflow, rendered sheet by sheet and visually inspected. All seventeen formula checks display `PASS`, formula-error scanning finds no match and the archive passes structural validation. The dossier restructuring was followed by a full relative-link audit.
+
+No `A2` or `S3` outcome is generated. No `NCAC` evidence gate advances. No platform requirement changes. No rendering is authorized.

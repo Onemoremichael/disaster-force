@@ -8,7 +8,7 @@
 
 **Decision:** retain twelve provisional references and three rehearsal commitments for independent reproduction; do not generate `A2` or `S3` outcomes
 
-**Topology update:** Pass 41's [street-topology audit](new-york-l0-street-topology-audit.md) supersedes this paper's polygon-adjacency proxy. The corrected universe contains 847 candidates rather than 844 and preserves all twelve references and all three commitments.
+**Topology update:** Pass 41's [street-topology audit](l0-street-topology-audit.md) supersedes this paper's polygon-adjacency proxy. The corrected universe contains 847 candidates rather than 844 and preserves all twelve references and all three commitments.
 
 ## Executive judgment
 
@@ -28,7 +28,7 @@ The correct result is therefore neither “selection failed” nor “the catchm
 
 A resilience formation can appear successful because a study boundary omits difficult buildings, counts nominal facilities as working destinations, treats administrative device records as installed capacity, assumes a road connection from polygon proximity, or defines the test population after seeing where the architecture performs well. Each error is capable of moving more apparent performance than the technology being evaluated. Catchment construction is therefore part of the experiment's causal design.
 
-The parent [vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) required source freezing, outcome-blind selection, three mechanistic built-form strata, four non-overlapping references per stratum and one sealed holdout. The [full-mission test program](../test-enterprise/ncac-full-mission-test-program.md) further required an independent team to reproduce the catchments, design matrix and empty outcome tables before `L0` closes. This pass performs the first operator build and audits the distance between that build and the registered requirement.
+The parent [vertical heat-blackout protocol](README.md) required source freezing, outcome-blind selection, three mechanistic built-form strata, four non-overlapping references per stratum and one sealed holdout. The [full-mission test program](../../test-enterprise/ncac-full-mission-test-program.md) further required an independent team to reproduce the catchments, design matrix and empty outcome tables before `L0` closes. This pass performs the first operator build and audits the distance between that build and the registered requirement.
 
 The governing prohibition is simple: **architecture outcomes cannot repair a selection defect**. A defect found now can be corrected under a public amendment. The same correction after `A2` and `S3` results exist would create an opportunity to select a more favorable city.
 
@@ -151,7 +151,7 @@ That is not an argument for a single omniscient federal database. It is an argum
 
 `L0` closes only after the following actions are complete:
 
-1. **Street-topology audit.** **Operator complete in Pass 41.** The [registered correction](new-york-l0-street-topology-audit.md) replaces polygon touch with official `LION 26b` node-and-level topology, publishes the 831 retained, thirteen removed and sixteen added candidates, and preserves all references. Independent reproduction remains required.
+1. **Street-topology audit.** **Operator complete in Pass 41.** The [registered correction](l0-street-topology-audit.md) replaces polygon touch with official `LION 26b` node-and-level topology, publishes the 831 retained, thirteen removed and sixteen added candidates, and preserves all references. Independent reproduction remains required.
 2. **Independent reproduction.** A separate team re-downloads the declared sources, verifies hashes or documents source drift, reimplements the corrected canonical method and reconciles all 847 street-connected candidates, twelve provisional references and three custodian records. It must also reproduce the full polygon-to-street difference ledger.
 3. **Salted custody.** Transfer holdout compositions to an independent authority, publish salted commitments and destroy operator access to the salts.
 4. **Demographic enrichment.** Acquire a reproducible official age, disability and household denominator with uncertainty; keep it outside selection and use it only for synthetic-population construction and sample design.
@@ -165,7 +165,7 @@ If the topology audit changes a catchment, the rejected composition and reason r
 
 The provisional catchments are good enough to focus the next evidence work and not good enough to begin the architecture contest. They should be used to prepare source-specific field-validation plans, utility and building sampling frames, privacy cases, empty data structures and the independent reproduction package. They should not yet be used to simulate `A2` versus `S3`, tune formation parameters, select equipment or authorize visual renderings.
 
-The companion [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) exposes the complete candidate universe, tract evidence surface, thresholds, reference compositions, commitments, sensitivity analysis, source hashes and formula-backed checks. It intentionally marks salted custody as open even while its internal arithmetic passes.
+The companion [selection workbook](../../../../models/nyc-l0-catchment-selection.xlsx) exposes the complete candidate universe, tract evidence surface, thresholds, reference compositions, commitments, sensitivity analysis, source hashes and formula-backed checks. It intentionally marks salted custody as open even while its internal arithmetic passes.
 
 This is the larger institutional lesson. A coequal Department of Resilience does not prove seriousness by moving quickly from a compelling vehicle concept to acquisition. It proves seriousness by funding an evidence system capable of delaying its preferred design, discovering that its registered method is underspecified and repairing the defect before anyone can know which correction produces the better result.
 
