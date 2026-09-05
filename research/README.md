@@ -34,9 +34,9 @@ The deterministic campaign closed. [The covariance study](campaigns/cascadia-net
 
 [Configuring the public-service pod](force/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
 
-[Population continuity](capabilities/population-continuity/README.md) is the current frontier. The `PCC-50` study replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. The `PCC-D1` study then configures one complete 1,000-person occupied district. Its transformational case is 78.71 tonnes and 446.60 cubic metres—far above the earlier 26.05-tonne district target. Propagated through fifty districts, it produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
+[Population continuity](capabilities/population-continuity/README.md) replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. `PCC-D1` then configures one complete 1,000-person occupied district. Its 78.71-tonne, 446.60-cubic-metre transformational case produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
 
-The only modeled sub-72-hour case is dependency-bounded: a prepared receiver supplies 80 percent of the occupied-area system before the event. The force architecture must therefore join mobile formations to a maintained National Receiving Lattice rather than treating local reception as an unpriced assumption.
+[The National Receiving Lattice](force/national-receiving-lattice.md) is the current frontier. It treats land, buildings, utility interfaces, stocks, records, inspectors, activation labor and civil release as generated force capacity. The balanced reference restores aggregate hour-72 movement with a 72.1-percent fixed occupied-area share, but it fails the geographically clustered damaged-region case by 878 CDE. The next question is no longer whether fixed readiness is needed; it is how much must be local, how much can move between regions, and what independence can actually be proved.
 
 This is the present force-design doctrine:
 
@@ -64,8 +64,9 @@ SOVEREIGN CAPACITY
       Department design
       National Utility Projection System
   force/
-      composition, readiness and allocation
-      deployment, entry cells and public-service pods
+      generation and allocation
+      deployment and entry cells
+      public-service pods and receiving lattice
 
 CAMPAIGN PROOF
   campaigns/
@@ -96,6 +97,8 @@ SYNTHESIS AND CONTROL
 The foundation layer prevents a ship, aircraft, robot, reactor or mega-base from becoming its own requirement. [Empirical baseline](foundations/empirical-baseline.md) bounds demand without combining incompatible loss datasets. [Design reference missions](foundations/design-reference-missions.md) replaces an “average disaster” with ten compound campaigns. [Service levels](foundations/service-level-library.md), [mission engineering](foundations/mission-engineering-method.md), the [force-design framework](foundations/force-design-framework.md) and [research program](foundations/research-program.md) provide the shared grammar.
 
 ### Institution and force
+
+The [force-design spine](force/README.md) is the canonical guide to formation generation, deployment, service-entry cells, public-service pods and the National Receiving Lattice. It records which earlier timing results have been superseded by physical configuration.
 
 The [National Utility Projection System](institution/national-utility-projection-system.md) tests one strategic function across twenty-six candidate anchor complexes, ten concurrent campaigns, about 198,200 billets and a $1.698 trillion capital hypothesis. It shows why a floating nuclear water-and-power source is not a self-contained capability.
 
