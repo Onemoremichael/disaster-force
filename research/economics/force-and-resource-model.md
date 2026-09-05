@@ -92,7 +92,7 @@ The calculation is deliberately narrow. It excludes unpriced strategic access, h
 
 ## Historical reference-case outputs
 
-This workbook preserves the project's first Department-wide scale screen. It is still useful for sensitivities and for the original $1T-versus-$2.24T contradiction, but it is no longer the authoritative force-generated order of battle. Pass 23's [joint force allocation study](../institution/joint-force-allocation-and-order-of-battle.md) derives complete formation families, component credit, movement, reception and regeneration from the ten-campaign promise.
+This workbook preserves the project's first Department-wide scale screen. It is still useful for sensitivities and for the original $1T-versus-$2.24T contradiction, but it is no longer the authoritative force-generated order of battle. Pass 23's [joint force allocation study](../force/joint-force-allocation-and-order-of-battle.md) derives complete formation families, component credit, movement, reception and regeneration from the ten-campaign promise.
 
 The historical reference case produces:
 

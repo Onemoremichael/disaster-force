@@ -44,7 +44,7 @@ Pass 2 finds that:
 5. The national posture requires community interfaces, forward stations, regional complexes, strategic mobility bases, national depots and laboratories, and overseas access and pre-positioning.
 6. Existing institutions may seed the transition but do not define the end state. The Department should possess its own air, land, maritime, infrastructure, health, and community-stabilization professions and industrial systems.
 
-See [Institutional architecture](../institution/department-of-resilience.md), [Force composition](../institution/force-composition.md), and [Readiness, posture, and force generation](../institution/readiness-and-force-generation.md).
+See [Institutional architecture](../institution/department-of-resilience.md), [Force composition](../force/force-composition.md), and [Readiness, posture, and force generation](../force/readiness-and-force-generation.md).
 
 Pass 3 finds that:
 
@@ -134,7 +134,7 @@ Pass 8 finds that:
 13. Acquisition programs should procure formation increments: platform, crews, replacement, transport, reception, data, sustainment, repair, training, waste, transfer, bases and recapitalization. A platform lot is not a ready effect.
 14. Five evidence gates—analytical, command-post, deployment, endurance/replacement, and transfer/regeneration—must be passed before the organizational hypothesis becomes a program of record.
 
-See [Mature force design](../institution/mature-force-design.md).
+See [Mature force design](../force/mature-force-design.md).
 
 Pass 9 finds that:
 
@@ -386,7 +386,7 @@ Pass 23 asks what the Department-wide force becomes when every service, campaign
 11. The Department's center of gravity is a joint deployment and distribution enterprise for public service: movement, damaged-node reception, responder bases, sustainment, replacement, technical release and regeneration designed with the operating force.
 12. Twenty evidence gates remain open. Representative formation configurations, item-level movement, damaged-node throughput, occupation pipelines, home-base minimum staffing, independent cost, Department-wide WBS reconciliation and a full campaign/regeneration trial must close before validation or rendering.
 
-See [Joint Force Allocation and National Order of Battle](../institution/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
+See [Joint Force Allocation and National Order of Battle](../force/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
 
 ## National Resilience Deployment and Distribution Enterprise
 
@@ -405,7 +405,7 @@ Pass 24 asks what must exist between a ready formation at home and restored publ
 11. A $220B technology allocation targets autonomous multimodal load choreography, runway regeneration, robotic port clearance, adaptive causeways, zero-host-utility bases, intermodal service modules, distributed cargo aircraft, damage-tolerant visibility, route certification and reverse-flow hazard logistics. Novelty earns no force credit until it changes a visible coefficient through independent representative evidence.
 12. Twenty evidence gates remain open. Cascadia is the first item-level priority because it must trace configuration-controlled people and cargo through independent paths, queues, damaged structures, responder bases, ninety-day sustainment, reverse flow and reconstitution. Rendering remains blocked.
 
-See [National Resilience Deployment and Distribution Enterprise](../institution/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/joint-deployment-distribution-model.xlsx).
+See [National Resilience Deployment and Distribution Enterprise](../force/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/joint-deployment-distribution-model.xlsx).
 
 ## Cascadia Joint Resilience Campaign
 
@@ -424,7 +424,26 @@ Pass 25 asks what the Department must actually do when the aggregate deployment 
 11. The attributable regional capital hypothesis is $373.44B including reserve, with $34.2B in mature annual operations. Both are nested in the prior Department and deployment-enterprise work breakdowns rather than added to them.
 12. Arithmetic closure is not validation. Scenario demand, asset and path covariance, every transport rate, service effect, base, workforce, authority, cost and technology threshold remain open. The next research step is an asset-level probabilistic network and representative full-mission trial program. Rendering remains blocked.
 
-See the [Cascadia Joint Resilience Campaign](../institution/cascadia-joint-resilience-campaign.md) and editable [Cascadia campaign workbook](../../models/cascadia-campaign-model.xlsx).
+See the [Cascadia Joint Resilience Campaign](../campaigns/cascadia-joint-resilience-campaign.md) and editable [Cascadia campaign workbook](../../models/cascadia-campaign-model.xlsx).
+
+## Cascadia network covariance and campaign assurance
+
+Pass 26 asks whether the paths that closed deterministically in Pass 25 remain independent after the support systems behind them are allowed to fail together.
+
+1. A different vehicle or route does not establish independence. Origin, energy, communications, workforce, repair, technical release and civil priority systems must be able to fail separately.
+2. The model applies the same 500 fixed-seed standard-normal draw sets to four rival architectures. System-wide and mode-family factors combine with idiosyncratic path-copy shocks; five shared enablers receive separate three-state shocks.
+3. Campaign closure is the minimum of the 72-hour force package, all nine day-14 service-island path targets and a capacity-weighted sustainment threshold. The 95-percent line is an explicit design-assurance target, not an empirical forecast.
+4. Under the declared assumptions, the Pass 25 reference closes 5.8 percent of trials. Hardening the one-copy topology reaches 21.4 percent; duplicating critical paths and pooling air capacity reaches 48.0 percent.
+5. A three-cell campaign mesh reaches 84.2 percent, with an approximate 95-percent binomial half-width of 3.2 percentage points. None of the four architectures clears the target.
+6. In the cellular case, 75 of 79 failures are assigned first to the day-3 force-closure gate, none to day-14 zone independence and four to sustainment. The research frontier therefore moves from counting regional routes to assuring the first 72 hours.
+7. The minimum unit of force projection becomes an independently supportable campaign cell: effect module, origin, movement, reception, zero-host base, sovereign information, crew, repair, technical authority and civil interface.
+8. A Joint Campaign Assurance Command should maintain dependency registers, allocate correlation budgets, integrate living hazard forecasts, certify substitution and direct blind loss-of-node and loss-of-enabler trials. It does not replace civil priority or independent safety authority.
+9. The technology agenda shifts toward sovereign micro-utilities, multi-chain energy, offline mission command, configuration-aware autonomous logistics, rapid inspection and release, interface-common but implementation-diverse components, mobile micro-depots and dynamic covariance-aware allocation.
+10. The cellular case adds a provisional $228B attributable capital slice and $14.7B in mature annual operations to the Pass 25 regional architecture, producing $601.44B and $48.9B respectively. These values remain nested in Department lines and are not independent estimates.
+11. Fourteen evidence gates require asset-level dependency data, fitted joint damage/recovery distributions, representative cells, seeded common-mode losses, complete Cascadia trials, unfamiliar global replication, independent cost and civil selection of a residual-risk target.
+12. The model remains an `R2+` stochastic screen. It reveals a contradiction and a test program; it does not forecast Cascadia performance or authorize renderings.
+
+See [Cascadia Network Covariance and Campaign Assurance](../campaigns/cascadia-network-covariance-and-assurance.md) and the editable [covariance workbook](../../models/cascadia-covariance-model.xlsx).
 
 ## Material limitations and disagreements
 
@@ -453,6 +472,7 @@ See the [Cascadia Joint Resilience Campaign](../institution/cascadia-joint-resil
 - Pass 23 creates a force-generated Department reference but does not validate the 34 formation configurations, 3.95M affiliated billet-equivalents, $12.049T capital frame or $858B mature operating screen. Its original movement and reception tests intentionally collapsed time and are superseded for deployment analysis by Pass 24.
 - Pass 24 closes all ten reference deployment chains only under assumed wave shares, modal assignments, payloads, cycles, activation times, node throughput, damage factors, route capacity, responder-base density and sustainment coefficients. The correlated-loss case is deterministic, not probabilistic; no site, vehicle, fleet, workforce, access agreement, capital estimate or service effect is validated.
 - Pass 25 closes the Cascadia campaign only under a deterministic set of sixty-four loads, twelve path profiles, eleven correlation groups, eleven service-effect families, base and sustainment coefficients, protected reverse and passenger capacities and depot rules. Its clean checks establish internal requirement consistency, not asset survival, throughput, causal public effect, legal release, workforce supply, cost or field performance. All twenty evidence gates and the rendering gate remain open.
+- Pass 26 uses a reproducible Gaussian-factor screen with 500 trials, four architectures, eleven path groups and five shared enablers. Its marginal probabilities, state thresholds, correlation coefficients, copy capacities, pooling rules, assurance target and cost deltas are design assumptions. The simple binomial interval excludes parameter uncertainty, and the common-minimum enabler model is deliberately conservative. Architecture ranking and thresholds must be replaced by fitted joint distributions and full-mission evidence before reliability credit.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.
