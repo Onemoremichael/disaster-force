@@ -1391,3 +1391,59 @@ The saved workbook was reopened through the spreadsheet engine. All fourteen int
 ### Continuation decision
 
 Configure the National Receiving Lattice as a force: site and building classes, catchments, hazard covariance, utility and structural passports, ownership and access, inspection cycles, local inventory, workforce, exercises, capital and operating cost, and a mobile fallback. In parallel, allocate rival district technology targets across mass, volume, labor and release time.
+
+## Pass 31 — National Receiving Lattice
+
+### Research question
+
+What permanent fixed and mobile force must exist at the destination so a delivered public-service pod can become safe, lawful occupied service—and can that receiving force survive cell loss, common-mode failure and geographically clustered demand?
+
+### Repository decision
+
+The repository now has a force-design spine organized around four coupled machines: generate capacity, move it through damage, receive and release it, and sustain public service. The root front door leads to that argument rather than to pass chronology. A dedicated force index records supersession from continuous mass to indivisible pods, configured districts and the receiving lattice. Chronology remains here; the new NRL paper and model own the current claim.
+
+### Force decision
+
+1. Establish a National Receiving Lattice Command as an operational force, distinct from property management.
+2. Use eight domestic assurance cells that each span all sixteen synthetic operating regions and own materially independent supplier, software, depot and command paths.
+3. Separate geographic regions from assurance cells: regions know place; cells preserve implementation independence.
+4. Require every site to pass land/access, structure/drainage, utilities, stocks, people, inspection, records, authority and fallback dimensions before it contributes event capacity.
+5. Preserve independent technical and civil occupancy authority; operators may present a site but may not mark their own work safe.
+
+### Reference configuration
+
+The balanced lattice contains 48 hardened regional receiver complexes, 192 distributed prepared sites, 1,440 building adapter nodes and 144 partner or territorial receivers. Domestic nominal capacity is 7,200 CDE; partner nominal capacity is 720 CDE.
+
+Provisional class readiness factors reduce domestic capacity to 5,203.22 CDE. Loss of two of eight cells and a five-percent common-mode deduction leave 3,707.30 CDE against the 3,000-CDE domestic service contract. The analogous partner N-1 result is 372.82 CDE against 360 required. The domestic arithmetic fails above about a 23.1-percent common-mode loss.
+
+The capacity-weighted fixed district share is 72.1 percent. Mobile district mass is 21.94 t, producing an 11,612.76-t pod. The faster surviving mode pair completes its tenth cargo at hour 70.05, with 1.95 h of cargo margin. Connection, inspection and civil release remain separate.
+
+### Geographic contradiction
+
+One four-region catastrophic catchment provides 718.29 CDE against 500 required in the synthetic screen. Distributed national concurrency also closes. But eight clustered campaigns with eight degraded receiving regions provide only 1,621.94 CDE against 2,500 required, a shortfall of 878.06 CDE.
+
+Fixed density alone would require about 1.54 times the balanced inventory, or roughly 11,100 nominal domestic CDE. A national-corridor alternative reaches 2,780.47 CDE arithmetically but has not proved damaged-route travel time. The reference therefore remains conditional and keeps dense, corridor, mobile-substitution and relocation paths alive.
+
+### Institution, industry and finance
+
+The first-order establishment contains 59,832 permanent positions and 163,020 affiliated billets. The modeled domestic activation surge is about 13,570 people, separate from the mobile PCC workforce. The sites hold about 322,320 t of local stock subject to rotation, issue tests and compatibility control.
+
+Capital is a $563.808B real-2026-dollar hypothesis including twenty-percent reserve. Mature annual operations are $36.32B and the twenty-five-year build/operations profile totals $1.138T, peaking at $71.45B in 2036. These values are nested dimensional assumptions, not independent estimates or additive Department budget claims.
+
+The industrial concept requires multiple prime families at common boundaries, second sources, surge tooling, repair capacity and substitution trials. A site is purchased as maintained certified service capacity, not as completed construction.
+
+### Technology and evidence
+
+Eight programs own hazard-covariant siting, rapid structural/utility state estimation, universal protected interfaces, adaptive occupied systems, autonomous activation and repair, offline passports, receiver-transfer corridors and accountable rapid civil release. Rival mobile-only, hardened-hub, building-first, interregional-corridor and dense-balanced architectures remain visible.
+
+All eighteen evidence gates remain `OPEN`. The NRL advances to `R1/R2` with `R2+` arithmetic; national allocation closure and rendering remain prohibited.
+
+### Model and verification
+
+The twenty-seven-sheet workbook contains the service contract, site classes, inventory, readiness vector, cell assurance, common-mode ladder, regional distribution, spatial stress, fixed/mobile split, pod timing, partner layer, activation, inspection, passports, utility interfaces, local stocks, workforce, industry, capital, twenty-five-year spend, alternatives, technology programs, evidence gates, sources and checks.
+
+All seventeen integrity and decision checks pass, including the required adverse clustered-demand result. The saved workbook was reopened and inspected across the main decision ranges; formula-error scans returned zero matches. All twenty-seven sheets were rendered and visually inspected. Independent calculations reproduce assured capacity, fixed/mobile mass, pod timing, clustered capacity, dense-lattice scaling and total expenditure.
+
+### Continuation decision
+
+Replace the synthetic equal-region model with a population-weighted, multimodal, multi-hazard national network. Compare dense local capacity with time-feasible interregional receiver transfer under joint receiver and route loss. In parallel, close complete `RRC`, `DPS` and `BAN` reference designs far enough to test structure, utility, inspection, occupancy, maintenance and lifecycle accounts without authorizing imagery.

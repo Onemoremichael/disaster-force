@@ -32,13 +32,11 @@ Cascadia is the first integrated campaign test. A deterministic architecture mov
 
 The response was a six-cell **72-hour Service Entry Force** with two upland, two air and two offshore paths. Continuous mass arithmetic first appeared to close the loss of any two cells. Indivisible public-service pods narrowed that result. Configuring the people inside one pod overturned it.
 
-The current frontier is the **Population Continuity system**:
+The current frontier is the **National Receiving Lattice**. Configuring a complete 1,000-person occupied district broke the mobile-only hour-72 screen: the district-propagated pod weighs 14,451.07 tonnes and completes its tenth cargo at hour 81.52 after both upland cells are lost. The force therefore has to divide completeness deliberately between what moves and what is already maintained at the destination.
 
-- one PSP-10 pod must protect 50,000 residents in fifty PCC-D1 districts while supporting a separate 210,000-person food channel;
-- the first configured independent pod reaches 15,152.86 tonnes, so only eight pods arrive by hour 72 after both upland cells are lost;
-- a complete transformational PCC-D1 district still weighs 78.71 tonnes and occupies 446.60 cubic metres;
-- propagating that district raises the technology-target pod to 14,451.07 tonnes and delays the tenth cargo completion to hour 81.52; and
-- a prepared-receiver case can screen below hour 72 only by accepting a maintained fixed-infrastructure dependency.
+The first balanced lattice contains four receiver classes, eight independent domestic assurance cells and sixteen synthetic operating regions. Its 7,200 nominal district equivalents fall to 3,707 after provisional readiness, two-cell loss and common-mode stress—enough for the 3,000-equivalent domestic contract. A capacity-weighted 72.1-percent fixed share reduces the pod to 11,612.76 tonnes and screens its tenth cargo at hour 70.05.
+
+But the harder result is negative. When eight campaigns cluster and eight receiving regions are degraded together, only 1,621.94 equivalents remain against 2,500 required. National inventory closes; geographic allocation does not. The next design choice is therefore among a denser lattice, proved interregional transfer, greater mobile substitution, lawful population movement or a narrower early promise.
 
 That produces the most important architectural change since the Department itself:
 
@@ -46,13 +44,14 @@ That produces the most important architectural change since the Department itsel
 
 ## Read by question
 
-Three paths cover most uses:
+Four paths cover most uses:
 
 | If you want to… | Begin with | Then follow |
 | --- | --- | --- |
 | Understand the whole thesis | [Strategic study](research/synthesis/strategic-study.md) | The linked evidence and models at each decision |
 | Audit how the argument is derived | [Research atlas](research/README.md) | Promise → institution → force → campaign → configuration → proof |
-| Work at the current design frontier | [Population continuity](research/capabilities/population-continuity/README.md) | PCC-50 → PCC-D1 → National Receiving Lattice |
+| Follow how the force fits together | [Force-design spine](research/force/README.md) | Generation → projection → reception → public service |
+| Work at the current design frontier | [National Receiving Lattice](research/force/national-receiving-lattice.md) | Fixed/mobile division → assurance → geographic allocation |
 
 The [model catalog](models/README.md) connects every workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) records what would change the conclusions. Chronology exists only in the [research log](research/ledgers/research-log.md).
 
@@ -64,7 +63,7 @@ The repository is arranged by the role a claim plays:
 | --- | --- | --- |
 | Promise | Public effects, populations, deadlines and design missions | [foundations](research/foundations/) |
 | Sovereign capacity | Departmental authority and national utility projection | [institution](research/institution/) |
-| Force | Formations, readiness, allocation, movement and service entry | [force](research/force/) |
+| Force | Formations, readiness, allocation, movement and service entry | [force-design spine](research/force/README.md) |
 | Campaign proof | Geography, damaged networks, covariance and closure | [campaigns](research/campaigns/) |
 | Complete-service physics | Configuration of population, water, power, fire, flood, mobility and health effects | [capabilities](research/capabilities/) |
 | Shared boundaries | Interfaces, autonomy, degraded modes and admission gates | [architecture](research/architecture/) |
@@ -80,7 +79,7 @@ The project is not technology-conservative. It anticipates high-rate no-pier log
 
 Novelty is pulled by failed mission threads. A desalination carrier is useful only with intake, energy, treatment, residual custody, pipeline, pressure, storage, quality, wastewater and civil transfer. A firefighting aircraft is useful only inside sensing, basing, airspace, sortie, delivered-yield, line, hold, protection and smoke systems. A transport is useful only when its cargo becomes lawful public service at the far end.
 
-The current district result demonstrates the method: when a complete occupied system breaks the transport ceiling, the answer is not to delete floors, accessibility, commissioning or labor from the spreadsheet. The answer is to invent lighter systems, enlarge mobility, narrow the declared service contract or move part of readiness into a protected receiving lattice—and then test the new dependencies.
+The receiving-lattice result demonstrates the method. A complete occupied system first broke the transport ceiling. Moving 72.1 percent of its occupied-area burden into maintained receivers restored the aggregate timing screen, but correlated regional damage then broke the allocation claim. Each apparent solution becomes a new complete-system hypothesis with its own physics, geography, workforce, authority and evidence burden.
 
 ## Evidence before imagery
 
