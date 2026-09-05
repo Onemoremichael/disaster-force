@@ -73,7 +73,7 @@ The architectures are copied from Pass 37 without New York tuning.
 
 Selection must finish before either architecture produces an outcome.
 
-The [Pass 39 `L0` rehearsal](new-york-l0-catchment-rehearsal.md) implements this sequence against seven frozen official extracts. It exposes 844 candidate groups, twelve provisional references and three rehearsal commitments in the [selection workbook](../../models/nyc-l0-catchment-selection.xlsx). These are not the formal freeze: independent reproduction, a street-topology audit, canonical-method registration and salted holdout custody remain required.
+The [Pass 39 `L0` rehearsal](new-york-l0-catchment-rehearsal.md) implements this sequence against seven frozen official extracts. It exposes 844 candidate groups, twelve provisional references and three rehearsal commitments in the [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx). These are not the formal freeze: independent reproduction, a street-topology audit, canonical-method registration and salted holdout custody remain required.
 
 1. Freeze every official source file, schema, retrieval time, row count and SHA-256 digest.
 2. Limit eligibility to land tracts with residential population and a connected local-street component. Marine-only islands remain a declared exclusion stratum rather than disappearing from the record.
@@ -196,6 +196,6 @@ The campaign also reveals a new form of national power. In a vertical heat black
 
 The operator source acquisition and first data-pipeline rehearsal are complete. Twelve named provisional catchments now focus field-validation planning, but `L0` remains open because street topology, independent reproduction, demographic enrichment, salted holdout custody and empty outcome-table registration are unfinished. The protocol does not close any of the twenty `NCAC` evidence gates. Observed building conditions, clinical thresholds, representative field rates, utility one-lines, cyber and spectrum authority, labor doctrine, independent costs and full-mission evidence remain open.
 
-The companion [NCAC full-mission test program](../innovation/ncac-full-mission-test-program.md) defines how those gaps become a twelve-year evidence enterprise. The [protocol workbook](../../models/ncac-vertical-city-replication-test-protocol.xlsx) contains the frozen architectures, hypotheses, design space, success rules, sample-size screens, reliability logic, cost build, annual profile, sources and checks. The [selection workbook](../../models/nyc-l0-catchment-selection.xlsx) contains the operator evidence surface and deliberately open `L0` controls.
+The companion [NCAC full-mission test program](../test-enterprise/ncac-full-mission-test-program.md) defines how those gaps become a twelve-year evidence enterprise. The [protocol workbook](../../../models/ncac-vertical-city-replication-test-protocol.xlsx) contains the frozen architectures, hypotheses, design space, success rules, sample-size screens, reliability logic, cost build, annual profile, sources and checks. The [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) contains the operator evidence surface and deliberately open `L0` controls.
 
 No vehicle, site or formation rendering is authorized.

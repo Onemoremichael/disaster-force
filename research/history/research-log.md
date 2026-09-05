@@ -1789,3 +1789,46 @@ The campaign index is reorganized as a cumulative falsification chain rather tha
 The twelve-sheet workbook contains a read-me, formula control, frozen source manifest, coverage and missingness, thresholds, provisional references, full 87-tract composition, rehearsal commitments, complete 844-candidate universe, complete 2,325-tract evidence surface, sensitivity and fourteen formula-backed checks. All checks pass, no formula-error cell is found and every sheet is rendered and visually inspected.
 
 No `A2` or `S3` outcome is generated. No `NCAC` architecture advances. No rendering is authorized.
+
+## Pass 40 — Repository argument architecture
+
+### Research-management question
+
+Can the corpus remain legible as one falsifiable strategic argument as its papers, models and evidence surfaces multiply, or has the repository structure begun to imply that every hazard, platform and pass is an equal item in a catalog?
+
+### Diagnosis
+
+The content had outgrown its information architecture. Ten peer research directories mixed different epistemic roles: first principles sat beside campaign experiments; institutional authority sat beside technical interfaces; technology programs sat beside source assurance. The root README had improved, but it still carried too much discovery chronology. The model catalog placed twenty-eight workbooks in one uninterrupted table. A reader could find every artifact and still miss the governing logic.
+
+This was more than a navigation problem. Repository position acts as an implicit claim about authority. When a bounded capability paper, a campaign result and an assurance ledger are displayed as peers, the structure obscures which document is allowed to require, configure, test or admit a design. A list-shaped corpus also rewards accumulation: adding another platform or hazard appears to advance the study even when it does not close a decision.
+
+### Structural decision
+
+The research tree is rebuilt around burden of proof:
+
+1. `mandate/` now joins first principles, empirical baseline, reference missions, service levels, mission engineering, force-design method and the Department of Resilience. The public obligation precedes the institution; the institution follows from the obligation.
+2. `force/` remains the operating spine for generation, projection, mobility and reception. Its role is to define what must be ready and how it is employed.
+3. `systems/` joins the former capability and common-architecture layers. Complete-service physics and cross-system interfaces now occupy one design boundary rather than two adjacent catalogs.
+4. `proving/` joins campaigns, the test enterprise and assurance. Geographic failure, rival invention, representative experiment and independent admission now form a closed learning loop.
+5. `programmatics/` replaces a narrow economics shelf and defines the downstream capital, operations, workforce, industrial and public-value consequence of the warranted force.
+6. `synthesis/` and `history/` retain distinct roles: present judgment and discovery lineage.
+
+This reduces the top-level research argument to four active layers—mandate, force, mission systems and proving—plus three supporting functions. Seventy-four Markdown documents remain; no substantive paper or workbook is discarded.
+
+### Front-door decision
+
+The root README is rewritten as an executive thesis rather than a tour of passes. It states the coequal-power proposition, the population–service–time unit, the force that follows, the central reversal toward protected-local continuity and the unresolved `NCAC` evidence problem. It keeps only deliberate entry points into synthesis, research architecture, the live New York experiment, models and history.
+
+The research guide now explains what each layer may claim and what it may not. Four reading routes serve strategic, force-design, continuity-and-mobility and technology-and-proof questions without reproducing a full inventory. Authority follows the bounded decision rather than recency or directory position.
+
+The model catalog is reorganized into four causal lineages: national force and service entry; population continuity and civil mobility; utility and hazard-control systems; and technology, common architecture and proof. Each workbook still appears once, but its current use and supersession relationship are visible in context.
+
+### Research consequence
+
+The restructuring does not change a quantitative result or advance an architecture. It sharpens the project’s theory of knowledge. A mandate can require capacity but cannot certify it. A force model can close on declared assumptions but cannot create evidence. A mission-system configuration can reconcile physics without establishing representative reliability. A campaign can reject an architecture but cannot promote its own maturity. Assurance can admit a claim only against declared evidence.
+
+The active frontier therefore remains unchanged and more visible: no New York outcome may be generated before the local-street topology audit, covariate completion, salted external holdout custody, empty-table registration and independent reproduction. The next substantive pass begins there. No rendering is authorized.
+
+### Verification
+
+All internal Markdown links were mechanically recalculated from each file's former and new location, then checked as resolved filesystem targets after the move. The final tree contains no broken relative Markdown links. Workbook binaries and quantitative calculations are unchanged.

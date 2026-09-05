@@ -24,7 +24,7 @@ This pass also overturns the apparent adequacy of the previous campaign workforc
 
 ## Why the cell exists
 
-The [Harris County continuity and selective-mobility campaign](../../campaigns/harris-county-continuity-and-selective-mobility-campaign.md) established three facts.
+The [Harris County continuity and selective-mobility campaign](../../proving/campaigns/harris-county-continuity-and-selective-mobility-campaign.md) established three facts.
 
 First, strong local protection prevents avoidable movement demand. The movement-led architecture manufactured hundreds of thousands of additional journeys because it could not provide safe local service.
 
@@ -349,7 +349,7 @@ Pass 36 defined the `NCAC` requirement. This pass establishes its first formatio
 
 The next inquiry should not immediately draw a vehicle or scale `NCAC-35` nationally. It should produce a **preregistered second metropolitan campaign and a representative field experiment design** around the two linked failures that govern the cell: disconnected household continuity and building access. A different hazard and built form should test whether the `A2`/`S3` distinction survives outside the Harris-derived catchment.
 
-Pass 38 supplies those designs. The [New York vertical heat-blackout replication protocol](../../campaigns/new-york-vertical-heat-blackout-replication-protocol.md) freezes `A2` and `S3` before outcome-blind geographic selection across tower, mid-rise and campus/service-friction forms. Pass 39's [`L0` catchment rehearsal](../../campaigns/new-york-l0-catchment-rehearsal.md) creates twelve provisional references and three commitments, but refuses formal freeze until street topology, independent reproduction and salted custody are complete. The [NCAC full-mission test program](../../innovation/ncac-full-mission-test-program.md) turns this paper's open gates into a staged evidence enterprise with 888 element units, 60 utility sequences, 48 occupied-district trials, twelve developmental full-cell missions and thirty confirmatory missions for a frozen selected candidate. It reports no performance outcome and closes no gate; it replaces an underspecified “demonstration” with a falsifiable research commitment.
+Pass 38 supplies those designs. The [New York vertical heat-blackout replication protocol](../../proving/campaigns/new-york-vertical-heat-blackout-replication-protocol.md) freezes `A2` and `S3` before outcome-blind geographic selection across tower, mid-rise and campus/service-friction forms. Pass 39's [`L0` catchment rehearsal](../../proving/campaigns/new-york-l0-catchment-rehearsal.md) creates twelve provisional references and three commitments, but refuses formal freeze until street topology, independent reproduction and salted custody are complete. The [NCAC full-mission test program](../../proving/test-enterprise/ncac-full-mission-test-program.md) turns this paper's open gates into a staged evidence enterprise with 888 element units, 60 utility sequences, 48 occupied-district trials, twelve developmental full-cell missions and thirty confirmatory missions for a frozen selected candidate. It reports no performance outcome and closes no gate; it replaces an underspecified “demonstration” with a falsifiable research commitment.
 
 In parallel, the program should:
 

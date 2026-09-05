@@ -14,7 +14,7 @@ This distinction changes the force. A force designed around intact interstate hi
 
 Pass 24 found that the national deployment enterprise could close all ten reference campaigns under its declared base assumptions, but that a correlated primary-path loss reduced the Cascadia and allied coastal-megacity chains to `0.765×`. More long-range lift did not repair the failure. Reception, responder support and sustainment failed together.
 
-This study replaces that aggregate screen with an item-level Cascadia campaign. The linked [Cascadia campaign model](../../models/cascadia-campaign-model.xlsx) resolves:
+This study replaces that aggregate screen with an item-level Cascadia campaign. The linked [Cascadia campaign model](../../../models/cascadia-campaign-model.xlsx) resolves:
 
 - nine service islands;
 - eight safe-zone or afloat origin complexes;
