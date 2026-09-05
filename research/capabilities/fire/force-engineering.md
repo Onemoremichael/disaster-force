@@ -744,7 +744,7 @@ The next research gain comes from a configuration workbook that forces the inter
 
 The specified workbook is now complete. Its principal finding strengthens the two-force architecture: in the WUI screen, an Ignition Intercept Cell has an 81.2% modeled probability of acting before the 50-minute escape threshold but lacks the production margin to close the growing control feature, while the IFCG reaches only 33.4% before escape but produces 411.80 km/day of effective line and a +4.77 km/h closure margin. The workbook also exposes airspace, retardant, robotic-line, deployment-mass and workforce dependencies that aircraft counts alone conceal.
 
-See [Fire response force configuration model](23-fire-configuration-model.md) and the editable [fire response force engineering workbook](../models/fire-response-force-engineering.xlsx). `IIN` and `IFCG` advance to `R2+`; all 18 evidence gates remain open and no rendering is authorized.
+See [Fire response force configuration model](configuration-model.md) and the editable [fire response force engineering workbook](../../../models/fire-response-force-engineering.xlsx). `IIN` and `IFCG` advance to `R2+`; all 18 evidence gates remain open and no rendering is authorized.
 
 ## Sources
 

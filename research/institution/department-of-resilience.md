@@ -64,7 +64,7 @@ The proposal assumes the political greenlight specified for this project. The te
 
 Create a **Department of Resilience** as a cabinet department and establish a statutory **National Resilience Establishment** comparable in permanence to the national-defense establishment. Names are provisional; scale and functional separation are not.
 
-The name **Department of Resilience** is now retained as the canonical cabinet-level identity. Pass 8 distinguishes it from the **National Resilience Establishment**—the services, commands, schools, science, acquisition, depots, reserves and industrial base that generate capacity—and the **Resilience Force**, meaning the certified formations actually available for employment. This prevents the existence of a bureaucracy, an equipment inventory or a contract from being mistaken for operational readiness. See [Mature force design](19-mature-force-design.md).
+The name **Department of Resilience** is now retained as the canonical cabinet-level identity. Pass 8 distinguishes it from the **National Resilience Establishment**—the services, commands, schools, science, acquisition, depots, reserves and industrial base that generate capacity—and the **Resilience Force**, meaning the certified formations actually available for employment. This prevents the existence of a bureaucracy, an equipment inventory or a contract from being mistaken for operational readiness. See [Mature force design](mature-force-design.md).
 
 ```text
 President and Congress
@@ -289,7 +289,7 @@ The Department is not mature if it can only buy what today's emergency market al
 - **National Resilience University Consortia** protect long-horizon science and workforce formation; and
 - a **Standards, Data and Public Assurance Office** maintains open interfaces, configuration provenance, privacy, accessibility, environmental evidence and public-effect accounting.
 
-Creation, proof, production, employment and civil authority remain separate decisions. A research sponsor cannot certify its own system; a technology command cannot create incident authority; a vendor cannot define the public-effect metric by which its product is accepted. See [The resilience technology frontier](27-resilience-technology-frontier.md).
+Creation, proof, production, employment and civil authority remain separate decisions. A research sponsor cannot certify its own system; a technology command cannot create incident authority; a vendor cannot define the public-effect metric by which its product is accepted. See [The resilience technology frontier](../innovation/technology-frontier.md).
 
 ## Functions the new institution should not absorb
 

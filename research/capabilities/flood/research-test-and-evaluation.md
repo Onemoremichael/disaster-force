@@ -6,7 +6,7 @@ The flood force defined in Passes 13 and 14 is intentionally beyond the present 
 
 They require an institution designed to **create new technical options, destroy weak hypotheses early, measure complete civilian effects and carry the survivors into production without converting hope into readiness credit**.
 
-This pass designs that institution and its first 25-year flood research campaign. The accompanying [Flood Research, Test & Evaluation Campaign workbook](../models/flood-research-test-evaluation.xlsx) allocates the existing $130 billion flood RDT&E envelope, specifies a new national proving network, registers 46 experiments and evaluations, maintains competing prototype cohorts, maps every experiment to the twenty open R3 gates, profiles annual funding and tests the portfolio against cost and schedule failure.
+This pass designs that institution and its first 25-year flood research campaign. The accompanying [Flood Research, Test & Evaluation Campaign workbook](../../../models/flood-research-test-evaluation.xlsx) allocates the existing $130 billion flood RDT&E envelope, specifies a new national proving network, registers 46 experiments and evaluations, maintains competing prototype cohorts, maps every experiment to the twenty open R3 gates, profiles annual funding and tests the portfolio against cost and schedule failure.
 
 The central judgment is simple:
 

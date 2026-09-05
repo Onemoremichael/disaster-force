@@ -12,7 +12,7 @@ forecast and detect → classify → reach → apply control → hold → monito
 
 Aerial water without a line that crews can hold is transient. A pump without drainage path and discharge authority moves the problem. A bridge without approaches and traffic control is not access.
 
-Pass 11 extends the fire sections below into a complete Ignition Intercept Network, Integrated Fire Control Group and 25-year technology program. See [Fire response force engineering](22-fire-response-force-engineering.md). The earlier platform bands remain exploration boundaries, not specifications.
+Pass 11 extends the fire sections below into a complete Ignition Intercept Network, Integrated Fire Control Group and 25-year technology program. See [Fire response force engineering](fire/force-engineering.md). The earlier platform bands remain exploration boundaries, not specifications.
 
 ## Fire aviation missions
 

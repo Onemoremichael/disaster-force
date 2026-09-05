@@ -40,7 +40,7 @@ Elevation is consequential. Ideal pumping power is:
 P = \frac{\rho g Q H}{\eta}
 \]
 
-Moving 25,400 m³/day through 100 meters of total dynamic head at 75 percent efficiency requires about **0.385 MW**, not 4 MW as an earlier draft stated. For a 100-kilometer, 0.5-meter internal-diameter line at 1.5 m/s and an assumed Darcy friction factor of 0.015, friction adds about 344 meters of head; with 100 meters of static lift, pump power is approximately 1.71 MW before minor losses, surge allowance and local distribution. A coastal plant can therefore make emergency water with modest power relative to a reactor, while route length, diameter, elevation, pressure zoning and damaged networks determine the delivery burden. Pass 6 develops the corrected balance and complete water formation in [`17-water-system-engineering.md`](17-water-system-engineering.md).
+Moving 25,400 m³/day through 100 meters of total dynamic head at 75 percent efficiency requires about **0.385 MW**, not 4 MW as an earlier draft stated. For a 100-kilometer, 0.5-meter internal-diameter line at 1.5 m/s and an assumed Darcy friction factor of 0.015, friction adds about 344 meters of head; with 100 meters of static lift, pump power is approximately 1.71 MW before minor losses, surge allowance and local distribution. A coastal plant can therefore make emergency water with modest power relative to a reactor, while route length, diameter, elevation, pressure zoning and damaged networks determine the delivery burden. The [water restoration force engineering study](water/force-engineering.md) develops the corrected balance and complete formation.
 
 ### Verdict on drone-laid pipe
 
@@ -203,7 +203,7 @@ Fossil-fueled systems remain valuable for rapid entry but create a continuing lo
 
 The Arsenal should use storage and renewable generation to reduce fuel burn and protect ride-through, not claim that batteries alone solve months of high-power demand.
 
-Pass 9 expands P-1 through P-5 into a complete deployable-electric-utility architecture, introduces the `PRG-100` reference formation, and distinguishes reuse, bypass, and rebuild network states. See [Power restoration force engineering](20-power-restoration-force-engineering.md).
+Pass 9 expands P-1 through P-5 into a complete deployable-electric-utility architecture, introduces the `PRG-100` reference formation, and distinguishes reuse, bypass, and rebuild network states. See [Power restoration force engineering](power/force-engineering.md).
 
 ## Requirement verdicts
 

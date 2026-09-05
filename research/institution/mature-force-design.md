@@ -20,7 +20,7 @@ That is a much larger proposition than coordinating federal assistance. It is th
 
 ## What this pass adds
 
-Earlier passes established the [Department and six services](04-institutional-architecture.md), [effect portfolios and force components](05-force-composition.md), [readiness and geographic posture](06-readiness-posture-and-generation.md), mission modules, and an [initial quantitative envelope](16-quantitative-model.md). They did not fully specify the organizational layer between a technical module and a national campaign.
+Earlier passes established the [Department and six services](department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../economics/force-and-resource-model.md). They did not fully specify the organizational layer between a technical module and a national campaign.
 
 This pass defines that missing layer:
 
@@ -100,7 +100,7 @@ Every force decision must keep five quantities separate:
 4. **deployed capacity** — ready capacity assigned to an operation; and
 5. **regenerable capacity** — the replacement crews, repair parts, depots, training pipeline, and industrial flow that preserve output over time.
 
-The [WRG-50 configuration study](18-water-configuration-model.md) demonstrates the distinction. Six treatment trains are only one part of a formation that also requires source qualification, laboratories, 100 kilometers of parallel pipe in the reference case, pressure zones, storage, access interfaces, wastewater and concentrate management, 2,720 deployed people, and a three-echelon establishment. Counting treatment trains would overstate the national water promise by orders of organizational complexity.
+The [WRG-50 configuration study](../capabilities/water/configuration-model.md) demonstrates the distinction. Six treatment trains are only one part of a formation that also requires source qualification, laboratories, 100 kilometers of parallel pipe in the reference case, pressure zones, storage, access interfaces, wastewater and concentrate management, 2,720 deployed people, and a three-echelon establishment. Counting treatment trains would overstate the national water promise by orders of organizational complexity.
 
 ## Two organizations must coexist
 

@@ -1,59 +1,92 @@
 # Disaster Force
 
-Disaster Force is a first-principles research program about a United States disaster-response institution built as a peer instrument of national power—not an auxiliary service assembled from military hand-me-downs.
+> What would the United States build if saving lives, controlling environmental catastrophe, and restoring essential systems were treated as a coequal instrument of national power?
 
-The project asks what the mature institution would need to do, how it would be composed, what purpose-built systems it would require, how a new industrial base would sustain it, and what strategic and economic effects would follow.
+Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**: not a larger coordinating agency, a civil branch of the military, or a fleet assembled from retired defense equipment, but a purpose-built operating institution with its own services, commands, laboratories, schools, depots, industrial base, and deployable formations.
 
-## Research rule
+The premise is intentionally unconstrained by near-term political feasibility. The analysis is not unconstrained by physics, time, workforce, safety, law, environmental consequence, industrial capacity, or public authority. Those constraints are the design material.
 
-Capability precedes platform. The project names system families only after deriving their requirements from disaster effects, operating environments, response timelines, infrastructure dependencies, and civilian outcomes. Visual renderings remain behind a physics-closure gate: mass, energy, flow, structure, crew, sustainment, and interfaces must close first.
+## The proposition
 
-## Repository map
+Modern disasters are rarely single emergencies. They are coupled failures of water, power, health, mobility, communications, shelter, logistics, public works, and local administrative capacity. A serious response institution therefore cannot be designed around individual vehicles or agency inventories. It must be designed around **population service restored over time**.
 
-- [`research/00-program.md`](research/00-program.md) — scope, questions, method, and work plan
-- [`research/01-first-principles.md`](research/01-first-principles.md) — analytical framework for deriving the force
-- [`research/02-force-design-framework.md`](research/02-force-design-framework.md) — service portfolios, operational functions, force layers, readiness bands, and platform gate
-- [`research/03-empirical-baseline.md`](research/03-empirical-baseline.md) — all-hazard demand, cascading failures, operational bottlenecks, and denominator guardrails
-- [`research/04-institutional-architecture.md`](research/04-institutional-architecture.md) — the Department of Resilience, operating services, commands, civil authority, science, acquisition, and transition
-- [`research/05-force-composition.md`](research/05-force-composition.md) — mission packages, service-effect portfolios, force components, professions, and unit-design rules
-- [`research/06-readiness-posture-and-generation.md`](research/06-readiness-posture-and-generation.md) — concurrency, readiness, force generation, basing, mobility, sustainment, and global posture
-- [`research/07-mission-engineering-method.md`](research/07-mission-engineering-method.md) — population-service-time demand, restoration curves, dependency graphs, access classes, and platform gate
-- [`research/08-design-reference-missions.md`](research/08-design-reference-missions.md) — ten catastrophe campaigns and the combined concurrency stress case
-- [`research/09-service-level-library.md`](research/09-service-level-library.md) — phased effect units for water, food, shelter, sanitation, power, health, communications, mobility, and public works
-- [`research/10-systems-architecture.md`](research/10-systems-architecture.md) — the Resilience Arsenal, mission threads, common interfaces, autonomy doctrine, ownership classes, and technical maturity gates
-- [`research/11-water-energy-and-utility-systems.md`](research/11-water-energy-and-utility-systems.md) — water mass balance, rapid pipelines, desalination, nuclear water–energy platforms, microgrids, grid bridges, and thermal safety
-- [`research/12-fire-flood-access-and-earthworks.md`](research/12-fire-flood-access-and-earthworks.md) — purpose-built fire aviation, flood-control formations, autonomous earthworks, debris, utility corridors, and rapid crossings
-- [`research/13-maritime-air-mobility-and-medical.md`](research/13-maritime-air-mobility-and-medical.md) — maritime access and support, air mobility, three-tier medical fleets, care echelons, and patient movement
-- [`research/14-information-autonomy-and-common-enablers.md`](research/14-information-autonomy-and-common-enablers.md) — resilient communications, observation, robotics, logistics, maintenance, and sovereign digital operation
-- [`research/15-platform-requirement-register.md`](research/15-platform-requirement-register.md) — admitted, conditional, held, and rejected concepts with unresolved technical requirements and visualization state
-- [`research/16-quantitative-model.md`](research/16-quantitative-model.md) — force-sizing equations, capital and workforce scale, model outputs, limitations, verification, and next quantitative work
-- [`research/17-water-system-engineering.md`](research/17-water-system-engineering.md) — complete deployable-water-utility architecture, corrected hydraulics, WRG-50 reference formation, pipe and lift mass, distribution, quality, wastewater, workforce, and technical gates
-- [`research/18-water-configuration-model.md`](research/18-water-configuration-model.md) — editable WRG-50 configuration model, hydraulic reaches, treatment cases, manifest, storage/access, return flows, construction tempo, workforce, failure modes, and R3 decision
-- [`research/19-mature-force-design.md`](research/19-mature-force-design.md) — mature Department of Resilience force grammar, permanent formation families, joint employment commands, theater opening, readiness, rotation, component roles, and force-design test gates
-- [`research/20-power-restoration-force-engineering.md`](research/20-power-restoration-force-engineering.md) — complete deployable-electric-utility architecture, PRG-100 reference formation, network-reuse states, electrical and fuel balances, thermal protection, industrial base, failure cases, and model specification
-- [`research/21-power-configuration-model.md`](research/21-power-configuration-model.md) — editable PRG-100 configuration, critical-load registry, reuse/bypass/rebuild networks, source and storage sizing, fuel, construction, transformation, workforce, failure cases, and R3 evidence gate
-- [`research/22-fire-response-force-engineering.md`](research/22-fire-response-force-engineering.md) — ignition-intercept and fire-campaign force architecture, air–ground–base mission engineering, purpose-built system families, 25-year innovation program, industrial base, $1 trillion portfolio thought experiment, and configuration-model specification
-- [`research/23-fire-configuration-model.md`](research/23-fire-configuration-model.md) — editable intercept-to-campaign configuration, tail response, fire growth, aircraft/base/airspace cycles, durable line, robotics, public protection, deployment, workforce, readiness, capital, technology and R3 evidence gate
-- [`research/24-flood-response-force-engineering.md`](research/24-flood-response-force-engineering.md) — Flood Intercept Network, HCG-100 hydraulic-control formation, inland/coastal variants, pumps, drainage spines, barriers, breach arrest, amphibious access, autonomous earthworks, industrial base and 25-year technology program
-- [`research/25-flood-configuration-model.md`](research/25-flood-configuration-model.md) — editable FIN/HCG-100 configuration, complete action clock, time-indexed basin balance, pump/intake/route/receiving constraints, barriers, breach, access, contamination, deployment, workforce, readiness, technology and R3 evidence gate
-- [`research/26-flood-research-test-and-evaluation.md`](research/26-flood-research-test-and-evaluation.md) — ARPA-R invention system, independent Resilience Test and Evaluation Authority, National Hydraulic Proving Network, competing prototypes, 46 experiment packages, eight mission threads, $130 billion RDT&E program and failure sensitivity
-- [`research/27-resilience-technology-frontier.md`](research/27-resilience-technology-frontier.md) — Department-wide innovation state, twelve mission-science directorates, sixty technology campaigns, ten common primitives, sovereign proving network, industrial base, export doctrine and $750B/$2T/$4.5T alternative technology cases
-- [`research/28-common-resilience-technical-architecture.md`](research/28-common-resilience-technical-architecture.md) — constitutional technical layer for authority, data, degraded operation, physical exchange, configuration, conformance and common-mode containment across the force
-- [`research/29-national-resilience-proving-network.md`](research/29-national-resilience-proving-network.md) — facility-scale proving system with ten national flagships, regional replication, experimental-power doctrine, safety, environmental control, workforce and a $320B transition model
-- [`research/evidence-ledger.md`](research/evidence-ledger.md) — research-gap ledger
-- [`research/source-ledger.md`](research/source-ledger.md) — claim provenance and access notes
-- `research/report-source.md` — canonical report manuscript as it develops
-- [`models/disaster-force-model.xlsx`](models/disaster-force-model.xlsx) — editable mission-demand, force-sizing, capital, workforce, operating-cost, industry, benefit, sensitivity, and check model
-- [`models/water-restoration-engineering.xlsx`](models/water-restoration-engineering.xlsx) — editable 13-sheet engineering model for the WRG-50 regional water formation
-- [`models/power-restoration-engineering.xlsx`](models/power-restoration-engineering.xlsx) — editable 17-sheet engineering model for the PRG-100 deployable electric utility
-- [`models/fire-response-force-engineering.xlsx`](models/fire-response-force-engineering.xlsx) — editable 23-sheet engineering model for the Ignition Intercept Network and Integrated Fire Control Group
-- [`models/flood-hydraulic-control-engineering.xlsx`](models/flood-hydraulic-control-engineering.xlsx) — editable 29-sheet engineering model for the Flood Intercept Network and inland/coastal Hydraulic Control Groups
-- [`models/flood-research-test-evaluation.xlsx`](models/flood-research-test-evaluation.xlsx) — editable 17-sheet, 25-year flood invention, facility, experiment, evidence-gate, readiness, mission-thread and cost-risk model
-- [`models/resilience-technology-frontier.xlsx`](models/resilience-technology-frontier.xlsx) — editable 16-sheet Department-wide technology portfolio, common-primitives, maturity, proving-network, industrial and risk model
-- [`models/resilience-common-technical-architecture.xlsx`](models/resilience-common-technical-architecture.xlsx) — editable 17-sheet common-layer investment, interface, authority, degraded-mode, conformance, failure-propagation and interoperability-trial model
-- [`models/national-resilience-proving-network.xlsx`](models/national-resilience-proving-network.xlsx) — editable 20-sheet, 58-site facility portfolio, utility, capacity, statistical-power, safety, workforce, construction and cost-risk model
-- `sources/` — source notes and reproducible data extracts where licensing permits
+The project works backward from that public effect. It asks what must happen, by when, in what operating environment, through which damaged interfaces, with which workforce and sustainment system. Only then does it admit a formation or platform for study.
 
-## Status
+The canonical vocabulary matters:
 
-Pass 1 establishes the empirical baseline and force-design method. Pass 2 derives the zero-based Department of Resilience. Pass 3 establishes the mission-engineering chain, ten design reference missions, two externally modeled anchor cases, phased service levels, and the combined `3C + 5M + 2G + 20R` stress campaign. Pass 4 derives the Resilience Arsenal as interoperable system families and establishes a controlled requirement register. Pass 5 adds the editable quantitative model and exposes a material result: under its current illustrative assumptions, a $1 trillion capital tranche does not buy the full concurrency force. Pass 6 defines the first complete deployable-utility reference formation and corrects the water hydraulic model. Pass 7 adds the configuration-level WRG-50 workbook: the reference system is approximately 23,500 tonnes before stored water, requires about 14.75 MW of installed treatment-plus-conveyance capacity, and remains R2+ because pressure transients, hardware manifests, installation rates, maintenance, and degraded-mode performance are not verified. Pass 8 supplies the missing operational grammar between modules and campaigns: permanent formation families, joint effect commands, theater-opening and sustainment commands, component roles, rotation, and five organizational test gates. Pass 9 defines the PRG-100 deployable electric utility and finds that network reuse—whether the force can reuse, must bypass, or must rebuild distribution—can dominate power-force mass, labor, and deployment time. Pass 10 adds the 17-sheet PRG-100 configuration model. Its bypass baseline closes at 140 MW of owned generation, 140 MWh of storage, 18,332 tonnes of preliminary dry deployment mass, 2,796 deployed personnel, and 152,461 gallons/day of liquid fuel under the 80%-liquid source case. Reuse lowers the modeled dry mass to 13,932 tonnes; rebuild raises it to 30,757 tonnes. Pass 11 derives a fire-control force rather than an airtanker inventory: a distributed Ignition Intercept Network and a deployable Integrated Fire Control Group, joined by purpose-built aviation, robotic ground control, high-rate bases, water and agent systems, community ember defense, smoke/thermal protection, and a 25-year Advanced Resilience Projects Agency research campaign. Pass 12 adds the 23-sheet fire configuration model. It finds that distributed cells buy the probability of action before escape while campaign groups buy positive closure margin; in the WUI screen, the cell reaches 81.2% modeled action-before-escape but cannot close, while the IFCG reaches only 33.4% before escape but produces 411.8 km/day of effective line and a +4.77 km/h closure margin. Pass 13 derives a national hydraulic-control force: a distributed Flood Intercept Network and deployable HCG-100 formations with inland and coastal modules. A 100 m³/s group can still require 15.8 idealized days to drain a 75-million-m³ basin with continuing inflow, while a 10 km conventional 2 m emergency levee can require roughly 360,000 tonnes of material. Pass 14 adds the 29-sheet flood configuration model. Its inland trapped-basin baseline converts 100 m³/s nominal into 36.551 m³/s effective flow after formation utilization and other derating, drains in 28 modeled days, weighs 79,391 tonnes dry, and requires 7,039 deployed people / 26,394 service billets. The 15-scenario matrix shows that early action, hydraulic reversal, interior drainage and breach control are separate tests. Pass 15 builds the invention and proof machinery behind those ambitions: separate `ARPA-R` and independent `RTEA` authorities, a $24 billion ten-range proving network, 46 experiment packages, 54 rival technical paths narrowing to 20 TRL-7 prototypes, eight escalating mission threads and a formula-driven $130 billion / 25-year RDT&E portfolio. Compound stress exceeds the separate $25 billion reserve by $1.25 billion, making cancellation authority real. Pass 16 generalizes the innovation state across the Department: twelve mission-science directorates, sixty ambitious campaigns, ten common technological primitives, eight independent stage gates, a 240-to-20 rival-path funnel and a $320B strategic-case proving network. Its $750B catalytic, $2T strategic and $4.5T peer-intensity cases make the fiscal meaning of military-like innovation explicit; compound stress leaves the selected case's $300B reserve $194B short. Pass 17 turns the ten common primitives into a Department-wide technical constitution: fifty boundary contracts, four degraded modes, five machine-authority classes, twelve physical interface exploration bands, a lifecycle digital thread and twenty cross-system trials. Its 25-system matrix contains 217 nonzero dependencies; twenty-four of thirty-two common-mode failures remain critical and all systems remain blocked from rendering. Pass 18 designs the $320B National Resilience Proving Network at facility scale: ten national flagships, twenty-one regional ranges, twenty-seven nodes, twenty initial campaigns, 448 mobile test assets and a 36,700-person resident test workforce. The proposed extremes include 250 MW fire measurement, 250 m³/s hydraulics, 300 MW grid exchange and municipality-scale joint campaigns; all ten safety cases remain open, and compound cost stress creates a $47.04B shortfall.
+- the **Department of Resilience** is the cabinet institution that holds public authority and national responsibility;
+- the **National Resilience Establishment** is the larger system of services, commands, laboratories, ranges, schools, depots, reserves, suppliers, standards, and partner institutions that generates capacity; and
+- the **Resilience Force** is the set of certified formations actually ready for employment.
+
+An appropriation, an equipment inventory, and an operational capability are not the same thing.
+
+## The argument
+
+```text
+hazard and cascading failure
+            ↓
+population service deficit × time
+            ↓
+mission thread and public-effect standard
+            ↓
+deployable formation + theater-opening system
+            ↓
+national readiness, concurrency, and regeneration
+            ↓
+science, industry, acquisition, and independent proof
+```
+
+This sequence is the repository's organizing logic. Pass chronology is preserved in the [research log](research/ledgers/research-log.md), but it no longer determines where the work lives or how a reader encounters it.
+
+## What the research has changed so far
+
+The work has already rejected several attractive but incomplete ideas. Nominal production capacity is not delivered public service. A desalination plant without intake, concentrate control, pipe, pressure zones, storage, quality assurance, wastewater, and distribution is not a water capability. A generator without network survey, protection, transformation, conductors, fuel, thermal protection, and transfer authority is not a restored grid. An airtanker fleet without detection, base cycles, airspace, durable ground line, structure protection, and hold is not fire control. A pump fleet without intake, route, receiving water, interior drainage, and breach control is not hydraulic control.
+
+The configuration studies make those distinctions concrete:
+
+| Question | Current design-study result | What it means |
+| --- | ---: | --- |
+| Does the initial $1T capital tranche buy the illustrative full force? | Bottom-up portfolio about $2.24T | The present force assumptions and the capital constraint do not reconcile; the mismatch remains visible. |
+| What surrounds a 50,000 m³/day deployable water utility? | About 23,500 t dry and 2,720 deployed people | Treatment equipment is a minority of the complete formation problem. |
+| What surrounds a 100 MW deployable electric utility? | About 13,900–30,800 t dry, depending on network reuse | The state of the receiving grid can dominate generation choice. |
+| What does distributed fire readiness buy? | Earlier interception, but not necessarily positive closure | The alert network and campaign force solve different time regimes. |
+| What survives from 100 m³/s of nominal flood pumping? | 36.551 m³/s in the reference trapped-basin screen | Formation utilization, head, intake, and debris can erase most nameplate capacity. |
+| What does peer technological ambition imply? | $750B, $2T, and $4.5T alternative 25-year cases | A true innovation state is a laboratories–ranges–manufacturing–test enterprise, not a larger equipment budget. |
+
+These are transparent, editable thought-experiment outputs—not forecasts, acquisition estimates, or claims of verified performance.
+
+## Read the project
+
+For the shortest strategic route, begin with the [strategic study](research/synthesis/strategic-study.md), then read the [Department of Resilience](research/institution/department-of-resilience.md), [mature force design](research/institution/mature-force-design.md), and [technology frontier](research/innovation/technology-frontier.md).
+
+For the analytical route, begin with [first principles](research/foundations/first-principles.md), continue through the [mission-engineering method](research/foundations/mission-engineering-method.md) and [design reference missions](research/foundations/design-reference-missions.md), then enter a water, power, fire, or flood engineering thread.
+
+For the audit route, use the [research atlas](research/README.md), [model catalog](models/README.md), [evidence-gap ledger](research/ledgers/evidence-ledger.md), and [source ledger](research/ledgers/source-ledger.md). They expose assumptions, unresolved questions, and the boundary between sourced fact and design choice.
+
+## Repository architecture
+
+```text
+research/
+├── foundations/     problem definition, empirical baseline, missions, and service levels
+├── institution/     Department, services, force generation, and operational grammar
+├── architecture/    common system rules, interfaces, autonomy, and requirement control
+├── capabilities/    cross-domain concepts and water, power, fire, and flood engineering
+├── innovation/      frontier research portfolios and the national proving network
+├── economics/       force, capital, workforce, and industrial-scale modeling logic
+├── synthesis/       integrated strategic manuscript
+└── ledgers/         source provenance, research gaps, and pass history
+
+models/              editable workbooks; the only non-Markdown research artifacts for now
+```
+
+The [research atlas](research/README.md) explains how these layers connect and offers several guided reading paths. The [model catalog](models/README.md) maps each workbook to its analytical question and companion paper.
+
+## Evidence and maturity
+
+Every consequential claim is classified as sourced fact, derived estimate, design-study assumption, or normative choice. Systems progress from verbal mission (`R0`) through functional definition (`R1`), bounded configuration (`R2`), physics closure (`R3`), and formation closure (`R4`). A workbook that balances arithmetically has not proved physical performance.
+
+No major platform has reached `R3`. **Renderings remain deferred** until the relevant mass, energy, flow, heat, structure, stability, crew, maintenance, shore-interface, safety, and lifecycle balances close. When visualization begins, it will show complete operating systems and their support formations—not isolated heroic objects.
+
+## Current frontier
+
+The next research cycle moves from Department-wide enabling architecture into configuration-level strategic systems. The immediate case is the proposed nuclear water–energy capability: whether a reactor should be a mobile incident-entry ship at all, or a protected, prelicensed energy node in a modular flotilla whose desalination, cable, pipeline, storage, and distribution elements move closer to the disaster edge. The comparison must include non-nuclear firm power, land-based alternatives, full water and thermal balances, marine safety, licensing, workforce, fleet availability, and lifecycle cost before exterior form is chosen.

@@ -79,7 +79,7 @@ The resilience support carrier is a large, purpose-built mobile base for distrib
 
 This document does not select displacement or hull form. The useful concept band is a family with approximately 20,000–60,000 tonnes of payload and mission-support capacity, 15–30 days of independent high-tempo operation before substantial replenishment, multiple landing spots, and several independent discharge paths. Physics closure must determine whether one large hull, two medium hulls, or a mothership-plus-barge system creates the best availability and port-access portfolio.
 
-The support carrier should normally use non-nuclear propulsion. Nuclear power is reserved for the water-energy family in [Water, energy, and utility systems](11-water-energy-and-utility-systems.md), where continuous high-output process energy can justify the licensing and lifecycle burden. Combining reactor, hospital, aviation, bulk cargo, and high-cycling small-craft functions in one universal ship would concentrate risk and create mutually incompatible safety cases.
+The support carrier should normally use non-nuclear propulsion. Nuclear power is reserved for the water-energy family in [Water, energy, and utility systems](water-energy-and-utility-systems.md), where continuous high-output process energy can justify the licensing and lifecycle burden. Combining reactor, hospital, aviation, bulk cargo, and high-cycling small-craft functions in one universal ship would concentrate risk and create mutually incompatible safety cases.
 
 ### MR-4: modular sealift and sustainment ship
 
