@@ -21,9 +21,9 @@ The [strategic study](synthesis/strategic-study.md) carries the integrated argum
 
 ## The shortest serious reading path
 
-Begin with [first principles](foundations/first-principles.md), which explains why the project starts from population-service deficits rather than platforms. Then read the [Department of Resilience](institution/department-of-resilience.md), the [joint force allocation and order-of-battle study](institution/joint-force-allocation-and-order-of-battle.md), the [deployment and distribution enterprise](institution/joint-deployment-and-distribution-enterprise.md), and the [technology frontier](innovation/technology-frontier.md).
+Begin with [first principles](foundations/first-principles.md), which explains why the project starts from population-service deficits rather than platforms. Then read the [Department of Resilience](institution/department-of-resilience.md), the [joint force allocation and order-of-battle study](institution/joint-force-allocation-and-order-of-battle.md), the [deployment and distribution enterprise](institution/joint-deployment-and-distribution-enterprise.md), the [Cascadia joint campaign](institution/cascadia-joint-resilience-campaign.md), and the [technology frontier](innovation/technology-frontier.md).
 
-Those five documents answer the central questions in order: what counts as success, which sovereign institution owns the promise, what force can fulfill it under simultaneous campaigns, how that force enters and persists in a damaged theater, and how the nation invents what does not yet exist.
+Those six documents answer the central questions in order: what counts as success, which sovereign institution owns the promise, what force can fulfill it under simultaneous campaigns, how that force enters and persists in a damaged theater, whether the architecture survives an item-level regional campaign, and how the nation invents what does not yet exist.
 
 ## Need: define the public effect before the machine
 
@@ -51,7 +51,9 @@ The [joint force allocation study](institution/joint-force-allocation-and-order-
 
 The [deployment and distribution enterprise](institution/joint-deployment-and-distribution-enterprise.md) takes the next step. It separates anticipatory staging, 72-hour minimum viable service, 14-day initial operating capability, 45-day formation closure and 90-day depth; then models four strategic modes, fixed and mobile entry nodes, onward movement, self-sustaining responder bases and daily supply as one weakest-link chain.
 
-All ten reference campaign chains close under the declared design assumptions, but a correlated primary-path loss still breaks the Cascadia and allied coastal megacity campaigns. The 1.208-million-billet and $4.744T attributable enterprise crosswalk is nested within the Pass 23 totals. The research frontier therefore moves from aggregate lift toward item-level load plans, real node and route covariance, responder-base endurance, sustainment bills, access authorities and multi-week campaign trials.
+All ten reference campaign chains close under the declared design assumptions, but a correlated primary-path loss still breaks the Cascadia and allied coastal megacity campaigns. The 1.208-million-billet and $4.744T attributable enterprise crosswalk is nested within the Pass 23 totals.
+
+The [Cascadia joint campaign](institution/cascadia-joint-resilience-campaign.md) takes the next step. Its 32-sheet model tracks 64 loads across twelve paths and nine service islands; closes all four waves and forty-four public-service tests under the declared stress case; and reveals a day-3 south-air handling threshold, a primary no-pier and shallow-draft role, zero-host-utility basing, 90-day supply, protected return flows and twelve technology programs. Its $373.44B capital and $34.2B annual operating hypotheses are attributable slices, not new Department totals. The research frontier now moves to asset-level covariance, item manifests, stochastic queues and destructive full-mission trials.
 
 ## Proof: build an invention and evidence state
 
