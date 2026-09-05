@@ -4,7 +4,7 @@
 
 **Decision:** advance the protected-local assured neighborhood mesh (`H3`) only as the next test architecture. Admit no architecture as a national reference from this campaign.
 
-**Companion model:** [Harris County continuity and mobility campaign](../../models/harris-county-continuity-mobility-campaign.xlsx)
+**Companion model:** [Harris County continuity and mobility campaign](../../../models/harris-county-continuity-mobility-campaign.xlsx)
 
 ## Interim judgment
 
@@ -23,13 +23,13 @@ An `NCAC` is the smallest formation that can bind six things into one accountabl
 
 This is not a renamed bus company, rescue team, shelter staff, public-works crew, or incident-command liaison. It is a permanent combined-arms civil formation whose output is protected or restored person-hours. Its defining capability is not a vehicle. It is control of the seam between **remaining safely** and **moving safely**.
 
-That requirement now has a first configuration. [`NCAC-35`](../force/mobility/neighborhood-continuity-and-access-cell.md) uses one 61-tract analytical catchment from this campaign to compare four formations against approximately 35,000 demand people. The assured conventional cell requires about 7,587 deployed people and 6,388 packed tonnes. It survives eight declared physical losses but verifies only 79.6 percent of required households by hour 36 when commercial communications are unavailable. A technology target closes the arithmetic only through unproved offline records, higher access productivity, and lighter prepared-district imports. Neither formation is admitted.
+That requirement now has a first configuration. [`NCAC-35`](../../force/mobility/neighborhood-continuity-and-access-cell.md) uses one 61-tract analytical catchment from this campaign to compare four formations against approximately 35,000 demand people. The assured conventional cell requires about 7,587 deployed people and 6,388 packed tonnes. It survives eight declared physical losses but verifies only 79.6 percent of required households by hour 36 when commercial communications are unavailable. A technology target closes the arithmetic only through unproved offline records, higher access productivity, and lighter prepared-district imports. Neither formation is admitted.
 
 The campaign also rejects a tempting procurement conclusion. More line-haul capacity does not solve the governing problem. In the reference case, movement-led `M0` creates a collection queue of about 266,682 people while its line-haul queue is effectively zero. Even the corrective `H3` architecture still peaks near 73,750 people waiting in collection. The scarce effect is early, accessible, block-to-node service—not distant seats.
 
 ## The decision this campaign tests
 
-[Mobility assurance under deep uncertainty](../force/mobility/mobility-assurance-under-deep-uncertainty.md) changed the national reference from a restorable movement mesh to protected-local continuity. That study was deliberately broad. It could show that a movement-heavy conclusion depended on a narrow probability distribution, but it could not answer four metropolitan questions:
+[Mobility assurance under deep uncertainty](../../force/mobility/mobility-assurance-under-deep-uncertainty.md) changed the national reference from a restorable movement mesh to protected-local continuity. That study was deliberately broad. It could show that a movement-heavy conclusion depended on a narrow probability distribution, but it could not answer four metropolitan questions:
 
 - Can a person reach protected local service across damaged streets?
 - When local service is unavailable, can the force reach the person before it can move the person?
@@ -325,7 +325,7 @@ Second, preregister and repeat the architecture comparison in a different metrop
 
 Only after those tests should the Department decide whether `NCAC` is a permanent formation, how it nests under a campaign cell, and which novel machines deserve first-principles configuration.
 
-The resulting [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) reports no outcomes. Its companion [full-mission test program](../innovation/ncac-full-mission-test-program.md) converts the representative experiment into a staged, independently governed evidence enterprise.
+The resulting [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) reports no outcomes. Its companion [full-mission test program](../test-enterprise/ncac-full-mission-test-program.md) converts the representative experiment into a staged, independently governed evidence enterprise.
 
 ## Sources and interpretation boundaries
 
@@ -333,4 +333,4 @@ The resulting [New York vertical heat-blackout protocol](new-york-vertical-heat-
 2. Federal Emergency Management Agency, [National Flood Hazard Layer](https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28), Harris County DFIRM `48201C`. Used for regulatory mapped-exposure classification only.
 3. Texas Department of Transportation, [Evacuation Routes feature layer](https://services.arcgis.com/KTcxiTD9dsQw4r7Z/arcgis/rest/services/TxDOT_Evacuation_Routes/FeatureServer/0). Used only as a designated-route marker.
 4. U.S. Census Bureau, 2024 ACS five-year tables `B18101`, `B08201`, and `B25024`. Used for tract disability share, zero-vehicle proxy, and 20-plus-unit structure proxy with the limitations stated above.
-5. Disaster Force research program, [Civil Mobility Assurance Under Deep Uncertainty](../force/mobility/mobility-assurance-under-deep-uncertainty.md). Used for the first `CTN-10` and `UCM-8` configuration hypotheses.
+5. Disaster Force research program, [Civil Mobility Assurance Under Deep Uncertainty](../../force/mobility/mobility-assurance-under-deep-uncertainty.md). Used for the first `CTN-10` and `UCM-8` configuration hypotheses.

@@ -53,7 +53,7 @@ The synthetic population generator must preserve household binding, high-risk fl
 
 `L0` ends only when an independent team can rebuild the same catchments, design matrix and empty outcome tables from the frozen records. Reproduction after outcomes is insufficient because the architecture could already have influenced selection.
 
-Pass 39 completed the first operator rehearsal against seven official extracts. It produced 844 population-bounded candidates, twelve disclosed provisional references and three commitment hashes, but it also found that tract-polygon adjacency does not satisfy the registered local-street test and that deterministic unsalted commitments are inferable from the public universe. The [rehearsal audit](../campaigns/new-york-l0-catchment-rehearsal.md) therefore keeps `L0` open pending street topology, independent reproduction, demographic enrichment, empty outcome tables and external salted custody. The [selection workbook](../../models/nyc-l0-catchment-selection.xlsx) is an auditable operator artifact, not an admission record.
+Pass 39 completed the first operator rehearsal against seven official extracts. It produced 844 population-bounded candidates, twelve disclosed provisional references and three commitment hashes, but it also found that tract-polygon adjacency does not satisfy the registered local-street test and that deterministic unsalted commitments are inferable from the public universe. The [rehearsal audit](../campaigns/new-york-l0-catchment-rehearsal.md) therefore keeps `L0` open pending street topology, independent reproduction, demographic enrichment, empty outcome tables and external salted custody. The [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) is an auditable operator artifact, not an admission record.
 
 ## `L1`: element and human-system trials
 
@@ -257,6 +257,6 @@ The discipline is equally important. Ambition does not mean giving speculative t
 
 Continue `L0` through the street-topology audit, independent reproduction, salted holdout custody and empty-table registration. Authorize preliminary range requirements, independent safety and rights governance, and detailed designs for the five `L1` experiments, but do not use `L1` observations to repair geography. Do not authorize full range construction until the source, participation, safety and cost bases receive independent review. Do not select `S3`, scale `NCAC-35` nationally or turn numerical parameters into procurement requirements.
 
-The companion [New York replication protocol](../campaigns/new-york-vertical-heat-blackout-replication-protocol.md) owns the campaign falsification. The [protocol and program workbook](../../models/ncac-vertical-city-replication-test-protocol.xlsx) owns the executable assumptions, calculations, annual profile and integrity checks.
+The companion [New York replication protocol](../campaigns/new-york-vertical-heat-blackout-replication-protocol.md) owns the campaign falsification. The [protocol and program workbook](../../../models/ncac-vertical-city-replication-test-protocol.xlsx) owns the executable assumptions, calculations, annual profile and integrity checks.
 
 No vehicle, site or formation rendering is authorized. The program exists to earn the knowledge required before rendering can become engineering communication rather than persuasion.

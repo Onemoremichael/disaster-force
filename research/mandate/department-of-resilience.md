@@ -294,7 +294,7 @@ The Department is not mature if it can only buy what today's emergency market al
 - **National Resilience University Consortia** protect long-horizon science and workforce formation; and
 - a **Standards, Data and Public Assurance Office** maintains open interfaces, configuration provenance, privacy, accessibility, environmental evidence and public-effect accounting.
 
-Creation, proof, production, employment and civil authority remain separate decisions. A research sponsor cannot certify its own system; a technology command cannot create incident authority; a vendor cannot define the public-effect metric by which its product is accepted. See [The resilience technology frontier](../innovation/technology-frontier.md).
+Creation, proof, production, employment and civil authority remain separate decisions. A research sponsor cannot certify its own system; a technology command cannot create incident authority; a vendor cannot define the public-effect metric by which its product is accepted. See [The resilience technology frontier](../proving/test-enterprise/technology-frontier.md).
 
 ## Functions the new institution should not absorb
 

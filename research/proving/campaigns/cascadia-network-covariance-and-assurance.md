@@ -10,7 +10,7 @@ These values are not forecasts. The marginal failure rates and correlations are 
 
 The institutional conclusion is more important than the percentage. The Department of Resilience should not organize theater opening around fleets and modes. It should organize around **independently supportable campaign cells**: origin-to-effect formations with their own command, energy, communications, crews, repair, safety authority, inventories and substitution rights. Platforms belong inside those cells. The cell—not the ship, aircraft, convoy or port—is the minimum unit of resilience force projection.
 
-The accompanying [covariance and assurance workbook](../../models/cascadia-covariance-model.xlsx) exposes all assumptions, fixed random draws, latent states, closure formulas, finance deltas, sources and open evidence gates.
+The accompanying [covariance and assurance workbook](../../../models/cascadia-covariance-model.xlsx) exposes all assumptions, fixed random draws, latent states, closure formulas, finance deltas, sources and open evidence gates.
 
 ## The contradiction exposed by Pass 25
 

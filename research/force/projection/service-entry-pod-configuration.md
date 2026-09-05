@@ -1,6 +1,6 @@
 # Configuring the public-service pod
 
-> **Supersession note — Pass 29:** the bridge/reuse and full-substitution comparisons remain useful, but the 11,738.09-tonne independent-essential case below was an allowance screen rather than a closed human-sustainment configuration. The [`PCC-50` Population Continuity Complex](../../capabilities/population-continuity/configuration-model.md) replaces shelter, food, sanitation, energy and workforce allowances with a cohort-specific configuration. It screens the independent pod at 15,152.86 tonnes and moves worst-case ten-pod closure from hour 71 to approximately hour 84.
+> **Supersession note — Pass 29:** the bridge/reuse and full-substitution comparisons remain useful, but the 11,738.09-tonne independent-essential case below was an allowance screen rather than a closed human-sustainment configuration. The [`PCC-50` Population Continuity Complex](../../systems/population-continuity/configuration-model.md) replaces shelter, food, sanitation, energy and workforce allowances with a cohort-specific configuration. It screens the independent pod at 15,152.86 tonnes and moves worst-case ten-pod closure from hour 71 to approximately hour 84.
 
 ## Executive judgment
 

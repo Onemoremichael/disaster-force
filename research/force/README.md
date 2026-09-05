@@ -24,7 +24,7 @@ These papers answer **how capacity reaches a region despite covariance**. Their 
 
 [Public-service pod configuration](projection/service-entry-pod-configuration.md) defines `PSP-10` as the smallest indivisible package of command, access, base, water, food, shelter, sanitation, power, communications, health and hazard control. Ten complete pods—not fractional tonnes—close the reference effect contract.
 
-The pod result is then compiled by [population continuity](../capabilities/population-continuity/README.md). `PCC-50` assigns services to explicit populations; `PCC-D1` configures one complete 1,000-person occupied district. That physical configuration supersedes the pod's earlier shelter allowance and breaks the mobile-only hour-72 screen.
+The pod result is then compiled by [population continuity](../systems/population-continuity/README.md). `PCC-50` assigns services to explicit populations; `PCC-D1` configures one complete 1,000-person occupied district. That physical configuration supersedes the pod's earlier shelter allowance and breaks the mobile-only hour-72 screen.
 
 ### 4. Move people as complete civil-service chains
 
@@ -32,7 +32,7 @@ The [mobility subsystem](mobility/README.md) begins where evacuation doctrine us
 
 Pass 33 found that a universal-access architecture could average 97.8-percent national closure while passing the joint distributional rule in only 13.8 percent of trials. Its restorable multimodal mesh then crossed the provisional target at 98.8 percent under one fixed distribution. [Civil Mobility Assurance Under Deep Uncertainty](mobility/mobility-assurance-under-deep-uncertainty.md) breaks that apparent result: `A2` passes only 7.6 percent of 1,000 broad parameter worlds, while protected-local continuity passes 99.8 percent.
 
-The frontier is therefore not a larger line-haul fleet. Four tract pilots first exposed collection delay, and the first `CTN-10` configuration turned a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis. The [Harris County campaign](../campaigns/harris-county-continuity-and-selective-mobility-campaign.md) couples the full seam and creates the `NCAC` requirement below the regional transfer node.
+The frontier is therefore not a larger line-haul fleet. Four tract pilots first exposed collection delay, and the first `CTN-10` configuration turned a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis. The [Harris County campaign](../proving/campaigns/harris-county-continuity-and-selective-mobility-campaign.md) couples the full seam and creates the `NCAC` requirement below the regional transfer node.
 
 The first [`NCAC-35` configuration](mobility/neighborhood-continuity-and-access-cell.md) establishes the organizational consequence. Its assured conventional cell contains 7,587 deployed people and 6,388 packed tonnes. It closes the base case and eight physical loss cases but fails the hour-36 household-contact requirement when commercial communications and cloud services are lost. The distributed technology target closes all ten required arithmetic cases through unproved offline records, higher building-access productivity, and lighter prepared-district interfaces. Neither is admitted.
 
@@ -70,4 +70,4 @@ The campaign papers test the force against geography. The capability papers clos
 
 Retain protected-local continuity as national doctrine and the restorable multimodal mesh as a nested rescue, selective-relocation and return subsystem. Advance `A2 NCAC-35` as the conventional development reference and `S3` as the technology target; admit neither.
 
-Next, preregister a different metropolitan hazard and built form and design a representative 168-hour cell experiment centered on disconnected household continuity and building access. Split the cell into deployment echelons, configure occupations and qualifications, divide `CTN-10` into prepared, mobile and expeditionary variants, and reopen campaign workforce and cost. All twenty `NCAC` gates remain open. No platform rendering is authorized.
+The different-city replication is now preregistered as a New York vertical heat-blackout campaign, and the representative 168-hour evidence ladder is configured. The first `L0` geographic rehearsal stopped before outcomes because tract-polygon adjacency does not satisfy the registered local-street test, the covariate set is incomplete, holdout commitments lack salted external custody and no independent team has reproduced the selection. Those controls must close before either architecture is run. All twenty `NCAC` gates remain open. No platform rendering is authorized.
