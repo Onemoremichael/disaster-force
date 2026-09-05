@@ -1344,3 +1344,50 @@ The saved workbook was reopened with an independent spreadsheet reader. Twenty-f
 ### Continuation decision
 
 The next configuration target is one complete 1,000-person district: shell, floor, anchoring, drainage, accessible circulation, thermal zones, furnishings, local power and fluid distribution, sanitation, packed volume, crew tasks, setup sequence, repair and strike. A parallel force-level alternative must test larger/faster entry cells and prepared receiving sites so material science is not assumed to solve every mass contradiction.
+
+## Pass 30 — PCC-D1 occupied district and repository spine
+
+### Research question
+
+What must one complete 1,000-person population-continuity district physically contain, and can its mass, packed volume, construction labor, installation sequence and civil-release path fit inside the PSP-10 hour-72 movement promise?
+
+### Repository decision
+
+The front door now states one nested force hierarchy—promise, establishment, force, cell, pod, district and protected person-hour—instead of summarizing the corpus as an expanding set of studies. Population continuity gains a scale-based domain map linking PCC-D1, PCC-50, PSP-10, the entry cell and the campaign. The model catalog adds an occupied-district analytical level, and the platform register admits both PCC-D1 and a National Receiving Lattice. Chronology remains here; current authority remains in the scale-specific papers.
+
+### Configuration decision
+
+1. Define PCC-D1 as twenty 50-person bays, two neighborhood nodes and 7,525 m² of occupied/support area.
+2. Count envelope, structure, floor, access, anchors, ballast, furnishings, accessibility, thermal/clean air, local power/data, life safety, survey, drainage, installation tooling, spares, packaging and restraint.
+3. Preserve central food, water source, waste treatment, medical referral and generation accounts outside the district while recording their interfaces explicitly.
+4. Separate shelter arrival, full-pod cargo completion, installation/commissioning and civil occupancy release.
+
+### Quantitative result
+
+The current, advanced and transformational district cases weigh 261.11, 156.77 and 78.71 t. Packed volumes are 1,093, 722 and 446.60 m³. All three are volume-bound under the declared position screens. The transformational case requires twenty-five air positions or seven 40-ft-equivalent positions per district.
+
+The earlier 26.05-t transformational shelter target is superseded. Holding other Pass 29 burdens constant gives a 30.66-t air-compatible district budget; the detailed transformational case exceeds it by 48.05 t.
+
+The installation critical paths are 66, 42 and 27 h. Fifty concurrent transformational teams require 2,000 builders. With a 50-percent construction-to-operations transition credit, the construction peak plus the 2,694-person operating roster still implies about 3,694 unique people.
+
+### Force propagation
+
+Fifty transformational districts raise the pod to 14,451.07 t. After both upland cells are lost, eight pods complete by hour 72 and the tenth cargo completion is hour 81.52.
+
+A dependency-bounded prepared receiver importing only 20 percent of district occupied-area mass produces an 11,302.77-t pod. Tenth cargo completion screens at hour 68.66 by air and 70.30 offshore, with an eighteen-hour connection path that can be pipelined behind cargo. No readiness credit is granted until receiver availability, covariance, inspection, authority, maintenance and occupied trials are demonstrated.
+
+### Architectural decision
+
+The Department requires a coequal National Receiving Lattice. Fixed receiving infrastructure and mobile force projection are one system. The lattice must be generated and assured as force capacity rather than treated as free local support.
+
+Seven linked technology programs own occupied-area mass, accessible sleep systems, autonomous site construction, packed volume, service-spine commissioning, adaptive-envelope evidence and receiving-lattice readiness. Fifteen empirical gates remain open. Rendering remains blocked.
+
+### Model and verification
+
+The twenty-six-sheet workbook includes controls, geometry, zones, design loads, a twenty-six-line bill of material, mass and volume, load positions, site requirements, installation tasks and network, crew scenarios, thermal and utility interfaces, degraded modes, alternatives, pod propagation, release timing, technology programs, evidence gates, sources and checks.
+
+The saved workbook was reopened through the spreadsheet engine. All fourteen integrity and decision checks pass, the formula-error scan returned zero matches, and all twenty-six sheets were rendered and visually inspected. Independent arithmetic reproduced district masses, the 30.66-t budget, propagated pods and tenth-pod timing.
+
+### Continuation decision
+
+Configure the National Receiving Lattice as a force: site and building classes, catchments, hazard covariance, utility and structural passports, ownership and access, inspection cycles, local inventory, workforce, exercises, capital and operating cost, and a mobile fallback. In parallel, allocate rival district technology targets across mass, volume, labor and release time.

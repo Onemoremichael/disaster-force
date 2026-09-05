@@ -34,11 +34,13 @@ The deterministic campaign closed. [The covariance study](campaigns/cascadia-net
 
 [Configuring the public-service pod](force/service-entry-pod-configuration.md) decomposes each cell into three indivisible `PSP-10` pods and distinguishes bridge/reuse, independent-essential and full-substitution missions. Ten pods are required. Its first-order independent-essential allowance closed the deterministic two-cell-loss test at hour 71.
 
-[The `PCC-50` Population Continuity Complex](capabilities/population-continuity/configuration-model.md) is the current frontier. It replaces the pod's shelter, food, sanitation, energy and labor allowances with a cohort-specific, shift-complete human service system. A complete 50,000-person campus screens at 15,152.86 tonnes; only eight pods arrive by hour 72 after both upland cells are lost, and the tenth arrives near hour 84. The earlier hour-71 finding is superseded.
+[Population continuity](capabilities/population-continuity/README.md) is the current frontier. The `PCC-50` study replaces the pod's human-sustainment allowances with a cohort-specific, shift-complete service system. The `PCC-D1` study then configures one complete 1,000-person occupied district. Its transformational case is 78.71 tonnes and 446.60 cubic metres—far above the earlier 26.05-tonne district target. Propagated through fifty districts, it produces a 14,451.07-tonne pod and a worst-case tenth cargo completion at hour 81.52.
+
+The only modeled sub-72-hour case is dependency-bounded: a prepared receiver supplies 80 percent of the occupied-area system before the event. The force architecture must therefore join mobile formations to a maintained National Receiving Lattice rather than treating local reception as an unpriced assumption.
 
 This is the present force-design doctrine:
 
-> A pod is the smallest effect-complete deployable increment. A cell is the smallest independently supported campaign path. Independence exists only inside a declared dependency envelope.
+> A district is the smallest repeatable occupied system. A pod is the smallest effect-complete deployable increment. A cell is the smallest independently supported campaign path. Independence exists only inside a declared dependency envelope.
 
 ### V. Invent and prove what the mission demands
 
@@ -105,7 +107,7 @@ The detailed configuration studies all make the same correction: the attractive 
 
 | Service | Configuration studies | Governing correction |
 | --- | --- | --- |
-| Population continuity | [`PCC-50` configuration](capabilities/population-continuity/configuration-model.md) | Shelter, food, water, sanitation, thermal safety, power, waste, staff and civil authority must close around explicit cohorts; a list of capacities is not a protected population. |
+| Population continuity | [Domain map](capabilities/population-continuity/README.md), [`PCC-50` complex](capabilities/population-continuity/configuration-model.md), [`PCC-D1` district](capabilities/population-continuity/district-configuration.md) | Shelter, food, water, sanitation, thermal safety, power, waste, staff and civil authority must close around explicit cohorts; mobile mass and prepared reception must then close together. |
 | Water | [Force engineering](capabilities/water/force-engineering.md), [WRG-50](capabilities/water/configuration-model.md), [nuclear water–energy](capabilities/water/nuclear-water-energy-system.md), [utility anchors](capabilities/water/resilience-utility-anchors.md) | Treatment must close with source, power, pipe, pressure, quality, residuals, wastewater and delivery. |
 | Power | [Force engineering](capabilities/power/force-engineering.md), [PRG-100](capabilities/power/configuration-model.md) | A deployable generator fleet is not a temporary electric utility. |
 | Fire | [Force engineering](capabilities/fire/force-engineering.md), [configuration](capabilities/fire/configuration-model.md) | Detection-to-action, delivered objective effect, line, hold and community protection govern—not tank capacity. |
