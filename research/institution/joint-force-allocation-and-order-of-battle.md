@@ -259,7 +259,7 @@ Select one representative unit from each system—heavy land engineering, strate
 
 ### 13.2 Joint deployment and distribution
 
-Build an item-level national movement model with origins, routes, distances, cycles, port and runway damage, weather, fuel, carrier availability, maintenance, alternate nodes, responder bases and return flow. It must source two unfamiliar simultaneous campaigns without using the same lift or receiving node twice.
+Pass 24 establishes the institutional, time-phased and first-order capacity architecture for this enterprise. It replaces the all-mass-at-once screen with anticipatory, 72-hour, 14-day, 45-day and 90-day closure bands; reconciles eleven formation lines; and tests movement, reception, onward distribution, responder bases and sustainment as one weakest-link chain. The next step remains an item-level origin–destination–load–cycle model with real node classes, routes, distances, queues, damage, weather, fuel, maintenance and return flow. Cascadia is the first priority because it fails the correlated primary-path-loss screen.
 
 ### 13.3 Occupation and institutional force
 

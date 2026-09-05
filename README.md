@@ -38,13 +38,17 @@ The new [joint force allocation study](research/institution/joint-force-allocati
 
 That number is intentionally disruptive. It supersedes the earlier 302,000-active/396,500-reserve figure as the current force-generated reference case. It is not validated headcount. It proves that the earlier top-down screen and the mature campaign promise cannot both be treated as settled.
 
-The deeper finding is operational. Formation inventory largely closes under the stated assumptions, but four of five strategic-movement channels and all ten damaged-theater reception screens fail. The Department's center of gravity is therefore not a fleet of heroic machines. It is a public-service equivalent of a joint deployment and distribution enterprise: ports, airfields, inland terminals, route opening, responder bases, communications, sustainment, replacement and technical release designed together with the operating force.
+The [deployment and distribution study](research/institution/joint-deployment-and-distribution-enterprise.md) now develops that center of gravity. It replaces the earlier all-mass-at-once screen with five force-closure bands: anticipatory staging, a 72-hour minimum viable service package, 14-day initial operating capability, 45-day formation closure and 90-day depth. It then sizes the complete chain—four strategic movement modes, fixed and mobile entry nodes, staging and onward movement, self-sustaining responder bases, daily supply, reverse flow, authority and technical release.
+
+All ten reference campaign chains close under the declared assumptions. A correlated primary-entry-path loss still breaks the Cascadia and allied coastal megacity cases, even though their lift fleets are adequate. That is the point: the Department's decisive mobility asset is not a ship, aircraft or port. It is a rehearsed system of independent paths that converts national inventory into public service while the receiving society's own support systems are impaired.
+
+The enterprise crosswalk is itself strategic in scale: about 1.21 million affiliated billet-equivalents, $2.573T in eleven existing formation lines, $1.380T allocated from existing common enabling lines, a $4.744T attributable envelope including reserve, and about $332.5B in mature annual operations. These figures are nested inside the Pass 23 Department totals, not added to them.
 
 The provisional work breakdown reaches $12.05T in 25-year capital and about $858B in mature annual operations. These are scale hypotheses, not estimates. They make the equal-effort premise concrete and preserve unresolved overlaps instead of compressing the institution to fit a symbolic $1T number.
 
-## Four documents define the project
+## Five documents define the project
 
-Start with the [strategic study](research/synthesis/strategic-study.md) for the cumulative argument. Read the [Department of Resilience](research/institution/department-of-resilience.md) for the zero-based institution, the [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) for the national force and its constraints, and the [technology frontier](research/innovation/technology-frontier.md) for the invention state required to create capabilities that do not yet exist.
+Start with the [strategic study](research/synthesis/strategic-study.md) for the cumulative argument. Read the [Department of Resilience](research/institution/department-of-resilience.md) for the zero-based institution, the [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) for the national force, the [deployment and distribution study](research/institution/joint-deployment-and-distribution-enterprise.md) for the chain that gets it into a damaged theater, and the [technology frontier](research/innovation/technology-frontier.md) for the invention state required to create capabilities that do not yet exist.
 
 The [research atlas](research/README.md) opens the derivation by layer. The [model catalog](models/README.md) maps each quantitative workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) is the fastest way to see what remains unknown.
 
@@ -60,6 +64,7 @@ Several apparently obvious concepts have not survived complete-system analysis.
 | Flood pump fleet | Forecast and trigger, intake, head, route, receiving water, barriers, breach control, interior drainage, debris, access and environmental closure |
 | Floating nuclear utility | Segmented source system plus prepared, source-neutral utility anchors, corridors, licensed authorities, maintenance and rival energy pathways |
 | National equipment catalog | Complete formations, components, force allocation, strategic movement, reception, sustainment, regeneration and the institutional force |
+| Transport fleet | Time-phased service modules, independent origin-to-effect paths, node recovery, onward movement, responder bases, sustainment, reverse flow and lawful transfer |
 
 The quantitative consequence is consistent across domains: the dramatic machine is usually a minority of the real system. A 50,000 m³/day water formation is about 23,500 tonnes dry and 2,720 deployed people in the reference configuration. A 100 MW power formation ranges from about 13,900 to 30,800 tonnes depending on the receiving network. One 100 m³/s flood-pumping portfolio yields 36.551 m³/s in the trapped-basin screen after formation and hydraulic losses. A national utility-projection system requires twenty-six candidate anchor zones, about 198,200 billets and a $1.698T capital hypothesis—not merely a fleet purchase.
 

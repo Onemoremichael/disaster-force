@@ -21,9 +21,9 @@ The [strategic study](synthesis/strategic-study.md) carries the integrated argum
 
 ## The shortest serious reading path
 
-Begin with [first principles](foundations/first-principles.md), which explains why the project starts from population-service deficits rather than platforms. Then read the [Department of Resilience](institution/department-of-resilience.md), the [joint force allocation and order-of-battle study](institution/joint-force-allocation-and-order-of-battle.md), and the [technology frontier](innovation/technology-frontier.md).
+Begin with [first principles](foundations/first-principles.md), which explains why the project starts from population-service deficits rather than platforms. Then read the [Department of Resilience](institution/department-of-resilience.md), the [joint force allocation and order-of-battle study](institution/joint-force-allocation-and-order-of-battle.md), the [deployment and distribution enterprise](institution/joint-deployment-and-distribution-enterprise.md), and the [technology frontier](innovation/technology-frontier.md).
 
-Those four documents answer the central questions in order: what counts as success, which sovereign institution owns the promise, what force can fulfill it under simultaneous campaigns, and how the nation invents what does not yet exist.
+Those five documents answer the central questions in order: what counts as success, which sovereign institution owns the promise, what force can fulfill it under simultaneous campaigns, how that force enters and persists in a damaged theater, and how the nation invents what does not yet exist.
 
 ## Need: define the public effect before the machine
 
@@ -49,7 +49,9 @@ The [Department of Resilience](institution/department-of-resilience.md) is a zer
 
 The [joint force allocation study](institution/joint-force-allocation-and-order-of-battle.md) is now the authoritative Department-wide force reference. It puts thirty-four formation families, five components and ten simultaneous campaigns into one allocation ledger. Its roughly 3.95 million affiliated billet-equivalents supersede the earlier 302,000-active/396,500-reserve screen as the current bottom-up reference case, while remaining an unvalidated hypothesis.
 
-The study also changes the research frontier. Formation inventory is no longer the main unknown. Strategic mobility and theater reception fail in the reference case. The next institutional work must therefore configuration-model the national deployment and distribution enterprise, home-base minimum staffing and regeneration—not add more vehicle concepts.
+The [deployment and distribution enterprise](institution/joint-deployment-and-distribution-enterprise.md) takes the next step. It separates anticipatory staging, 72-hour minimum viable service, 14-day initial operating capability, 45-day formation closure and 90-day depth; then models four strategic modes, fixed and mobile entry nodes, onward movement, self-sustaining responder bases and daily supply as one weakest-link chain.
+
+All ten reference campaign chains close under the declared design assumptions, but a correlated primary-path loss still breaks the Cascadia and allied coastal megacity campaigns. The 1.208-million-billet and $4.744T attributable enterprise crosswalk is nested within the Pass 23 totals. The research frontier therefore moves from aggregate lift toward item-level load plans, real node and route covariance, responder-base endurance, sustainment bills, access authorities and multi-week campaign trials.
 
 ## Proof: build an invention and evidence state
 
