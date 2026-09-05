@@ -31,7 +31,7 @@ These documents prevent a seductive object—a ship, aircraft, reactor, robot, o
 
 The [Department of Resilience](institution/department-of-resilience.md) is a zero-based cabinet design with six operating services, joint commands, separate civil and technical authority, science, acquisition, and industrial mobilization. [Force composition](institution/force-composition.md) defines deployable effects, unit-building rules, components, and professions. [Readiness and force generation](institution/readiness-and-force-generation.md) adds concurrency, basing, rotation, maintenance, reserves, and global posture.
 
-The [mature force design](institution/mature-force-design.md) supplies the organizational middle that equipment catalogs usually omit: permanent formation families, joint effect commands, theater-opening and sustainment formations, employment echelons, force packages, and regeneration. It distinguishes owning assets from being able to employ them repeatedly.
+The [mature force design](institution/mature-force-design.md) supplies the organizational middle that equipment catalogs usually omit: permanent formation families, joint effect commands, theater-opening and sustainment formations, employment echelons, force packages, and regeneration. The [National Utility Projection System](institution/national-utility-projection-system.md) then applies that grammar at national scale: one functional command, twenty-six candidate anchor complexes, basin posture, a ten-campaign concurrency force, about 198,200 billets, and an integrated $1.698T capital hypothesis. Together they distinguish owning assets from being able to employ them repeatedly.
 
 ### 3. Give the force a technical constitution
 
@@ -52,7 +52,7 @@ Each developed domain then has a deliberate pair: a force-engineering paper deri
 | Domain | Force engineering | Configuration analysis | Central finding |
 | --- | --- | --- | --- |
 | Water | [Water restoration force](capabilities/water/force-engineering.md) | [WRG-50](capabilities/water/configuration-model.md) | Distribution, pressure, storage, quality, wastewater, construction, and lift dominate the idea of a treatment plant. |
-| Strategic water–energy | [Water, energy, and utility systems](capabilities/water-energy-and-utility-systems.md) | [Nuclear Water–Energy System](capabilities/water/nuclear-water-energy-system.md) → [Resilience Utility Anchors](capabilities/water/resilience-utility-anchors.md) | The preferred reference is a source-neutral anchor network served by regional and island-scale energy, process, interface, and corridor families. |
+| Strategic water–energy | [Water, energy, and utility systems](capabilities/water-energy-and-utility-systems.md) | [Nuclear Water–Energy System](capabilities/water/nuclear-water-energy-system.md) → [Resilience Utility Anchors](capabilities/water/resilience-utility-anchors.md) → [National Utility Projection System](institution/national-utility-projection-system.md) | The preferred reference is a unified national utility command, source-neutral anchor network, and concurrency force spanning regional, island, inland, and integration classes. |
 | Power | [Power restoration force](capabilities/power/force-engineering.md) | [PRG-100](capabilities/power/configuration-model.md) | Reuse, bypass, or rebuild of the receiving network can matter more than the generator technology. |
 | Fire | [Fire response force](capabilities/fire/force-engineering.md) | [Fire configuration](capabilities/fire/configuration-model.md) | Distributed interception and campaign closure are different force problems connected by a common control system. |
 | Flood | [Flood response force](capabilities/flood/force-engineering.md) | [Flood configuration](capabilities/flood/configuration-model.md) | Early action, hydraulic reversal, interior drainage, breach control, access, and dewatering are separate tests. |
@@ -73,7 +73,7 @@ The [strategic study](synthesis/strategic-study.md) is the cumulative manuscript
 
 ## Reading paths
 
-**Senior strategy reader:** [Strategic study](synthesis/strategic-study.md) → [Department of Resilience](institution/department-of-resilience.md) → [Mature force design](institution/mature-force-design.md) → [Technology frontier](innovation/technology-frontier.md).
+**Senior strategy reader:** [Strategic study](synthesis/strategic-study.md) → [Department of Resilience](institution/department-of-resilience.md) → [Mature force design](institution/mature-force-design.md) → [National Utility Projection System](institution/national-utility-projection-system.md) → [Technology frontier](innovation/technology-frontier.md).
 
 **Systems and engineering reader:** [Mission engineering](foundations/mission-engineering-method.md) → [Common technical architecture](architecture/common-technical-architecture.md) → one domain's force engineering → its configuration analysis → the [platform requirement register](architecture/platform-requirement-register.md).
 
