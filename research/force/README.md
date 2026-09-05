@@ -32,7 +32,9 @@ The [mobility subsystem](mobility/README.md) begins where evacuation doctrine us
 
 Pass 33 found that a universal-access architecture could average 97.8-percent national closure while passing the joint distributional rule in only 13.8 percent of trials. Its restorable multimodal mesh then crossed the provisional target at 98.8 percent under one fixed distribution. [Civil Mobility Assurance Under Deep Uncertainty](mobility/mobility-assurance-under-deep-uncertainty.md) breaks that apparent result: `A2` passes only 7.6 percent of 1,000 broad parameter worlds, while protected-local continuity passes 99.8 percent.
 
-The frontier is therefore not a larger line-haul fleet. Four tract pilots first exposed collection delay, and the first `CTN-10` configuration turned a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis. The [Harris County campaign](../campaigns/harris-county-continuity-and-selective-mobility-campaign.md) now couples the full seam. Its `H3` corrective rival wins every paired broad world but passes the complete rule in only 55.3 percent, creating the `NCAC` requirement below the regional transfer node.
+The frontier is therefore not a larger line-haul fleet. Four tract pilots first exposed collection delay, and the first `CTN-10` configuration turned a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis. The [Harris County campaign](../campaigns/harris-county-continuity-and-selective-mobility-campaign.md) couples the full seam and creates the `NCAC` requirement below the regional transfer node.
+
+The first [`NCAC-35` configuration](mobility/neighborhood-continuity-and-access-cell.md) establishes the organizational consequence. Its assured conventional cell contains 7,587 deployed people and 6,388 packed tonnes. It closes the base case and eight physical loss cases but fails the hour-36 household-contact requirement when commercial communications and cloud services are lost. The distributed technology target closes all ten required arithmetic cases through unproved offline records, higher building-access productivity, and lighter prepared-district interfaces. Neither is admitted.
 
 ### 5. Treat destination readiness as force capacity
 
@@ -56,6 +58,7 @@ This is the mobility force's destination half: **the baseline force is both capa
 | Fixed-distribution `A2` admission | Broad parameter worlds and tract collection | `A3` is the robust reference; `A2` becomes a nested mobility subsystem |
 | 220-person `CTN-10` crew | Complete queue, utility, mass and relief screen | 2,289-person provisional formation; national workforce reopened |
 | Protected-local continuity as a sufficient architecture | Harris County coupled building-to-return campaign | Protection remains doctrine, but requires an assured `NCAC` access layer; `H3` is test-only |
+| `NCAC` as a small interface detachment | `NCAC-35` task, loss, workforce, mass, utility and finance configuration | Brigade-scale conventional development reference; disconnected access remains the governing failure |
 
 ## Supporting papers
 
@@ -65,6 +68,6 @@ The campaign papers test the force against geography. The capability papers clos
 
 ## Current research decision
 
-Retain protected-local continuity as national doctrine and the restorable multimodal mesh as a nested rescue, selective-relocation and return subsystem. Advance `H3` only as the next test architecture. Configure one `NCAC` around a bounded operating area with real buildings, explicit crew tasks, accessible vehicle cycles, route classes, power/fuel, maintenance, degraded communications, rights, destination admission and return.
+Retain protected-local continuity as national doctrine and the restorable multimodal mesh as a nested rescue, selective-relocation and return subsystem. Advance `A2 NCAC-35` as the conventional development reference and `S3` as the technology target; admit neither.
 
-Then preregister and repeat the architecture in a different metropolitan hazard and built form. Split `CTN-10` into prepared, mobile and expeditionary variants and reopen mobility workforce and cost. All eighteen Harris campaign gates remain open. No platform rendering is authorized.
+Next, preregister a different metropolitan hazard and built form and design a representative 168-hour cell experiment centered on disconnected household continuity and building access. Split the cell into deployment echelons, configure occupations and qualifications, divide `CTN-10` into prepared, mobile and expeditionary variants, and reopen campaign workforce and cost. All twenty `NCAC` gates remain open. No platform rendering is authorized.

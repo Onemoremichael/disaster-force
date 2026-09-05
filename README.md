@@ -25,9 +25,13 @@ NATIONAL RESILIENCE ESTABLISHMENT
       ↓
 RESILIENCE FORCE                the certified portion actually ready to employ
       ↓
-CAMPAIGN PATH → CELL → POD → OCCUPIED DISTRICT
-      ↓
-PROTECTED PERSON-HOURS AND RESTORED PUBLIC SERVICE
+CAMPAIGN PATH → SERVICE POD → OCCUPIED DISTRICT
+                                 ↕
+                   NEIGHBORHOOD CONTINUITY + ACCESS
+                                 ↓ when movement is necessary
+                 TRANSFER → RECEPTION → RETURN
+                                 ↓
+              PROTECTED OR RESTORED PUBLIC SERVICE
 ```
 
 Credit flows from the bottom up. Equipment in inventory, mass delivered, or capacity at an origin cannot substitute for a safe public effect at the far end.
@@ -55,22 +59,18 @@ Water and power studies showed that distribution, waste, construction, inspectio
 
 Cascadia campaign work showed that apparently diverse routes fail together through fuel, communications, labor, authority, inspection, and repair. That result produced independently supportable campaign cells and indivisible service pods. Population-continuity work then configured the occupied district beneath the pod and demonstrated how quickly human services, construction labor, and cargo mass break an elegant deployment schedule.
 
-The most important recent reversal concerns relocation. A national restorable mobility mesh passed 98.8 percent of trials under one fixed distribution, but only 7.6 percent of 1,000 broad uncertainty worlds. A protected-local architecture passed 99.8 percent of those worlds. The first coupled metropolitan campaign then made that answer harder: protection works only when it includes the seam from buildings to neighborhood service, accessible pickup, restored local routes, transfer, destination admission, and return.
+The most important reversal concerns relocation. A national restorable mobility mesh passed 98.8 percent of trials under one fixed distribution, but only 7.6 percent of 1,000 broad uncertainty worlds. A protected-local architecture passed 99.8 percent of those worlds. The first coupled metropolitan campaign then made that answer harder: protection works only when it includes the seam from buildings to neighborhood service, accessible pickup, restored local routes, transfer, destination admission, and return.
+
+Configuring that seam produced the **Neighborhood Continuity and Access Cell (`NCAC-35`)**. Its first conventional reference is not a small interface team: it is a 7,587-person, 6,388-tonne formation with 34 protected districts, household and vertical-access companies, collection squadrons, route-assurance detachments, islanded utilities, civil-rights control, and seven-day sustainment. It survives every declared physical component loss but fails the 36-hour household-contact requirement when commercial communications are unavailable. That failure now drives a linked technology program for disconnected civil records and building access.
 
 ## Where the inquiry is now
 
-The Harris County design-reference campaign compares four complete protection-and-movement architectures across a corrected tract-scale road graph and 300 paired broad worlds each. The strongest rival—protected local service plus an assured neighborhood mesh—wins every paired comparison but passes the complete admission rule in only 55.3 percent of the declared worlds. It advances as a test architecture, not a national reference.
+The [first `NCAC-35` configuration](research/force/mobility/neighborhood-continuity-and-access-cell.md) compares a thin interface detachment, an integrated baseline, an assured conventional cell, and a distributed technology target against one 35,000-person analytical demand envelope. `A2` closes the base case and eight physical loss cases but reaches only 79.6 percent of required household verification by hour 36 under commercial-network loss. `S3` reaches 102.2 percent only through unproved productivity, offline-record, and prepared-site assumptions. `A2` is the development reference; `S3` is the research target; neither is admitted.
 
-That result creates a new formation requirement: the **Neighborhood Continuity and Access Cell (`NCAC`)**, responsible for the seam from protected district through building access, accessible pickup, local route assurance, transfer-node interface, civil continuity, and return. The next inquiry is to configure and break one such cell, then preregister the architecture and repeat it in a different metropolitan hazard system.
+The immediate work is therefore a preregistered second metropolitan campaign and a representative full-mission experiment for disconnected household continuity and building access. Workforce and campaign finance must also be rebuilt from the task level: fourteen `A2`-equivalent cells alone exceed the entire earlier Harris workforce and annual operating hypotheses.
 
 No major platform has reached `R3` engineering maturity. Renderings remain deferred. The next useful image must explain a system whose mass, energy, flow, structure, heat, crew, maintenance, movement, safety, waste, and degraded states already close; it cannot be used to make an unclosed idea feel inevitable.
 
 ## Enter the project
 
-For the argument as it stands, read the [strategic study](research/synthesis/strategic-study.md).
-
-For the logic behind every layer and the authoritative path through the corpus, use the [research guide](research/README.md).
-
-For executable assumptions and sensitivities, use the [quantitative model catalog](models/README.md). The workbooks are the only non-Markdown research artifacts.
-
-For provenance and falsification, use [research assurance](research/assurance/README.md). For how the concept evolved—including superseded conclusions—use [research history](research/history/README.md).
+Read the [strategic study](research/synthesis/strategic-study.md) for the current whole argument, then the [research guide](research/README.md) for its proof structure. The [quantitative model catalog](models/README.md) contains the executable assumptions and sensitivities; workbooks are the repository's only non-Markdown research artifacts. [Research assurance](research/assurance/README.md) owns provenance and falsification, while [research history](research/history/README.md) preserves superseded conclusions without letting chronology govern the present design.
