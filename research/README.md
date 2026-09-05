@@ -17,7 +17,7 @@ capability physics  ←        shared architecture       →       covariance an
 economics          ←         innovation + test         →       falsifiable evidence
 ```
 
-## The core argument in seven papers
+## The core argument in eight papers
 
 These papers form the shortest serious reading path. Each answers a different question; none is a summary of the one before it.
 
@@ -28,6 +28,7 @@ These papers form the shortest serious reading path. Each answers a different qu
 5. [Deployment and distribution enterprise](force/joint-deployment-and-distribution-enterprise.md) — How does national inventory become service inside a damaged theater?
 6. [Cascadia joint campaign](campaigns/cascadia-joint-resilience-campaign.md) — Can an item-level regional campaign close across disconnected service islands?
 7. [Cascadia covariance and assurance](campaigns/cascadia-network-covariance-and-assurance.md) — Do apparently separate paths remain independent after their shared dependencies fail?
+8. [72-hour Service Entry Force](force/72-hour-service-entry-force.md) — What complete force closes the dominant early bottleneck after any two entry cells are lost?
 
 The [strategic study](synthesis/strategic-study.md) is the cumulative manuscript. The modular papers are authoritative for their own assumptions, derivations and evidence gates.
 
@@ -60,6 +61,7 @@ The force layer connects institutional ambition to operating reality.
 - [Mature force design](force/mature-force-design.md) supplies the organizational middle between a technical module and a national campaign.
 - [Joint force allocation and order of battle](force/joint-force-allocation-and-order-of-battle.md) generates thirty-four formation families across five components and ten simultaneous campaigns.
 - [Deployment and distribution enterprise](force/joint-deployment-and-distribution-enterprise.md) models anticipatory, 72-hour, 14-day, 45-day and 90-day closure as a weakest-link system.
+- [72-hour Service Entry Force](force/72-hour-service-entry-force.md) converts the Pass 26 failure into six independently supported upland, air and offshore cells whose mixed service kernels close after any two-cell loss.
 
 The current force-generated screen reaches about 714,000 people deployed simultaneously and 3.95 million affiliated billet-equivalents. The deployment enterprise attributes about 1.208 million of those billet-equivalents and $4.744T of the Department envelope to movement, reception and support. Both results remain unvalidated design hypotheses.
 
@@ -94,6 +96,8 @@ The [Resilience Arsenal](architecture/resilience-arsenal.md) organizes systems a
 The [technology frontier](innovation/technology-frontier.md) treats research as a standing operating system rather than a list of speculative gadgets. The [National Resilience Proving Network](innovation/national-proving-network.md) translates it into laboratories, regional ranges, flagship facilities, measurement systems and destructive full-mission trials.
 
 Pass 26 adds a crucial design tension: common interfaces are necessary for substitution, but common implementations can create correlated failure. The emerging rule is **standardize boundaries; diversify critical implementations**.
+
+Pass 27 makes that rule concrete. Government owns service-kernel interfaces, reference missions and safety evidence; rival suppliers compete on aircraft, sea lift, no-pier systems, autonomy, utilities and support implementations. Functional configuration now precedes exterior form.
 
 ## Economics: reveal the actual scale
 
