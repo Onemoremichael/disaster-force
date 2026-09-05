@@ -1633,3 +1633,41 @@ Each major research directory now has a local README that owns its purpose, deci
 ### Assurance and continuation
 
 All Markdown links were checked after the moves, and the branch contains no model or quantitative-result changes. The next substantive pass remains the coupled metropolitan protected-continuity and selective-mobility campaign identified in Pass 34. Pass 35 changes how that work will attach to the argument; it does not claim to have performed it.
+
+## Pass 36 — Harris County coupled continuity and mobility campaign
+
+### Research question
+
+Does the protected-local doctrine survive when one metropolitan campaign joins building access, mapped flood exposure, time-dependent road restoration, accessible collection, transfer-node processing, line haul, destination admission and return on one clock?
+
+### Data and representation
+
+The campaign joins 1,111 Harris County tracts and 481,049.8 design-demand people to four official data families: 2025 Census TIGER/Line all-roads geometry, FEMA NFHL polygons for DFIRM `48201C`, TxDOT designated evacuation routes, and 2024 ACS tables for population, disability, vehicle availability and a multi-unit-structure proxy.
+
+The first road implementation joined TIGER features only at endpoints. It falsely stranded most demand. The graph was rejected and rebuilt by splitting 65,144 selected motor-road features at internal vertices, producing 667,739 segments and 584,857 nodes. The correction is an explicit assurance result: reproducible arithmetic does not validate a representation. The corrected graph still omits grade separation, bridges, direction, capacity, traffic, debris, actual inundation and emergency control.
+
+### Architecture experiment
+
+Three initial rivals—movement-led `M0`, balanced `B1` and protected-local `P2`—were compared at six-hour intervals through day seven. After the initial results exposed collection as the governing seam, a post-result corrective rival, `H3`, added faster local activation, stronger vertical access and extraction, more collection, more route assurance and one additional transfer node.
+
+The complete admission rule requires at least 95-percent total closure, 95-percent priority closure, 80-percent bottom-demand-decile closure and no more than sixty mean unprotected hours per demand person in the same world. Three hundred paired broad worlds vary eleven campaign conditions for every architecture. These are broad stress combinations, not fitted event probabilities.
+
+### Results
+
+In the reference case, `M0` closes 79.8 percent by day seven and fails; `B1`, `P2` and `H3` close 99.1, 99.7 and 99.7 percent. The deeper result is demand amplification. `M0` sends 318,401 people into movement because local protection is absent; `H3` adds only 20,696 beyond mandatory movement. Mean unprotected time falls from 103.9 hours per person in `M0` to 24.1 in `H3`, and day-seven displacement falls from 224,624 to 36,255.
+
+Broad worlds reverse the apparent deterministic closure. `M0` passes 0.0 percent, `B1` 0.7 percent, `P2` 11.7 percent and `H3` 55.3 percent. `H3` is best in all 300 paired worlds but fails the complete rule in 134. Bottom-decile closure is its most frequent failure. Winning the declared field is therefore not architecture admission.
+
+The reference road graph becomes 99.5-percent demand-reachable by hour 120, yet `H3` still peaks at a 73,750-person collection queue while its effective line-haul queue is zero. The governing problem is early building-to-network access and collection, not distant transport seats.
+
+### Formation decision
+
+The pass defines a new configuration problem: the **Neighborhood Continuity and Access Cell (`NCAC`)**. It binds a protected district, vertical extraction and building access, accessible pickup, local route assurance, transfer-node interface, civil rights and communications, destination continuity and return under one command and service obligation.
+
+`H3` advances only as the next test architecture. No Harris architecture is admitted as a national reference. The next pass will configure one `NCAC` around a bounded operating area, then preregister and repeat the comparison in a different metropolitan hazard and built form.
+
+### Model, fiscal frame and assurance
+
+The twenty-sheet workbook contains assumptions, four architecture bundles, tract inputs and outcomes, road recovery, six-hour service clocks, 1,200 trial rows, failure and sensitivity screens, finance, workforce, technology missions, sources, eighteen evidence gates and checks. All eighteen workbook checks pass, no formula errors were found, and all sheets were rendered and visually inspected.
+
+Campaign capital hypotheses range from $87.69B for `P2` to $116.16B for `M0`; twenty-five-year capital-plus-operations ranges from $471.26B to $600.45B. Deployed workforce ranges from 46,150 to 56,554. These are comparative design factors, not independent estimates or additive Department budgets. Every campaign evidence gate remains open. Vehicle and formation renderings remain blocked.
