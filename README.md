@@ -52,6 +52,7 @@ The configuration studies make those distinctions concrete:
 | What does distributed fire readiness buy? | Earlier interception, but not necessarily positive closure | The alert network and campaign force solve different time regimes. |
 | What survives from 100 m³/s of nominal flood pumping? | 36.551 m³/s in the reference trapped-basin screen | Formation utilization, head, intake, and debris can erase most nameplate capacity. |
 | What does peer technological ambition imply? | $750B, $2T, and $4.5T alternative 25-year cases | A true innovation state is a laboratories–ranges–manufacturing–test enterprise, not a larger equipment budget. |
+| What makes a mobile strategic utility usable? | A prepared, source-neutral Resilience Utility Anchor—not merely a berth | The node is a strategic base with hazard, marine, grid, water, corridor, authority, environmental, workforce, and exercise systems. |
 
 These are transparent, editable thought-experiment outputs—not forecasts, acquisition estimates, or claims of verified performance.
 
@@ -89,6 +90,6 @@ No major platform has reached `R3`. **Renderings remain deferred** until the rel
 
 ## Current frontier
 
-The first configuration-level strategic system is now the [Nuclear Water–Energy System](research/capabilities/water/nuclear-water-energy-system.md). Its first-principles result is a segmented utility flotilla rather than a universal nuclear ship: the protected energy core moves among prepared nodes, while replaceable desalination, shore-interface, pipeline, storage, and distribution groups extend service toward damaged infrastructure. The entire formation must accept non-nuclear sources through the same interfaces.
+The [Nuclear Water–Energy System](research/capabilities/water/nuclear-water-energy-system.md) replaced the universal nuclear rescue ship with a segmented strategic utility formation. The new [Resilience Utility Anchor](research/capabilities/water/resilience-utility-anchors.md) study then tested the receiving side of that system. Its result is more consequential than a basing plan: the anchor is the strategic object—a source-neutral civil utility base with its own hazard envelope, safe harbor, protected bus, water works, corridors, storage, authorities, environmental evidence, workforce, and exercises.
 
-The next gain is not exterior form. It is a reference receiving-node design and a common-case comparison of nuclear flotilla, shore nuclear, non-nuclear firm power, renewable-storage, and grid-repair alternatives with site, safety, environmental, workforce, availability, schedule, and lifecycle evidence.
+Two deliberately different archetypes expose a platform-family requirement. A regional estuary mission needs about 260.91 MW at the protected bus, slightly more than one `NEC-300` can sustain, while a constrained island mission needs only 38.62 MW and makes a 300 MWe core badly oversized. The next research frontier is therefore not exterior form. It is real candidate-node screening, solved regional and island grid cases, full corridor trials, source-neutral substitution, and independent six-way cost and schedule evidence for `NEC-60`, `NEC-300`, shore nuclear, gas, renewable-storage, and repair-led alternatives.

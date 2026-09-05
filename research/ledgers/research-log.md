@@ -889,3 +889,64 @@ The workbook was exported, re-imported and inspected. Formula-error scanning fou
 ### Gate and continuation decision
 
 `N-WES` advances to `R2+`, not `R3`. The next work is a paired reference design for two receiving nodes and a common-case alternatives model. Reactor selection, hull, stability, collision, grounding, mooring, storm, ultimate heat sink, licensed site, emergency plan, security, environmental release, solved grid, feed matrix, pipe transient, verified construction, workforce, correlated availability, independent cost and complete mission transfer remain open. No exterior rendering is authorized.
+
+## Pass 21 — Resilience Utility Anchors
+
+### Research question
+
+What does a “prepared node” have to contain if it is treated as the resilience equivalent of a strategic base rather than a berth, and does one mobile nuclear utility class remain coherent when the same public-effect method is applied to a large estuary and a constrained oceanic island?
+
+### Evidence wave
+
+The pass used official primary sources to define the receiving system: DOE microgrid and islanding guidance for source-neutral operation, black start, isolation and load blocks; DOE's microgrid report for strategic port, water and medical nodes; EPA's Doheny project record for the complete intake–plant–brine–storage–distribution–power boundary; NRC advanced-reactor and post-Fukushima material for external-hazard and site-specific information; a Coast Guard heavy-weather port plan for shelter and movement-decision constraints; EPA desalination intake/discharge material for additional flow, diffuser and bio-growth issues; and DOE island and Hawaiʻi examples for fuel, land, hazard, grid, black-start and finite-endurance conditions.
+
+The estuary and island cases are archetypes, not candidate sites. They are designed to expose different constraint regimes before geography or platform advocacy hardens the answer.
+
+### Architecture decision
+
+The **Resilience Utility Anchor (`RUA`)** becomes the primary strategic object. It is a permanently prepared, source-neutral civil utility base containing:
+
+1. a version-controlled external-hazard and site envelope;
+2. surveyed approach, mooring, emergency disconnect and alternate safe-harbor systems;
+3. protected power landings, grid-forming conversion, known critical-load islands and black-start sources;
+4. intake, process, product-quality, storage, trunk, pressure-zone, concentrate and environmental interfaces;
+5. pre-negotiated utility corridors, crossings, laydown and repair works;
+6. distinct nuclear/source, marine, electrical, water-quality and civil release authorities;
+7. a resident maintenance, laboratory, security and operator system; and
+8. peacetime service and full-mission exercises that keep the exact configuration current.
+
+The node accepts nuclear, conventional, renewable, storage and surviving-grid sources through common contracts. This preserves public service during a reactor-class hold and prevents host infrastructure from becoming stranded if one national platform program fails.
+
+### Paired-node result
+
+The `RUA-300` regional-estuary archetype supplies 180 MW of critical shore service and 150,000 m³/day of product water. Water processing requires 26.875 MW under the 4.3 kWh/m³ combined assumption. Adding 20 MW of internal load and 15% reserve produces a 260.906 MW protected-bus requirement.
+
+One `NEC-300` provides 248.4 MW sustained after 8% station service and 10% derate, leaving a 12.506 MW shortfall. Two cores provide 496.8 MW and close the reference arithmetic. The mission therefore requires two cores, hybrid support, storage that can credibly cover the deficit and contingency, or a smaller declared public effect.
+
+At 45% recovery, the regional water system takes 333,333 m³/day feed and produces 183,333 m³/day concentrate. Two 0.9 m OD DR17, 40 km trunks contain approximately 10,707 tonnes of pipe material. The steady screen gives 118.29 m friction head, 138.29 m total dynamic head, 3.14 MW duty pumping and 3.93 MW installed pumping before route-specific transients and fittings.
+
+The `IUA-60` island archetype supplies 25 MW of shore service and 20,000 m³/day water. With 3.583 MW water load, 5 MW internal load and 15% reserve, its protected bus is 38.621 MW. A notional 60 MWe-gross class provides 49.68 MW sustained and 11.059 MW margin. A 300 MWe class is rejected by scale; it would create minimum-load, source-dominance, fault and casualty questions instead of merely adding reserve.
+
+The island water system takes 44,444 m³/day feed and produces 24,444 m³/day concentrate. Its 0.56 m OD, 10 km trunk contains approximately 518 tonnes of pipe. Terrain drives 142.55 m total dynamic head and 0.54 MW installed pumping despite the smaller flow.
+
+The paired result converts `N-WES` into a family: `NEC-300` and a newly exposed `NEC-60`; `WPB-100`/`WPB-50` and `WPB-20`; `SIG-100` and `SIG-25` blocks; heavy dual-trunk and compact high-head corridor groups; and node-specific storage, distribution and marine support.
+
+### Alternatives and economics
+
+Twelve alternative–node records compare six architectures in both environments: segmented floating nuclear, prelicensed shore nuclear, LNG utility flotilla, renewable–storage with firm backup, water works plus grid repair, and imported-water/diesel bridge. The workbook refuses an opaque weighted score. It separately reports power and water margin, first and full service, conditional post-event availability, land, daily delivered fuel, capital, recurring burden, peacetime benefit and lifecycle present value.
+
+At the protected-bus requirement, a full-load LNG source uses approximately 2,184 tonnes/day in the regional case and 323 tonnes/day in the island case under the 7.5 MMBtu/MWh and 21.5 MMBtu/t assumptions. A partial 80 MW regional diesel bridge uses about 449 tonnes/day. These values are receiving-logistics screens, not procurement or fuel-price forecasts.
+
+The lifecycle sheet produces low, base and high 25-year present-value screens from explicit capital, fixed O&M, annualized periodic work, fuel-operating days, delivered-fuel price, decommissioning, peacetime benefit, a 3% real discount rate and 0.75×/1.5× burden multipliers. The values remain planning hypotheses and cannot be added to the prior $400B `N-WES` frame until overlaps in anchors, bases, modules, R&D and workforce are resolved through a common work breakdown structure.
+
+### Verification
+
+The 20-sheet workbook contains controls, paired node requirements, twelve architecture records, non-compensatory constraint screens, energy, water, pipe, grid and thermal balances, mobilization, fuel logistics, site infrastructure, lifecycle cost, system-family implications, workforce, peacetime utilization, twelve failure modes, sixteen evidence gates, sources and checks.
+
+All twenty sheets were rendered and visually inspected. Fourteen of sixteen checks pass. The two intentional `OPEN` conditions record that all sixteen evidence gates remain open and therefore block rendering. Re-import confirmed the declared check states and key fuel and lifecycle outputs. Formula-error scanning found no spreadsheet error values, and the XLSX archive passed integrity testing.
+
+### Gate and continuation decision
+
+The anchor advances to an `R2` functional architecture with `R2+` paired arithmetic. It is not a selected site, licensed facility, solved grid, approved discharge, verified corridor, workforce plan or cost estimate. The next work must move from archetypes to an open candidate-node screen; solve one regional and one island electrical case; physically test the two corridor regimes; establish source-neutral substitution at a proving anchor; and obtain independent six-way site, safety, schedule, availability and lifecycle evidence.
+
+No vehicle or anchor rendering is authorized. The eventual first visual must show the complete operating system, hazard and exclusion envelopes, safe harbor, energy and process modules, intake and discharge, protected bus, critical-load islands, corridors, storage, authorities and disconnects.

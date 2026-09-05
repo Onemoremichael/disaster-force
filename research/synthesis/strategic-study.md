@@ -333,6 +333,23 @@ Pass 20 replaces the image of a nuclear desalination carrier with a configuratio
 
 See the [Nuclear Water–Energy System study](../capabilities/water/nuclear-water-energy-system.md) and editable [configuration workbook](../../models/nuclear-water-energy-system.xlsx).
 
+## Resilience Utility Anchors
+
+Pass 21 tests what the N-WES phrase “prepared node” actually requires and finds that the receiving node is the strategic object.
+
+1. A Resilience Utility Anchor is not a berth. It is a source-neutral civil utility base combining a hazard-qualified marine envelope, safe harbor, protected power bus, critical-load islands, water source and residuals systems, corridors, storage, laboratories, maintenance, security, workforce, independent release authorities and recurrent exercise.
+2. The regional-estuary archetype requires 180 MW of critical shore power and 150,000 m³/day of water. Water and internal loads plus 15% reserve raise the protected-bus requirement to 260.906 MW.
+3. One `NEC-300` provides 248.4 MW sustained under the reference factors and is 12.506 MW short. Two units close the arithmetic. The discontinuity requires two cores, hybrid support or a smaller declared mission rather than rounding the need into one ship.
+4. The island archetype requires 25 MW of critical shore power and 20,000 m³/day of water. Its protected bus is 38.621 MW; a notional `NEC-60` supplies 49.68 MW sustained. A 300 MWe core is rejected by scale because source dominance, minimum load, faults and casualty consequence can worsen as gross capacity rises.
+5. The energy system must therefore become a family: regional and island energy cores, multiple water-process sizes, `SIG-100` and `SIG-25` shore blocks, heavy dual-trunk and compact high-head corridor groups, and node-specific storage and marine support.
+6. The regional corridor's two illustrative 0.9 m OD, 40 km trunks contain about 10,707 tonnes of pipe and require 3.93 MW installed pumping in the steady screen. The island's 0.56 m OD, 10 km trunk contains about 518 tonnes, but 120 m static head drives installed pumping to 0.54 MW. Geography changes the support system even when the process is modular.
+7. Six alternatives are retained in both nodes without a weighted score: segmented floating nuclear, prelicensed shore nuclear, LNG utility flotilla, renewable–storage with firm backup, water works plus grid repair, and imported-water/diesel bridge. Failed power, water, timing or full-service constraints remain vetoes rather than being averaged away.
+8. At full protected-bus load, the LNG alternative consumes about 2,184 tonnes/day in the regional case and 323 tonnes/day in the island case under the stated assumptions. Fuel availability in a global market is not equivalent to damaged-node receipt, storage, regasification and security.
+9. The anchor should have an ordinary mission—grid-forming reserve, black start, water security, port electrification, district cooling, industrial service, technology proving or regional mutual aid—so readiness produces host value and configuration drift is found before catastrophe.
+10. Sixteen evidence gates remain open across real-site selection, hazards, marine/safe harbor, nuclear safety, regional and island one-lines, water and environment, both corridor regimes, independent alternatives, correlated network availability, source substitution, governance, workforce/industry and cost/schedule. Rendering remains blocked.
+
+See [Resilience Utility Anchors](../capabilities/water/resilience-utility-anchors.md) and the editable [anchor alternatives workbook](../../models/resilience-utility-anchor-alternatives.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
