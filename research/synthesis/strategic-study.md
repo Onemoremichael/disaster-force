@@ -20,7 +20,7 @@ Second, the force must be organized around complete service chains rather than h
 
 Third, fixed readiness and mobile response are one system. A tonne not moved because a prepared site already contains safe shelter, utility interfaces, stocks, records, labor, and inspection capacity may be more valuable than a tonne of faster transport. Conversely, fixed capacity that is damaged, inaccessible, or geographically mismatched is not readiness. Investment must optimize the joint system rather than reward visible mobile assets.
 
-Fourth, protection should precede displacement as the national default. Purpose-built civil mobility remains essential for rescue, medical transfer, selective relocation, inaccessible communities, and return. But moving millions through damaged collection routes, queues, terminals, line-haul networks, and destination systems compounds failure and can transfer risk to the people being helped. Robust local continuity removes demand from that chain.
+Fourth, protection should precede displacement as the national default—but protection must include access. Purpose-built civil mobility remains essential for rescue, medical transfer, selective relocation, inaccessible communities, and return. Moving millions through damaged collection routes, queues, terminals, line-haul networks, and destination systems compounds failure and can transfer risk to the people being helped. Robust local continuity removes demand from that chain; a neighborhood access layer must still reach buildings, make local services accessible, and carry the mandatory remainder into complete movement and return pathways.
 
 Fifth, a true resilience power requires an industrial and scientific revolution. The Department must become a technologically sophisticated buyer and operator, create rival prototypes, maintain open interfaces and second sources, fund proving infrastructure, and sustain production lines between catastrophes. Novel systems earn force credit only when complete mission trials establish their effect.
 
@@ -94,7 +94,7 @@ These formations are deployable public works and utility systems. Their measure 
 
 Some effects must move. Strategic deployment carries complete mission packages from surviving origins through ports, airfields, railheads, roads, inland waterways, beaches, or vertical entry points. Reception, onward movement, responder basing, sustainment, reverse logistics, repair, and release are part of the same chain.
 
-The **cell** is the smallest independently supported campaign path. The **pod** is the smallest indivisible increment of complete public service. The **district** is the smallest repeatable occupied system. These units prevent the force from counting partial cargo as usable effect or counting routes as independent when they share the same fuel, communications, labor, authority, inspection, repair, or destination dependency.
+The **campaign cell** is the smallest independently supported origin-to-effect path. The **pod** is the smallest indivisible increment of complete public service. The **district** is the smallest repeatable occupied system. The new **Neighborhood Continuity and Access Cell (`NCAC`)** is the smallest formation that owns the seam between a district and safe movement: building access, accessible pickup, local route assurance, transfer interface, civil continuity, and return. These units prevent the force from counting partial cargo as effect, mapped roads as access, or routes as independent when they share fuel, communications, labor, authority, inspection, repair, or destination dependencies.
 
 ### Civil mobility, reception, and return
 
@@ -156,6 +156,10 @@ At campaign scale, Cascadia closed under deterministic assumptions and failed wh
 
 The civil mobility work produced the clearest architectural reversal. A restorable multimodal mesh passed 98.8 percent of trials under one fixed probability distribution. When twelve conditions varied broadly across 1,000 paired worlds, it passed only 7.6 percent. A protected-local architecture passed 99.8 percent and was the best performer in 969 worlds. The experiment does not assign real-world probabilities; it demonstrates that the mobility-heavy conclusion was distribution-dependent.
 
+The Harris County campaign then coupled local protection and movement across 1,111 tracts, a corrected road graph, mapped flood exposure, building-access proxies, time-dependent queues, transfer, line haul, destination admission, and return. Movement-led `M0` passed none of 300 broad worlds. Protected-local `P2` passed 11.7 percent. The post-result `H3` corrective rival—faster local activation plus stronger building access, collection, and route assurance—was best in all 300 worlds but passed the complete rule in only 55.3 percent. In the reference case it reduced mean unprotected time to 24.1 hours per demand person and day-seven displacement to about 36,255 people, yet still created a peak collection queue near 73,750.
+
+That result does not admit `H3`. It locates the missing formation. The force needs an `NCAC` below the regional transfer node and beside the protected district. It also establishes a broader rule: mobility demand is partly endogenous. A weak local-service architecture manufactures passengers and queues; a strong one preserves scarce transport and receiving capacity for mandatory movement.
+
 Tract pilots then exposed the unmodeled distance between buildings and transfer nodes. The first `CTN-10` transfer-node configuration grew from a nominal 220-person detachment to a 29,263-square-metre, 4,513-tonne, 2,289-person formation once queues, accessibility, life support, utilities, relief, and shifts were included. That finding reopens national workforce and cost rather than completing them.
 
 ## What remains unproved
@@ -165,7 +169,7 @@ The central uncertainties are not cosmetic details. They can reverse the force d
 - Public service-to-health and service-to-stability relationships are incomplete for most missions.
 - Hazard, infrastructure, workforce, route, receiver, supplier, and authority failures lack fitted joint distributions.
 - Most platforms and formations lack representative mass, energy, thermal, structural, reliability, maintenance, and deployment evidence.
-- Building-to-node collection, queue behavior, destination admission, and return are not closed at metropolitan scale.
+- Harris County now joins building proxies, damaged-road restoration, queues, destination admission, and return at metropolitan scale, but none of those layers has representative operational evidence; parcel/building detail and named destinations remain absent.
 - The substitution curve between local protection and relocation is not empirically established by hazard, duration, population, or geography.
 - Workforce pipelines, industrial learning, supplier concentration, and lifecycle cost have not been independently estimated.
 - Legal, rights, environmental, and community-acceptance architectures require scenario-level testing, especially where rapid action and local sovereignty conflict.
@@ -174,8 +178,8 @@ No major platform has reached `R3`. Model reconciliation proves that stated form
 
 ## The research program from here
 
-The immediate design-reference campaign should join local continuity and selective mobility in one metropolitan system. It must begin at buildings; represent damaged local roads, accessible collection, time-dependent demand and queues; activate transfer nodes; allocate selective road, rail, air, and water movement; admit people into surviving destinations; and preserve return. Competing architectures should be judged by protected person-hours, distributional closure, coercion and separation risk, workforce, cost, and recovery—not passenger throughput alone.
+The immediate configuration task is one `NCAC` in a bounded Harris County operating area. It must replace aggregate shares with named buildings and service points, explicit crew tasks, accessible collection cycles, route classes, energy, maintenance, degraded communications, rights, destination interfaces, and return. Its readiness test should remove one service point, one route group, and commercial communications while requiring complete person journeys.
 
-In parallel, transfer nodes should split into prepared, mobile, and expeditionary variants; the national mobility workforce and lifecycle frame should be reopened; and local continuity districts should be configured across heat, smoke, flood, grid loss, and building-access states. Results should feed rival technology programs and full-mission trials rather than prematurely stabilize a fleet plan.
+The architecture should then be preregistered and repeated in a different metropolitan hazard and built form before it can become a national reference. In parallel, transfer nodes should split into prepared, mobile, and expeditionary variants; the national mobility workforce and lifecycle frame should be reopened; and local continuity districts should be configured across heat, smoke, flood, grid loss, and building-access states. Results should feed rival technology programs and full-mission trials rather than prematurely stabilize a fleet plan.
 
 The mature vision is deliberately audacious: an American capacity to preserve complex life, restore the physical basis of civil society, and help partners recover at a scale visible to the world. The discipline is equally demanding. Nothing becomes national power until the complete chain works under damage, at human scale, with rights intact, and can do so again for the next campaign.
