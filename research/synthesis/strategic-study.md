@@ -445,6 +445,25 @@ Pass 26 asks whether the paths that closed deterministically in Pass 25 remain i
 
 See [Cascadia Network Covariance and Campaign Assurance](../campaigns/cascadia-network-covariance-and-assurance.md) and the editable [covariance workbook](../../models/cascadia-covariance-model.xlsx).
 
+## The 72-hour Service Entry Force
+
+Pass 27 converts the dominant Pass 26 failure into a configured force requirement.
+
+1. The force has six independently originated cells: two upland, two air and two offshore. A cell, not a platform or route, is the minimum credited unit.
+2. Every cell carries 30 percent of every Pass 25 R1 public-service effect plus 12 percent independent-support overhead. The cell mass is 29,611.68 tonnes and the six-cell force is 177,670.08 tonnes.
+3. Four surviving cells provide 120 percent of every reference effect. All fifteen two-cell-loss cases close by hour 60 on a six-hour decision grid under the declared throughput assumptions.
+4. Upland cells start at hour 6 and complete by hour 30.37; air cells start at hour 18 and complete by hour 62.24; offshore cells start at hour 30 and complete by hour 65.19.
+5. The model's mass-to-effect relation depends on service-kernel packaging: every partial tranche must contain a balanced fraction of command, access, medicine, utilities, human services, communications and support.
+6. The two air cells imply 210 `SAC-120` aircraft carrying a 120-tonne average mission payload on a twelve-hour cycle. This exceeds the C-17's maximum payload benchmark and is therefore an X-plane program, not a derivative purchase.
+7. The offshore force implies eight `RSL-12` sea lifters, twelve `NPO-1100` no-pier systems and sustained 841.5 net tonnes/hour per cell. Current logistics-over-the-shore equipment is an analog, not the selected system.
+8. Six 195-MW/6,000-m³-day-equivalent micro-utility packages, autonomous handling and cargo, rapid inspection/release and sovereign degraded-mode mission command are coequal layers of the force.
+9. At 15-percent independent cell-loss probability, a six-cell architecture surviving two losses has 95.266-percent reliability. A 0.2-percent campaign common-mode allocation yields 95.076 percent. Both probabilities are unverified design allocations.
+10. The force contains 45,000 deployed cell personnel, 189,000 rotational cell billets and 249,000 total attributable billets after aviation, maritime, origin, depot, school, science and institutional support.
+11. The $376.9B capital subtotal plus 25-percent reserve yields $471.125B incremental and $844.565B with the Pass 25 baseline. Mature incremental operations are $70.706B/year; nested regional operations are $104.906B/year. These are planning hypotheses, not estimates.
+12. Ten evidence gates remain open. The next pass must decompose one cell into indivisible teams, equipment, consumables, service-kernel tranches and physical interfaces. The architecture remains `R2` with `R2+` arithmetic; rendering remains blocked.
+
+See [The 72-hour Service Entry Force](../force/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx).
+
 ## Material limitations and disagreements
 
 - The United States has no harmonized all-hazard ledger for loss, service interruption, displacement, mortality, response capacity, and spending.
@@ -473,6 +492,7 @@ See [Cascadia Network Covariance and Campaign Assurance](../campaigns/cascadia-n
 - Pass 24 closes all ten reference deployment chains only under assumed wave shares, modal assignments, payloads, cycles, activation times, node throughput, damage factors, route capacity, responder-base density and sustainment coefficients. The correlated-loss case is deterministic, not probabilistic; no site, vehicle, fleet, workforce, access agreement, capital estimate or service effect is validated.
 - Pass 25 closes the Cascadia campaign only under a deterministic set of sixty-four loads, twelve path profiles, eleven correlation groups, eleven service-effect families, base and sustainment coefficients, protected reverse and passenger capacities and depot rules. Its clean checks establish internal requirement consistency, not asset survival, throughput, causal public effect, legal release, workforce supply, cost or field performance. All twenty evidence gates and the rendering gate remain open.
 - Pass 26 uses a reproducible Gaussian-factor screen with 500 trials, four architectures, eleven path groups and five shared enablers. Its marginal probabilities, state thresholds, correlation coefficients, copy capacities, pooling rules, assurance target and cost deltas are design assumptions. The simple binomial interval excludes parameter uncertainty, and the common-minimum enabler model is deliberately conservative. Architecture ranking and thresholds must be replaced by fitted joint distributions and full-mission evidence before reliability credit.
+- Pass 27 closes all two-cell-loss cases only because it assumes uniform service-kernel mixing, declared activation times and constant net throughput. It does not close aircraft design, runway bearing, sea state, no-pier mechanics, utility physics, last-mile distribution, item manifests, clinical staffing, hazardous compatibility, industrial schedules or lifecycle effects. Its 15-percent cell-loss and 0.2-percent common-mode allocations are targets, not observations; its cost factors are planning assumptions. Ten evidence gates and rendering remain open.
 - Nuclear water–energy, purpose-built strategic mobility, heavy fire aviation, medical fleets, and resilience support carriers have consequential licensing, workforce, safety, industrial, and lifecycle questions that qualitative research cannot settle.
 - Pass 5 program quantities, costs, staffing, event probabilities, losses, addressability, and effectiveness are design-study assumptions. The workbook is not an independent cost estimate, official expected annual loss, forecast, or benefit-cost analysis.
 - The $2.24 trillion bottom-up result should be interpreted as evidence that current assumptions are mutually inconsistent with the $1 trillion reference—not as a finding that one exact appropriation is required.

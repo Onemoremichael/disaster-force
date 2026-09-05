@@ -48,6 +48,8 @@ The first regional test is Cascadia. Pass 25 arranged sixty-four mission-package
 
 Pass 26 then asked whether those paths remain independent when shared fuel, communications, workforce, authority, inspection and repair can fail. They do not. In a reproducible 500-trial screening model, the Pass 25 architecture closes 5.8 percent of cases; hardening alone reaches 21.4 percent; duplicated critical paths reach 48.0 percent; and a three-cell campaign mesh reaches 84.2 percent. None meets the deliberately demanding 95-percent assurance target. These are assumption-driven design results, not forecasts.
 
+Pass 27 turns that failure into a force. The 72-hour Service Entry Force has six independently originated cells—two upland, two air and two offshore—each carrying 30 percent of the complete first public-service package plus its own support. Any four cells deliver 120 percent of the reference effect. All fifteen two-cell-loss cases close by hour 60 in the deterministic model. The force requires 177,670 tonnes, 249,000 attributable billets, purpose-built heavy airlift, ready sea lift, no-pier transfer, autonomous service-kernel logistics and deployable utility islands. Its 95.076-percent design assurance is conditional on cell loss remaining at or below 15 percent and common-mode loss at or below 0.2 percent; those are research allocations, not observed rates.
+
 The emerging force-design principle is therefore:
 
 > The minimum unit of resilience force projection is an independently supportable campaign cell—not a platform, route or functional unit.
@@ -66,6 +68,7 @@ The repository is organized around the questions the research must answer.
 | Can it move into a broken region? | [Deployment and distribution enterprise](research/force/joint-deployment-and-distribution-enterprise.md) | Time-phased force closure from national inventory to public effect. |
 | Does the architecture survive a real campaign? | [Cascadia joint campaign](research/campaigns/cascadia-joint-resilience-campaign.md) | Item-level loads, paths, service islands, sustainment and return flow. |
 | Are those paths genuinely independent? | [Cascadia covariance and assurance](research/campaigns/cascadia-network-covariance-and-assurance.md) | Shared-dependency risk and the case for cellular force projection. |
+| What force closes the first 72 hours after losing any two entry formations? | [72-hour Service Entry Force](research/force/72-hour-service-entry-force.md) | Six complete cross-modal cells, service-kernel logistics, technology programs and assurance allocations. |
 | How are missing capabilities invented and proved? | [Technology frontier](research/innovation/technology-frontier.md) | Mission-science portfolios, rival pathways and evidence gates. |
 
 For the cumulative manuscript, read the [strategic study](research/synthesis/strategic-study.md). The [research atlas](research/README.md) opens the full derivation; the [model catalog](models/README.md) connects every quantitative workbook to the claim it tests; and the [evidence ledger](research/ledgers/evidence-ledger.md) shows what remains unknown.
@@ -108,7 +111,7 @@ That change in unit of analysis drives the industrial ambition. The objective is
 
 ## Scale without false precision
 
-The current integrated design frame reaches about **$12.05 trillion over 25 years** and **$858 billion in mature annual operations**. The deployment enterprise attributes about $4.744 trillion of that envelope to movement, reception and support. The Pass 25 Cascadia posture attributes $373.44 billion in regional capital and $34.2 billion in mature annual operations. The Pass 26 cellular assurance case would raise those regional attributions to $601.44 billion and $48.9 billion per year.
+The current integrated design frame reaches about **$12.05 trillion over 25 years** and **$858 billion in mature annual operations**. The deployment enterprise attributes about $4.744 trillion of that envelope to movement, reception and support. The Pass 25 Cascadia posture attributes $373.44 billion in regional capital and $34.2 billion in mature annual operations. Pass 27 supersedes the provisional Pass 26 assurance increment with a first configured 72-hour force: $471.125 billion incremental capital and $70.706 billion incremental annual operations, producing nested regional attributions of $844.565 billion and $104.906 billion per year.
 
 These figures are nested, not additive. They are editable scale hypotheses designed to reveal hidden requirements and contradictions. They are not cost estimates, budget requests or benefit-cost conclusions.
 

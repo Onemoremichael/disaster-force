@@ -1219,3 +1219,39 @@ The technology portfolio now includes sovereign containerized micro-utilities, m
 The cellular case carries a provisional $228B attributable capital delta and $14.7B mature annual operating delta. Added within the Pass 25 regional attribution, not to the Department total, it produces $601.44B and $48.9B/year. Fourteen evidence gates remain open.
 
 The campaign-assurance architecture advances to `R2` with `R2+` stochastic screening arithmetic. Marginal probabilities, correlations, copy capacities, pooling rules, target and costs remain assumptions. The model is reproducible and internally reconciled, with no spreadsheet error values; it is not calibrated risk analysis. Rendering remains blocked.
+
+## Pass 27 — The 72-hour Service Entry Force
+
+### Research question
+
+What standing, purpose-built force can deliver the complete Pass 25 first public-service package within 72 hours after losing any two entry formations?
+
+### Force-design decision
+
+The minimum operational unit becomes a complete Service Entry Cell. The reference force has six: Upland North, Upland South, Air North, Air South, Offshore North and Offshore South. Every cell carries 30 percent of all sixteen R1 modules plus 12 percent independent-support overhead. The resulting cell is 29,611.68 tonnes; the six-cell force is 177,670.08 tonnes. Any four surviving cells provide 120 percent of every reference effect.
+
+The key enabling concept is the service kernel. Cargo, teams, data and authority are mixed into repeatable tranches so partial delivery produces a balanced fraction of command, access, medicine, basing, water, power, sanitation, food, shelter, communications, hazard control and fuel. Without this property, mass arrival cannot stand in for public-service closure.
+
+### Movement and assurance result
+
+Upland cells start at hour 6 and complete at hour 30.37 under 1,215 net tonnes/hour. Air cells start at hour 18 and complete at hour 62.24 under 669.375 net tonnes/hour. Offshore cells start at hour 30 and complete at hour 65.19 under 841.5 net tonnes/hour.
+
+All fifteen two-cell-loss cases close the complete service package by hour 60 on a six-hour grid. Losing both offshore cells closes by hour 48; losing both air cells or one air and one offshore cell closes by hour 54; cases involving an upland loss close by hour 60.
+
+For six independent cells with closure after no more than two losses, a 15-percent per-cell loss allocation produces 95.266-percent cell-architecture reliability. A 0.2-percent campaign common-mode allocation reduces this to 95.076 percent. These are normative allocations. No empirical distribution yet supports them.
+
+### Technology and industrial decision
+
+The force requires seven functional system classes: a `SAC-120` strategic-to-austere cargo aircraft; `RSL-12` ready sea lifter; `NPO-1100` no-pier chain; `DHC-1500` distributed handling system; `ARE-18` reconnaissance, repair and release package; autonomous service-kernel cargo; and a cell-scale deployable micro-utility complex. They are problem statements with performance points and demonstrators, not selected geometries.
+
+Government owns the effect ontology, payload interfaces, mission data, evidence schema and reference missions. Multiple primes compete on implementations. Public depots, independent test, long-horizon readiness contracts and allied production rights are part of the operating architecture because industrial concentration creates campaign covariance.
+
+### Workforce, finance and maturity
+
+Each deployed cell contains 7,500 people. Six cells total 45,000 deployed; a 4.2 rotational factor produces 189,000 cell-force billets. Adding aviation, maritime, origins, depots, schools, science and institutional support yields 249,000 attributable billets.
+
+The capital subtotal is $376.9B. A 25-percent pre-reference-design reserve produces $471.125B incremental and $844.565B including the Pass 25 regional baseline. Mature incremental operations are $70.706B/year and the nested regional total is $104.906B/year. Pass 27 supersedes the provisional Pass 26 assurance delta.
+
+The 22-sheet workbook was rendered in full and visually inspected. Thirteen checks resolve as intended: eleven model-integrity and closure checks pass, while evidence and rendering states remain open. The final formula-error scan returned zero matches.
+
+The architecture advances to `R2` with `R2+` first-order mass, timing, reliability-allocation, workforce and finance arithmetic. Ten empirical gates remain open. The next pass should decompose a single cell into configuration-controlled service-kernel tranches and physical interfaces. No rendering is authorized.
