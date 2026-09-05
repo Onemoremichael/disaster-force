@@ -1970,3 +1970,35 @@ The 17-sheet workbook includes the fixed algorithm, factor ranges, all 132 loadi
 These operator hashes do not create independent custody. Architecture execution remains prohibited until a second implementation reproduces topology, identities, values and hashes; governed population and building inputs are acquired; observed service territories replace or independently justify the borough proxy; causal-feasibility and alternative-dependence cases are registered; salted holdouts enter external custody; and the complete package receives disability-led, rights, safety, statistical, privacy, labor and technical review.
 
 No architecture response, campaign result or occurrence probability is produced. No `NCAC` evidence gate advances. The generator creates an institutional requirement instead: a mature Department of Resilience needs an experimental-world authority capable of maintaining adversarial, reproducible joint stress spaces independently of the program offices whose designs they test. No rendering is authorized.
+
+## Pass 44 — New York `L0` population and building input registration
+
+### Research question
+
+What can official public demographic, housing, building and medical-power records legitimately establish beneath the twelve registered New York worlds—and what joint operational state must remain empty before a governed synthetic-population method exists?
+
+### Observation design
+
+Registration `DF-NYC-L0-PR44-INPUTS-v1` preserves the 87 topology-audited tracts and acquires 156 selected estimate cells from seventeen 2020–2024 ACS tables, together with every corresponding published 90-percent margin of error. The official source snapshot contains 36 hashed records totaling 744,480,517 bytes: seventeen group metadata files, eight New York tract variance-replicate archives, nine table-based national summary files and two HHS emPOWER county-service records.
+
+The selected cells generate 3,306 long-form tract metrics and 456 catchment metrics across age, disability, household composition, vehicle access, limited-English households, housing occupancy and structure, electric heating and group quarters. Eight ACS tables supply eighty variance replicates. Component sums, multi-tract aggregates and ratios from those tables retain covariance using the Census replicate method. Nine tables have no published tract replicate file and disclose RSS margin-of-error approximations. No selected estimate, margin or replicate contains an annotation or sentinel value.
+
+The exact 2020 selection population remains 414,234; the 2020–2024 ACS estimates sum to 403,320. Catchment differences range from −17.4 to +9.4 percent and are recorded as denominator conflicts, not population change. PLUTO residential units and ACS housing units differ by −15.0 to +25.2 percent at catchment level; the model identifies the concept/vintage mismatch rather than treating it as a trend.
+
+The live HHS emPOWER county layer contains 1,462,021 Medicare beneficiaries across the five counties, 36,295 with included power-dependent device/DME claims and 12,382 with an included health service plus any DME. Those values remain county context: program coverage is incomplete relative to all at-risk residents, geography does not match the tracts, and no proportional allocation is authorized.
+
+### Finding: margins are not an operational population
+
+Reference point estimates span 10.5–26.3 percent age 65+, 5.6–19.7 percent any disability, 29.9–85.9 percent no-vehicle households, 1.2–50.4 percent limited-English households and 12.4–67.8 percent occupied units in structures with at least fifty units. Inherited building proxies span 0.1–75.8 percent high-rise residential units, 3.8–19.3 unit-weighted mean floors and 68–497 active elevator-device records.
+
+The heterogeneity validates the adversarial reference design but cannot be converted into independent demand multipliers. Age, disability, language, vehicles, caregivers, medical power, unit, floor, elevator, pump, cooling and thermal state bind within people, households and buildings. ACS tables publish margins rather than joint household–building records. PUMS donors resolve to PUMA rather than tract. Administrative building records establish neither occupancy nor incident operability.
+
+The pass therefore registers an empty person–household–building contract. Seventeen fields define the minimum future entities, bindings, evidence sources and non-invention rules. Every field remains `EMPTY`; all architecture rows remain empty. Population synthesis now requires its own pre-outcome registration covering denominator authority, donor geography, marginal and joint diagnostics, protected-data coverage, operational building feasibility, ensemble construction, privacy, disclosure, rejection and independent reconstruction.
+
+### Institutional and technology consequence
+
+The evidence gap is a force requirement. A mature Department needs a privacy-preserving resilience population compiler, disconnected civil continuity ledger, building-systems observatory, instrumented heat-blackout archetype program, prepared-building service adapter and representative vertical-logistics trials. These are coequal science, data and mission-engineering programs—not software accessories to a vehicle fleet.
+
+The 18-sheet workbook contains the catchment dashboard, all tract and catchment metrics, building proxy surfaces, denominator audit, immutable source manifest, variable dictionary, HHS context, synthetic-state contract, validation gates, missingness and reliability ledgers, sources and twelve formula-backed integrity controls. Every control displays `PASS`; twenty-five formulas contain no detected `#REF!`, `#DIV/0!`, `#VALUE!`, `#NAME?`, `#N/A`, `#NUM!`, `#NULL!`, `#SPILL!` or `#CALC!` error; every sheet is rendered and visually inspected; and the archive passes structural validation.
+
+The workbook binary SHA-256 is `c6326024d523169a53f912cf0a62ed57e9c8cb30e0a7e7b14a3a1cac3353c268`. Independent reproduction, synthetic-state governance, operational building evidence, service territories, causal feasibility, alternate dependence cases and external custody remain open. No `NCAC` evidence gate advances and no rendering is authorized.
