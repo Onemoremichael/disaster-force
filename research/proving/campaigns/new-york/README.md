@@ -73,7 +73,7 @@ The architectures are copied from Pass 37 without New York tuning.
 
 Selection must finish before either architecture produces an outcome.
 
-The [Pass 39 `L0` rehearsal](new-york-l0-catchment-rehearsal.md) implements this sequence against seven frozen official extracts. It exposes 844 polygon-connected candidate groups, twelve provisional references and three rehearsal commitments in the [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx). The [Pass 41 correction](new-york-l0-street-topology-audit.md) produces 847 street-connected candidates and preserves every selected composition in the [topology workbook](../../../models/nyc-l0-street-topology-audit.xlsx). These are not the formal freeze: independent reproduction, canonical-method registration and salted holdout custody remain required.
+The [Pass 39 `L0` rehearsal](l0-catchment-rehearsal.md) implements this sequence against seven frozen official extracts. It exposes 844 polygon-connected candidate groups, twelve provisional references and three rehearsal commitments in the [selection workbook](../../../../models/nyc-l0-catchment-selection.xlsx). The [Pass 41 correction](l0-street-topology-audit.md) produces 847 street-connected candidates and preserves every selected composition in the [topology workbook](../../../../models/nyc-l0-street-topology-audit.xlsx). The [Pass 42 empty registration](l0-empty-outcome-registration.md) fixes 12,000 world identities, 24,000 architecture rows and 2,000 campaign aggregates before an outcome exists. These are not the formal freeze: independent reproduction, governed demographic completion, generator registration and salted holdout custody remain required.
 
 1. Freeze every official source file, schema, retrieval time, row count and SHA-256 digest.
 2. Limit eligibility to land tracts with residential population and a connected local-street component. Marine-only islands remain a declared exclusion stratum rather than disappearing from the record.
@@ -103,7 +103,7 @@ Five conditions co-govern advancement:
 - `H1`: `S3 – A2` complete-rule success is at least fifteen percentage points overall and positive in every archetype.
 - `H2`: `S3` succeeds in at least 80 percent of the declared broad worlds in each archetype.
 - `H3`: every reference catchment reaches 100 percent authoritative household disposition by hour 36 and at least 95 percent high-risk contact by hour 18.
-- `H4`: every reference catchment reaches at least 95 percent total safe-service closure and at least 95 percent mandatory-movement destination admission by hour 72.
+- `H4`: every twelve-catchment campaign replicate reaches at least 95 percent population-weighted safe-service closure and 95 percent aggregate mandatory-movement destination admission by hour 72, with no catchment below 90 percent safe service.
 - `H5`: `S3` causes no attributable rights or safety sentinel event and is not worse than `A2` on timed exception queues.
 
 `H6` is a separate readiness condition: the candidate retains at least 80 percent of its next-24-hour capacity at hour 168, measured as the minimum of qualified people, mission-capable equipment, utility capability, essential stocks and reconcilable records.
@@ -131,20 +131,21 @@ Each of twelve reference catchments receives 1,000 Latin-hypercube worlds shared
 
 The dependence rules matter more than the marginal ranges. Independently drawing grid, elevator, pump, communications and cooling availability would manufacture diversification that the physical system does not possess. The analysis must publish the target rank-correlation matrix, achieved matrix and rejected draws. It must also repeat the primary comparison across a set of prespecified alternative dependence strengths. Those runs test structural sensitivity; they do not acquire confirmatory status by producing a preferred answer.
 
-## Complete campaign success rule
+## Connected catchment and campaign success rules
 
-A world succeeds only if all eight conditions hold:
+Amendment `DF-NYC-HB-PR42-A1` corrects a pre-outcome level ambiguity. A catchment–world succeeds only if all seven conditions hold:
 
 | Requirement | Threshold |
 | --- | ---: |
 | authoritative household disposition | 100% by hour 36 |
 | high-risk household contact | 95% by hour 18 |
-| total safe-service closure | 95% by hour 72 |
+| catchment safe-service closure | 90% by hour 72 |
 | mandatory-movement admission | 95% by hour 72 |
-| worst-reference-catchment closure | 90% by hour 72 |
 | mean unsafe indoor exposure | no more than 18 hours/person |
 | next-mission capacity | at least 80% at hour 168 |
 | rights and safety sentinels | zero attributable events |
+
+A campaign replicate then succeeds only if all twelve catchment rows are present and admissible, the population-weighted safe-service share is at least 95 percent, aggregate mandatory-movement admission is at least 95 percent, no catchment falls below 90 percent safe service and every non-aggregate catchment gate passes. The 95 percent aggregate requirement prevents the force from treating 90 percent service everywhere as success; the 90 percent floor prevents the aggregate from being achieved by sacrificing one place.
 
 An authoritative household disposition is verified service, documented refusal, not-found status after the declared escalation process, or lawful inaccessibility with independent review. Silence is not disposition. A mandatory movement counts only after named destination acceptance. Rights sentinels include attributable death or serious injury, coercive movement, household separation, material privacy breach and arrival without the promised service.
 
@@ -156,7 +157,7 @@ For `H1`, calculate the paired binary complete-rule difference for every catchme
 
 For `H2`, calculate `S3` success within each catchment and archetype. Report the raw design-space share and a catchment-resampled lower interval. `H2` fails if any archetype's raw share is below 0.80. Because the worlds are a declared design space rather than probability-weighted forecasts, this is a coverage measure, not an expected reliability estimate.
 
-For `H3` and `H4`, analyze record-level service clocks and publish the full catchment distribution. Every reference catchment must pass. Missing records remain in the denominator unless their disposition is resolved under the prespecified lawful-inaccessibility process.
+For `H3`, analyze record-level service clocks and publish the full catchment distribution; every disclosed reference catchment must pass its household and contact gates. For `H4`, aggregate only after all twelve catchment rows in the replicate reach an admissible locked state, then evaluate population-weighted service, mandatory admission and the worst-catchment floor. Missing records remain in the denominator unless their disposition is resolved under the prespecified lawful-inaccessibility process.
 
 For `H5`, a separate authority adjudicates sentinel events without access to sponsor preference. A zero-tolerance event blocks advancement. Timed accessibility, consent and household-continuity exceptions are compared as queues: incidence, age, remedy and unresolved burden at each six-hour boundary.
 
@@ -194,8 +195,8 @@ The campaign also reveals a new form of national power. In a vertical heat black
 
 ## Evidence status and next decision
 
-The operator source acquisition, first data-pipeline rehearsal and street-topology correction are complete. Twelve named provisional catchments now focus field-validation planning, but `L0` remains open because independent reproduction, demographic enrichment, salted holdout custody and empty outcome-table registration are unfinished. The protocol does not close any of the twenty `NCAC` evidence gates. Observed building conditions, clinical thresholds, representative field rates, utility one-lines, cyber and spectrum authority, labor doctrine, independent costs and full-mission evidence remain open.
+The operator source acquisition, first data-pipeline rehearsal, street-topology correction and empty outcome-table registration are complete. Twelve named provisional catchments now focus field-validation planning, but `L0` remains open because independent reproduction, demographic enrichment, world-generator and dependence registration, and salted holdout custody are unfinished. The protocol does not close any of the twenty `NCAC` evidence gates. Observed building conditions, clinical thresholds, representative field rates, utility one-lines, cyber and spectrum authority, labor doctrine, independent costs and full-mission evidence remain open.
 
-The companion [NCAC full-mission test program](../test-enterprise/ncac-full-mission-test-program.md) defines how those gaps become a twelve-year evidence enterprise. The [protocol workbook](../../../models/ncac-vertical-city-replication-test-protocol.xlsx) contains the frozen architectures, hypotheses, design space, success rules, sample-size screens, reliability logic, cost build, annual profile, sources and checks. The [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) contains the operator evidence surface and deliberately open `L0` controls.
+The companion [NCAC full-mission test program](../../test-enterprise/ncac-full-mission-test-program.md) defines how those gaps become a twelve-year evidence enterprise. The [protocol workbook](../../../../models/ncac-vertical-city-replication-test-protocol.xlsx) contains the frozen architectures, hypotheses, design space, success rules, sample-size screens, reliability logic, cost build, annual profile, sources and checks. The [selection workbook](../../../../models/nyc-l0-catchment-selection.xlsx) contains the operator evidence surface and deliberately open `L0` controls; the [empty outcome registry](../../../../models/nyc-l0-empty-outcome-registry.xlsx) binds the complete result surface before execution.
 
 No vehicle, site or formation rendering is authorized.

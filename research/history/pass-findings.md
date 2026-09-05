@@ -426,7 +426,7 @@ Pass 25 asks what the Department must actually do when the aggregate deployment 
 11. The attributable regional capital hypothesis is $373.44B including reserve, with $34.2B in mature annual operations. Both are nested in the prior Department and deployment-enterprise work breakdowns rather than added to them.
 12. Arithmetic closure is not validation. Scenario demand, asset and path covariance, every transport rate, service effect, base, workforce, authority, cost and technology threshold remain open. The next research step is an asset-level probabilistic network and representative full-mission trial program. Rendering remains blocked.
 
-See the [Cascadia Joint Resilience Campaign](../proving/campaigns/cascadia-joint-resilience-campaign.md) and editable [Cascadia campaign workbook](../../models/cascadia-campaign-model.xlsx).
+See the [Cascadia Joint Resilience Campaign](../proving/campaigns/cascadia/README.md) and editable [Cascadia campaign workbook](../../models/cascadia-campaign-model.xlsx).
 
 ## Cascadia network covariance and campaign assurance
 
@@ -445,7 +445,7 @@ Pass 26 asks whether the paths that closed deterministically in Pass 25 remain i
 11. Fourteen evidence gates require asset-level dependency data, fitted joint damage/recovery distributions, representative cells, seeded common-mode losses, complete Cascadia trials, unfamiliar global replication, independent cost and civil selection of a residual-risk target.
 12. The model remains an `R2+` stochastic screen. It reveals a contradiction and a test program; it does not forecast Cascadia performance or authorize renderings.
 
-See [Cascadia Network Covariance and Campaign Assurance](../proving/campaigns/cascadia-network-covariance-and-assurance.md) and the editable [covariance workbook](../../models/cascadia-covariance-model.xlsx).
+See [Cascadia Network Covariance and Campaign Assurance](../proving/campaigns/cascadia/covariance-assurance.md) and the editable [covariance workbook](../../models/cascadia-covariance-model.xlsx).
 
 ## The 72-hour Service Entry Force
 

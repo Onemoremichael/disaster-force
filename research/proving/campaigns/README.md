@@ -23,13 +23,13 @@ independent geography chosen before New York is interpreted
 
 ## The active chain
 
-The [Cascadia Joint Resilience Campaign](cascadia-joint-resilience-campaign.md) is the first item-level regional closure study. Its apparent success is deliberately attacked by [Cascadia network covariance and assurance](cascadia-network-covariance-and-assurance.md), which shows that nominally different routes can share decisive dependencies.
+The [Cascadia dossier](cascadia/README.md) is the first item-level regional closure study. Its apparent success is deliberately attacked by its [covariance and assurance study](cascadia/covariance-assurance.md), which shows that nominally different routes can share decisive dependencies.
 
-The [Harris County continuity and selective-mobility campaign](harris-county-continuity-and-selective-mobility-campaign.md) then moves from regional logistics to a coupled metropolitan service problem. It joins 1,111 tracts, a corrected road graph, flood exposure, local protection, collection, transfer, line haul, destination admission and return. Its strongest rival wins every paired world but passes the complete rule in only 55.3 percent. That failure defines the Neighborhood Continuity and Access Cell requirement; it does not validate an architecture.
+The [Harris County dossier](harris-county/README.md) then moves from regional logistics to a coupled metropolitan service problem. It joins 1,111 tracts, a corrected road graph, flood exposure, local protection, collection, transfer, line haul, destination admission and return. Its strongest rival wins every paired world but passes the complete rule in only 55.3 percent. That failure defines the Neighborhood Continuity and Access Cell requirement; it does not validate an architecture.
 
-The [New York vertical heat-blackout protocol](new-york-vertical-heat-blackout-replication-protocol.md) changes the mechanism again. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. The `A2` conventional reference and `S3` technology target remain frozen, and no architecture outcome exists.
+The [New York dossier](new-york/README.md) changes the mechanism again. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. The `A2` conventional reference and `S3` technology target remain frozen, and no architecture outcome exists.
 
-Pass 39's [New York `L0` catchment rehearsal](new-york-l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. Pass 41's [street-topology audit](new-york-l0-street-topology-audit.md) replaces polygon contact with official `LION 26b` endpoint and relative-level topology. The corrected universe contains 847 candidates; all twelve references and all three commitments survive three declared graph screens. Formal freeze still waits for independent reproduction, demographic completion, salted external custody and empty-table registration.
+Pass 39's [`L0` catchment rehearsal](new-york/l0-catchment-rehearsal.md) builds the first outcome-blind city evidence surface: 844 candidates, twelve provisional references and three rehearsal commitments. Pass 41's [street-topology audit](new-york/l0-street-topology-audit.md) replaces polygon contact with official `LION 26b` endpoint and relative-level topology. Pass 42's [empty outcome registration](new-york/l0-empty-outcome-registration.md) separates catchment and campaign decision levels and binds the entire row universe. Formal freeze still waits for independent reproduction, demographic completion, generator and dependence registration, salted external custody and countersignature.
 
 ## What a campaign owns
 
@@ -46,6 +46,6 @@ Capability studies own component physics. Force studies own formation design and
 
 ## Current decision
 
-Do not run the New York architecture contest yet. The operator topology correction is complete; independent reproduction must now challenge it. Salted holdout custody, demographic enrichment and empty outcome-table registration must also close first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
+Do not run the New York architecture contest yet. The operator topology correction and empty-table registration are complete; independent reproduction must now challenge them. Salted holdout custody, governed demographic enrichment, generator registration and external countersignature must also close first. Those controls are part of the force's evidence architecture, not paperwork after the design is chosen.
 
 No campaign has admitted a national formation or authorized a rendering.

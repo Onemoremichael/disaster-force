@@ -40,7 +40,7 @@ The central finding is therefore:
 
 ### Pass 25 continuation
 
-The [Cascadia Joint Resilience Campaign](../../proving/campaigns/cascadia-joint-resilience-campaign.md) now executes the item-level study proposed below. It replaces the single correlated-loss scalar with nine service islands, eight safe-zone or afloat origins, twelve paths in eleven correlation groups, sixty-four mission-package records, responder bases, ninety-day sustainment, protected reverse and people flow, and reconstitution. The declared stress architecture closes all four waves and forty-four service rows, while exposing a day-3 south-air handling threshold and twenty still-open evidence gates. This does not validate Pass 24; it turns its failure into configuration and test requirements.
+The [Cascadia Joint Resilience Campaign](../../proving/campaigns/cascadia/README.md) now executes the item-level study proposed below. It replaces the single correlated-loss scalar with nine service islands, eight safe-zone or afloat origins, twelve paths in eleven correlation groups, sixty-four mission-package records, responder bases, ninety-day sustainment, protected reverse and people flow, and reconstitution. The declared stress architecture closes all four waves and forty-four service rows, while exposing a day-3 south-air handling threshold and twenty still-open evidence gates. This does not validate Pass 24; it turns its failure into configuration and test requirements.
 
 ## 1. The object being designed
 

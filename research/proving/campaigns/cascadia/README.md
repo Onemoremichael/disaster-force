@@ -14,7 +14,7 @@ This distinction changes the force. A force designed around intact interstate hi
 
 Pass 24 found that the national deployment enterprise could close all ten reference campaigns under its declared base assumptions, but that a correlated primary-path loss reduced the Cascadia and allied coastal-megacity chains to `0.765×`. More long-range lift did not repair the failure. Reception, responder support and sustainment failed together.
 
-This study replaces that aggregate screen with an item-level Cascadia campaign. The linked [Cascadia campaign model](../../../models/cascadia-campaign-model.xlsx) resolves:
+This study replaces that aggregate screen with an item-level Cascadia campaign. The linked [Cascadia campaign model](../../../../models/cascadia-campaign-model.xlsx) resolves:
 
 - nine service islands;
 - eight safe-zone or afloat origin complexes;
@@ -358,7 +358,7 @@ The campaign architecture should be falsified in this order:
 
 ### Pass 26 assurance finding
 
-The linked [Cascadia network covariance and assurance study](cascadia-network-covariance-and-assurance.md) completes the first item on that continuation path. It replaces nominal correlation-group counting with a fixed-seed stochastic screen across path copies, system and mode-family shocks, and five shared enablers: fuel and energy, communications, qualified workforce, civil and technical authority, and repair/inspection.
+The linked [Cascadia network covariance and assurance study](covariance-assurance.md) completes the first item on that continuation path. It replaces nominal correlation-group counting with a fixed-seed stochastic screen across path copies, system and mode-family shocks, and five shared enablers: fuel and energy, communications, qualified workforce, civil and technical authority, and repair/inspection.
 
 Under its declared assumptions, this paper's reference architecture closes only 5.8 percent of trials. Hardening without topological change reaches 21.4 percent; two separately supported copies reach 48.0 percent; and a three-cell campaign mesh reaches 84.2 percent. None meets the 95-percent design-assurance target. These are not forecast probabilities. They supersede only the inference that deterministic closure and named correlation groups were enough to demonstrate path independence.
 
