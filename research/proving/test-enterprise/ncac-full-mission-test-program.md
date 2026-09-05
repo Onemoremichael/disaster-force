@@ -53,7 +53,7 @@ The synthetic population generator must preserve household binding, high-risk fl
 
 `L0` ends only when an independent team can rebuild the same catchments, design matrix and empty outcome tables from the frozen records. Reproduction after outcomes is insufficient because the architecture could already have influenced selection.
 
-Pass 39 completed the first operator rehearsal against seven official extracts. It produced 844 population-bounded candidates, twelve disclosed provisional references and three commitment hashes, but it also found that tract-polygon adjacency does not satisfy the registered local-street test and that deterministic unsalted commitments are inferable from the public universe. The [rehearsal audit](../campaigns/new-york-l0-catchment-rehearsal.md) therefore keeps `L0` open pending street topology, independent reproduction, demographic enrichment, empty outcome tables and external salted custody. The [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) is an auditable operator artifact, not an admission record.
+Pass 39 completed the first operator rehearsal against seven official extracts. It produced 844 population-bounded candidates, twelve disclosed provisional references and three commitment hashes, but it also found that tract-polygon adjacency did not satisfy the registered local-street test and that deterministic unsalted commitments are inferable from the public universe. Pass 41's [street-topology audit](../campaigns/new-york-l0-street-topology-audit.md) now reconstructs the universe from official `LION 26b` node-and-level topology. It produces 847 candidates and preserves all twelve references and three commitments under primary, strict and permissive screens. `L0` remains open for independent reproduction, demographic enrichment, empty outcome tables and external salted custody. The [selection workbook](../../../models/nyc-l0-catchment-selection.xlsx) and [topology workbook](../../../models/nyc-l0-street-topology-audit.xlsx) are auditable operator artifacts, not admission records.
 
 ## `L1`: element and human-system trials
 
@@ -190,7 +190,7 @@ The program should publish both the nominal trial count and an effective-replica
 
 ## `L5`: metropolitan replication
 
-The New York protocol runs in parallel with late integration and tests whether the architecture's advantages survive a vertical heat blackout. Its operator rehearsal produces twelve provisional references and three commitment hashes; they can prevent a favorable district from standing in for a city only after street-topology audit, independent reproduction and salted external custody. Twenty-four thousand paired architecture-world rows will test the declared design space after `L0` closes.
+The New York protocol runs in parallel with late integration and tests whether the architecture's advantages survive a vertical heat blackout. Its operator rehearsal produces twelve provisional references and three commitment hashes; the street-topology correction preserves them but does not make them independent or secret. They can prevent a favorable district from standing in for a city only after independent reproduction and salted external custody. Twenty-four thousand paired architecture-world rows will test the declared design space after `L0` closes.
 
 A campaign pass does not replace `L4`, and `L4` does not replace the campaign. The former tests geographic portability in a model with governed source data. The latter tests complete physical and human mission performance. National admission requires both and then an independent third-metropolitan replication whose hazard and built form are chosen before New York outcomes are interpreted.
 
@@ -255,7 +255,7 @@ The discipline is equally important. Ambition does not mean giving speculative t
 
 ## Current decision
 
-Continue `L0` through the street-topology audit, independent reproduction, salted holdout custody and empty-table registration. Authorize preliminary range requirements, independent safety and rights governance, and detailed designs for the five `L1` experiments, but do not use `L1` observations to repair geography. Do not authorize full range construction until the source, participation, safety and cost bases receive independent review. Do not select `S3`, scale `NCAC-35` nationally or turn numerical parameters into procurement requirements.
+Continue `L0` through independent reproduction of the completed operator topology audit, salted holdout custody, demographic enrichment and empty-table registration. Authorize preliminary range requirements, independent safety and rights governance, and detailed designs for the five `L1` experiments, but do not use `L1` observations to repair geography. Do not authorize full range construction until the source, participation, safety and cost bases receive independent review. Do not select `S3`, scale `NCAC-35` nationally or turn numerical parameters into procurement requirements.
 
 The companion [New York replication protocol](../campaigns/new-york-vertical-heat-blackout-replication-protocol.md) owns the campaign falsification. The [protocol and program workbook](../../../models/ncac-vertical-city-replication-test-protocol.xlsx) owns the executable assumptions, calculations, annual profile and integrity checks.
 

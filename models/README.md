@@ -19,7 +19,7 @@ OCCUPIED DISTRICT → RECEIVING GEOGRAPHY → CIVIL MOBILITY
       ↓                                      ↓
 LOCAL PROTECTION ───────────────────────→ NCAC-35
                                              ↓
-                              NEW YORK PREREGISTRATION + L0
+                        NEW YORK PREREGISTRATION → L0 → STREET AUDIT
 ```
 
 Later workbooks often supersede one conclusion while retaining the earlier model as a lower bound, sensitivity surface or lineage record. Budgets are not automatically additive: several studies allocate or deepen capacity already carried by a parent force.
@@ -50,6 +50,7 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | [Neighborhood Continuity and Access Cell](neighborhood-continuity-access-cell-model.xlsx) | Formation that owns household contact, building access, local service and selective movement | Conventional `A2` closes nine of ten required cases but only 79.6% household verification under communications loss; `S3` depends on unproved technology. [Analysis](../research/force/mobility/neighborhood-continuity-and-access-cell.md) |
 | [Vertical-city replication protocol](ncac-vertical-city-replication-test-protocol.xlsx) | Preregistered `A2` versus `S3` falsification and test program | Declares 24,000 architecture-world rows, hypotheses and evidence ladder with no campaign outcomes. [Protocol](../research/proving/campaigns/new-york-vertical-heat-blackout-replication-protocol.md) |
 | [New York `L0` selection](nyc-l0-catchment-selection.xlsx) | Outcome-blind metropolitan candidate construction | Rehearsal produces 844 candidates and provisional references, then keeps `L0` open for topology, covariates, custody and reproduction. [Audit](../research/proving/campaigns/new-york-l0-catchment-rehearsal.md) |
+| [New York `L0` street topology](nyc-l0-street-topology-audit.xlsx) | Official node-and-level correction of the catchment adjacency rule | `LION 26b` yields 126,779 canonical edges, 7,129 tract pairs and 847 candidates; all twelve references and three commitments survive primary, strict and permissive screens. Formal freeze still awaits reproduction, covariates, custody and empty tables. [Audit](../research/proving/campaigns/new-york-l0-street-topology-audit.md) |
 
 ## Utility and hazard-control systems
 
