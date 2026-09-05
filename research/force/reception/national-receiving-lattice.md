@@ -2,6 +2,8 @@
 
 ## A fixed–mobile force for service entry after catastrophe
 
+> **Geography note — Pass 32:** this paper remains authoritative for receiver classes, fixed/mobile division and lattice assurance. [National Receiving Geography](national-receiving-geography.md) supersedes its equal-region allocation screen with thirty-two population-weighted catchments and corrects “receiver transfer” to lawful population relocation into surviving receivers.
+
 The Department of Resilience cannot solve national disaster response by making every useful thing mobile. Nor can it count whatever buildings, warehouses, parking lots, hospitals, utilities and local staff happen to survive as free capacity. Both approaches hide the same failure: the force is sized at its origin while the public effect depends on a receiving system at the destination.
 
 The **National Receiving Lattice (NRL)** is the permanent force that closes that gap. It is a continental and partner network of land, structures, utility interfaces, protected stocks, records, trained people, civil authority and alternate access. Its purpose is to convert arriving service formations into safe, lawful public service before their deadlines. It is not a registry of possible sites. It is generated, inspected, exercised and replaced as operational capacity.
@@ -280,13 +282,13 @@ Third, deny national closure credit. The clustered damaged-region case fails by 
 
 Fourth, create the profession and industrial base early. Readiness comes from maintained records, inspection, interfaces, stock rotation, exercises, labor and independent authority. Those systems cannot be added after concrete is poured.
 
-The next pass should replace the synthetic sixteen-region topology with a population-weighted, multimodal, multi-hazard network. It should produce candidate catchments without naming preferred parcels, preserve correlated hazard and infrastructure failures, calculate travel-time distributions, and compare local density with receiver transfer. In parallel, representative `RRC`, `DPS` and `BAN` reference designs should close structure, utilities, occupancy, maintenance and lifecycle accounts far enough to support—not yet authorize—the first explanatory renderings.
+Pass 32 performs the first population-weighted, multimodal allocation screen in [National Receiving Geography](national-receiving-geography.md). It finds that only 2,355.80 CDE survive against 2,500 demanded and that baseline corridors serve 2,066.42 CDE. The next pass must replace screening paths with actual networks, add population subgroup and accessibility demand, and fit joint receiver/route damage. In parallel, representative `RRC`, `DPS` and `BAN` reference designs should close structure, utilities, occupancy, maintenance and lifecycle accounts.
 
 The NRL remains `R1/R2` with `R2+` arithmetic. All eighteen evidence gates remain open. No receiver, building conversion, vehicle or formation is authorized for rendering.
 
 ## Model
 
-The companion [National Receiving Lattice model](../../models/national-receiving-lattice-model.xlsx) contains the service contract, four site classes, national inventory, eight-cell assurance structure, common-mode ladder, sixteen-region synthetic topology, spatial stress tests, fixed/mobile division, pod timing, partner layer, activation and inspection systems, building and utility passports, local stocks, workforce, industrial capacity, capital and twenty-five-year operations, rival architectures, technology programs, evidence gates, sources and checks.
+The companion [National Receiving Lattice model](../../../models/national-receiving-lattice-model.xlsx) contains the service contract, four site classes, national inventory, eight-cell assurance structure, common-mode ladder, sixteen-region synthetic topology, spatial stress tests, fixed/mobile division, pod timing, partner layer, activation and inspection systems, building and utility passports, local stocks, workforce, industrial capacity, capital and twenty-five-year operations, rival architectures, technology programs, evidence gates, sources and checks.
 
 All seventeen integrity and decision checks pass, including the intentionally adverse clustered-demand check. The exported workbook was reopened, inspected across the principal decision ranges, scanned for spreadsheet errors and rendered on all twenty-seven sheets. Independent arithmetic reproduces assured capacity, mobile district mass, pod mass, movement time, clustered capacity, dense-lattice scaling and program expenditure.
 
