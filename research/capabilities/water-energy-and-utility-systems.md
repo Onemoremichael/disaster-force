@@ -110,7 +110,7 @@ The acquisition unit is **delivered m³/day over a stated route profile**, not k
 
 Variants provide lift-station bypass, sewer isolation, modular biological treatment, disinfection, sludge dewatering, medical-waste interfaces and concentrate management. Water and wastewater formations deploy together unless an assessed local system can accept the load.
 
-## Nuclear water–energy platforms
+## Nuclear water–energy systems
 
 ### Technical feasibility
 
@@ -129,15 +129,15 @@ The operational concept must therefore use **pre-licensed operating envelopes an
 - tug, salvage and storm-escape plans; and
 - conventional backup capable of safe shutdown and continued critical water service.
 
-### N-WEP: Nuclear Water–Energy Platform
+### N-WES: Nuclear Water–Energy System
 
 **Role:** an enduring strategic reserve and global stabilization base, not first-wave entry.
 
 **Initial concept band:** 100–300 MWe net export capability; 50,000–250,000 m³/day configurable water output; independent hospital, command, communications, workshops, aviation/boat support and crew accommodation; multiple shore connection points.
 
-**Preferred architecture:** purpose-built floating power and process platform or ship, with physical separation between the nuclear island, public water train, hospital and cargo functions. Separation prevents one contamination, maintenance or licensing boundary from disabling the entire mission.
+**Preferred architecture:** a segmented strategic utility flotilla, with physical and institutional separation among the nuclear energy core, public-water process, shore interface, utility corridor and support formation. Separation prevents one contamination, maintenance or licensing boundary from disabling the entire mission and allows the water and distribution system to accept non-nuclear power.
 
-**Design question:** whether propulsion and process power should share one reactor system. Shared propulsion improves mobility but complicates certification, maintenance and port operation. A towable or self-propelled low-speed platform with a dedicated power plant may be superior to a high-speed nuclear ship. Both remain options pending mission and lifecycle comparison.
+**Design question:** whether propulsion and process power should share one reactor system. Shared propulsion improves mobility but complicates certification, maintenance and port operation. A towable or self-propelled low-speed energy core may be superior to a high-speed nuclear ship. The [configuration-level Nuclear Water–Energy System study](water/nuclear-water-energy-system.md) advances the segmented reference to `R2+` while retaining six architecture alternatives and fifteen open R3 gates.
 
 ### Why nuclear is not automatically optimal
 
@@ -211,7 +211,7 @@ Pass 9 expands P-1 through P-5 into a complete deployable-electric-utility archi
 |---|---|---|
 | Drone-surveyed and robot-installed emergency pipeline | Admit | Credible if drones handle information/light line and ground/marine systems handle mass, joints, pumps and crossings |
 | Floating strategic desalination | Admit | Technically grounded; distribution and residuals must be co-designed |
-| Nuclear water–energy platform | Admit to concept study; hold at alternatives gate | Plausible for pre-licensed enduring coastal/global service; must outperform non-nuclear portfolios and is not spontaneous incident entry |
+| Nuclear Water–Energy System | Advance segmented reference to R2+; retain alternatives gate | Plausible for prepared-node enduring service; first-order balances close, but all fifteen evidence gates and rendering remain open |
 | Rapid mobile nuclear reactor to arbitrary disaster site | Hold | Licensing, site, security, heat rejection and timeline presently conflict with R1–R3 response |
 | Generator-only power fleet | Reject | Does not include load assessment, connection, protection, fuel, distribution or transfer |
 | Networked critical-load microgrid family | Admit | Directly addresses the delivered-power requirement and supports black start |

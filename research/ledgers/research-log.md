@@ -838,3 +838,54 @@ A repository-wide Markdown link audit resolved 160 local file references and fou
 ### Gate and continuation decision
 
 This pass changes navigation and conceptual ownership, not the maturity of any system. It creates no new readiness credit, cost claim or rendering authority. The substantive frontier remains the first-principles Nuclear Water–Energy Platform study: compare incident-entry and prelicensed-node architectures; separate the protected energy core from process and distribution elements where evidence warrants; and close electrical, thermal, water, pipeline, marine, licensing, workforce, availability and lifecycle balances against non-nuclear alternatives before choosing form.
+
+## Pass 20 — Nuclear Water–Energy System
+
+### Research question
+
+What complete formation could provide enduring coastal or island water and power at strategic scale, and does nuclear energy imply a mobile incident-entry ship, a protected utility node, or some other architecture when the full public-effect chain is modeled?
+
+### Evidence wave
+
+The pass used official sources to bound the design without mistaking precedent for readiness: NRC maritime-reactor licensing pathways and NRC–Coast Guard coordination; Coast Guard floating-facility marine, electrical, stability, security and pollution regimes; IAEA floating and nuclear-desalination configurations; DOE seawater-desalination energy methods and offshore transmission architecture; and EPA characterization of desalination discharges. Existing `WRG-50`, `PRG-100`, common-architecture and proving-network work supplied the internal formation and evidence rules.
+
+### Architecture decision
+
+The single-platform idea is replaced by a **Nuclear Water–Energy System (`N-WES`)**. The preferred research reference is a segmented strategic utility flotilla:
+
+1. a protected `NEC-300` energy core that operates only at licensed or pre-characterized receiving nodes;
+2. replaceable `WPB-100` desalination and water-process modules outside the nuclear safety boundary;
+3. `SIG-100` shore-interface groups for fault-limited power, cable, water quality and custody transfer;
+4. rapid utility-corridor groups for pipe, boosters, cable, crossings, proof and repair;
+5. storage, distribution, wastewater and residuals systems; and
+6. marine support, security, radiological protection, repair, crew, base and depot infrastructure.
+
+The architecture keeps six alternatives visible: monolithic nuclear ship, segmented nuclear flotilla, shore reactor with floating process, non-nuclear firm-power flotilla, renewable-storage-grid portfolio, and water works plus grid repair. The process and shore systems must accept non-nuclear sources through common interfaces so a reactor hold does not become a national water-system hold.
+
+### Reference balances
+
+The 300 MWe-gross core screens at 248.4 MW sustained after 8% station service and 10% operating derate. A 100 MW shore export, 100,000 m³/day RO plant, 15 MW internal load and 15% served-load reserve require 152.85 MW, leaving a 95.55 MW margin. The large margin shows that drinking-water production alone does not justify the reactor; the case depends on combined shore service, duration, fuel independence and lifecycle utilization.
+
+At 33% gross efficiency, the first-order heat balance produces roughly 909 MWth and 609 MWth rejected. A 7°C once-through screen requires approximately 20.8 m³/s of seawater. At 45% RO recovery, the water train takes 222,222 m³/day feed, releases 100,000 m³/day product and creates 122,222 m³/day concentrate.
+
+Product flow is 1.157 m³/s. A 2 m/s velocity requires about 0.858 m internal diameter. The illustrative 1.0 m OD DR17 trunk has 0.882 m internal diameter and approximately 165 kg/m linear mass; a single 30 km route contains about 4,957 tonnes of pipe before joints, anchors, crossings, redundancy, spares or storage. With the reference route assumptions, steady hydraulic input screens at 2.17 MW and installed pumping at 2.71 MW.
+
+At 0.95 power factor, 100 MW implies roughly 1,762 A at 34.5 kV or 528 A at 115 kV. No voltage is selected: cable length, landing, converter, fault duty, grounding, protection, stability, harmonics and black-start behavior remain open.
+
+### Fleet, workforce and capital
+
+The reference inventory is eight energy cores, sixteen process barges, twelve shore-interface groups, twenty-four corridor groups, sixteen storage/distribution groups, eight marine support groups, four bases and two depot/training complexes. At an assumed independent 65% unit availability, eight cores yield a 97.47% screening probability of at least three available; six cores yield only 88.26%. Correlation can invalidate the screen.
+
+One deployed theater formation contains 2,440 preliminary positions. A 3.2 rotation multiplier, 20% institutional overhead and five formation-equivalents produce 46,848 mature billets. The occupation mix and qualification pipeline remain unvalidated.
+
+The rounded $400B capital case assigns $128B to cores, $48B to process barges, $18B to shore interfaces, $30B to corridor groups, $12B to storage/distribution, $20B to marine support, $40B to bases, $30B to depot/training complexes, $34B to research and independent test, and $40B to reserve. These are explicit design assumptions, not estimates; recurring operations are excluded.
+
+### Verification
+
+The 18-sheet workbook contains controls, six architecture alternatives, eleven mission threads, electrical and thermal balances, water mass and energy, pipeline geometry and hydraulics, shore-power current screens, deployment phases, fleet availability, workforce, capital, annual funding, twelve failure modes, fifteen evidence gates, sources and checks.
+
+The workbook was exported, re-imported and inspected. Formula-error scanning found zero `#REF!`, `#DIV/0!`, `#VALUE!`, `#NAME?` or `#N/A` results. The Read Me, electrical balance, pipeline and checks sheets were rendered and visually inspected. Thirteen checks pass. Two intentional `OPEN` checks record that zero of fifteen evidence gates are closed and all fifteen still block rendering.
+
+### Gate and continuation decision
+
+`N-WES` advances to `R2+`, not `R3`. The next work is a paired reference design for two receiving nodes and a common-case alternatives model. Reactor selection, hull, stability, collision, grounding, mooring, storm, ultimate heat sink, licensed site, emergency plan, security, environmental release, solved grid, feed matrix, pipe transient, verified construction, workforce, correlated availability, independent cost and complete mission transfer remain open. No exterior rendering is authorized.

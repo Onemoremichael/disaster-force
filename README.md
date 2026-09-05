@@ -89,4 +89,6 @@ No major platform has reached `R3`. **Renderings remain deferred** until the rel
 
 ## Current frontier
 
-The next research cycle moves from Department-wide enabling architecture into configuration-level strategic systems. The immediate case is the proposed nuclear water–energy capability: whether a reactor should be a mobile incident-entry ship at all, or a protected, prelicensed energy node in a modular flotilla whose desalination, cable, pipeline, storage, and distribution elements move closer to the disaster edge. The comparison must include non-nuclear firm power, land-based alternatives, full water and thermal balances, marine safety, licensing, workforce, fleet availability, and lifecycle cost before exterior form is chosen.
+The first configuration-level strategic system is now the [Nuclear Water–Energy System](research/capabilities/water/nuclear-water-energy-system.md). Its first-principles result is a segmented utility flotilla rather than a universal nuclear ship: the protected energy core moves among prepared nodes, while replaceable desalination, shore-interface, pipeline, storage, and distribution groups extend service toward damaged infrastructure. The entire formation must accept non-nuclear sources through the same interfaces.
+
+The next gain is not exterior form. It is a reference receiving-node design and a common-case comparison of nuclear flotilla, shore nuclear, non-nuclear firm power, renewable-storage, and grid-repair alternatives with site, safety, environmental, workforce, availability, schedule, and lifecycle evidence.
