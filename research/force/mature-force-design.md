@@ -20,7 +20,7 @@ That is a much larger proposition than coordinating federal assistance. It is th
 
 ## What this pass adds
 
-Earlier passes established the [Department and six services](department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../economics/force-and-resource-model.md). They did not fully specify the organizational layer between a technical module and a national campaign.
+Earlier passes established the [Department and six services](../institution/department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../economics/force-and-resource-model.md). They did not fully specify the organizational layer between a technical module and a national campaign.
 
 This pass defines that missing layer:
 
@@ -586,7 +586,9 @@ The WRG-50 proved that a seemingly simple output can imply a large formation and
 2. **Access and Route-Opening Group** — damage geometry, debris and material flow, equipment productivity, crossing classes, operator/maintenance depth, fuel, and route-throughput outcome.
 3. **Mobile Acute-Care Group** — acuity demand, licensed shifts, diagnostics, oxygen, sterile processing, pharmacy, waste, utilities, patient regulation, receiving care, and replacement staff.
 4. **Aerial Hazard-Control Wing** — cycle time, base network, weather, payload, accuracy, availability, maintenance, loading system, ground-force integration, and delivered objective yield.
-5. **Theater-Opening Command** — Pass 24 supplies the first-order [National Resilience Deployment and Distribution Enterprise](joint-deployment-and-distribution-enterprise.md). Pass 25's [Cascadia campaign](cascadia-joint-resilience-campaign.md) adds actual load records, path classes, queues, bases, ninety-day supply, reverse flow and reconstitution. The remaining task is to replace design coefficients with asset-level surveys, complete manifests, stochastic damage and representative full-mission trials.
+5. **Theater-Opening Command** — Pass 24 supplies the first-order [National Resilience Deployment and Distribution Enterprise](joint-deployment-and-distribution-enterprise.md). Pass 25's [Cascadia campaign](../campaigns/cascadia-joint-resilience-campaign.md) adds actual load records, path classes, queues, bases, ninety-day supply, reverse flow and reconstitution. The remaining task is to replace design coefficients with asset-level surveys, complete manifests, stochastic damage and representative full-mission trials.
+
+Pass 26's [Cascadia covariance and assurance study](../campaigns/cascadia-network-covariance-and-assurance.md) changes the organizational unit behind all five priorities. A formation or path receives independent campaign credit only when its origin, energy, communications, workforce, repair, technical release and civil interface can continue without the corresponding layers of adjacent formations. The Department must therefore generate **independently supportable campaign cells**, not merely interoperable functional units. Readiness and allocation systems need a dependency pedigree and correlation budget for every cell.
 
 The provisional order of battle now exists as a falsifiable allocation model. It should not become stable force structure until at least one heavy technical formation, one labor-dense care formation, one mobility formation, one community formation and one theater-support formation close to R3 and survive a joint campaign-and-regeneration trial.
 

@@ -2,98 +2,118 @@
 
 > What would the United States build if restoring life-support systems after catastrophe were treated as a coequal instrument of national power?
 
-Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**. It is not a plan to enlarge an existing emergency agency, create a benevolent auxiliary to the military, or find new uses for retired equipment. It begins from a different national promise: the United States will be able to project water, power, medical care, mobility, communications, hazard control and civil stabilization at strategic scale, at home and abroad, through purpose-built forces that can be used repeatedly.
+Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**: a national instrument able to project water, power, medical care, mobility, communications, hazard control and civil stabilization at strategic scale.
 
-The thought experiment assumes a political green light. It does not assume away physics, time, geography, workforce, industrial capacity, safety, public authority or environmental consequence. Those are the design material.
+This is not a proposal to enlarge an existing emergency agency, create a civilian auxiliary to the military or repurpose retired equipment. The premise is equal seriousness: purpose-built forces, deep industrial capacity, permanent professions, technological risk-taking, independent test and a public promise that can be measured in time.
 
-## The thesis
+The thought experiment assumes political permission. It does not assume away physics, geography, workforce, law, safety, industrial capacity or environmental consequence. Those are the design material.
 
-Modern catastrophe is a campaign of coupled system failures. A hurricane is also a port problem, a power problem, a water and wastewater problem, a hospital problem, a communications problem, a housing problem and a crisis of local administrative capacity. A wildfire becomes a health, evacuation, grid, insurance, water and community-continuity event. An earthquake may destroy the very routes and nodes a response force expects to use.
+## The argument
 
-That changes the unit of analysis. The project does not begin with a ship, aircraft or robot. It begins with a **population-service deficit over time** and works backward to the complete operating formation, receiving infrastructure, workforce, industrial base and evidence needed to close it.
+A modern catastrophe is a campaign of coupled system failures. A hurricane becomes a port, grid, water, health, communications, housing and administrative-capacity crisis at once. An earthquake can destroy the very routes, utilities and institutions a response force expects to use.
+
+So the project begins neither with an agency chart nor an attractive machine. It begins with a **population-service deficit over time** and reasons backward.
 
 ```text
-catastrophe
-    ↓
-people without essential service × time
-    ↓
-public effect and completion standard
-    ↓
-complete formation + movement + damaged-theater reception
-    ↓
-national concurrency, sustainment and regeneration
-    ↓
-science, industry, acquisition and independent proof
+public service that must exist by a deadline
+        ↓
+complete operating formation
+        ↓
+movement into a damaged theater
+        ↓
+independent reception, sustainment and civil transfer
+        ↓
+national concurrency, regeneration and reserve
+        ↓
+science, industry and proof
 ```
 
-The cabinet institution is the **Department of Resilience**. The larger system of services, commands, laboratories, schools, ranges, depots, reserves, suppliers, standards and partners is the **National Resilience Establishment**. The certified formations available for employment are the **Resilience Force**. An appropriation, an equipment inventory and an operational capability are not the same thing.
+Three terms keep the design honest:
 
-## The emerging answer
+- The **Department of Resilience** is the cabinet institution that owns the national promise.
+- The **National Resilience Establishment** is the larger system of services, commands, laboratories, schools, ranges, depots, reserves, suppliers, standards and partners.
+- The **Resilience Force** is the certified set of complete formations available for employment.
 
-The force now has an institutional spine.
+An appropriation is not a force. A fleet is not a campaign. A delivered machine is not a restored public service.
 
-The Department contains six operating services, joint geographic and functional commands, a separate civil authority, independent technical authorities, a technology enterprise, a proving network and an industrial mobilization system. Its national planning promise is `3C + 5M + 2G + 20R`: three catastrophic, five major and two invited global campaigns at once, with twenty percent immediately employable reserve in every scarce effect.
+## What the mature concept now looks like
 
-The new [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) turns that promise into a Department-wide reference order of battle. Thirty-four formation families across command, engineering, air, maritime, infrastructure, health and community stabilization generate about 714,000 people simultaneously deployed in the ten-campaign stress case. After rotation, components, institutional depth and the integrated utility force are included, the model reaches about 3.95 million affiliated billet-equivalents.
+The Department contains six operating services, geographic and functional commands, a civil authority, independent technical authorities, a technology enterprise, a proving network and an industrial mobilization system. Its planning promise is `3C + 5M + 2G + 20R`: three catastrophic, five major and two invited global campaigns at once, with twenty percent immediately employable reserve in every scarce effect.
 
-That number is intentionally disruptive. It supersedes the earlier 302,000-active/396,500-reserve figure as the current force-generated reference case. It is not validated headcount. It proves that the earlier top-down screen and the mature campaign promise cannot both be treated as settled.
+The current bottom-up force reference has thirty-four formation families. It generates about 714,000 people simultaneously deployed in the ten-campaign stress case and about 3.95 million affiliated billet-equivalents after rotation, components, institutional depth and the integrated utility force are included. The scale is intentionally disruptive. It supersedes the earlier top-down workforce screen, but remains a hypothesis to be tested rather than a proposed payroll.
 
-The [deployment and distribution study](research/institution/joint-deployment-and-distribution-enterprise.md) now develops that center of gravity. It replaces the earlier all-mass-at-once screen with five force-closure bands: anticipatory staging, a 72-hour minimum viable service package, 14-day initial operating capability, 45-day formation closure and 90-day depth. It then sizes the complete chain—four strategic movement modes, fixed and mobile entry nodes, staging and onward movement, self-sustaining responder bases, daily supply, reverse flow, authority and technical release.
+The force closes in five bands: anticipatory staging, a 72-hour minimum viable service package, 14-day initial operating capability, 45-day formation closure and 90-day depth. Strategic movement, entry nodes, onward distribution, zero-host-utility responder bases, daily supply, reverse flow, authority and technical release are treated as one chain.
 
-All ten reference campaign chains close under the declared assumptions. A correlated primary-entry-path loss still breaks the Cascadia and allied coastal megacity cases, even though their lift fleets are adequate. That is the point: the Department's decisive mobility asset is not a ship, aircraft or port. It is a rehearsed system of independent paths that converts national inventory into public service while the receiving society's own support systems are impaired.
+The first regional test is Cascadia. Pass 25 arranged sixty-four mission-package loads and 1.763 million tonnes across nine service islands and eleven nominal correlation groups. All four waves and forty-four public-service tests closed in the deterministic stress case.
 
-The [Cascadia joint campaign study](research/institution/cascadia-joint-resilience-campaign.md) now resolves that failure at item level. It treats the region as nine temporarily disconnected service islands supplied from eight safe-zone or afloat origins through twelve paths in eleven correlation groups. Sixty-four mission-package loads, 1.763 million tonnes of formation mass, eleven public services, responder bases, 90-day sustainment, reverse flow, staff relief and reconstitution close under the declared correlated-aftershock-and-winter case. The architecture requires a $373.44B attributable regional capital slice and $34.2B in mature annual operations inside the existing Department envelope. Twenty evidence gates remain open, so the result is a requirements demonstration—not an operational forecast.
+Pass 26 then asked whether those paths remain independent when shared fuel, communications, workforce, authority, inspection and repair can fail. They do not. In a reproducible 500-trial screening model, the Pass 25 architecture closes 5.8 percent of cases; hardening alone reaches 21.4 percent; duplicated critical paths reach 48.0 percent; and a three-cell campaign mesh reaches 84.2 percent. None meets the deliberately demanding 95-percent assurance target. These are assumption-driven design results, not forecasts.
 
-The enterprise crosswalk is itself strategic in scale: about 1.21 million affiliated billet-equivalents, $2.573T in eleven existing formation lines, $1.380T allocated from existing common enabling lines, a $4.744T attributable envelope including reserve, and about $332.5B in mature annual operations. These figures are nested inside the Pass 23 Department totals, not added to them.
+The emerging force-design principle is therefore:
 
-The provisional work breakdown reaches $12.05T in 25-year capital and about $858B in mature annual operations. These are scale hypotheses, not estimates. They make the equal-effort premise concrete and preserve unresolved overlaps instead of compressing the institution to fit a symbolic $1T number.
+> The minimum unit of resilience force projection is an independently supportable campaign cell—not a platform, route or functional unit.
 
-## Six documents define the project
+Each cell must bring its own origin package, movement, reception, utilities, command, workforce, repair, technical release and civil interface. Different vehicles that share those dependencies do not receive full independence credit.
 
-Start with the [strategic study](research/synthesis/strategic-study.md) for the cumulative argument. Read the [Department of Resilience](research/institution/department-of-resilience.md) for the zero-based institution, the [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) for the national force, the [deployment and distribution study](research/institution/joint-deployment-and-distribution-enterprise.md) for the chain that gets it into a damaged theater, the [Cascadia joint campaign](research/institution/cascadia-joint-resilience-campaign.md) for the first item-level operational test, and the [technology frontier](research/innovation/technology-frontier.md) for the invention state required to create capabilities that do not yet exist.
+## Read the project as a book
 
-The [research atlas](research/README.md) opens the derivation by layer. The [model catalog](models/README.md) maps each quantitative workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) is the fastest way to see what remains unknown.
+The repository is organized around the questions the research must answer.
 
-## What the work has learned
+| Question | Starting document | What it establishes |
+| --- | --- | --- |
+| What counts as success? | [First principles](research/foundations/first-principles.md) | Population-service-time as the unit of national performance. |
+| What sovereign institution owns the promise? | [Department of Resilience](research/institution/department-of-resilience.md) | A zero-based cabinet department, not a federation of legacy agencies. |
+| What force can fulfill it repeatedly? | [Mature force design](research/force/mature-force-design.md) | Formation families, components, campaign commands, readiness and regeneration. |
+| Can it move into a broken region? | [Deployment and distribution enterprise](research/force/joint-deployment-and-distribution-enterprise.md) | Time-phased force closure from national inventory to public effect. |
+| Does the architecture survive a real campaign? | [Cascadia joint campaign](research/campaigns/cascadia-joint-resilience-campaign.md) | Item-level loads, paths, service islands, sustainment and return flow. |
+| Are those paths genuinely independent? | [Cascadia covariance and assurance](research/campaigns/cascadia-network-covariance-and-assurance.md) | Shared-dependency risk and the case for cellular force projection. |
+| How are missing capabilities invented and proved? | [Technology frontier](research/innovation/technology-frontier.md) | Mission-science portfolios, rival pathways and evidence gates. |
 
-Several apparently obvious concepts have not survived complete-system analysis.
+For the cumulative manuscript, read the [strategic study](research/synthesis/strategic-study.md). The [research atlas](research/README.md) opens the full derivation; the [model catalog](models/README.md) connects every quantitative workbook to the claim it tests; and the [evidence ledger](research/ledgers/evidence-ledger.md) shows what remains unknown.
 
-| Attractive object | Complete capability revealed by the research |
-| --- | --- |
-| Desalination ship | Source qualification, treatment, power, intake, residuals, pipe, pressure, storage, quality authority, wastewater, distribution and civil transfer |
-| Mobile generator fleet | Network survey, isolation, grid formation, protection, transformation, conductors, fuel, thermal safety, operations and utility handoff |
-| Airtanker armada | Detection, verification, airspace, bases, sortie cycles, objective yield, durable line, structure defense, ground hold and smoke protection |
-| Flood pump fleet | Forecast and trigger, intake, head, route, receiving water, barriers, breach control, interior drainage, debris, access and environmental closure |
-| Floating nuclear utility | Segmented source system plus prepared, source-neutral utility anchors, corridors, licensed authorities, maintenance and rival energy pathways |
-| National equipment catalog | Complete formations, components, force allocation, strategic movement, reception, sustainment, regeneration and the institutional force |
-| Transport fleet | Time-phased service modules, independent origin-to-effect paths, node recovery, onward movement, responder bases, sustainment, reverse flow and lawful transfer |
-
-The quantitative consequence is consistent across domains: the dramatic machine is usually a minority of the real system. A 50,000 m³/day water formation is about 23,500 tonnes dry and 2,720 deployed people in the reference configuration. A 100 MW power formation ranges from about 13,900 to 30,800 tonnes depending on the receiving network. One 100 m³/s flood-pumping portfolio yields 36.551 m³/s in the trapped-basin screen after formation and hydraulic losses. A national utility-projection system requires twenty-six candidate anchor zones, about 198,200 billets and a $1.698T capital hypothesis—not merely a fleet purchase.
-
-These are editable thought-experiment outputs. They are neither forecasts nor acquisition estimates.
-
-## How the repository is organized
-
-The repository follows the argument rather than the order in which the work was written.
+## The structure follows the argument
 
 ```text
 research/
-├── foundations/     missions, public effects, service levels and evidence rules
-├── institution/     Department, services, commands, components and force generation
-├── architecture/    shared interfaces, degraded modes, autonomy and requirement control
-├── capabilities/    complete water, power, fire, flood, mobility and care systems
-├── innovation/      frontier programs, laboratories, ranges and independent test
-├── economics/       workforce, industrial and fiscal consequences
-├── synthesis/       the integrated strategic manuscript
-└── ledgers/         sources, open evidence and the research history
+├── foundations/    need, service standards, missions and method
+├── institution/    Department, authorities and national utility command
+├── force/          formations, readiness, allocation and deployment
+├── campaigns/      complete regional tests and campaign assurance
+├── capabilities/   water, power, fire, flood, mobility and care systems
+├── architecture/   common interfaces, autonomy and degraded modes
+├── innovation/     frontier programs, laboratories, ranges and proof
+├── economics/      workforce, industrial and fiscal consequences
+├── synthesis/      integrated strategic manuscript
+└── ledgers/        sources, open evidence and research history
 
-models/              editable quantitative arguments; the only non-Markdown research artifacts
+models/             editable quantitative arguments; the only non-Markdown research artifacts
 ```
 
-Chronology survives only as an audit trail in the [research log](research/ledgers/research-log.md). New work enters by intellectual function, and every important claim should have one authoritative home, one visible maturity state and one path into the synthesis.
+Chronology survives only in the [research log](research/ledgers/research-log.md). A new paper belongs where its question lives, not where it happened to be written.
+
+## What complete-system analysis has changed
+
+The project repeatedly finds that the dramatic object is a minority of the capability.
+
+| Attractive object | Complete capability revealed by the research |
+| --- | --- |
+| Desalination ship | Source qualification, treatment, power, intake, residuals, pipe, pressure, storage, quality authority, wastewater, distribution and civil transfer. |
+| Mobile generator fleet | Network survey, isolation, grid formation, protection, transformation, conductors, fuel, thermal safety, operation and utility handoff. |
+| Airtanker armada | Detection, verification, airspace, bases, sortie cycles, objective yield, durable line, structure defense, ground hold and smoke protection. |
+| Flood pump fleet | Forecast, trigger, intake, head, route, receiving water, barriers, breach control, drainage, debris, access and environmental closure. |
+| Floating nuclear utility | Segmented source system plus prepared, source-neutral utility anchors, corridors, licensed authority, maintenance and rival energy pathways. |
+| Transport fleet | Time-phased service modules, independent origin-to-effect paths, node recovery, responder bases, sustainment, reverse flow and lawful transfer. |
+| Diverse routes | Independently supported cells with separate energy, data, labor, repair, authority and origin packages. |
+
+That change in unit of analysis drives the industrial ambition. The objective is not merely to buy more equipment. It is to create new production lineages, professions, interfaces, laboratories and exportable civil-force systems at the scale historically associated with defense and space programs.
+
+## Scale without false precision
+
+The current integrated design frame reaches about **$12.05 trillion over 25 years** and **$858 billion in mature annual operations**. The deployment enterprise attributes about $4.744 trillion of that envelope to movement, reception and support. The Pass 25 Cascadia posture attributes $373.44 billion in regional capital and $34.2 billion in mature annual operations. The Pass 26 cellular assurance case would raise those regional attributions to $601.44 billion and $48.9 billion per year.
+
+These figures are nested, not additive. They are editable scale hypotheses designed to reveal hidden requirements and contradictions. They are not cost estimates, budget requests or benefit-cost conclusions.
 
 ## Evidence before imagery
 
-Claims progress from a verbal mission (`R0`) to functional architecture (`R1`), bounded concept (`R2`), first-order configuration (`R2+`), closed physics (`R3`) and demonstrated formation (`R4`). A green workbook check means that formulas and declared relationships reconcile. It does not mean that a system will work.
+Claims progress from a verbal mission (`R0`) to functional architecture (`R1`), bounded concept (`R2`), first-order configuration (`R2+`), closed physics (`R3`) and demonstrated formation (`R4`). A green workbook check means declared formulas reconcile. It does not mean a system works.
 
-No major platform has reached `R3`. Renderings remain deferred until mass, energy, flow, heat, structure, stability, crew, maintenance, movement, reception, safety and lifecycle evidence close for the complete operating system. When visualization begins, it will show the machine together with the infrastructure and formation that make its public effect real.
+No major platform has reached `R3`. Renderings remain deferred until mass, energy, flow, heat, structure, stability, crew, maintenance, movement, reception, safety, dependency and lifecycle evidence close for the complete operating system. When visualization begins, it will show the machine together with the infrastructure and formation that make its public effect real.

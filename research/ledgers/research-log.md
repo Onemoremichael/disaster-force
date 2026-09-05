@@ -1181,3 +1181,41 @@ The Cascadia campaign advances to `R2` architecture with `R2+` deterministic ari
 The next pass should build asset-level path and utility covariance; replace aggregate lots with item manifests; run stochastic aftershock, weather, damage, queue, maintenance and loss cases; and design full-mission prototypes for no-pier operations, austere air, zero-host bases, utility corridors and reconstitution. An unfamiliar global campaign should follow to expose assumptions hidden by U.S. geography and authority.
 
 No rendering is authorized. The study has defined performance and test thresholds, not exterior vehicle geometry.
+
+## Pass 26 — Cascadia network covariance and campaign assurance
+
+### Research question
+
+Do the eleven nominal path groups that close the Pass 25 Cascadia campaign remain independent when shared hazard, energy, communications, workforce, authority, inspection and repair dependencies are modeled explicitly?
+
+### Repository decision
+
+The research corpus was reorganized around the argument rather than the order of production. Department design remains in `institution/`; formation, readiness, allocation and deployment moved to `force/`; regional integration and assurance moved to a new `campaigns/` layer. The root and research READMEs now guide the reader through questions and claims rather than presenting a growing inventory of papers.
+
+### Method
+
+The 16-sheet workbook stores 500 fixed-seed standard-normal draw sets and applies common random numbers to four rival architectures. A hierarchical latent-factor screen combines period-wide, mode-family and group/copy shocks. Eleven Pass 25 path groups receive failed, degraded or intact states at day 3 and day 14. Five shared enablers—fuel/energy, communications/data, qualified workforce, civil/technical authority and repair/inspection—constrain delivered capacity.
+
+Campaign closure is the minimum of a 72-hour force-closure test, nine day-14 service-island independence tests and a capacity-weighted sustainment test. The 95-percent assurance line is an explicit design choice, not a sourced historical frequency.
+
+### Result
+
+The Pass 25 reference architecture closes 5.8 percent of the declared trials. A hardened one-copy topology reaches 21.4 percent. Two separately supported copies plus air-path pooling reach 48.0 percent. A three-cell campaign mesh reaches 84.2 percent, with an approximate 95-percent binomial half-width of 3.2 percentage points. None clears the assurance target.
+
+In the cellular case, 75 of 79 unsuccessful trials fail first at day-3 force closure; no trial fails first at the day-14 zone screen and four fail first at sustainment. The next engineering target is therefore the first 72 hours rather than additional nominal regional route count.
+
+### Force and institutional decision
+
+The minimum unit of force projection becomes an **independently supportable campaign cell** containing effect module, origin package, strategic movement, reception, zero-host utilities, sovereign information, crews, repair and technical authority, and civil interface. Different platforms sharing those layers do not receive full independence credit.
+
+A Joint Campaign Assurance Command is proposed to maintain dependency registers, allocate correlation budgets, run adaptive closure models, ingest live hazard forecasts, certify substitution and direct blind common-mode-loss exercises. Civil priority and independent technical release remain outside the commander's unilateral authority.
+
+### Technology and industrial decision
+
+The technology portfolio now includes sovereign containerized micro-utilities, multi-chain energy, offline mission command, configuration-aware autonomous logistics, rapid inspection and release, interface-common but implementation-diverse components, mobile micro-depots and covariance-aware allocation. Industrial policy must prevent one prime, software baseline, supplier or component from becoming the architecture.
+
+### Finance and maturity
+
+The cellular case carries a provisional $228B attributable capital delta and $14.7B mature annual operating delta. Added within the Pass 25 regional attribution, not to the Department total, it produces $601.44B and $48.9B/year. Fourteen evidence gates remain open.
+
+The campaign-assurance architecture advances to `R2` with `R2+` stochastic screening arithmetic. Marginal probabilities, correlations, copy capacities, pooling rules, target and costs remain assumptions. The model is reproducible and internally reconciled, with no spreadsheet error values; it is not calibrated risk analysis. Rendering remains blocked.

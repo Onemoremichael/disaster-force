@@ -356,6 +356,14 @@ The campaign architecture should be falsified in this order:
 8. obtain independent cost, schedule, workforce and industrial-base estimates; and
 9. repeat the method against an unfamiliar global campaign to identify assumptions hidden by U.S. infrastructure and authority.
 
+### Pass 26 assurance finding
+
+The linked [Cascadia network covariance and assurance study](cascadia-network-covariance-and-assurance.md) completes the first item on that continuation path. It replaces nominal correlation-group counting with a fixed-seed stochastic screen across path copies, system and mode-family shocks, and five shared enablers: fuel and energy, communications, qualified workforce, civil and technical authority, and repair/inspection.
+
+Under its declared assumptions, this paper's reference architecture closes only 5.8 percent of trials. Hardening without topological change reaches 21.4 percent; two separately supported copies reach 48.0 percent; and a three-cell campaign mesh reaches 84.2 percent. None meets the 95-percent design-assurance target. These are not forecast probabilities. They supersede only the inference that deterministic closure and named correlation groups were enough to demonstrate path independence.
+
+The revised design rule is that an independent path must carry an independent origin, enabler package, workforce, repair chain, technical release and civil interface. The remainder of this paper remains the authoritative Pass 25 load, service and campaign baseline.
+
 ## 13. Implications for the Department of Resilience
 
 Cascadia makes the Department more ambitious, not more centralized. It requires a cabinet institution capable of national force generation while distributing operational authority to service islands and preserving independent release.
