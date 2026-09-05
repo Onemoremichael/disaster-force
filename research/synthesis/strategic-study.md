@@ -20,7 +20,7 @@ The project assumes full political authorization for a zero-based build. A $1 tr
 
 ## Analytical framework
 
-See [Deriving the force from first principles](01-first-principles.md).
+See [Deriving the force from first principles](../foundations/first-principles.md).
 
 ## Research findings
 
@@ -33,7 +33,7 @@ Pass 1 finds that:
 5. The force must be sized as complete mission packages with command, lift, reception, specialty match, sustainment, maintenance, transfer, and regeneration—not as inventories of isolated equipment.
 6. Compound and concurrent events, not a single median disaster, are the correct force-sizing case.
 
-See [Force-design framework](02-force-design-framework.md) and [Empirical baseline](03-empirical-baseline.md).
+See [Force-design framework](../foundations/force-design-framework.md) and [Empirical baseline](../foundations/empirical-baseline.md).
 
 Pass 2 finds that:
 
@@ -44,7 +44,7 @@ Pass 2 finds that:
 5. The national posture requires community interfaces, forward stations, regional complexes, strategic mobility bases, national depots and laboratories, and overseas access and pre-positioning.
 6. Existing institutions may seed the transition but do not define the end state. The Department should possess its own air, land, maritime, infrastructure, health, and community-stabilization professions and industrial systems.
 
-See [Institutional architecture](04-institutional-architecture.md), [Force composition](05-force-composition.md), and [Readiness, posture, and force generation](06-readiness-posture-and-generation.md).
+See [Institutional architecture](../institution/department-of-resilience.md), [Force composition](../institution/force-composition.md), and [Readiness, posture, and force generation](../institution/readiness-and-force-generation.md).
 
 Pass 3 finds that:
 
@@ -55,7 +55,7 @@ Pass 3 finds that:
 5. Water, food, shelter, sanitation, power, thermal safety, health, communications, mobility, and public works require phased effect units. Production at the plant or arrival node is not delivered service.
 6. Time to stabilized life-support is measured when the target population receives the stabilization bundle, not when the first federal element arrives.
 
-See [Mission-engineering method](07-mission-engineering-method.md), [Design reference missions](08-design-reference-missions.md), and [Service-level library](09-service-level-library.md).
+See [Mission-engineering method](../foundations/mission-engineering-method.md), [Design reference missions](../foundations/design-reference-missions.md), and [Service-level library](../foundations/service-level-library.md).
 
 Pass 4 finds that:
 
@@ -71,7 +71,7 @@ Pass 4 finds that:
 10. Communications, observation, edge computing, logistics, maintenance, and robotics are operating infrastructure. Essential systems must function connected, degraded, isolated, and in a manual safe state; autonomy is used to change exposure, scale, or tempo while consequential authority remains human.
 11. The platform register now admits, holds, conditions, or rejects more than 60 systems and records the unknowns between mission need and engineering concept. None is yet physics-closed; renderings remain deferred.
 
-See [Systems architecture](10-systems-architecture.md), [Water, energy, and utility systems](11-water-energy-and-utility-systems.md), [Fire, flood, access, and earthworks](12-fire-flood-access-and-earthworks.md), [Maritime, air-mobility, and medical systems](13-maritime-air-mobility-and-medical.md), [Information, autonomy, and common enablers](14-information-autonomy-and-common-enablers.md), and the [Platform and system requirement register](15-platform-requirement-register.md).
+See [Systems architecture](../architecture/resilience-arsenal.md), [Water, energy, and utility systems](../capabilities/water-energy-and-utility-systems.md), [Fire, flood, access, and earthworks](../capabilities/hazard-control-access-and-earthworks.md), [Maritime, air-mobility, and medical systems](../capabilities/maritime-air-mobility-and-medical.md), [Information, autonomy, and common enablers](../architecture/information-autonomy-and-enablers.md), and the [Platform and system requirement register](../architecture/platform-requirement-register.md).
 
 Pass 5 finds that:
 
@@ -84,7 +84,7 @@ Pass 5 finds that:
 7. The initial avoided-loss model returns approximately $30.8 billion annually and $535.5 billion in 25-year present value, but deliberately omits strategic, humanitarian, distributional, ecological, confidence, and industrial values. Its probability, severity, addressability, and effectiveness inputs are scenario assumptions rather than causal evidence.
 8. The model is more useful as a falsification and research-priority instrument than as a point estimate. Its one material warning—the capital gap—is preserved; twelve other integrity and reconciliation checks pass, no spreadsheet error values were detected, and low/reference/high selectors were exercised after export.
 
-See [Quantitative model](16-quantitative-model.md) and the editable [Department of Resilience force and resource workbook](../models/disaster-force-model.xlsx).
+See [Quantitative model](../economics/force-and-resource-model.md) and the editable [Department of Resilience force and resource workbook](../../models/disaster-force-model.xlsx).
 
 Pass 6 finds that:
 
@@ -98,7 +98,7 @@ Pass 6 finds that:
 8. A deployed WRG-50 is provisionally bounded at 2,300–3,200 people and five-figure total deployment tonnage. The main body is a surface and maritime lift force, with airlift reserved for first-entry command, reconnaissance, quality, point systems, critical spares, and early treatment.
 9. W-2 and W-4 remain R2, W-5 advances to R2, and the integrated WRG-50 is R2+. Pressure class, surge and minor losses, source-specific treatment performance, equipment manifest, installation productivity, transport packaging, maintenance, and degraded-mode trials remain open. No water concept is yet authorized for rendering.
 
-See [Water restoration force engineering](17-water-system-engineering.md).
+See [Water restoration force engineering](../capabilities/water/force-engineering.md).
 
 Pass 7 finds that:
 
@@ -115,7 +115,7 @@ Pass 7 finds that:
 11. The exported workbook was re-imported, scanned for spreadsheet errors, rendered and visually inspected on all thirteen sheets, and tested under alternate treatment and construction controls. Independent calculations reproduce velocity, hydraulic power and pipe mass.
 12. All twelve model-integrity checks pass, but zero configuration gates are verified. WRG-50 remains R2+ and rendering remains prohibited pending a surveyed transient model, source and vendor guarantees, configuration manifest, construction trials, maintenance/reliability analysis and degraded-mode demonstrations.
 
-See [WRG-50 configuration model](18-water-configuration-model.md) and the editable [water restoration engineering workbook](../models/water-restoration-engineering.xlsx).
+See [WRG-50 configuration model](../capabilities/water/configuration-model.md) and the editable [water restoration engineering workbook](../../models/water-restoration-engineering.xlsx).
 
 Pass 8 finds that:
 
@@ -134,7 +134,7 @@ Pass 8 finds that:
 13. Acquisition programs should procure formation increments: platform, crews, replacement, transport, reception, data, sustainment, repair, training, waste, transfer, bases and recapitalization. A platform lot is not a ready effect.
 14. Five evidence gates—analytical, command-post, deployment, endurance/replacement, and transfer/regeneration—must be passed before the organizational hypothesis becomes a program of record.
 
-See [Mature force design](19-mature-force-design.md).
+See [Mature force design](../institution/mature-force-design.md).
 
 Pass 9 finds that:
 
@@ -151,7 +151,7 @@ Pass 9 finds that:
 11. The PRG-100 is source-neutral at formation level. Combustion, storage, surviving grid and local resources, renewable generation, barges and enduring strategic sources connect through certified interfaces according to hazard, duration and logistics.
 12. P-1 through P-4 advance from R1 to R2; P-5 advances to R1+; the integrated PRG-100 enters at R2. No power configuration has closed its one-line, equipment manifest, protection, construction, workforce, reliability or thermal-service evidence, so rendering remains prohibited.
 
-See [Power restoration force engineering](20-power-restoration-force-engineering.md).
+See [Power restoration force engineering](../capabilities/power/force-engineering.md).
 
 Pass 10 finds that:
 
@@ -168,7 +168,7 @@ Pass 10 finds that:
 11. The exported workbook was re-imported, scenario-switched and independently recomputed. Seventeen sheets were present, no formula error was found, scenario directions were correct, and current, loss, generation, module counts, line mass, construction time, fuel and dry mass matched independent arithmetic.
 12. No R3 gate is verified. PRG-100 advances to `R2+`; rendering remains prohibited until electrical, mobility, construction, endurance, maintainability, workforce and cost evidence closes.
 
-See [PRG-100 configuration model](21-power-configuration-model.md) and the editable [power-restoration engineering workbook](../models/power-restoration-engineering.xlsx).
+See [PRG-100 configuration model](../capabilities/power/configuration-model.md) and the editable [power-restoration engineering workbook](../../models/power-restoration-engineering.xlsx).
 
 Pass 11 finds that:
 
@@ -185,7 +185,7 @@ Pass 11 finds that:
 11. An illustrative $1 trillion capital/RDT&E fire portfolio reserves $120 billion for research and advanced prototypes, $250 billion for aviation, $150 billion for ground control and water, and the remainder for sensing, bases, depots, community defense, reconstitution and program uncertainty. These values express strategic balance; they are not cost estimates.
 12. `IIN`, `IFCG`, `FA-1`, `FA-5`, `FA-6` and `FG-1` through `FG-4` enter or advance to R2. The next pass must close an editable intercept-to-campaign configuration model; no fire concept is R3 or authorized for rendering.
 
-See [Fire response force engineering](22-fire-response-force-engineering.md).
+See [Fire response force engineering](../capabilities/fire/force-engineering.md).
 
 Pass 12 finds that:
 
@@ -202,7 +202,7 @@ Pass 12 finds that:
 11. The model translates technological ambition into measurable campaigns: tail intercept, persistent sensing, continuous mixed airspace, clean-sheet high-cycle aircraft, precision agents, robotic line and water, community ember defense, high-rate bases and human endurance. Novel capability receives force credit only after representative evidence changes a visible model parameter or uncertainty distribution.
 12. All 23 sheets rendered and re-imported correctly, all 12 scenarios recalculated, formula-error scans returned zero matches and 124 independent arithmetic and integrity checks passed. All 18 evidence gates remain open. `IIN` and `IFCG` advance to `R2+`; no fire vehicle or system is authorized for rendering.
 
-See [Fire response force configuration model](23-fire-configuration-model.md) and the editable [fire response force engineering workbook](../models/fire-response-force-engineering.xlsx).
+See [Fire response force configuration model](../capabilities/fire/configuration-model.md) and the editable [fire response force engineering workbook](../../models/fire-response-force-engineering.xlsx).
 
 Pass 13 finds that:
 
@@ -219,7 +219,7 @@ Pass 13 finds that:
 11. An illustrative $1 trillion real-2026 capital/RDT&E portfolio allocates $130B to research/test, $220B to pumps/power/drainage, $150B to amphibious access, $160B to barriers/breach/earthworks and the balance to sensing, works carriers, bases, industry, workforce and risk. Routine personnel and operations are excluded.
 12. `FIN` and `HCG-100` enter at R2. The next pass must build a 29-sheet configuration model across inland and coastal cases. Twenty evidence gates remain open, and no flood platform is authorized for rendering.
 
-See [Flood response force engineering](24-flood-response-force-engineering.md).
+See [Flood response force engineering](../capabilities/flood/force-engineering.md).
 
 Pass 14 finds that:
 
@@ -236,7 +236,7 @@ Pass 14 finds that:
 11. All twenty R3 gates remain open. Novel capabilities may enter the force equation only by changing a visible parameter or distribution and then passing representative, preferably destructive, independent tests. Nuclear coastal water–energy support remains held behind comparative energy, licensing, security, thermal and lifecycle evidence.
 12. All 29 sheets rendered and re-imported correctly, all fifteen scenarios recalculated, spreadsheet-error scans returned zero matches and 237 independent arithmetic, derating, recursion, scenario and integrity checks passed. `FIN` and `HCG-100` advance to `R2+`; no flood pump, barrier, craft, robot or works carrier is authorized for rendering.
 
-See [Flood hydraulic-control configuration model](25-flood-configuration-model.md) and the editable [flood hydraulic-control engineering workbook](../models/flood-hydraulic-control-engineering.xlsx).
+See [Flood hydraulic-control configuration model](../capabilities/flood/configuration-model.md) and the editable [flood hydraulic-control engineering workbook](../../models/flood-hydraulic-control-engineering.xlsx).
 
 Pass 15 finds that:
 
@@ -253,7 +253,7 @@ Pass 15 finds that:
 11. Facility throughput initially exposed four overloaded ranges. The final parallel/distributed design produces a 75.82% modeled peak utilization under an 80% planning ceiling; detailed scheduling remains open because long-duration trials cannot be represented by event counts alone.
 12. Compound 25% facility, 15% redesign, two-year delay and 15% integration shocks raise calculated need to $156.25B, $26.25B above the RDT&E envelope. The adjacent $25B program reserve is short by $1.25B, making cancellation and resequencing authority substantive. All twenty flood gates remain open; `FIN` and `HCG-100` remain `R2+`; no rendering is authorized.
 
-See [Flood research, prototyping and independent test](26-flood-research-test-and-evaluation.md) and the editable [flood RDT&E campaign workbook](../models/flood-research-test-evaluation.xlsx).
+See [Flood research, prototyping and independent test](../capabilities/flood/research-test-and-evaluation.md) and the editable [flood RDT&E campaign workbook](../../models/flood-research-test-evaluation.xlsx).
 
 ## A Department-wide technology frontier
 
@@ -274,7 +274,7 @@ Pass 16 finds that:
 13. Public-effect, accessibility, environmental, labor, host burden, civil authority, security, transfer and decommissioning evidence are part of technical evidence. Aggregate throughput cannot hide systematic abandonment or exported harm.
 14. No campaign receives R3 operational credit. The workbook defines research institutions and test requirements; it does not establish acquisition costs, facility designs, statistical power, technical feasibility or readiness. Vehicle and platform rendering remains prohibited.
 
-See [The resilience technology frontier](27-resilience-technology-frontier.md) and the editable [Department-wide technology frontier workbook](../models/resilience-technology-frontier.xlsx).
+See [The resilience technology frontier](../innovation/technology-frontier.md) and the editable [Department-wide technology frontier workbook](../../models/resilience-technology-frontier.xlsx).
 
 ## A common resilience technical architecture
 
@@ -291,7 +291,7 @@ Pass 17 finds that the Department's common architecture must be a constitution f
 9. The digital thread binds need, requirement, design, supplier process, test configuration, serialized field item, mission load, repair and retirement. Substitution is a qualified evidence packet rather than a purchasing note.
 10. The 25-system requirement matrix contains 217 nonzero system–primitive dependencies. No interface contract has representative-mission closure. All twenty-five systems remain blocked by the combined project-physics and architecture gate, so renderings remain deferred.
 
-See [The common resilience technical architecture](28-common-resilience-technical-architecture.md) and the editable [common technical architecture workbook](../models/resilience-common-technical-architecture.xlsx).
+See [The common resilience technical architecture](../architecture/common-technical-architecture.md) and the editable [common technical architecture workbook](../../models/resilience-common-technical-architecture.xlsx).
 
 ## A National Resilience Proving Network
 
@@ -312,7 +312,7 @@ Pass 18 finds that the Department's technology ambition requires a sovereign evi
 13. Ten construction gates run from evidence need and site alternatives through concept/final design, commissioning, initial operations, full network operations and retirement. Construction completion does not equal evidence capability.
 14. Eighteen of twenty workbook checks pass. The two intentional `OPEN` results are the ten unclosed safety cases and compound-case funding shortfall. No vehicle rendering receives credit.
 
-See [The National Resilience Proving Network](29-national-resilience-proving-network.md) and the editable [proving-network workbook](../models/national-resilience-proving-network.xlsx).
+See [The National Resilience Proving Network](../innovation/national-proving-network.md) and the editable [proving-network workbook](../../models/national-resilience-proving-network.xlsx).
 
 ## Material limitations and disagreements
 

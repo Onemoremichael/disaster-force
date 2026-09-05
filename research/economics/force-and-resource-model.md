@@ -12,7 +12,7 @@ The initial workbook converts the qualitative Department of Resilience architect
 
 The model is not an independent cost estimate, budget request, forecast, or benefit-cost analysis. It is a transparent research instrument that makes implicit scale choices visible and replaceable.
 
-The editable workbook is [`disaster-force-model.xlsx`](../models/disaster-force-model.xlsx).
+The editable workbook is [`disaster-force-model.xlsx`](../../models/disaster-force-model.xlsx).
 
 ## Model structure
 

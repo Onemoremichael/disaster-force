@@ -122,7 +122,7 @@ Each system family should have a controlled product line rather than one univers
 
 Common cores and interfaces limit proliferation. Variants exist only when access, duty cycle or safety differs materially.
 
-Pass 17 replaces the preliminary interface list with a controlled [Common Resilience Technical Architecture](28-common-resilience-technical-architecture.md). Ten common primitives now carry fifty boundary contracts, four degraded modes, five machine-action authority classes, a minimum data contract, twelve physical exploration bands and a configuration/evidence digital thread. The architecture deliberately standardizes semantics, safe states, protection and proof rather than selecting one universal connector. No system receives interface closure or rendering credit until independently built modules pass representative fault-injected mission threads.
+Pass 17 replaces the preliminary interface list with a controlled [Common Resilience Technical Architecture](common-technical-architecture.md). Ten common primitives now carry fifty boundary contracts, four degraded modes, five machine-action authority classes, a minimum data contract, twelve physical exploration bands and a configuration/evidence digital thread. The architecture deliberately standardizes semantics, safe states, protection and proof rather than selecting one universal connector. No system receives interface closure or rendering credit until independently built modules pass representative fault-injected mission threads.
 
 ## Make, buy and mobilize
 

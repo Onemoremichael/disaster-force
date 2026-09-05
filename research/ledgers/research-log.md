@@ -803,3 +803,38 @@ All twenty workbook sheets were rendered and visually inspected. Eighteen of twe
 ### Gate and stop decision
 
 The proving network advances to a facility requirement architecture, not construction or operating readiness. No parcel is selected, no safety case is closed and no cost is independently estimated. Vehicle renderings remain prohibited. The next gain is a configuration-level reference design for one flagship paired with the system family it must test, or a platform-specific common-interface allocation that exposes actual test ports and failure modes.
+
+## Pass 19 — Research information architecture
+
+### Research question
+
+How should a growing, modular strategic research program be organized so a new reader encounters its causal argument, an expert can enter a domain thread, and a skeptical reviewer can audit evidence and assumptions without reconstructing eighteen passes from a flat file list?
+
+### Diagnosis
+
+The repository's numbered sequence accurately recorded production history but had become a weak information architecture. The root README exposed thirty research papers and nine workbooks as a chronological catalog followed by one continuously lengthening status paragraph. This made three different structures difficult to see:
+
+1. the causal structure of the argument, from hazard consequence through public effect, formation, national readiness, innovation and proof;
+2. the modular structure of the work, in which institution, common architecture, domain engineering, economics and evidence serve different reader needs; and
+3. the epistemic structure, in which a sourced fact, configuration balance, maturity state and unresolved test gate must not blur together.
+
+### Architecture decisions
+
+1. Replace the flat numbered corpus with eight stable intellectual layers: foundations, institution, architecture, capabilities, innovation, economics, synthesis and ledgers.
+2. Retain pass chronology only where chronology is useful: this research log, commit history and merge history.
+3. Give every paper a semantic path intended to survive future revisions; new work enters by conceptual function rather than the order in which it is written.
+4. Turn the root README into a strategic landing page that leads with the proposition, causal argument, present findings, maturity boundary and next frontier.
+5. Create a research atlas that explains how the layers connect, supplies strategy, engineering, innovation and audit reading routes, and centralizes the maturity grammar.
+6. Convert the model README from nine serial mini-essays into a single catalog organized by analytical level, governing question, companion paper and current state.
+7. Preserve one authoritative home for each argument while using links to compose reading paths; avoid duplicating whole findings merely to make navigation convenient.
+8. Keep the rendering gate prominent in every entry surface. A cleaner repository must not make provisional platforms look more mature than they are.
+
+### Migration and verification
+
+Thirty-four existing research documents were moved without deleting their content. Cross-document and workbook-companion references were recalculated from each document's new location rather than patched as a small set of global strings. The resulting corpus contains a compact root landing page, a detailed research atlas, a model catalog and the unchanged cumulative synthesis.
+
+A repository-wide Markdown link audit resolved 160 local file references and found zero missing targets. A stale-path scan found no references to the retired numbered filenames; the one numerical pattern returned was a LaTeX equation rather than a path. Whitespace validation also passed.
+
+### Gate and continuation decision
+
+This pass changes navigation and conceptual ownership, not the maturity of any system. It creates no new readiness credit, cost claim or rendering authority. The substantive frontier remains the first-principles Nuclear Water–Energy Platform study: compare incident-entry and prelicensed-node architectures; separate the protected energy core from process and distribution elements where evidence warrants; and close electrical, thermal, water, pipeline, marine, licensing, workforce, availability and lifecycle balances against non-nuclear alternatives before choosing form.

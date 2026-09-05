@@ -79,17 +79,22 @@ The project initially holds political feasibility constant. It does not hold phy
 - A formula-driven workbook in real 2026 U.S. dollars with editable assumptions, force inventories, acquisition schedules, operations and support, workforce, industrial capacity, scenario outputs, sensitivity analysis, and source provenance.
 - Requirement sheets and visual briefs for every rendered platform, including mission, environment, payload, endurance, interfaces, crew, safety, and unresolved engineering questions.
 
-## Pass structure and publication discipline
+## Corpus architecture and publication discipline
 
-Each pass is developed on a dedicated branch, reviewed for internal consistency, committed with a detailed message, pushed, merged into `main`, and pushed again.
+The research is organized by intellectual function rather than by the order in which it was written:
 
-1. **Foundations:** empirical baseline, first-principles framework, terminology, and design reference mission method.
-2. **Force architecture:** doctrine, readiness, geographic posture, command, workforce, and common capability threads.
-3. **Mission engineering:** quantify design reference missions, service minima, demand curves, dependency chains, and time-to-effect requirements.
-4. **Systems:** derive purpose-built maritime, aviation, ground, infrastructure, space, communications, medical, and autonomous families from the mission requirements.
-5. **Economics:** capitalization, recurring cost, industrial base, workforce, exports, and benefits model.
-6. **Operations:** compound scenarios, deployment timelines, capacity analysis, and failure modes.
-7. **Synthesis and visuals:** strategic implications, final report integration, and research-grounded renderings.
+1. **Foundations** establish evidence rules, the empirical problem, service measures, mission engineering, and design reference missions.
+2. **Institution** derives the Department, services, commands, components, workforce, posture, and force-generation system.
+3. **Architecture** controls shared technical primitives, authority, degraded operation, interoperability, and the platform gate.
+4. **Capabilities** derive complete cross-domain and hazard-specific formations, then bind them to configuration models and evidence gates.
+5. **Innovation** defines the invention, manufacturing, independent test, proving, and transition state required to move beyond current technology.
+6. **Economics** connects mission demand to inventory, capital, workforce, recurring cost, industrial capacity, and sensitivity.
+7. **Synthesis** integrates the modular research into the strategic argument.
+8. **Ledgers** preserve sources, open questions, contradictions, and the chronological audit trail.
+
+Each pass is still developed on a dedicated branch, reviewed for internal consistency, committed with a detailed message, pushed, merged into `main`, and pushed again. The pass number belongs in the research log and commit history; it does not belong in the permanent filename unless chronology is itself the subject.
+
+New work should have one authoritative conceptual home and link outward rather than duplicating its argument across layers. Stable semantic filenames should survive revisions. The root README is a strategic landing page, the research atlas is the navigation and maturity map, the model catalog explains executable artifacts, and the synthesis is the cumulative manuscript.
 
 ## Modeling conventions
 
