@@ -90,9 +90,11 @@ annual avoided loss_j = expected gross annual loss_j
 
 The calculation is deliberately narrow. It excludes unpriced strategic access, humanitarian obligations, public confidence, distributional outcomes, ecosystem preservation, industrial learning, export capacity, and deterrence-like value. Probability, severity, addressability, and causal effectiveness are design assumptions rather than official estimates.
 
-## Reference-case outputs
+## Historical reference-case outputs
 
-The reference case currently produces:
+This workbook preserves the project's first Department-wide scale screen. It is still useful for sensitivities and for the original $1T-versus-$2.24T contradiction, but it is no longer the authoritative force-generated order of battle. Pass 23's [joint force allocation study](../institution/joint-force-allocation-and-order-of-battle.md) derives complete formation families, component credit, movement, reception and regeneration from the ten-campaign promise.
+
+The historical reference case produces:
 
 | Output | Reference result | Interpretation |
 |---|---:|---|
@@ -128,7 +130,7 @@ The output does not establish that the mature Department “costs $2.24 trillion
 - whether the Department buys complete formations or counts equipment without people and sustainment; and
 - concept unit costs that have not passed engineering definition or independent estimation.
 
-The workforce result is also a force-design hypothesis. It indicates the institutional order of magnitude created by complete crews, shifts, maintenance, engineering, healthcare, community stabilization, acquisition, science, schools, depots, and logistics. It is not derived from current agency staffing and should not be used as a transition headcount.
+The workforce result is a top-down hypothesis. It is not derived from current agency staffing and should not be used as a transition headcount. The later bottom-up allocation model reaches roughly 3.95 million affiliated billet-equivalents under different and more complete assumptions. That result does not prove a new headcount; it demonstrates that the 302,000-active/396,500-reserve screen cannot generate the current formation-level promise.
 
 The operating result demonstrates a structural fact even if its point estimate changes: a serious standing force creates an annual readiness obligation larger than the average annual capital tranche. The mature institution cannot be financed as a temporary construction program.
 
@@ -154,15 +156,10 @@ The learning calculation is not used as the controlling portfolio cost because a
 
 The saved workbook contains no detected spreadsheet error values. Twelve of thirteen model-integrity checks pass. The remaining check correctly reports `REVIEW` because the bottom-up portfolio exceeds the selected top-down envelope by more than the stated tolerance. Low, high, and reference control cases were exercised after export and restored to reference.
 
-## Next model work
+## Continuation into the joint allocation model
 
-1. Derive campaign package coefficients directly from population-service-time demand, throughput, cycle time, setup, distribution, and duration.
-2. Replace concept unit costs with sourced parametric ranges, reference-class forecasts, and independent risk distributions after requirements mature.
-3. Separate sovereign core, assured industrial, mobilization reserve, commercial, and allied inventory in the force-sizing equation.
-4. Add platform age, maintenance, depot, attrition, overhaul, block upgrade, and recapitalization schedules.
-5. Build occupation-level workforce, school capacity, qualification time, shift, rotation, and reserve activation models.
-6. Model geographic posture and lift as a damaged-network problem rather than a national aggregate.
-7. Replace the avoided-loss scenario with service-specific mortality, morbidity, displacement, downtime, productivity, and distributional benefit functions, with explicit double-counting controls.
-8. Use probabilistic ranges only after each uncertainty has a defensible distribution or structured expert-judgment protocol.
+The joint model advances three of this paper's open problems: it separates permanent federal, reserve, state/territorial, certified-industry and partner components; creates a formation-level readiness and allocation ledger; and tests movement and reception as explicit constraints. It also integrates the National Utility Projection System once through a common work-breakdown boundary.
+
+The next work is no longer another top-down scenario. It must configuration-model representative heavy engineering, mobility, theater-opening, health and community formations; build item-level damaged-network movement; translate billet-equivalents into occupation pipelines and home-base minimum staffing; and produce an independent Department-wide work breakdown and campaign/regeneration trial.
 
 These steps should precede the first vehicle rendering. The model should determine which system concepts advance to physics closure, not rationalize concepts already selected for visual appeal.

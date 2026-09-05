@@ -1015,3 +1015,67 @@ All twenty-three sheets were rendered and visually inspected. The review found a
 The next work must build a compatible national data spine; publish parcel alternatives and rejections; construct population-service-time catchments; model damaged-route movement and joint hazard covariance; solve regional, island and inland reference systems; run source-neutral full-mission substitution; build queue, repair and class-hold reliability models; derive workforce pipelines; obtain independent cost and schedule evidence; and reconcile the utility program with every other Department work breakdown.
 
 No rendering is authorized. The first eventual network visual must show wet/back pairs, corridors, source classes, basins, damaged-route time bands, hazard covariance, alternate anchors, service catchments and exact allocations under simultaneous campaigns. A map of attractive dots or a portrait of the fleet would claim knowledge this pass does not possess.
+
+## Pass 23 — Joint force allocation and national order of battle
+
+### Research question
+
+What complete Department-wide order of battle, component structure, movement and reception system, workforce and fiscal frame follow when the `3C + 5M + 2G + 20R` promise is applied to all operating domains through one force-allocation ledger?
+
+### Structural decision
+
+The repository is reorganized around a three-move argument—need, force and proof—rather than an accumulating list of programs. The root README now states the thesis, current answer, four-document reading path, major concept reversals and evidence gate. The research atlas explains how foundations, capability engineering, institution, architecture, innovation and economics form one chain. Pass chronology remains here as an audit record.
+
+The Department receives a permanent force-management constitution. Assignment, apportionment, allocation, commitment and availability are separate states. A Joint Force Coordinator validates requests and develops sourcing options but neither owns formations nor waives technical authority. A complete formation, not an individual platform or person, is the unit of national readiness credit.
+
+### Order of battle
+
+The reference case instantiates ten simultaneous compound campaigns: three catastrophic domestic, five major domestic and two invited global. Thirty-four permanent formation families span joint integration, land engineering, air response, maritime response, infrastructure restoration, health protection and community stabilization.
+
+Readiness is the minimum of material, qualified personnel, movement, reception and sustainment/network capacity. Selected inventory is the maximum required by complete readiness, 72-hour demand, enduring component credit and global eligibility. Committed, preparing, regenerating and residual available pools remain separate.
+
+Five components are modeled with distinct early, enduring and global credit: permanent federal, federal reserve, state/territorial guard, certified industrial force and partner/allied. Ownership does not imply identical employability.
+
+The ten packages commit 1,750 formation-equivalents and about 714,490 people simultaneously. Formation rotations, component shares, the integrated National Utility Projection System and 12% non-utility institutional overhead produce about 3,944,956 affiliated billet-equivalents:
+
+- about 1,969,590 permanent federal;
+- 916,984 federal reserve;
+- 552,051 state/territorial;
+- 493,874 certified-industry; and
+- 12,458 partner/allied supported equivalents.
+
+This supersedes the earlier 302,000-active/396,500-reserve result as the current force-generated reference case. It does not validate a four-million-person organization. It demonstrates that the earlier top-down screen cannot generate the present campaign promise.
+
+### Enabling-force contradiction
+
+The force does not close merely because formation inventory clears its declared readiness equations. The reference packages contain about 11.58 million tonnes of deployable mass. Under the provisional channel shares and throughput rates, strategic air, tactical air, inland-water and land-route movement are short; ocean sealift closes narrowly.
+
+Every damaged-theater reception screen is short. Required buildup throughput ranges from roughly 64,000 to 252,000 tonnes/day, while provisional opening-command capacity ranges from 19,500 to 78,000 tonnes/day. This is the pass's most important finding. It redirects the next research from additional platforms toward a public-service Joint Deployment and Distribution Enterprise: route and node repair, ports, airfields, inland terminals, responder bases, staging, alternate reception, communications, sustainment and return flow.
+
+The aggregate daily sustainment signal is about 148,250 tonnes/day and closes under the simplified command-capacity assumption. This is not treated as a success claim because utility-source fuel, clinical supply, water and waste, repair, industrial replenishment and regeneration burdens remain incomplete.
+
+### Integrated fiscal frame
+
+One provisional work breakdown prevents the major programs from being added several times. Non-NUPS formation acquisition is $4.943T. The integrated NUPS enters once at $1.698T. Non-utility bases, science and proving, workforce infrastructure, common information systems and strategic industry add $3.4T. A 20% explicit reserve adds $2.008T, for total reference capital of $12.049T.
+
+Mature annual operations are about $858.15B: $436.04B personnel, $267.23B formation and enabling-system O&M, $34.88B training and stock rotation, $45B deployments and exercises, $25B industrial readiness and $50B continuous research and test. Mature operations equal 89.2% of the $961.6B FY2026 DoD request used as a comparison only. Mature operations plus average capital are about $1.340T/year; the 25-year buildup averages $1.113T/year and peaks at $1.464T in 2041 under the reference phasing.
+
+All costs are design assumptions in real 2026 dollars. The integrated frame is not an independent estimate, and earlier technology, proving, fire and flood exploration envelopes are not automatically additive.
+
+### Evidence and verification
+
+Official Joint Chiefs of Staff, U.S. Transportation Command, FEMA, Coast Guard and GAO sources bound the force-management, Mission Ready Package, whole-unit generation, mobility-enterprise, risk and reset analogues. The FY2026 DoD budget request supplies one explicit fiscal comparator. These sources justify variables and institutional distinctions; they do not validate the workbook coefficients.
+
+The 27-sheet workbook contains controls, force-planning terms, campaign set, formation catalog, package matrix, campaign demand, readiness vectors, component doctrine and mix, inventory, force pools, component credit, workforce, mobility, reception, sustainment, command allocation, capital WBS, annual resources, operating cost, fiscal parity, double-count control, failure modes, twenty evidence gates, sources and twenty-one top-level checks.
+
+All twenty-seven sheets were rendered and visually inspected. The first render exposed a workbook-wide whitespace defect caused by styling unused rows; the generator was corrected and all sheets were regenerated. A second audit corrected truncated titles and misleading number formats for crew sets, force ramp and personnel rates. Re-import reproduced the principal workforce, capital, operating and parity values. Formula-error scanning found no spreadsheet error values, and the XLSX archive passed integrity testing.
+
+Fifteen top-level checks pass. Two operational checks fail intentionally: mobility and reception do not close. Four fiscal, evidence and rendering states remain `OPEN`. These are research results, not spreadsheet defects.
+
+### Gate and continuation decision
+
+The Department-wide force advances to `R1/R2` institutional definition with `R2+` arithmetic. It does not have validated formation configurations, movement schedules, damaged-node throughput, occupation supply, home-base minima, independent cost or full campaign/regeneration evidence.
+
+The next pass should configuration-model the theater-opening and strategic-mobility system as one national deployment and distribution enterprise. It should use item-level loads, origins, routes, cycles, ports, airfields, inland terminals, weather, fuel, maintenance, alternate nodes, responder bases and return flow. A heavy land, acute-care and community formation should then be added to test whether the formation coefficients and workforce survive configuration detail.
+
+No rendering is authorized. The model allocates formation effects and enabling systems; it does not determine vehicle or facility form.
