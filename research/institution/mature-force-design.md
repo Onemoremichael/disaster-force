@@ -491,7 +491,7 @@ This is an industrial component of the establishment, not ordinary procurement. 
 
 ## Provisional mature scale
 
-The current quantitative workbook yields approximately 302,000 active and 396,500 reserve personnel under its reference assumptions. Those figures are useful as an order-of-magnitude warning, not as a validated table of organization. They imply a national establishment large enough to sustain permanent regional forces, strategic commands, schools, depots, laboratories, acquisition organizations, and several simultaneous campaigns. They do not yet prove the correct allocation among them.
+The original quantitative workbook yielded approximately 302,000 active and 396,500 reserve personnel. Pass 23's [joint force allocation study](joint-force-allocation-and-order-of-battle.md) supersedes that top-down screen as the current force-generated reference. Its thirty-four formation families and ten simultaneous campaigns produce about 714,000 people deployed and 3.95 million affiliated billet-equivalents after rotation, components, institutional depth and the integrated utility force. Neither result is a validated table of organization; the scale jump is evidence that the earlier workforce did not generate this paper's mature promise.
 
 A coherent mature posture would contain, at minimum:
 
@@ -505,7 +505,7 @@ A coherent mature posture would contain, at minimum:
 - community interface detachments, forward stations, regional complexes, strategic mobility bases, depots, arsenals, ship and aviation maintenance, laboratories, and proving grounds; and
 - force-generation depth sufficient for `3 catastrophic + 5 major + 2 global + 20 percent residual reserve` unless later demand modeling changes that standard.
 
-The next national order-of-battle model must allocate the 302,000/396,500 hypothesis by formation and qualification, not divide it by service percentages. Until power, health, access, fire, mobility, and community groups receive configuration studies comparable to WRG-50, a precise unit count would be manufactured certainty.
+The joint allocation model now distributes the force by formation and component rather than service percentage. Its coefficients remain provisional. Strategic movement and all ten damaged-theater reception screens fail, and heavy engineering, health, mobility, community and theater-opening formations still lack configuration-level evidence.
 
 ## Decisions that reject institutional preservation
 
@@ -588,7 +588,7 @@ The WRG-50 proved that a seemingly simple output can imply a large formation and
 4. **Aerial Hazard-Control Wing** — cycle time, base network, weather, payload, accuracy, availability, maintenance, loading system, ground-force integration, and delivered objective yield.
 5. **Theater-Opening Command** — port, airfield, rail, road, barge, cargo handling, staging, responder base, movement control, alternate-node, and daily-throughput model.
 
-Only after at least one heavy technical formation, one labor-dense care formation, one mobility formation, and one theater-support formation close to R3 should the Department set a stable national order of battle. Until then, the mature structure in this paper is the correct organizational hypothesis and the configuration studies are its falsification program.
+The provisional order of battle now exists as a falsifiable allocation model. It should not become stable force structure until at least one heavy technical formation, one labor-dense care formation, one mobility formation, one community formation and one theater-support formation close to R3 and survive a joint campaign-and-regeneration trial.
 
 ## Bottom line
 

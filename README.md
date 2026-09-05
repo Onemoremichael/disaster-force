@@ -1,98 +1,92 @@
 # Disaster Force
 
-> What would the United States build if saving lives, controlling environmental catastrophe, and restoring essential systems were treated as a coequal instrument of national power?
+> What would the United States build if restoring life-support systems after catastrophe were treated as a coequal instrument of national power?
 
-Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**: not a larger coordinating agency, a civil branch of the military, or a fleet assembled from retired defense equipment, but a purpose-built operating institution with its own services, commands, laboratories, schools, depots, industrial base, and deployable formations.
+Disaster Force is a first-principles research program for a cabinet-level **Department of Resilience**. It is not a plan to enlarge an existing emergency agency, create a benevolent auxiliary to the military, or find new uses for retired equipment. It begins from a different national promise: the United States will be able to project water, power, medical care, mobility, communications, hazard control and civil stabilization at strategic scale, at home and abroad, through purpose-built forces that can be used repeatedly.
 
-The premise is intentionally unconstrained by near-term political feasibility. The analysis is not unconstrained by physics, time, workforce, safety, law, environmental consequence, industrial capacity, or public authority. Those constraints are the design material.
+The thought experiment assumes a political green light. It does not assume away physics, time, geography, workforce, industrial capacity, safety, public authority or environmental consequence. Those are the design material.
 
-## The proposition
+## The thesis
 
-Modern disasters are rarely single emergencies. They are coupled failures of water, power, health, mobility, communications, shelter, logistics, public works, and local administrative capacity. A serious response institution therefore cannot be designed around individual vehicles or agency inventories. It must be designed around **population service restored over time**.
+Modern catastrophe is a campaign of coupled system failures. A hurricane is also a port problem, a power problem, a water and wastewater problem, a hospital problem, a communications problem, a housing problem and a crisis of local administrative capacity. A wildfire becomes a health, evacuation, grid, insurance, water and community-continuity event. An earthquake may destroy the very routes and nodes a response force expects to use.
 
-The project works backward from that public effect. It asks what must happen, by when, in what operating environment, through which damaged interfaces, with which workforce and sustainment system. Only then does it admit a formation or platform for study.
-
-The canonical vocabulary matters:
-
-- the **Department of Resilience** is the cabinet institution that holds public authority and national responsibility;
-- the **National Resilience Establishment** is the larger system of services, commands, laboratories, ranges, schools, depots, reserves, suppliers, standards, and partner institutions that generates capacity; and
-- the **Resilience Force** is the set of certified formations actually ready for employment.
-
-An appropriation, an equipment inventory, and an operational capability are not the same thing.
-
-## The argument
+That changes the unit of analysis. The project does not begin with a ship, aircraft or robot. It begins with a **population-service deficit over time** and works backward to the complete operating formation, receiving infrastructure, workforce, industrial base and evidence needed to close it.
 
 ```text
-hazard and cascading failure
-            ↓
-population service deficit × time
-            ↓
-mission thread and public-effect standard
-            ↓
-deployable formation + theater-opening system
-            ↓
-national readiness, concurrency, and regeneration
-            ↓
-science, industry, acquisition, and independent proof
+catastrophe
+    ↓
+people without essential service × time
+    ↓
+public effect and completion standard
+    ↓
+complete formation + movement + damaged-theater reception
+    ↓
+national concurrency, sustainment and regeneration
+    ↓
+science, industry, acquisition and independent proof
 ```
 
-This sequence is the repository's organizing logic. Pass chronology is preserved in the [research log](research/ledgers/research-log.md), but it no longer determines where the work lives or how a reader encounters it.
+The cabinet institution is the **Department of Resilience**. The larger system of services, commands, laboratories, schools, ranges, depots, reserves, suppliers, standards and partners is the **National Resilience Establishment**. The certified formations available for employment are the **Resilience Force**. An appropriation, an equipment inventory and an operational capability are not the same thing.
 
-## What the research has changed so far
+## The emerging answer
 
-The work has already rejected several attractive but incomplete ideas. Nominal production capacity is not delivered public service. A desalination plant without intake, concentrate control, pipe, pressure zones, storage, quality assurance, wastewater, and distribution is not a water capability. A generator without network survey, protection, transformation, conductors, fuel, thermal protection, and transfer authority is not a restored grid. An airtanker fleet without detection, base cycles, airspace, durable ground line, structure protection, and hold is not fire control. A pump fleet without intake, route, receiving water, interior drainage, and breach control is not hydraulic control.
+The force now has an institutional spine.
 
-The configuration studies make those distinctions concrete:
+The Department contains six operating services, joint geographic and functional commands, a separate civil authority, independent technical authorities, a technology enterprise, a proving network and an industrial mobilization system. Its national planning promise is `3C + 5M + 2G + 20R`: three catastrophic, five major and two invited global campaigns at once, with twenty percent immediately employable reserve in every scarce effect.
 
-| Question | Current design-study result | What it means |
-| --- | ---: | --- |
-| Does the initial $1T capital tranche buy the illustrative full force? | Bottom-up portfolio about $2.24T | The present force assumptions and the capital constraint do not reconcile; the mismatch remains visible. |
-| What surrounds a 50,000 m³/day deployable water utility? | About 23,500 t dry and 2,720 deployed people | Treatment equipment is a minority of the complete formation problem. |
-| What surrounds a 100 MW deployable electric utility? | About 13,900–30,800 t dry, depending on network reuse | The state of the receiving grid can dominate generation choice. |
-| What does distributed fire readiness buy? | Earlier interception, but not necessarily positive closure | The alert network and campaign force solve different time regimes. |
-| What survives from 100 m³/s of nominal flood pumping? | 36.551 m³/s in the reference trapped-basin screen | Formation utilization, head, intake, and debris can erase most nameplate capacity. |
-| What does peer technological ambition imply? | $750B, $2T, and $4.5T alternative 25-year cases | A true innovation state is a laboratories–ranges–manufacturing–test enterprise, not a larger equipment budget. |
-| What makes a mobile strategic utility usable? | A prepared, source-neutral Resilience Utility Anchor—not merely a berth | The node is a strategic base with hazard, marine, grid, water, corridor, authority, environmental, workforce, and exercise systems. |
-| What turns utility prototypes into an assured national instrument? | A 26-zone anchor network, a ten-campaign force, about 198,200 billets, and a $1.698T capital hypothesis | National utility projection is a command, posture, workforce, industrial, and regeneration system—not a fleet purchase. |
+The new [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) turns that promise into a Department-wide reference order of battle. Thirty-four formation families across command, engineering, air, maritime, infrastructure, health and community stabilization generate about 714,000 people simultaneously deployed in the ten-campaign stress case. After rotation, components, institutional depth and the integrated utility force are included, the model reaches about 3.95 million affiliated billet-equivalents.
 
-These are transparent, editable thought-experiment outputs—not forecasts, acquisition estimates, or claims of verified performance.
+That number is intentionally disruptive. It supersedes the earlier 302,000-active/396,500-reserve figure as the current force-generated reference case. It is not validated headcount. It proves that the earlier top-down screen and the mature campaign promise cannot both be treated as settled.
 
-## Read the project
+The deeper finding is operational. Formation inventory largely closes under the stated assumptions, but four of five strategic-movement channels and all ten damaged-theater reception screens fail. The Department's center of gravity is therefore not a fleet of heroic machines. It is a public-service equivalent of a joint deployment and distribution enterprise: ports, airfields, inland terminals, route opening, responder bases, communications, sustainment, replacement and technical release designed together with the operating force.
 
-For the shortest strategic route, begin with the [strategic study](research/synthesis/strategic-study.md), then read the [Department of Resilience](research/institution/department-of-resilience.md), [mature force design](research/institution/mature-force-design.md), [National Utility Projection System](research/institution/national-utility-projection-system.md), and [technology frontier](research/innovation/technology-frontier.md).
+The provisional work breakdown reaches $12.05T in 25-year capital and about $858B in mature annual operations. These are scale hypotheses, not estimates. They make the equal-effort premise concrete and preserve unresolved overlaps instead of compressing the institution to fit a symbolic $1T number.
 
-For the analytical route, begin with [first principles](research/foundations/first-principles.md), continue through the [mission-engineering method](research/foundations/mission-engineering-method.md) and [design reference missions](research/foundations/design-reference-missions.md), then enter a water, power, fire, or flood engineering thread.
+## Four documents define the project
 
-For the audit route, use the [research atlas](research/README.md), [model catalog](models/README.md), [evidence-gap ledger](research/ledgers/evidence-ledger.md), and [source ledger](research/ledgers/source-ledger.md). They expose assumptions, unresolved questions, and the boundary between sourced fact and design choice.
+Start with the [strategic study](research/synthesis/strategic-study.md) for the cumulative argument. Read the [Department of Resilience](research/institution/department-of-resilience.md) for the zero-based institution, the [joint force allocation study](research/institution/joint-force-allocation-and-order-of-battle.md) for the national force and its constraints, and the [technology frontier](research/innovation/technology-frontier.md) for the invention state required to create capabilities that do not yet exist.
 
-## Repository architecture
+The [research atlas](research/README.md) opens the derivation by layer. The [model catalog](models/README.md) maps each quantitative workbook to the claim it tests. The [evidence ledger](research/ledgers/evidence-ledger.md) is the fastest way to see what remains unknown.
+
+## What the work has learned
+
+Several apparently obvious concepts have not survived complete-system analysis.
+
+| Attractive object | Complete capability revealed by the research |
+| --- | --- |
+| Desalination ship | Source qualification, treatment, power, intake, residuals, pipe, pressure, storage, quality authority, wastewater, distribution and civil transfer |
+| Mobile generator fleet | Network survey, isolation, grid formation, protection, transformation, conductors, fuel, thermal safety, operations and utility handoff |
+| Airtanker armada | Detection, verification, airspace, bases, sortie cycles, objective yield, durable line, structure defense, ground hold and smoke protection |
+| Flood pump fleet | Forecast and trigger, intake, head, route, receiving water, barriers, breach control, interior drainage, debris, access and environmental closure |
+| Floating nuclear utility | Segmented source system plus prepared, source-neutral utility anchors, corridors, licensed authorities, maintenance and rival energy pathways |
+| National equipment catalog | Complete formations, components, force allocation, strategic movement, reception, sustainment, regeneration and the institutional force |
+
+The quantitative consequence is consistent across domains: the dramatic machine is usually a minority of the real system. A 50,000 m³/day water formation is about 23,500 tonnes dry and 2,720 deployed people in the reference configuration. A 100 MW power formation ranges from about 13,900 to 30,800 tonnes depending on the receiving network. One 100 m³/s flood-pumping portfolio yields 36.551 m³/s in the trapped-basin screen after formation and hydraulic losses. A national utility-projection system requires twenty-six candidate anchor zones, about 198,200 billets and a $1.698T capital hypothesis—not merely a fleet purchase.
+
+These are editable thought-experiment outputs. They are neither forecasts nor acquisition estimates.
+
+## How the repository is organized
+
+The repository follows the argument rather than the order in which the work was written.
 
 ```text
 research/
-├── foundations/     problem definition, empirical baseline, missions, and service levels
-├── institution/     Department, services, force generation, and operational grammar
-├── architecture/    common system rules, interfaces, autonomy, and requirement control
-├── capabilities/    cross-domain concepts and water, power, fire, and flood engineering
-├── innovation/      frontier research portfolios and the national proving network
-├── economics/       force, capital, workforce, and industrial-scale modeling logic
-├── synthesis/       integrated strategic manuscript
-└── ledgers/         source provenance, research gaps, and pass history
+├── foundations/     missions, public effects, service levels and evidence rules
+├── institution/     Department, services, commands, components and force generation
+├── architecture/    shared interfaces, degraded modes, autonomy and requirement control
+├── capabilities/    complete water, power, fire, flood, mobility and care systems
+├── innovation/      frontier programs, laboratories, ranges and independent test
+├── economics/       workforce, industrial and fiscal consequences
+├── synthesis/       the integrated strategic manuscript
+└── ledgers/         sources, open evidence and the research history
 
-models/              editable workbooks; the only non-Markdown research artifacts for now
+models/              editable quantitative arguments; the only non-Markdown research artifacts
 ```
 
-The [research atlas](research/README.md) explains how these layers connect and offers several guided reading paths. The [model catalog](models/README.md) maps each workbook to its analytical question and companion paper.
+Chronology survives only as an audit trail in the [research log](research/ledgers/research-log.md). New work enters by intellectual function, and every important claim should have one authoritative home, one visible maturity state and one path into the synthesis.
 
-## Evidence and maturity
+## Evidence before imagery
 
-Every consequential claim is classified as sourced fact, derived estimate, design-study assumption, or normative choice. Systems progress from verbal mission (`R0`) through functional definition (`R1`), bounded configuration (`R2`), physics closure (`R3`), and formation closure (`R4`). A workbook that balances arithmetically has not proved physical performance.
+Claims progress from a verbal mission (`R0`) to functional architecture (`R1`), bounded concept (`R2`), first-order configuration (`R2+`), closed physics (`R3`) and demonstrated formation (`R4`). A green workbook check means that formulas and declared relationships reconcile. It does not mean that a system will work.
 
-No major platform has reached `R3`. **Renderings remain deferred** until the relevant mass, energy, flow, heat, structure, stability, crew, maintenance, shore-interface, safety, and lifecycle balances close. When visualization begins, it will show complete operating systems and their support formations—not isolated heroic objects.
-
-## Current frontier
-
-The [National Utility Projection System](research/institution/national-utility-projection-system.md) now carries the strategic-utility work from one formation to a national operating system. It places a unified Utility Projection Command over twenty-six candidate anchor complexes: ten regional coastal, eight island or remote, six inland or Great Lakes, and two full-mission integration complexes. Every anchor is a wet or source node paired with a hazard-dissimilar back node, pre-engineered corridors, service cells, alternate reception, resident bridge capacity, and independent technical authorities.
-
-The force is sized by the Department's ten simultaneous utility campaigns rather than by analogy to a naval fleet. Under the explicit availability assumptions, seven simultaneous large-source slots require fifteen `NEC-300`-equivalent units to clear a 95% independent-availability screen; five compact slots require twelve `NEC-60`-equivalent units. Fourteen non-nuclear firm-energy units and source-neutral interfaces prevent that arithmetic from becoming a reactor order. The complete hypothesis reaches about 198,200 billets, $1.698T in 25-year capital, and about $119B in mature annual operations.
-
-Those figures are scale tests, not estimates or recommendations. The next frontier is a compatible national data spine, real parcel alternatives, population-service catchments, damaged-route and hazard-covariance models, solved regional/island/inland utility cases, fleet queues and correlated holds, workforce pipelines, independent cost evidence, and full source-substitution trials. Renderings remain blocked until those gates close.
+No major platform has reached `R3`. Renderings remain deferred until mass, energy, flow, heat, structure, stability, crew, maintenance, movement, reception, safety and lifecycle evidence close for the complete operating system. When visualization begins, it will show the machine together with the infrastructure and formation that make its public effect real.

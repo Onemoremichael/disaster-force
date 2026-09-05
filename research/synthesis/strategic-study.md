@@ -79,7 +79,7 @@ Pass 5 finds that:
 2. Applying the `3C + 5M + 2G + 20R` standard to provisional capability packages and availability factors produces the first owned-inventory hypothesis. The equation is transparent, but the package coefficients still require direct derivation from population-service-time demand.
 3. Under current illustrative quantities, average unit costs, non-recurring engineering, bases/tooling, and risk allowances, the bottom-up concept portfolio is approximately $2.24 trillion. The workbook therefore reports `REVIEW`: the full concurrency force and the $1 trillion tranche are not reconciled.
 4. The mismatch creates an explicit strategy choice among more capital, lower concurrency, higher availability, greater reliance on assured industrial/commercial/allied capacity, or less costly system concepts. It is not resolved with an unlabelled plug.
-5. The reference workforce hypothesis is approximately 302,000 active and 396,500 reserve personnel, with about 29,700 annual accessions at maturity. This reflects complete crews, shifts, maintenance, health, community, acquisition, science, education, depot, and logistics functions—not a transition estimate based on current agencies.
+5. The historical workforce screen is approximately 302,000 active and 396,500 reserve personnel, with about 29,700 annual accessions at maturity. Pass 23 supersedes it as the current force-generated reference; the earlier figure remains useful only as a top-down comparison.
 6. Mature annual operations are approximately $187.9 billion under reference assumptions, including about $99.1 billion in active and reserve personnel cost. The 25-year undiscounted real-dollar capital-plus-operating resource requirement is approximately $4.44 trillion.
 7. The initial avoided-loss model returns approximately $30.8 billion annually and $535.5 billion in 25-year present value, but deliberately omits strategic, humanitarian, distributional, ecological, confidence, and industrial values. Its probability, severity, addressability, and effectiveness inputs are scenario assumptions rather than causal evidence.
 8. The model is more useful as a falsification and research-priority instrument than as a point estimate. Its one material warning—the capital gap—is preserved; twelve other integrity and reconciliation checks pass, no spreadsheet error values were detected, and low/reference/high selectors were exercised after export.
@@ -130,7 +130,7 @@ Pass 8 finds that:
 9. Civil-objective, operational, technical and administrative authorities remain distinct. For every phase and effect, one command is supported and the others support it; this makes the complete civilian outcome more important than a service's individual output.
 10. Deployment is divided into anticipatory posture, find/connect, open/protect, substitute life support, expand/repair, and transfer/regenerate. Arrival is an intermediate event; the reporting object is sustainable service followed by a transfer without a service cliff.
 11. Readiness is governed by the weakest critical link among qualified people, equipment, stocks, movement, reception, sustainment, interfaces and authority. Committed, ready, preparing and recovering pools must be reported separately, and rotation factors must differ by formation and exposure.
-12. The current 302,000-active/396,500-reserve hypothesis establishes only an order of magnitude. A stable national order of battle should wait until a heavy technical formation, labor-dense care formation, mobility formation and theater-support formation receive configuration studies comparable to WRG-50.
+12. The 302,000-active/396,500-reserve hypothesis establishes only a historical order-of-magnitude screen. Pass 23's bottom-up joint allocation case exposes its underfit, while representative heavy technical, care, mobility, community and theater-support formations still require configuration studies.
 13. Acquisition programs should procure formation increments: platform, crews, replacement, transport, reception, data, sustainment, repair, training, waste, transfer, bases and recapitalization. A platform lot is not a ready effect.
 14. Five evidence gates—analytical, command-post, deployment, endurance/replacement, and transfer/regeneration—must be passed before the organizational hypothesis becomes a program of record.
 
@@ -368,6 +368,25 @@ Pass 22 asks what happens when strategic water–energy capacity becomes a natio
 12. All eighteen evidence gates remain open. Candidate parcels, compatible data, population-service catchments, hazard covariance, damaged-route distributions, regional/island/inland utility engineering, source substitution, fleet queues, correlated holds, workforce supply, industry, cost, authority and Department-wide work-breakdown reconciliation must close before readiness or rendering credit.
 
 See the [National Utility Projection System](../institution/national-utility-projection-system.md) and editable [national utility projection workbook](../../models/national-utility-projection-system.xlsx).
+
+## Joint force allocation and national order of battle
+
+Pass 23 asks what the Department-wide force becomes when every service, campaign and enabling system must use one allocation ledger.
+
+1. The Department needs a permanent force-management system separating assignment, apportionment, allocation, commitment and availability. A unit may support several plans but can be committed to only one operation at a time.
+2. The `3C + 5M + 2G + 20R` promise is instantiated as ten simultaneous compound campaigns and thirty-four permanent formation families across joint command, land engineering, air, maritime, infrastructure, health and community stabilization.
+3. Readiness is the minimum of material, qualified personnel, movement, reception and sustainment capacity. Inventory is the maximum required by complete readiness, early-response credit, enduring-component credit and global eligibility—not demand divided by one average availability.
+4. Five components contribute different kinds of capacity: permanent federal, federal reserve, state/territorial guard, certified industrial force and partner/allied. Ownership share does not equal immediate, enduring or global employment credit.
+5. The reference packages deploy about 714,000 people and commit 1,750 formation-equivalents simultaneously. Rotation, components, non-utility institutional overhead and the integrated NUPS workforce produce about 3.95 million affiliated billet-equivalents.
+6. This result supersedes the earlier 302,000-active/396,500-reserve screen as the current force-generated reference. It is not validated headcount; it demonstrates that the earlier top-down result cannot generate the present order of battle.
+7. Formation readiness arithmetic closes, but the enabling architecture does not. Four of five aggregate movement channels are short; ocean sealift closes narrowly. All ten damaged-theater reception screens are short.
+8. The daily formation-sustainment screen closes at about 148,000 tonnes/day only under coarse coefficients that omit several utility, clinical, waste, repair and regeneration burdens. It is a research warning, not a logistics plan.
+9. A single provisional work breakdown counts non-utility formations, NUPS, bases, science and proving, workforce infrastructure, common information systems, strategic industry and reserve once. It reaches $12.049T in 25-year capital.
+10. Mature operations screen near $858B/year. Mature operations plus average capital reach about $1.340T/year; the reference buildup averages about $1.113T and peaks near $1.464T. The FY2026 DoD request is used only as a seriousness comparator, not an accounting-equivalent ceiling.
+11. The Department's center of gravity is a joint deployment and distribution enterprise for public service: movement, damaged-node reception, responder bases, sustainment, replacement, technical release and regeneration designed with the operating force.
+12. Twenty evidence gates remain open. Representative formation configurations, item-level movement, damaged-node throughput, occupation pipelines, home-base minimum staffing, independent cost, Department-wide WBS reconciliation and a full campaign/regeneration trial must close before validation or rendering.
+
+See [Joint Force Allocation and National Order of Battle](../institution/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
 
 ## Material limitations and disagreements
 
