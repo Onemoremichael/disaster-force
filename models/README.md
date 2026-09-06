@@ -4,6 +4,8 @@ The workbooks are executable design arguments. They connect public demand to cap
 
 All monetary values are real 2026 U.S. dollars unless a sheet states otherwise. Source-backed inputs, derived quantities and design assumptions are distinguished inside each workbook. An intentional `OPEN` check identifies a research contradiction; it is not a spreadsheet defect.
 
+This page is deliberately a catalog because each workbook must have an explicit decision owner and maturity statement. It is not the project narrative. Read the [strategic study](../research/synthesis/strategic-study.md) for the argument, the [research map](../research/README.md) for the proof architecture and the [active frontier](../research/frontier.md) for current status.
+
 ## The main model lineage
 
 ```text

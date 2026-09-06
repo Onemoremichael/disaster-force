@@ -1,73 +1,65 @@
-# Force-design spine
+# Force design
 
-The Resilience Force is easier to understand as four coupled machines than as a catalog of formations.
+The Resilience Force is a system for converting a public guarantee into ready, deployable and regenerable service capacity. It has two inseparable halves.
 
-> generate service capacity → project it into damage → move people through danger → receive and sustain them
+The **generating establishment** recruits professions, develops doctrine, acquires complete formations, maintains bases and stocks, certifies readiness and regenerates the force after use. The **employing force** combines those formations across geography and time to protect communities, control hazards, restore lifelines, project service and move people when staying is unsafe.
 
-The research is organized as four operating subsystems rather than a shelf of papers. Older results remain useful as model lineage, but later configuration work supersedes their headline arithmetic where noted.
+Neither half is an equipment catalog. The operative object is a complete formation with command, labor, access, sustainment, safety, rights and transfer authority—not a nominal production asset.
 
-## The canonical path
+## The operating chain
 
-### 1. Generate a national force
+```text
+GENERATE
+people · formations · stocks · bases · evidence
+    │
+    ▼
+PROJECT ───────────────► PROTECT LOCALLY
+capacity through damage   occupied communities
+    │                           │
+    ├────────► CONTROL ◄────────┤
+    │          hazards          │
+    ▼                           ▼
+RESTORE LIFELINES         SELECTIVE MOVEMENT
+    │                     collection · reception · return
+    └──────────────┬────────────┘
+                   ▼
+          CIVIL TRANSFER & REGENERATION
+```
 
-The [generation subsystem](generation/README.md) defines components, readiness, services, commands, authorities, bases and generation cycles. Its order of battle sizes the first Department-wide reference against three catastrophic, five major and two invited global campaigns plus immediate reserve.
+[Generation](generation/README.md) owns what must exist before the event: services, components, professions, formation families, readiness cycles, commands, bases, depots and the order of battle.
 
-These papers answer **what must exist before an event**. They do not yet prove that the formations fit through movement and destination constraints.
+[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, theater opening, onward distribution, responder basing, sustainment, reverse flow and regeneration under correlated network loss.
 
-### 2. Project it through damaged networks
+[Reception](reception/README.md) treats fixed sites, surviving buildings, utility interfaces, stocks, records, inspection and labor as force capacity. Service does not become complete merely because a mobile module arrives.
 
-The [projection subsystem](projection/README.md) joins origin, strategic movement, reception, onward movement, responder basing, sustainment, reverse flow and regeneration. Its 72-hour force creates six independently originated paths so the loss of any two cells does not automatically defeat first service entry.
+[Mobility](mobility/README.md) owns the distinct civil chain for people who cannot safely remain: household contact, accessible collection, transfer, line haul, destination admission, continuity and return.
 
-These papers answer **how capacity reaches a region despite covariance**. Their continuous-mass timing is superseded by the indivisible configuration studies below.
+Population continuity and hazard-control systems cross those operating subsystems. They are engineered in [mission systems](../systems/README.md) and contested jointly in [campaigns](../proving/campaigns/README.md).
 
-### 3. Make the delivered increment complete
+## Formation logic
 
-[Public-service pod configuration](projection/service-entry-pod-configuration.md) defines `PSP-10` as the smallest indivisible package of command, access, base, water, food, shelter, sanitation, power, communications, health and hazard control. Ten complete pods—not fractional tonnes—close the reference effect contract.
+A formation is derived from a service deficit, not from a platform. It must declare:
 
-The pod result is then compiled by [population continuity](../systems/population-continuity/README.md). `PCC-50` assigns services to explicit populations; `PCC-D1` configures one complete 1,000-person occupied district. That physical configuration supersedes the pod's earlier shelter allowance and breaks the mobile-only hour-72 screen.
+- the population and service bundle it owns;
+- the time to first safe effect and time to full operating state;
+- the duration and degraded conditions it must survive;
+- the indivisible personnel, equipment, stock and interface package;
+- its dependency on prepared local capacity and other echelons;
+- the rotation, maintenance, training and replacement depth behind one deployed unit; and
+- the authority and civil handoff required to end the mission without a service cliff.
 
-### 4. Move people as complete civil-service chains
+The force therefore has neighborhood, district, regional, national and invited international echelons. Smaller echelons create contact, access and immediate continuity. Larger echelons bring deep engineering, utility production, strategic mobility, specialized medicine, campaign sustainment and national regeneration. Scale does not imply that every capability belongs at the top.
 
-The [mobility subsystem](mobility/README.md) begins where evacuation doctrine usually stops. It distinguishes door-to-node collection, protected transfer, multimodal line-haul, destination admission and return. Its reference force uses observed national network gates, five mutually exclusive movement cohorts, four purpose-built fleets, two transfer-node classes, route-restoration groups, commands and bases.
+## Current doctrine
 
-Pass 33 found that a universal-access architecture could average 97.8-percent national closure while passing the joint distributional rule in only 13.8 percent of trials. Its restorable multimodal mesh then crossed the provisional target at 98.8 percent under one fixed distribution. [Civil Mobility Assurance Under Deep Uncertainty](mobility/mobility-assurance-under-deep-uncertainty.md) breaks that apparent result: `A2` passes only 7.6 percent of 1,000 broad parameter worlds, while protected-local continuity passes 99.8 percent.
+The strongest current design judgment is **robust local protection first, selective movement when the building, hazard, medical condition, duration or restoration path makes continued occupancy unsafe**.
 
-The frontier is therefore not a larger line-haul fleet. Four tract pilots first exposed collection delay, and the first `CTN-10` configuration turned a nominal node into a 29,263-m², 4,513-t, 2,289-person formation hypothesis. The [Harris County campaign](../proving/campaigns/harris-county/README.md) couples the full seam and creates the `NCAC` requirement below the regional transfer node.
+That doctrine emerged because complete population movement is limited not only by seats or corridors but by household contact, accessible collection, family and caregiver continuity, destination capacity and return. It does not eliminate mobility. It makes mobility one complete service chain inside a wider continuity force.
 
-The first [`NCAC-35` configuration](mobility/neighborhood-continuity-and-access-cell.md) establishes the organizational consequence. Its assured conventional cell contains 7,587 deployed people and 6,388 packed tonnes. It closes the base case and eight physical loss cases but fails the hour-36 household-contact requirement when commercial communications and cloud services are lost. The distributed technology target closes all ten required arithmetic cases through unproved offline records, higher building-access productivity, and lighter prepared-district interfaces. Neither is admitted.
+The resulting neighborhood seam is owned provisionally by `NCAC-35`: a formation that must create disconnected awareness, enter buildings, establish local utilities and communications, protect civil rights, perform accessible collection and connect neighborhoods to regional systems. Its conventional and technology-forward architectures remain unproved.
 
-### 5. Treat destination readiness as force capacity
+## What this layer can claim
 
-The [reception subsystem](reception/README.md) makes fixed sites, surviving buildings, utility interfaces, stocks, records, inspection, labor and civil release a coequal operational force. National Receiving Geography then joins thirty-two population-weighted catchments, concurrent receiver damage, four movement modes and destination intake.
+Force papers may define formation structure, readiness, command and employment and may close a bounded campaign on declared inputs. Mission-system papers own component physics. Campaigns own geographic integration. Assurance owns evidence maturity. Programmatics owns the capital, workforce and industrial consequences after the force requirement is explicit.
 
-This is the mobility force's destination half: **the baseline force is both capacity-limited and geography-limited**. Only 2,355.80 CDE survive against 2,500 demanded; baseline corridors serve 2,066.42 CDE. Even frictionless transfer cannot close the aggregate deficit.
-
-## Supersession map
-
-| Earlier result | What replaced it | Current use |
-| --- | --- | --- |
-| Hour-60 continuous first-wave closure | Indivisible `PSP-10` pod timing | Historical lower bound only |
-| Hour-71 independent-essential pod | Configured `PCC-50` and `PCC-D1` | Technology target lineage only |
-| 15,152.86-t first `PCC-50` pod | 14,451.07-t district-propagated mobile pod | Independent mobile reference |
-| 11,302.77-t receiver case with 80% fixed credit | 11,612.76-t capacity-weighted NRL case with 72.1% fixed credit | Current balanced reference |
-| National N-2 capacity closure | Population-weighted concurrent geography | Aggregate screen only; national closure denied |
-| Sixteen equal regions | Thirty-two connected population-weighted SCAs | Historical stress screen only |
-| Receiver transfer | Population relocation into surviving receivers | Capacity does not move; people and rights do |
-| Abstract corridor multiplier | National Civil Mobility and Continuity Force | Current fleet, node, workforce and stochastic reference |
-| National mean closure | Joint total, protected-cohort and bottom-decile rule | Current architecture admission test |
-| Fixed-distribution `A2` admission | Broad parameter worlds and tract collection | `A3` is the robust reference; `A2` becomes a nested mobility subsystem |
-| 220-person `CTN-10` crew | Complete queue, utility, mass and relief screen | 2,289-person provisional formation; national workforce reopened |
-| Protected-local continuity as a sufficient architecture | Harris County coupled building-to-return campaign | Protection remains doctrine, but requires an assured `NCAC` access layer; `H3` is test-only |
-| `NCAC` as a small interface detachment | `NCAC-35` task, loss, workforce, mass, utility and finance configuration | Brigade-scale conventional development reference; disconnected access remains the governing failure |
-
-## Supporting papers
-
-The [generation](generation/README.md), [projection](projection/README.md), [mobility](mobility/README.md) and [reception](reception/README.md) indexes are the stable navigation layer. Individual papers own bounded decisions inside each subsystem.
-
-The campaign papers test the force against geography. The capability papers close the physical service systems. The architecture papers govern shared interfaces and rendering admission. The model catalog identifies the executable argument behind each decision.
-
-## Current research decision
-
-Retain protected-local continuity as national doctrine and the restorable multimodal mesh as a nested rescue, selective-relocation and return subsystem. Advance `A2 NCAC-35` as the conventional development reference and `S3` as the technology target; admit neither.
-
-The different-city replication is preregistered as a New York vertical heat-blackout campaign, and the representative 168-hour evidence ladder is configured. The first `L0` geographic rehearsal stopped before outcomes because tract-polygon adjacency did not satisfy the registered local-street test. Pass 41 replaces that proxy with official `LION 26b` node-and-level topology and preserves every provisional reference across three graph screens. Pass 42 binds the empty architecture and campaign result universe; Pass 43 registers the primary hierarchical stress-world generator and populates only its twelve factor columns. The population and building covariates remain incomplete, borough is still a service-territory proxy, alternative dependence and causal-feasibility cases remain open, holdout commitments lack salted external custody and no independent team has reproduced the corrected selection or generator. Those controls must close before either architecture is run. All twenty `NCAC` gates remain open. No platform rendering is authorized.
+The [supersession map](../history/supersession-map.md) records which earlier force conclusions were displaced and what remains useful from them. The [active frontier](../frontier.md) contains the current experiment and stop conditions so this page can remain a stable statement of force logic.

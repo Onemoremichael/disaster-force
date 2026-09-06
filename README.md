@@ -1,74 +1,91 @@
-# Disaster Force: a second instrument of national power
+# Disaster Force
 
-> What would the United States build if preserving and restoring civilian life-support after catastrophe were treated as a coequal instrument of national power?
+## A second instrument of national power
 
-This repository develops a first-principles answer: a cabinet-level **Department of Resilience** that can generate, project and regenerate civilian life-support at national scale. The object is not a catalog of emergency equipment. It is a complete public institution: legal authority, operating services, commands, professions, laboratories, proving grounds, bases, depots, industrial mobilization and a purpose-built force.
+> What would the United States build if preserving and restoring civilian life-support after catastrophe were treated as seriously as projecting military force?
 
-The premise is intentionally unconstrained by the present organization chart. Existing agencies, military units, utilities, firms and nonprofits are evidence and possible transition sources; none is allowed to define the mature system by inheritance. The research asks what physics, geography, time, workforce, rights, safety and repeated national readiness require if political authorization is assumed.
+This repository develops a first-principles answer: a cabinet-level **Department of Resilience** with the people, formations, commands, bases, laboratories, industrial capacity and purpose-built systems required to guarantee civilian survival and recovery at national scale.
 
-## The strategic claim
+It is not a proposal to enlarge the existing disaster-response bureaucracy. It does not begin with FEMA, emergency grants, surplus military equipment or a preferred fleet. Existing institutions are evidence and possible transition material; they do not define the mature design. The inquiry begins with the public effect that must be achieved under extreme damage and works backward to the state capacity that would make that effect credible.
 
-The United States should possess a second system of national power projection. The military system is organized to deter or impose outcomes across distance. The resilience system would be organized to **preserve life, defeat environmental isolation, restore essential services and stabilize civil society across distance**.
+## The strategic inversion
 
-Its unit of account is not a platform, appropriation, tonne moved or responder dispatched. It is:
+The United States has developed an extraordinary apparatus for generating combat power, moving it across distance, sustaining it in hostile conditions and rebuilding it after use. Environmental catastrophe presents a different mission but a comparable systems problem: society must preserve water, power, thermal safety, health, food, sanitation, communications, mobility and civil order when ordinary networks fail together.
+
+The proposed inversion is from episodic assistance to an enduring guarantee.
+
+| The inherited paradigm | The resilience-power paradigm |
+| --- | --- |
+| mobilize after a declaration | maintain ready formations before impact |
+| coordinate fragmented owners | assign one sovereign owner for service continuity |
+| count assets and commodities | measure safe service delivered to defined populations |
+| improvise around surviving infrastructure | combine prepared local systems with projected capacity |
+| treat movement as evacuation | guarantee collection, consent, accessibility, reception and return |
+| buy available technology | use mission failure to drive new science, engineering and industry |
+
+The thought experiment assumes full political authorization and sustained investment at defense-like scale. It asks what should be built under that greenlight, not what today’s institutions or appropriations process would tolerate. Fiscal analysis therefore follows the derived force and tests its consequences; it does not shrink the mission until it resembles the present system.
+
+This makes resilience more than domestic response. A force able to restore life-support across broken geography is also a strategic stabilizer, an allied assurance instrument, a technology engine and the foundation of a new export economy. Its legitimacy, however, rests on a civil purpose: preserving agency and life rather than compelling political outcomes.
+
+## The unit of power
+
+The central unit of account is:
 
 > **a defined population receiving a defined bundle of safe service by a stated time, for a stated duration, under stated damage.**
 
-That standard changes the force. A desalination plant without intake, energy, residual control, pipe, pressure, storage, testing and operators is not water service. A hospital without utilities, staff, supply, referral, patient movement and discharge is not health capacity. A transport seat without accessible collection, lawful custody, destination admission, continuity and funded return is not civil mobility.
+That sentence disciplines the entire design. A desalination plant without intake, energy, residual control, pipe, pressure, storage, testing and operators is not water service. A hospital without utilities, workforce, supply, referral, patient movement and discharge is not health capacity. A vehicle seat without household contact, accessible collection, lawful custody, destination admission and funded return is not civil mobility.
 
-## The force that follows
+Platforms matter, but only as components of an effect-complete chain.
+
+## The system being designed
 
 ```text
-PUBLIC OBLIGATION
+PUBLIC GUARANTEE
+what must remain true for people
         │
         ▼
 DEPARTMENT OF RESILIENCE
-sovereign authority, appropriations, standards and accountability
+authority · rights · standards · appropriations · accountability
         │
         ▼
 NATIONAL RESILIENCE ESTABLISHMENT
-people · formations · bases · stocks · science · industry · receiving capacity
+professions · formations · bases · stocks · science · industry
         │
-        ▼
-READY RESILIENCE FORCE
-        │
-        ├── protects occupied communities near home
-        ├── controls hazards and restores lifelines
-        ├── projects complete service through damaged networks
-        └── moves, receives and returns people when staying is unsafe
-        │
-        ▼
-VERIFIED PUBLIC EFFECT
+        ├───────────────┬────────────────┬────────────────┐
+        ▼               ▼                ▼                ▼
+PROTECT LOCALLY   CONTROL HAZARDS   PROJECT SERVICE   MOVE & RECEIVE
+occupied places   lifeline repair   through damage    when stay fails
+        └───────────────┴────────────────┴────────────────┘
+                                │
+                                ▼
+                    VERIFIED CIVILIAN EFFECT
+                                │
+                                ▼
+                      REGENERATION AND LEARNING
 ```
 
-The mature institution is therefore not a larger emergency-management coordinator. It is a standing force-generation system coupled to local continuity, hazard control, utility restoration, service projection, civil mobility and reception. It must remain useful between catastrophes, survive common-mode failure, regenerate after employment and learn through an evidence enterprise with the power to reject favored designs.
+Five coupled machines follow from that logic: force generation; protected-local continuity; hazard control and lifeline restoration; service projection; and civil mobility, reception and return. A sixth function surrounds them: an independent evidence and innovation system able to prove, reject and replace favored designs.
 
-The repository mirrors that causal chain. It begins with the condition owed to the public, derives the institution and force required to guarantee it, closes individual service systems against physics, then tries to break the integrated design in real geography. Budget and industrial consequences follow the force design; they do not quietly resize the promise.
+This architecture is deliberately more ambitious than preserving the present organization chart. It implies new operating services, a territorial continuity layer, unified regional commands, a civil resilience authority, a national proving network, a dedicated acquisition system and an industrial base capable of serially producing civil-effect systems from first principles.
 
-## What the research currently says
+## What the research has changed
 
-The original intuition emphasized spectacular purpose-built ships, aircraft and vehicles. Complete-service engineering repeatedly moved the center of gravity elsewhere.
+The project began with the intuition that spectacular purpose-built ships, aircraft and vehicles would dominate the force. Complete-service analysis changed the center of gravity.
 
-Water and power studies found that distribution, waste, inspection, construction and labor can dominate the production module. Fire and flood studies found that payload and pump nameplate do not equal controlled fire or water. Deployment studies found that apparently diverse routes can share fuel, communications, specialist labor, authority, inspection and repair. Population-continuity studies found that occupied area, human services and indivisible cargo can break an otherwise generous mobility promise.
+Water and power studies show that distribution, waste, inspection, construction and labor can outweigh the production machine. Fire and flood studies show that payload and pump nameplate do not equal controlled fire or water. Deployment studies show that apparently diverse routes can share decisive dependencies in fuel, communications, specialist labor, authority and repair. Population studies show that occupied buildings, individual support needs, family integrity and indivisible cargo can break an otherwise generous mobility plan.
 
-The strongest current doctrine is **robust local protection first, selective movement when the building, hazard, medical condition, duration or restoration path requires it**. The movement system still matters, but as one nested service chain that begins at a household and ends with reception and return—not as a universal answer.
+The resulting doctrine is **robust local protection first, selective movement when the building, hazard, medical condition, duration or restoration path makes staying unsafe**. This is not retreat from force projection. It is a deeper account of what must be projected, what must already exist in place and where the two systems meet.
 
-That result produced a new formation requirement: the **Neighborhood Continuity and Access Cell (`NCAC-35`)**, sized around a 35,000-person demand class. The conventional reference is already a 7,587-person, 6,388-tonne formation, yet it fails the hour-36 household-verification rule when commercial communications disappear. The technology rival closes the spreadsheet only through capabilities that do not yet exist at representative evidence: disconnected records, faster powered building access, lighter prepared districts and distributed communications. Neither architecture is admitted.
+That seam produced the current formation problem: the **Neighborhood Continuity and Access Cell (`NCAC-35`)**. It is the layer that must know who needs help, enter buildings, establish neighborhood utilities and communications, preserve rights, collect people who must move and connect them to regional service. The conventional reference is already brigade-scale. Its technology rival depends on capabilities that do not yet exist at representative maturity. Neither has been admitted.
 
-The active New York replication remains deliberately stopped before architecture modeling. Its first geographic rehearsal exposed deficiencies in street topology, demographic completion, holdout custody and independent reproduction. The topology correction replaces polygon contact with the official `LION 26b` node-and-level graph: the candidate universe changes from 844 to 847, but all twelve disclosed references and all three commitments remain unchanged across primary, strict and permissive screens. A separate control registers the full empty result surface—12,000 future worlds, 24,000 paired architecture rows and 2,000 campaign aggregates—without generating an outcome.
+## State of proof
 
-The next control fills only the twelve design factors in those 12,000 registered worlds. A deterministic hierarchical generator preserves exactly 1,000 centered Latin-hypercube strata per catchment–factor while coupling citywide, borough and catchment conditions through explicit loadings. Its first registered attempt passes every dependence tolerance; the complete target, achieved and deviation matrices are public. This is a stress surface, not an occurrence forecast, and borough remains a proxy for real service territories.
+The workbooks are executable design arguments, not validated systems. Most major configurations remain at first-order engineering maturity; no major platform has closed representative full-mission evidence. The active New York campaign remains sealed before architecture outcomes while its population, building, dependence, custody and reproduction controls are built.
 
-The first population and building input registration now binds 87 tracts to 156 official ACS estimate cells, published uncertainty, 456 catchment metrics and inherited NYC building-administrative proxies. It also proves why those records are not an operational population: margins do not reveal joint household–building dependencies, PUMS resolves only to PUMA, county medical-power counts cannot be assigned to catchments, and administrative building records do not establish outage operability. Synthetic persons, households and building states therefore remain empty. The refusal to manufacture those inputs is itself a design result: **experimental-world governance, evidence custody and civil-state measurement are force infrastructure**.
+Renderings remain deferred. Form should follow a sufficiently closed understanding of mass, energy, flow, heat, structure, crew, maintenance, safety, waste, degraded operation and public use—not lead it.
 
-## What is not claimed
+## Enter the work
 
-No major platform has reached representative engineering maturity. A reconciled workbook proves declared arithmetic, not field performance. A simulation is not a probability statement unless its distributions are empirically warranted. National scale cannot be established by multiplying an unproved module.
+Start with the [strategic study](research/synthesis/strategic-study.md) for the integrated argument. The [research map](research/README.md) explains how claims move from public obligation through force design and engineering to attempted falsification. The [active frontier](research/frontier.md) records the live decision, stop conditions and next connected research moves without turning every landing page into a progress log.
 
-Renderings remain deferred. The next useful image must communicate a system whose mass, energy, flow, structure, heat, crew, maintenance, safety, waste, movement and degraded operation are sufficiently closed to deserve a form.
-
-## Read the argument, not a file list
-
-For the integrated argument, read the [strategic study](research/synthesis/strategic-study.md). To interrogate how the answer is built, use the [research architecture](research/README.md): mandate → force → mission systems → proving. To inspect the live falsification frontier, enter the [New York campaign dossier](research/proving/campaigns/new-york/README.md) and follow its `L0` chain through [catchment selection](research/proving/campaigns/new-york/l0-catchment-rehearsal.md), [street topology](research/proving/campaigns/new-york/l0-street-topology-audit.md), [empty outcome registration](research/proving/campaigns/new-york/l0-empty-outcome-registration.md), [world-generator registration](research/proving/campaigns/new-york/l0-world-generator-registration.md) and [population–building input registration](research/proving/campaigns/new-york/l0-population-building-input-registration.md).
-
-The [model catalog](models/README.md) contains the executable arguments and sensitivity surfaces; workbooks are the only non-Markdown research artifacts. [Research history](research/history/README.md) preserves superseded answers without allowing chronology to govern the current design.
+The [model catalog](models/README.md) links the quantitative arguments and sensitivity surfaces. The [history](research/history/README.md) preserves discovery order and superseded findings without allowing chronology to govern the present design.
