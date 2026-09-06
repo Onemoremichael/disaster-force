@@ -1,6 +1,6 @@
 # Proving
 
-Proving combines geographic falsification, technology maturation and research assurance. Keeping those functions together prevents a clean laboratory result from bypassing the campaign failure it was meant to solve, or a persuasive campaign model from outrunning its evidence.
+Proving combines geographic falsification, technology maturation and research assurance. Keeping those functions together prevents a clean laboratory result from bypassing the campaign failure it was meant to solve, or a persuasive simulation from outrunning its evidence.
 
 ```text
 CAMPAIGN FAILURE
@@ -21,14 +21,10 @@ sources · uncertainty · rights · safety · reproducibility · maturity
                                         └── feeds the next campaign
 ```
 
-[Campaigns](campaigns/README.md) own the joint geography and chronology that a single capability cannot. They connect population, buildings, utilities, routes, entry, local protection, selective movement, receiving capacity, sustainment and return. Their sequence is cumulative: apparent closure in Cascadia fails under covariance; Harris County exposes the household–building–street seam; New York tests whether the resulting formation survives a different hazard mechanism and urban form.
+[Campaigns](campaigns/README.md) own the joint geography and chronology that a single capability cannot. They connect population, buildings, utilities, routes, entry, local protection, selective movement, receiving capacity, sustainment and return.
 
-The [test enterprise](test-enterprise/README.md) begins where that complete mission thread fails. It converts the failure into rival technical mechanisms, proving facilities, experimental units, integrated trials and acquisition transition conditions. It is allowed to produce no winner.
+The [test enterprise](test-enterprise/README.md) begins where a complete mission thread fails. It converts the failure into rival technical mechanisms, proving facilities, experimental units, integrated trials and acquisition transition conditions. It is allowed to produce no winner.
 
-[Assurance](assurance/README.md) governs what the evidence permits the study to say. The source ledger records provenance and bounded use. The evidence ledger records what observation, experiment, engineering closure and independent review would change or reject each major claim. A result cannot promote its own maturity.
+[Assurance](assurance/README.md) governs what the evidence permits the study to say. A source may establish an empirical boundary without validating a proposed system. A model may reconcile without establishing a probability distribution. A prototype may demonstrate a component without proving a formation. No result may promote its own maturity.
 
-## Current stop condition
-
-The New York architecture contest remains sealed. The operator-level [street-topology audit](campaigns/new-york/l0-street-topology-audit.md) satisfies the registered geometry correction with official `LION 26b` nodes and relative levels: it produces 847 candidates and preserves all twelve references across three declared graph screens. The [empty outcome registration](campaigns/new-york/l0-empty-outcome-registration.md) binds 12,000 future worlds, 24,000 paired architecture rows and 2,000 campaign aggregates. The [world-generator registration](campaigns/new-york/l0-world-generator-registration.md) then fills only the twelve design factors, with complete centered Latin-hypercube margins and declared within- and cross-catchment dependence. The [population and building input registration](campaigns/new-york/l0-population-building-input-registration.md) binds official demographic margins, published uncertainty and inherited building proxies while deliberately leaving synthetic people, households, operational buildings and every architecture outcome empty.
-
-Formal `L0` still requires an approved population–household–building compiler, governed medical-power and operational-building evidence, independent reproduction, validated service territories or independent approval of the borough proxy, causal feasibility and alternative-dependence registration, secure holdout custody and external countersignature. Until those controls close, neither `A2` nor `S3` may produce an outcome.
+The [active frontier](../frontier.md) is the canonical statement of the experiment now in motion and the controls keeping it sealed. This layer advances only through preregistered decisions, explicit missingness, independent reproduction and evidence capable of rejecting the preferred design.

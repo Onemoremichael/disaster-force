@@ -1,5 +1,7 @@
 # New York vertical heat-blackout replication protocol
 
+> Repository-wide decision state and stop conditions are maintained in the [active research frontier](../../../frontier.md). This dossier owns the complete New York protocol and its ordered evidence chain.
+
 **Protocol:** `DF-NYC-HB-PR38-v1`
 
 **Status:** preregistered design; operator topology, row universe, world generator and official input surface complete; synthetic state, formal `L0` and all campaign outcomes remain pending

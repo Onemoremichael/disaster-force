@@ -2002,3 +2002,40 @@ The evidence gap is a force requirement. A mature Department needs a privacy-pre
 The 18-sheet workbook contains the catchment dashboard, all tract and catchment metrics, building proxy surfaces, denominator audit, immutable source manifest, variable dictionary, HHS context, synthetic-state contract, validation gates, missingness and reliability ledgers, sources and twelve formula-backed integrity controls. Every control displays `PASS`; twenty-five formulas contain no detected `#REF!`, `#DIV/0!`, `#VALUE!`, `#NAME?`, `#N/A`, `#NUM!`, `#NULL!`, `#SPILL!` or `#CALC!` error; every sheet is rendered and visually inspected; and the archive passes structural validation.
 
 The workbook binary SHA-256 is `c6326024d523169a53f912cf0a62ed57e9c8cb30e0a7e7b14a3a1cac3353c268`. Independent reproduction, synthetic-state governance, operational building evidence, service territories, causal feasibility, alternate dependence cases and external custody remain open. No `NCAC` evidence gate advances and no rendering is authorized.
+
+## Pass 45 — Repository compass and active-frontier separation
+
+### Research-management question
+
+How can the repository remain intellectually cumulative as the evidence base grows, without making each landing page a longer list of files, pass numbers and campaign controls?
+
+### Diagnosis
+
+The burden-of-proof hierarchy introduced in Pass 40 remains sound: mandate, force, mission systems, proving, programmatics, synthesis and history own genuinely different claims. The newer problem was duplication across that hierarchy. Detailed New York status had propagated into the root README, research map, force map, mobility map, proving map, campaign map, innovation map and model catalog. Stable doctrine and moving experiment state were being rewritten together.
+
+That pattern created three risks. New readers encountered chronology before the strategic proposition. Maintainers had to reconcile the same stop condition across many pages. More importantly, research activity began to appear as a serial checklist rather than a connected attempt to revise the mature institution and force.
+
+### Information-architecture decision
+
+The repository now separates four reading jobs:
+
+- the root README is the intellectual prospectus: strategic inversion, unit of power, mature system, principal doctrinal revision and state of proof;
+- `research/README.md` is the proof map: burden of proof, claim ownership, reading routes and authority rules;
+- `research/frontier.md` is the sole repository-wide statement of the live decision, sealed experiment, connected next moves and binding gates; and
+- `research/history/supersession-map.md` owns the compact record of which later result displaced each earlier conclusion.
+
+Section landing pages now explain enduring responsibilities. Force design no longer carries a long archaeology table. Mobility no longer repeats the full New York `L0` chain. Proving, campaigns and the test enterprise point to the centralized frontier. The New York dossier retains its detailed protocol history because that chronology is evidence inside the campaign rather than global navigation. The workbook page remains deliberately catalog-like because every executable argument needs an explicit owner and maturity statement; it now says so and directs narrative readers elsewhere.
+
+Across the seven principal landing pages, excluding the new frontier, prose falls from 4,963 to 3,384 words and direct links fall from 74 to 57. The reduction does not remove research. It relocates volatile state into one 1,177-word decision record and stable supersession into history.
+
+### Research consequence
+
+The active frontier reframes the next population–household–building step. It is not merely a campaign preprocessing task. A Department able to act through damaged networks would need a permanent, rights-preserving civil-state production system: protected local records, official statistics, building operability and field observation reconciled without manufacturing false joint precision or creating a population-surveillance regime.
+
+That finding connects the New York compiler to force design, building preparation, disconnected operations, civil-rights authority, professional education and the technology portfolio. The frontier also restores the path back to the project’s original scale: after the neighborhood seam stabilizes, the national order of battle and 25-year industrial economy must be recomputed rather than inherited from earlier top-down envelopes.
+
+### Verification and next decision
+
+All relative Markdown links are checked from their owning files, all repository Markdown remains plain text, and no workbook binary or quantitative result changes in this pass. Detailed campaign records, source and evidence ledgers, and model ownership remain in place.
+
+The next substantive pass preregisters the civil-state compiler before any synthetic record is generated. Architecture outcomes remain sealed; no `NCAC` gate advances and no rendering is authorized.
