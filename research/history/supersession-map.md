@@ -17,5 +17,6 @@ The project advances by allowing later work to overturn an earlier result withou
 | 220-person `CTN-10` crew | Complete queue, utility, mass and relief screen | 2,289-person provisional formation; national workforce reopened |
 | Protected-local continuity as sufficient | Harris County building-to-return campaign | Doctrine retained, but an assured neighborhood access layer is required |
 | `NCAC` as a small interface detachment | `NCAC-35` task, loss, workforce, mass, utility and finance configuration | Brigade-scale conventional reference; disconnected access remains the governing failure |
+| PUMA-local donors as the preferred compiler pool | New York PUMS custody and support audit | Explicit local → adjacent → citywide ladder with hierarchical partial pooling, tier labels and no claim of tract observation |
 
 The [research log](research-log.md) supplies the full chronological audit. The [active frontier](../frontier.md) states the current decision and the controls that prevent the next result.
