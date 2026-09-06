@@ -18,7 +18,7 @@ The registered system preserves households, draws coherent uncertain targets, fi
 
 This is not an analytical convenience. It specifies a new sovereign capability: a rights-preserving **civil-state production system** able to represent who needs which service, with whom, in what class of occupied place and under what uncertainty. A Department of Resilience would need such a system before impact, through disconnected operations and during recovery. It would require its own data engineering, survey science, privacy, civil-rights, local-government, field-observation and independent assurance professions.
 
-The companion [registration workbook](../../../../models/nyc-l0-civil-state-compiler-registration.xlsx) contains the complete machine-readable method surface. Its sixteen formula-backed integrity controls pass. Workbook SHA-256 is `e75b0f24355d32de342855be98c2bc3b8e59db8949ba6d41641ab0fba0b77cdb`.
+The companion [registration workbook](../../../../models/proving/campaigns/new-york/nyc-l0-civil-state-compiler-registration.xlsx) contains the complete machine-readable method surface. Its sixteen formula-backed integrity controls pass. Workbook SHA-256 is `e75b0f24355d32de342855be98c2bc3b8e59db8949ba6d41641ab0fba0b77cdb`.
 
 No rendering is authorized.
 

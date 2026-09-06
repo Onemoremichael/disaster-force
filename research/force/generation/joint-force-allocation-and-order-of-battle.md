@@ -21,7 +21,7 @@ These figures are not an estimate, recommendation or forecast. They are the cons
 
 More importantly, buying the modeled formations does not close the force. Four of five strategic-movement channels are short, and all ten damaged-theater reception screens are short. Daily sustainment screens close only under coarse coefficients that exclude several likely dominant burdens. The binding design problem is therefore not simply how many specialized units to own. It is how to create a **Joint Deployment and Distribution Enterprise for public service under infrastructure failure**.
 
-The accompanying [joint force allocation workbook](../../../models/joint-force-allocation-model.xlsx) exposes every coefficient, component credit, formation demand, readiness vector, double-count boundary and evidence gate. No platform rendering is authorized by this study.
+The accompanying [joint force allocation workbook](../../../models/force/generation/joint-force-allocation-model.xlsx) exposes every coefficient, component credit, formation demand, readiness vector, double-count boundary and evidence gate. No platform rendering is authorized by this study.
 
 ## 1. The missing layer
 

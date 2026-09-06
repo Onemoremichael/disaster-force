@@ -2083,3 +2083,35 @@ The finding is institutional as much as statistical. A mature Department of Resi
 The operator method is now frozen, not executed. The next pass must acquire and commit the PUMS donor surface, implement the coherent target engine and public building-class compiler, run all deliberate failure tests and create a separately reproducible diagnostic package. Architecture outcomes remain inaccessible. Formal `L0` still requires independent reconstruction of the prior New York chain, salted external holdout custody, approved privacy thresholds, operational building and medical-power evidence or bounded unknown-state rules, actual service territories or approval of the borough proxy, causal-feasibility constraints and alternative dependence cases.
 
 No `NCAC` evidence gate advances and no rendering is authorized.
+
+## Pass 47 — Repository architecture as an argument
+
+### Research-management question
+
+How can a growing research program remain legible as one cumulative argument rather than presenting new readers with an expanding list of papers and workbooks?
+
+### Diagnosis
+
+The burden-of-proof structure introduced earlier was sound, but the repository still had two competing shapes. Written research followed mandate → force → mission systems → proving → synthesis, while all thirty-three quantitative models occupied one flat directory. The root README also performed too many jobs at once: prospectus, doctrine summary, architecture map, progress report and navigation page.
+
+That mismatch encouraged readers to interpret the work as an inventory of artifacts. It also obscured a substantive rule of the research: a workbook is allowed to influence only the decision owned by its layer. Campaign arithmetic cannot certify component physics; force allocation cannot validate a field rate; a balanced budget cannot quietly redefine the public guarantee.
+
+### Structural decision
+
+The model library now mirrors the research proof architecture. Workbooks are housed under mandate, programmatics, force generation/projection/reception/mobility, mission systems, geographic campaigns and the proving enterprise. All thirty-three tracked workbooks retain their filenames and Git history; every Markdown reference now resolves to the new location.
+
+The former model README becomes `models/CATALOG.md`, the exhaustive ownership and maturity record. A new `models/README.md` explains what the library is, how to inspect a model, how supersession works and why budgets are not automatically additive. This keeps necessary inventory from becoming the intellectual front door.
+
+The root README is rewritten as a compact strategic prospectus. It now moves from the national proposition to the Department, Establishment and Force; from the civilian-effect unit of account to force doctrine; and from technology ambition to industrial consequence and research discipline. Navigation appears only after the argument. The research README is correspondingly narrowed to the proof architecture, the relationship between papers and models, three reading paths and the authority rules that prevent a later or larger artifact from certifying itself.
+
+### Research consequence
+
+The new structure reinforces the project’s central inversion. This is not a growing catalog of ships, aircraft, vehicles or hazard programs. It is the design of a state capacity whose claims must survive a connected chain from public obligation to complete service, field evidence, force generation and industrial reproduction.
+
+That distinction matters as the New York campaign advances. The civil-state compiler is not permitted to become the center of the whole repository merely because it is the current technical task. It remains one proving artifact inside a larger argument about neighborhood access, protected-local continuity, civil rights, operational information, force composition and a national innovation system.
+
+### Verification and next decision
+
+All thirty-three workbook binaries remain tracked and byte-identical under their new paths. A repository-wide Markdown-link audit resolves every local target; the old flat workbook paths no longer appear in Markdown; whitespace and merge checks pass. No workbook calculation, research result, evidence maturity or active campaign seal changes in this pass.
+
+The substantive frontier remains implementation and independent reproduction of the registered New York civil-state compiler, beginning with immutable PUMS donor custody and support diagnostics. Architecture outcomes remain sealed, no `NCAC` gate advances and no rendering is authorized.

@@ -165,7 +165,7 @@ If the topology audit changes a catchment, the rejected composition and reason r
 
 The provisional catchments are good enough to focus the next evidence work and not good enough to begin the architecture contest. They should be used to prepare source-specific field-validation plans, utility and building sampling frames, privacy cases, empty data structures and the independent reproduction package. They should not yet be used to simulate `A2` versus `S3`, tune formation parameters, select equipment or authorize visual renderings.
 
-The companion [selection workbook](../../../../models/nyc-l0-catchment-selection.xlsx) exposes the complete candidate universe, tract evidence surface, thresholds, reference compositions, commitments, sensitivity analysis, source hashes and formula-backed checks. It intentionally marks salted custody as open even while its internal arithmetic passes.
+The companion [selection workbook](../../../../models/proving/campaigns/new-york/nyc-l0-catchment-selection.xlsx) exposes the complete candidate universe, tract evidence surface, thresholds, reference compositions, commitments, sensitivity analysis, source hashes and formula-backed checks. It intentionally marks salted custody as open even while its internal arithmetic passes.
 
 This is the larger institutional lesson. A coequal Department of Resilience does not prove seriousness by moving quickly from a compelling vehicle concept to acquisition. It proves seriousness by funding an evidence system capable of delaying its preferred design, discovering that its registered method is underspecified and repairing the defect before anyone can know which correction produces the better result.
 

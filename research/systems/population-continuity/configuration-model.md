@@ -20,7 +20,7 @@ This does not mean the mission is impossible. It means independence must be desi
 
 The institutional conclusion is more important than the exact mass: **population continuity is a primary force effect and deserves its own service architecture, acquisition programs, professions, proving facilities and industrial base.** It cannot remain the residue left after transport, medicine and utilities receive their platforms.
 
-The accompanying [Population Continuity Complex model](../../../models/population-continuity-complex-model.xlsx) contains twenty-one sheets covering cohorts, district topology, occupied area, shelter pathways, thermal loads, food production and distribution, water and residuals, energy alternatives, shift-complete labor, integrated pod cases, mobility ceilings, all fifteen two-cell-loss combinations, technology programs and fourteen evidence gates.
+The accompanying [Population Continuity Complex model](../../../models/systems/population-continuity/population-continuity-complex-model.xlsx) contains twenty-one sheets covering cohorts, district topology, occupied area, shelter pathways, thermal loads, food production and distribution, water and residuals, energy alternatives, shift-complete labor, integrated pod cases, mobility ceilings, all fifteen two-cell-loss combinations, technology programs and fourteen evidence gates.
 
 ## The correction: from capacity list to service bundle
 

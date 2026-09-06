@@ -6,7 +6,7 @@
 
 **Design class:** `NCAC-35`, a seven-day cell for approximately 35,000 people inside a bounded demand envelope
 
-**Companion model:** [Neighborhood Continuity and Access Cell model](../../../models/neighborhood-continuity-access-cell-model.xlsx)
+**Companion model:** [Neighborhood Continuity and Access Cell model](../../../models/force/mobility/neighborhood-continuity-access-cell-model.xlsx)
 
 ## Executive judgment
 

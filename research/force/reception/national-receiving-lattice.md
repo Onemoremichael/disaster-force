@@ -288,7 +288,7 @@ The NRL remains `R1/R2` with `R2+` arithmetic. All eighteen evidence gates remai
 
 ## Model
 
-The companion [National Receiving Lattice model](../../../models/national-receiving-lattice-model.xlsx) contains the service contract, four site classes, national inventory, eight-cell assurance structure, common-mode ladder, sixteen-region synthetic topology, spatial stress tests, fixed/mobile division, pod timing, partner layer, activation and inspection systems, building and utility passports, local stocks, workforce, industrial capacity, capital and twenty-five-year operations, rival architectures, technology programs, evidence gates, sources and checks.
+The companion [National Receiving Lattice model](../../../models/force/reception/national-receiving-lattice-model.xlsx) contains the service contract, four site classes, national inventory, eight-cell assurance structure, common-mode ladder, sixteen-region synthetic topology, spatial stress tests, fixed/mobile division, pod timing, partner layer, activation and inspection systems, building and utility passports, local stocks, workforce, industrial capacity, capital and twenty-five-year operations, rival architectures, technology programs, evidence gates, sources and checks.
 
 All seventeen integrity and decision checks pass, including the intentionally adverse clustered-demand check. The exported workbook was reopened, inspected across the principal decision ranges, scanned for spreadsheet errors and rendered on all twenty-seven sheets. Independent arithmetic reproduces assured capacity, mobile district mass, pod mass, movement time, clustered capacity, dense-lattice scaling and program expenditure.
 

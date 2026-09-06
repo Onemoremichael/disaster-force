@@ -27,7 +27,7 @@ No architecture wins both cases by label. A segmented floating nuclear system is
 
 The policy implication is larger than basing a reactor. A Department of Resilience should build a **National Utility Anchor Network** whose interfaces are source-neutral and whose peacetime operation improves the host system every day. Nuclear mobility is then one high-end plug-in to a durable civil architecture. Without the anchors, the fleet is inventory. With anchors but no mobile fleet, the nation still gains hardened microgrids, water security, emergency logistics, industrial capability and a repeatable place to exercise restoration.
 
-The accompanying [anchor alternatives workbook](../../../models/resilience-utility-anchor-alternatives.xlsx) is a transparent design study. It is not a site-selection model, nuclear safety analysis, environmental review, utility plan or cost estimate. Its two locations are archetypes, not recommendations. Its purpose is to expose constraints and reject false comparability before the program chooses places or shapes.
+The accompanying [anchor alternatives workbook](../../../models/systems/water/resilience-utility-anchor-alternatives.xlsx) is a transparent design study. It is not a site-selection model, nuclear safety analysis, environmental review, utility plan or cost estimate. Its two locations are archetypes, not recommendations. Its purpose is to expose constraints and reject false comparability before the program chooses places or shapes.
 
 ## 1. The node, not the vessel, is the strategic object
 
