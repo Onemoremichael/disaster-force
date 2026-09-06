@@ -21,7 +21,7 @@ The capital total is deliberately larger than the preceding $400B Nuclear Waterâ
 
 That result is not a recommendation to order twenty-seven reactors. It is a warning against designing a national institution around a dramatic demonstration fleet. The program must keep non-nuclear firm sources behind the same interfaces, fund rival pathways, model correlated holds, and allow nuclear to lose where a shore plant, renewable-storage network, repaired grid or conventional utility flotilla closes the same public-effect deficit more safely or cheaply.
 
-The accompanying [utility projection workbook](../../models/national-utility-projection-system.xlsx) makes the network, concurrency, reliability, workforce, capital and recurring-cost assumptions editable. The twenty-six geographic areas are **candidate screening zones**, not selected ports, parcels, licensed sites or funding recommendations. No rendering is authorized.
+The accompanying [utility projection workbook](../../models/mandate/national-utility-projection-system.xlsx) makes the network, concurrency, reliability, workforce, capital and recurring-cost assumptions editable. The twenty-six geographic areas are **candidate screening zones**, not selected ports, parcels, licensed sites or funding recommendations. No rendering is authorized.
 
 ## 1. Why a unified utility projection system
 

@@ -187,6 +187,6 @@ Eight gates still prevent population synthesis or architecture execution:
 
 The next useful pass should not synthesize records immediately. It should register the compiler algorithm, permissible evidence, privacy architecture, marginal and joint diagnostics, feasibility rules, ensemble size, rejection criteria and empty output surface first. Only then should a generator be allowed to create synthetic persons, households and building states.
 
-The [companion workbook](../../../../models/nyc-l0-population-building-input-registration.xlsx) contains the full tract and catchment surfaces, source manifest, variable dictionary, building proxies, medical-power context, synthetic schema, gate stack, missingness ledger, reliability classifications and integrity commitments.
+The [companion workbook](../../../../models/proving/campaigns/new-york/nyc-l0-population-building-input-registration.xlsx) contains the full tract and catchment surfaces, source manifest, variable dictionary, building proxies, medical-power context, synthetic schema, gate stack, missingness ledger, reliability classifications and integrity commitments.
 
 No vehicle, formation or site rendering is authorized.

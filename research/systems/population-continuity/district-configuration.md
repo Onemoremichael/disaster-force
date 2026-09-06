@@ -24,7 +24,7 @@ A deliberately dependency-bounded case in which 80 percent of the transformation
 
 The strategic conclusion is not “use tents” or “prebuild shelters.” It is that **receiving capacity is part of force projection**. Prepared ground, anchors, floors, protected utility interfaces, building-adapter kits, local stocks and continuously maintained records may purchase more time and resilience than another increment of transport. The receiving lattice must therefore be designed, funded, exercised and diversified as a weapons-system-scale national program.
 
-The accompanying [district model](../../../models/population-continuity-district-model.xlsx) contains twenty-six sheets covering geometry, zones, loads, the component bill of material, packed volume, mode positions, site work, task networks, crews, thermal and utility interfaces, degraded modes, alternatives, pod propagation, release timing, technology programs, evidence gates, sources and checks.
+The accompanying [district model](../../../models/systems/population-continuity/population-continuity-district-model.xlsx) contains twenty-six sheets covering geometry, zones, loads, the component bill of material, packed volume, mode positions, site work, task networks, crews, thermal and utility interfaces, degraded modes, alternatives, pod propagation, release timing, technology programs, evidence gates, sources and checks.
 
 ## Why the district is the correct design object
 

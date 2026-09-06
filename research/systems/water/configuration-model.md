@@ -6,7 +6,7 @@ Pass 7 converts the Water Restoration Group 50 (`WRG-50`) from a bounded archite
 
 The model is an engineering-research instrument, not a construction design. It distinguishes externally anchored values, formula-derived values, design choices, and assumptions requiring tests. A value does not become evidence because the spreadsheet can calculate it.
 
-The editable workbook is [`models/water-restoration-engineering.xlsx`](../../../models/water-restoration-engineering.xlsx).
+The editable workbook is [`water-restoration-engineering.xlsx`](../../../models/systems/water/water-restoration-engineering.xlsx).
 
 ## Reference configuration
 

@@ -4,7 +4,7 @@
 
 **Decision:** advance the protected-local assured neighborhood mesh (`H3`) only as the next test architecture. Admit no architecture as a national reference from this campaign.
 
-**Companion model:** [Harris County continuity and mobility campaign](../../../../models/harris-county-continuity-mobility-campaign.xlsx)
+**Companion model:** [Harris County continuity and mobility campaign](../../../../models/proving/campaigns/harris-county/harris-county-continuity-mobility-campaign.xlsx)
 
 ## Interim judgment
 

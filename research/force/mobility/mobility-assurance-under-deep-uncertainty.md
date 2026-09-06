@@ -368,5 +368,4 @@ No vehicle or node rendering is authorized. The next useful visual is an analyti
 
 ## Quantitative companion
 
-The [Civil Mobility Assurance model](../../../models/civil-mobility-assurance-model.xlsx) contains the 3,000 architecture-world results, parameter ranges, sensitivity screen, 2,430 tract records, sixteen analytical candidate nodes, `CTN-10` process and subsystem budgets, `UCM-8` configuration, workforce correction, sources, evidence gates and integrity checks.
-
+The [Civil Mobility Assurance model](../../../models/force/mobility/civil-mobility-assurance-model.xlsx) contains the 3,000 architecture-world results, parameter ranges, sensitivity screen, 2,430 tract records, sixteen analytical candidate nodes, `CTN-10` process and subsystem budgets, `UCM-8` configuration, workforce correction, sources, evidence gates and integrity checks.

@@ -15,7 +15,7 @@ The distinction changes the architecture. A reactor, desalination train, shore c
 
 This is less cinematic than a universal nuclear rescue carrier and substantially more ambitious. It treats mobile nuclear power as a national infrastructure system with its own receiving geography, regulatory architecture, serial production line, test facilities and fleet-generation model. It also makes the central negative finding visible: **for drinking-water production alone, nuclear energy is usually not the binding technology**. The strategic case rests on long endurance, fuel-independent firm power, simultaneous grid support, heat or cooling services, and repeated use at nodes where shore distribution already exists or can be rapidly established.
 
-The accompanying [N-WES configuration workbook](../../../models/nuclear-water-energy-system.xlsx) is a design-study model, not a reactor design, safety analysis, licensing application, marine classification package, cost estimate or acquisition recommendation. Its reference case is a 300 MWe-gross floating energy core supporting 100 MW of shore power and 100,000 m³/day of potable water. It keeps all consequential safety, siting, reliability and alternatives gates open.
+The accompanying [N-WES configuration workbook](../../../models/systems/water/nuclear-water-energy-system.xlsx) is a design-study model, not a reactor design, safety analysis, licensing application, marine classification package, cost estimate or acquisition recommendation. Its reference case is a 300 MWe-gross floating energy core supporting 100 MW of shore power and 100,000 m³/day of potable water. It keeps all consequential safety, siting, reliability and alternatives gates open.
 
 ## 1. Mission before mechanism
 

@@ -620,7 +620,7 @@ If the Department of Resilience treats power with the seriousness of force proje
 
 The next pass should turn this architecture into a configuration workbook. Its decisive comparison is not diesel versus batteries or mobile turbines versus nuclear power. It is how the complete `PRG-100` changes across **reuse, bypass, and rebuild** network states while delivering the same 100 MW net effect.
 
-That workbook is now complete at `R2+`. See [PRG-100 configuration model](configuration-model.md) and the editable [power-restoration engineering workbook](../../../models/power-restoration-engineering.xlsx). It expands the original sheet specification to 17 sheets so transformation, construction, fuel, thermal effects and evidence gates remain independently inspectable.
+That workbook is now complete at `R2+`. See [PRG-100 configuration model](configuration-model.md) and the editable [power-restoration engineering workbook](../../../models/systems/power/power-restoration-engineering.xlsx). It expands the original sheet specification to 17 sheets so transformation, construction, fuel, thermal effects and evidence gates remain independently inspectable.
 
 [^fema1019]: Federal Emergency Management Agency, [*Emergency Power Systems for Critical Facilities: A Best Practices Approach to Improving Reliability*, FEMA P-1019](https://www.fema.gov/sites/default/files/2020-07/fema_p-1019_final_02-06-2015.pdf), September 2014.
 [^sandia-guide]: Brooke M. Garcia et al., Sandia National Laboratories, [*Microgrid Conceptual Design Guidebook*](https://www.sandia.gov/research/publications/details/microgrid-conceptual-design-guidebook-2022-2022-04-19/), SAND2022-4842R, April 2022.

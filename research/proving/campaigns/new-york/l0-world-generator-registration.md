@@ -244,4 +244,4 @@ No `NCAC` evidence gate advances. No campaign performance result exists. No rend
 
 ## Registered artifact
 
-The companion [world-generator workbook](../../../../models/nyc-l0-world-generator-registration.xlsx) contains the algorithm, factor ranges, complete loading registry, variance allocation, target and achieved within-/cross-catchment matrices, 12,000 world vectors, all Latin-hypercube strata, marginal checks, dependence diagnostics, tail coverage, sources and formula-backed integrity checks.
+The companion [world-generator workbook](../../../../models/proving/campaigns/new-york/nyc-l0-world-generator-registration.xlsx) contains the algorithm, factor ranges, complete loading registry, variance allocation, target and achieved within-/cross-catchment matrices, 12,000 world vectors, all Latin-hypercube strata, marginal checks, dependence diagnostics, tail coverage, sources and formula-backed integrity checks.

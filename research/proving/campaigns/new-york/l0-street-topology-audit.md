@@ -214,6 +214,6 @@ Until all five close, the campaign remains sealed. No `A2` or `S3` outcome may b
 
 ## Audit artifact
 
-The companion [street-topology audit workbook](../../../../models/nyc-l0-street-topology-audit.xlsx) preserves the source manifest, filter funnel, three graph summaries, all 2,325 tract degrees, all 7,129 primary adjacency pairs and their witnesses, the 860-row union of polygon and street candidate IDs, exact reference reconciliation, sensitivity thresholds, unchanged commitments and formula-backed quality checks.
+The companion [street-topology audit workbook](../../../../models/proving/campaigns/new-york/nyc-l0-street-topology-audit.xlsx) preserves the source manifest, filter funnel, three graph summaries, all 2,325 tract degrees, all 7,129 primary adjacency pairs and their witnesses, the 860-row union of polygon and street candidate IDs, exact reference reconciliation, sensitivity thresholds, unchanged commitments and formula-backed quality checks.
 
 The earlier [catchment rehearsal](l0-catchment-rehearsal.md) remains the historical operator build. Its polygon-based candidate counts are not silently rewritten; this paper is the registered correction.

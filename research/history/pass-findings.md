@@ -86,7 +86,7 @@ Pass 5 finds that:
 7. The initial avoided-loss model returns approximately $30.8 billion annually and $535.5 billion in 25-year present value, but deliberately omits strategic, humanitarian, distributional, ecological, confidence, and industrial values. Its probability, severity, addressability, and effectiveness inputs are scenario assumptions rather than causal evidence.
 8. The model is more useful as a falsification and research-priority instrument than as a point estimate. Its one material warning—the capital gap—is preserved; twelve other integrity and reconciliation checks pass, no spreadsheet error values were detected, and low/reference/high selectors were exercised after export.
 
-See [Quantitative model](../programmatics/force-and-resource-model.md) and the editable [Department of Resilience force and resource workbook](../../models/disaster-force-model.xlsx).
+See [Quantitative model](../programmatics/force-and-resource-model.md) and the editable [Department of Resilience force and resource workbook](../../models/programmatics/disaster-force-model.xlsx).
 
 Pass 6 finds that:
 
@@ -117,7 +117,7 @@ Pass 7 finds that:
 11. The exported workbook was re-imported, scanned for spreadsheet errors, rendered and visually inspected on all thirteen sheets, and tested under alternate treatment and construction controls. Independent calculations reproduce velocity, hydraulic power and pipe mass.
 12. All twelve model-integrity checks pass, but zero configuration gates are verified. WRG-50 remains R2+ and rendering remains prohibited pending a surveyed transient model, source and vendor guarantees, configuration manifest, construction trials, maintenance/reliability analysis and degraded-mode demonstrations.
 
-See [WRG-50 configuration model](../systems/water/configuration-model.md) and the editable [water restoration engineering workbook](../../models/water-restoration-engineering.xlsx).
+See [WRG-50 configuration model](../systems/water/configuration-model.md) and the editable [water restoration engineering workbook](../../models/systems/water/water-restoration-engineering.xlsx).
 
 Pass 8 finds that:
 
@@ -170,7 +170,7 @@ Pass 10 finds that:
 11. The exported workbook was re-imported, scenario-switched and independently recomputed. Seventeen sheets were present, no formula error was found, scenario directions were correct, and current, loss, generation, module counts, line mass, construction time, fuel and dry mass matched independent arithmetic.
 12. No R3 gate is verified. PRG-100 advances to `R2+`; rendering remains prohibited until electrical, mobility, construction, endurance, maintainability, workforce and cost evidence closes.
 
-See [PRG-100 configuration model](../systems/power/configuration-model.md) and the editable [power-restoration engineering workbook](../../models/power-restoration-engineering.xlsx).
+See [PRG-100 configuration model](../systems/power/configuration-model.md) and the editable [power-restoration engineering workbook](../../models/systems/power/power-restoration-engineering.xlsx).
 
 Pass 11 finds that:
 
@@ -204,7 +204,7 @@ Pass 12 finds that:
 11. The model translates technological ambition into measurable campaigns: tail intercept, persistent sensing, continuous mixed airspace, clean-sheet high-cycle aircraft, precision agents, robotic line and water, community ember defense, high-rate bases and human endurance. Novel capability receives force credit only after representative evidence changes a visible model parameter or uncertainty distribution.
 12. All 23 sheets rendered and re-imported correctly, all 12 scenarios recalculated, formula-error scans returned zero matches and 124 independent arithmetic and integrity checks passed. All 18 evidence gates remain open. `IIN` and `IFCG` advance to `R2+`; no fire vehicle or system is authorized for rendering.
 
-See [Fire response force configuration model](../systems/fire/configuration-model.md) and the editable [fire response force engineering workbook](../../models/fire-response-force-engineering.xlsx).
+See [Fire response force configuration model](../systems/fire/configuration-model.md) and the editable [fire response force engineering workbook](../../models/systems/fire/fire-response-force-engineering.xlsx).
 
 Pass 13 finds that:
 
@@ -238,7 +238,7 @@ Pass 14 finds that:
 11. All twenty flood R3 gates remain open. Novel capabilities may enter the force equation only by changing a visible parameter or distribution and then passing representative, preferably destructive, independent tests. Nuclear coastal water–energy support separately advances to an R2+ segmented architecture in Pass 20 while remaining blocked by fifteen safety, site, interface, lifecycle and alternatives gates.
 12. All 29 sheets rendered and re-imported correctly, all fifteen scenarios recalculated, spreadsheet-error scans returned zero matches and 237 independent arithmetic, derating, recursion, scenario and integrity checks passed. `FIN` and `HCG-100` advance to `R2+`; no flood pump, barrier, craft, robot or works carrier is authorized for rendering.
 
-See [Flood hydraulic-control configuration model](../systems/flood/configuration-model.md) and the editable [flood hydraulic-control engineering workbook](../../models/flood-hydraulic-control-engineering.xlsx).
+See [Flood hydraulic-control configuration model](../systems/flood/configuration-model.md) and the editable [flood hydraulic-control engineering workbook](../../models/systems/flood/flood-hydraulic-control-engineering.xlsx).
 
 Pass 15 finds that:
 
@@ -255,7 +255,7 @@ Pass 15 finds that:
 11. Facility throughput initially exposed four overloaded ranges. The final parallel/distributed design produces a 75.82% modeled peak utilization under an 80% planning ceiling; detailed scheduling remains open because long-duration trials cannot be represented by event counts alone.
 12. Compound 25% facility, 15% redesign, two-year delay and 15% integration shocks raise calculated need to $156.25B, $26.25B above the RDT&E envelope. The adjacent $25B program reserve is short by $1.25B, making cancellation and resequencing authority substantive. All twenty flood gates remain open; `FIN` and `HCG-100` remain `R2+`; no rendering is authorized.
 
-See [Flood research, prototyping and independent test](../systems/flood/research-test-and-evaluation.md) and the editable [flood RDT&E campaign workbook](../../models/flood-research-test-evaluation.xlsx).
+See [Flood research, prototyping and independent test](../systems/flood/research-test-and-evaluation.md) and the editable [flood RDT&E campaign workbook](../../models/systems/flood/flood-research-test-evaluation.xlsx).
 
 ## A Department-wide technology frontier
 
@@ -276,7 +276,7 @@ Pass 16 finds that:
 13. Public-effect, accessibility, environmental, labor, host burden, civil authority, security, transfer and decommissioning evidence are part of technical evidence. Aggregate throughput cannot hide systematic abandonment or exported harm.
 14. No campaign receives R3 operational credit. The workbook defines research institutions and test requirements; it does not establish acquisition costs, facility designs, statistical power, technical feasibility or readiness. Vehicle and platform rendering remains prohibited.
 
-See [The resilience technology frontier](../proving/test-enterprise/technology-frontier.md) and the editable [Department-wide technology frontier workbook](../../models/resilience-technology-frontier.xlsx).
+See [The resilience technology frontier](../proving/test-enterprise/technology-frontier.md) and the editable [Department-wide technology frontier workbook](../../models/proving/test-enterprise/resilience-technology-frontier.xlsx).
 
 ## A common resilience technical architecture
 
@@ -293,7 +293,7 @@ Pass 17 finds that the Department's common architecture must be a constitution f
 9. The digital thread binds need, requirement, design, supplier process, test configuration, serialized field item, mission load, repair and retirement. Substitution is a qualified evidence packet rather than a purchasing note.
 10. The 25-system requirement matrix contains 217 nonzero system–primitive dependencies. No interface contract has representative-mission closure. All twenty-five systems remain blocked by the combined project-physics and architecture gate, so renderings remain deferred.
 
-See [The common resilience technical architecture](../systems/common-technical-architecture.md) and the editable [common technical architecture workbook](../../models/resilience-common-technical-architecture.xlsx).
+See [The common resilience technical architecture](../systems/common-technical-architecture.md) and the editable [common technical architecture workbook](../../models/systems/resilience-common-technical-architecture.xlsx).
 
 ## A National Resilience Proving Network
 
@@ -314,7 +314,7 @@ Pass 18 finds that the Department's technology ambition requires a sovereign evi
 13. Ten construction gates run from evidence need and site alternatives through concept/final design, commissioning, initial operations, full network operations and retirement. Construction completion does not equal evidence capability.
 14. Eighteen of twenty workbook checks pass. The two intentional `OPEN` results are the ten unclosed safety cases and compound-case funding shortfall. No vehicle rendering receives credit.
 
-See [The National Resilience Proving Network](../proving/test-enterprise/national-proving-network.md) and the editable [proving-network workbook](../../models/national-resilience-proving-network.xlsx).
+See [The National Resilience Proving Network](../proving/test-enterprise/national-proving-network.md) and the editable [proving-network workbook](../../models/proving/test-enterprise/national-resilience-proving-network.xlsx).
 
 ## A Nuclear Water–Energy System
 
@@ -333,7 +333,7 @@ Pass 20 replaces the image of a nuclear desalination carrier with a configuratio
 11. The rounded $400B capital frame allocates $128B to eight energy cores and $272B to process, interface, corridor, distribution, support, bases, depots, R&D and reserve. It excludes recurring operations and is not an independent estimate.
 12. Fifteen evidence gates remain open across receiving sites, alternatives, reactor and marine safety, heat sink, shore grid, water quality, environmental discharge, corridor construction, modular isolation, workforce, correlated availability, cost and complete mission transfer. Rendering remains blocked.
 
-See the [Nuclear Water–Energy System study](../systems/water/nuclear-water-energy-system.md) and editable [configuration workbook](../../models/nuclear-water-energy-system.xlsx).
+See the [Nuclear Water–Energy System study](../systems/water/nuclear-water-energy-system.md) and editable [configuration workbook](../../models/systems/water/nuclear-water-energy-system.xlsx).
 
 ## Resilience Utility Anchors
 
@@ -350,7 +350,7 @@ Pass 21 tests what the N-WES phrase “prepared node” actually requires and fi
 9. The anchor should have an ordinary mission—grid-forming reserve, black start, water security, port electrification, district cooling, industrial service, technology proving or regional mutual aid—so readiness produces host value and configuration drift is found before catastrophe.
 10. Sixteen evidence gates remain open across real-site selection, hazards, marine/safe harbor, nuclear safety, regional and island one-lines, water and environment, both corridor regimes, independent alternatives, correlated network availability, source substitution, governance, workforce/industry and cost/schedule. Rendering remains blocked.
 
-See [Resilience Utility Anchors](../systems/water/resilience-utility-anchors.md) and the editable [anchor alternatives workbook](../../models/resilience-utility-anchor-alternatives.xlsx).
+See [Resilience Utility Anchors](../systems/water/resilience-utility-anchors.md) and the editable [anchor alternatives workbook](../../models/systems/water/resilience-utility-anchor-alternatives.xlsx).
 
 ## National Utility Projection System
 
@@ -369,7 +369,7 @@ Pass 22 asks what happens when strategic water–energy capacity becomes a natio
 11. The program is a utility-projection industrial economy—energy cores, grid-forming power electronics, water process, cables, hoses, pipe, crossings, storage, environmental systems, workboats, controls, metrology, strategic materials and licensed professions—not a reactor or shipbuilding program.
 12. All eighteen evidence gates remain open. Candidate parcels, compatible data, population-service catchments, hazard covariance, damaged-route distributions, regional/island/inland utility engineering, source substitution, fleet queues, correlated holds, workforce supply, industry, cost, authority and Department-wide work-breakdown reconciliation must close before readiness or rendering credit.
 
-See the [National Utility Projection System](../mandate/national-utility-projection-system.md) and editable [national utility projection workbook](../../models/national-utility-projection-system.xlsx).
+See the [National Utility Projection System](../mandate/national-utility-projection-system.md) and editable [national utility projection workbook](../../models/mandate/national-utility-projection-system.xlsx).
 
 ## Joint force allocation and national order of battle
 
@@ -388,7 +388,7 @@ Pass 23 asks what the Department-wide force becomes when every service, campaign
 11. The Department's center of gravity is a joint deployment and distribution enterprise for public service: movement, damaged-node reception, responder bases, sustainment, replacement, technical release and regeneration designed with the operating force.
 12. Twenty evidence gates remain open. Representative formation configurations, item-level movement, damaged-node throughput, occupation pipelines, home-base minimum staffing, independent cost, Department-wide WBS reconciliation and a full campaign/regeneration trial must close before validation or rendering.
 
-See [Joint Force Allocation and National Order of Battle](../force/generation/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/joint-force-allocation-model.xlsx).
+See [Joint Force Allocation and National Order of Battle](../force/generation/joint-force-allocation-and-order-of-battle.md) and the editable [joint force allocation workbook](../../models/force/generation/joint-force-allocation-model.xlsx).
 
 ## National Resilience Deployment and Distribution Enterprise
 
@@ -407,7 +407,7 @@ Pass 24 asks what must exist between a ready formation at home and restored publ
 11. A $220B technology allocation targets autonomous multimodal load choreography, runway regeneration, robotic port clearance, adaptive causeways, zero-host-utility bases, intermodal service modules, distributed cargo aircraft, damage-tolerant visibility, route certification and reverse-flow hazard logistics. Novelty earns no force credit until it changes a visible coefficient through independent representative evidence.
 12. Twenty evidence gates remain open. Cascadia is the first item-level priority because it must trace configuration-controlled people and cargo through independent paths, queues, damaged structures, responder bases, ninety-day sustainment, reverse flow and reconstitution. Rendering remains blocked.
 
-See [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/joint-deployment-distribution-model.xlsx).
+See [National Resilience Deployment and Distribution Enterprise](../force/projection/joint-deployment-and-distribution-enterprise.md) and the editable [joint deployment and distribution workbook](../../models/force/projection/joint-deployment-distribution-model.xlsx).
 
 ## Cascadia Joint Resilience Campaign
 
@@ -426,7 +426,7 @@ Pass 25 asks what the Department must actually do when the aggregate deployment 
 11. The attributable regional capital hypothesis is $373.44B including reserve, with $34.2B in mature annual operations. Both are nested in the prior Department and deployment-enterprise work breakdowns rather than added to them.
 12. Arithmetic closure is not validation. Scenario demand, asset and path covariance, every transport rate, service effect, base, workforce, authority, cost and technology threshold remain open. The next research step is an asset-level probabilistic network and representative full-mission trial program. Rendering remains blocked.
 
-See the [Cascadia Joint Resilience Campaign](../proving/campaigns/cascadia/README.md) and editable [Cascadia campaign workbook](../../models/cascadia-campaign-model.xlsx).
+See the [Cascadia Joint Resilience Campaign](../proving/campaigns/cascadia/README.md) and editable [Cascadia campaign workbook](../../models/proving/campaigns/cascadia/cascadia-campaign-model.xlsx).
 
 ## Cascadia network covariance and campaign assurance
 
@@ -445,7 +445,7 @@ Pass 26 asks whether the paths that closed deterministically in Pass 25 remain i
 11. Fourteen evidence gates require asset-level dependency data, fitted joint damage/recovery distributions, representative cells, seeded common-mode losses, complete Cascadia trials, unfamiliar global replication, independent cost and civil selection of a residual-risk target.
 12. The model remains an `R2+` stochastic screen. It reveals a contradiction and a test program; it does not forecast Cascadia performance or authorize renderings.
 
-See [Cascadia Network Covariance and Campaign Assurance](../proving/campaigns/cascadia/covariance-assurance.md) and the editable [covariance workbook](../../models/cascadia-covariance-model.xlsx).
+See [Cascadia Network Covariance and Campaign Assurance](../proving/campaigns/cascadia/covariance-assurance.md) and the editable [covariance workbook](../../models/proving/campaigns/cascadia/cascadia-covariance-model.xlsx).
 
 ## The 72-hour Service Entry Force
 
@@ -464,7 +464,7 @@ Pass 27 converts the dominant Pass 26 failure into a configured force requiremen
 11. The $376.9B capital subtotal plus 25-percent reserve yields $471.125B incremental and $844.565B with the Pass 25 baseline. Mature incremental operations are $70.706B/year; nested regional operations are $104.906B/year. These are planning hypotheses, not estimates.
 12. Ten evidence gates remain open. The next pass must decompose one cell into indivisible teams, equipment, consumables, service-kernel tranches and physical interfaces. The architecture remains `R2` with `R2+` arithmetic; rendering remains blocked.
 
-See [The 72-hour Service Entry Force](../force/projection/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/72-hour-service-entry-force-model.xlsx).
+See [The 72-hour Service Entry Force](../force/projection/72-hour-service-entry-force.md) and the editable [Service Entry Force workbook](../../models/force/projection/72-hour-service-entry-force-model.xlsx).
 
 ## Configuring the public-service pod
 
@@ -483,7 +483,7 @@ Pass 28 replaces the Service Entry Force's continuously divisible cargo assumpti
 11. Nine mission-science programs now target kernel compilation, autonomous cross-docking, compact shelter, dense resilient nutrition, portable service energy, low-labor services, higher-throughput air and no-pier movement, and machine-readable release. They decompose the existing $60B Pass 27 RDT&E line rather than create a new budget layer.
 12. Twelve evidence gates remain open. `PSP-10`, `SEC-30`, `SEC-E35` and `SEC-F50` are `R2+` configuration hypotheses; no vehicle or formation rendering is authorized.
 
-See [Configuring the public-service pod](../force/projection/service-entry-pod-configuration.md) and the editable [pod configuration workbook](../../models/service-entry-pod-configuration-model.xlsx).
+See [Configuring the public-service pod](../force/projection/service-entry-pod-configuration.md) and the editable [pod configuration workbook](../../models/force/projection/service-entry-pod-configuration-model.xlsx).
 
 ## Closing the population-continuity system
 
@@ -502,7 +502,7 @@ Pass 29 replaces the pod's human-sustainment allowances with a cohort-specific o
 11. A numerical transformational case reaches 11,818.20 t through ultra-light shelter, dense food, lower-mass sanitation and reduced labor. It clears the air ceiling by 230.55 t and misses the offshore ceiling by 37.20 t. A fuel-flex target reaches 11,477.67 t, but neither configuration has earned performance credit.
 12. Eight mission-science programs now target occupied-area systems, service-spine robotics, dense public food, closed sanitation, low-labor care and operations, portable service energy, cohort/service ledgers and high-rate site preparation. Fourteen evidence gates remain open and rendering remains blocked.
 
-See [The `PCC-50` Population Continuity Complex](../systems/population-continuity/configuration-model.md) and the editable [population-continuity workbook](../../models/population-continuity-complex-model.xlsx).
+See [The `PCC-50` Population Continuity Complex](../systems/population-continuity/configuration-model.md) and the editable [population-continuity workbook](../../models/systems/population-continuity/population-continuity-complex-model.xlsx).
 
 ## Configuring the occupied district
 
@@ -521,7 +521,7 @@ Pass 30 replaces the PCC-50's lightweight shelter target with a complete 1,000-p
 11. The force architecture therefore gains a coequal National Receiving Lattice. Fixed receiving readiness and mobile force projection are one system; neither may hide dependencies in the other.
 12. Seven technology programs now own district mass, accessible sleep systems, site construction, packed volume, service-spine commissioning, continuous envelope evidence and receiving-lattice readiness. Fifteen empirical gates remain open and rendering remains blocked.
 
-See [The PCC-D1 population-continuity district](../systems/population-continuity/district-configuration.md) and the editable [district configuration workbook](../../models/population-continuity-district-model.xlsx).
+See [The PCC-D1 population-continuity district](../systems/population-continuity/district-configuration.md) and the editable [district configuration workbook](../../models/systems/population-continuity/population-continuity-district-model.xlsx).
 
 ## Generating the National Receiving Lattice
 
@@ -562,7 +562,7 @@ Pass 32 replaces equal synthetic regions with population-weighted, connected geo
 13. The force-design corpus is reorganized into generation, projection and reception subsystems. Stable subsystem indexes now carry the reading path; chronology remains in the research log.
 14. All twenty evidence gates remain open. The model is `R2+` arithmetic for an `R1/R2` architecture; it does not authorize sites, platforms or renderings.
 
-See [National Receiving Geography](../force/reception/national-receiving-geography.md) and the editable [geographic allocation workbook](../../models/national-receiving-geography-model.xlsx).
+See [National Receiving Geography](../force/reception/national-receiving-geography.md) and the editable [geographic allocation workbook](../../models/force/reception/national-receiving-geography-model.xlsx).
 
 ## Building the National Civil Mobility and Continuity Force
 
@@ -579,7 +579,7 @@ Pass 33 replaces the corridor multiplier with a separate force subsystem and mak
 9. The apparent ranking is conditional on declared survival, restoration, capacity and behavior parameters. Parameter uncertainty, tract-scale collection, queueing, consent, rights, weather, workforce and complete vehicle and node physics remain outside the model.
 10. The architecture advances to an adversarial test program, not acquisition. Twenty-two evidence gates and the rendering gate remain open.
 
-See [The National Civil Mobility and Continuity Force](../force/mobility/national-civil-mobility-and-continuity-force.md) and the editable [civil mobility workbook](../../models/national-civil-mobility-force-model.xlsx).
+See [The National Civil Mobility and Continuity Force](../force/mobility/national-civil-mobility-and-continuity-force.md) and the editable [civil mobility workbook](../../models/force/mobility/national-civil-mobility-force-model.xlsx).
 
 ## Breaking the fixed mobility answer
 
@@ -597,7 +597,7 @@ Pass 34 asks whether the Pass 33 winner survives ignorance about its own paramet
 10. Replacing the Pass 33 220-person `CTN-10` crew with 2,289 staff adds 264,832 direct positions across 128 nodes before training, reserve and industrial multipliers. Mobility workforce and lifecycle cost reopen.
 11. Fourteen new uncertainty, collection, node, module, rights and evidence gates remain open. The model stays `R1/R2` with `R2+` arithmetic. No site, formation, module or vehicle is validated or authorized for rendering.
 
-See [Civil Mobility Assurance Under Deep Uncertainty](../force/mobility/mobility-assurance-under-deep-uncertainty.md) and the editable [assurance workbook](../../models/civil-mobility-assurance-model.xlsx).
+See [Civil Mobility Assurance Under Deep Uncertainty](../force/mobility/mobility-assurance-under-deep-uncertainty.md) and the editable [assurance workbook](../../models/force/mobility/civil-mobility-assurance-model.xlsx).
 
 ## Material limitations and disagreements
 

@@ -260,4 +260,4 @@ No `NCAC` evidence gate advances. No architecture result exists. No rendering is
 
 ## Registered artifact
 
-The companion [empty outcome registry workbook](../../../../models/nyc-l0-empty-outcome-registry.xlsx) contains the registration control, catchment and architecture lineage, hypotheses, factor ranges, success rules, missingness, failure codes, state machine, ninety-two-field schema, all 12,000 world identities, all 24,000 empty architecture rows, all 2,000 empty campaign rows, sources and formula-backed integrity checks.
+The companion [empty outcome registry workbook](../../../../models/proving/campaigns/new-york/nyc-l0-empty-outcome-registry.xlsx) contains the registration control, catchment and architecture lineage, hypotheses, factor ranges, success rules, missingness, failure codes, state machine, ninety-two-field schema, all 12,000 world identities, all 24,000 empty architecture rows, all 2,000 empty campaign rows, sources and formula-backed integrity checks.
