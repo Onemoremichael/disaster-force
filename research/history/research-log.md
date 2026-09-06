@@ -2115,3 +2115,37 @@ That distinction matters as the New York campaign advances. The civil-state comp
 All thirty-three workbook binaries remain tracked and byte-identical under their new paths. A repository-wide Markdown-link audit resolves every local target; the old flat workbook paths no longer appear in Markdown; whitespace and merge checks pass. No workbook calculation, research result, evidence maturity or active campaign seal changes in this pass.
 
 The substantive frontier remains implementation and independent reproduction of the registered New York civil-state compiler, beginning with immutable PUMS donor custody and support diagnostics. Architecture outcomes remain sealed, no `NCAC` gate advances and no rendering is authorized.
+
+## Pass 48 — New York `L0` PUMS donor custody and support audit
+
+### Research question
+
+Can the official 2020–2024 ACS PUMS files support the registered household-preserving civil-state compiler without leaking tract inference, breaking household–person relations, hiding rare-class scarcity or generating synthetic state before its evidence gates are ready?
+
+### Source-custody decision
+
+Registration `DF-NYC-L0-PR48-DONORS-v1` freezes the official New York housing and person archives, PUMS user guide and data dictionary, Census verification estimates and record counts, the official tract-to-2020-PUMA relationship and the New York PUMA geometry. The controlled manifest records URL, byte count and SHA-256 for every source object. Raw microdata, `SERIALNO`, `SPORDER` and record-level derived classes remain outside the repository; only commitments and aggregate diagnostics are released.
+
+The implementation independently reproduces all five published New York controls: 481,692 housing records, 984,474 person records, 19,852,366 weighted total population, 19,227,424 weighted housing-unit population and 624,942 weighted group-quarters population. Every difference is zero. This establishes custody and file interpretation, not equality with tabulated ACS estimates or tract truth.
+
+### Relational and geographic finding
+
+The New York City donor universe contains 154,349 housing-file records and 326,729 person records. The 9,738 housing records without a person row equal the 9,738 vacant housing units exactly. No non-vacant record lacks people; occupied and group-quarters `NP` values reconcile; no duplicate housing serial, duplicate serial-person pair, cross-PUMA serial or housing–person PUMA mismatch appears.
+
+Group quarters require a separate synthesis path: 21,148 housing-file placeholders carry a total `WGTP` of zero, while person-file `PWGTP` represents 213,616 group-quarters residents. Using household weights would erase that population.
+
+The 87 registered reference tracts occupy seventeen of New York City's 55 PUMAs. PUMA remains a donor-support geography only. The audit defines a reproducible local → touching-PUMA → citywide ladder but prohibits interpreting a donor as a resident of a selected tract, catchment or building.
+
+### Support and sparsity finding
+
+The 123,463 occupied donor households represent 3,334,093 weighted households and form 2,123 observed nine-dimensional household classes. There are 346 singleton classes and 798 classes with fewer than five donors. Those sparse classes constitute 37.59 percent of observed classes but only 1.16 percent of weighted households: small in aggregate mass, yet consequential for privacy, convergence and rare-household fidelity.
+
+Local pools contain 1,446–4,643 occupied donor households. The weakest local pool supports 71.36 percent of citywide weighted class mass; adding all touching PUMAs raises the weakest catchment to 89.66 percent. Neither local-only fitting nor silent citywide pooling is admissible. The target implementation must use hierarchical partial pooling or regularization, retain the support tier behind each fitted class, and publish donor-concentration, sparse-cell, stability and privacy diagnostics.
+
+### Verification and next decision
+
+The fifteen-sheet workbook passes exact source-reproduction, linkage, geography, class-reconciliation, zero-output and commitment controls. Its formula-error scan is empty, every sheet is rendered and inspected, and the Open XML archive passes structural validation. Workbook SHA-256 is `473c47b41ccb9d27e4642c3a25e17fce6b2030bcaff5a61210c55d083fac9fb9`.
+
+All coherent-target, donor-weight, integer-selection, synthetic household, synthetic person, group-quarters synthesis, building assignment, operational-state, architecture-outcome and campaign-aggregate tables remain at zero. The next pass is the coherent target engine and tier-labeled hierarchical fit, followed by deliberate-failure, privacy, convergence and independent-reproduction tests. Medical-power need, caregiver relation, exact household–building binding, building operability, service territories, alternative dependence cases, causal feasibility and salted external holdout custody remain open.
+
+No `NCAC` evidence gate advances and no rendering is authorized.
