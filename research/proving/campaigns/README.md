@@ -29,7 +29,7 @@ The [Cascadia dossier](cascadia/README.md) establishes the first item-level regi
 
 The [Harris County dossier](harris-county/README.md) joins 1,111 tracts, a corrected road graph, flood exposure, local protection, collection, transfer, line haul, destination admission and return. Its strongest rival wins every paired world yet passes the complete rule in only 55.3 percent. That failure defines a neighborhood formation requirement; it does not validate an architecture.
 
-The [New York dossier](new-york/README.md) changes the mechanism and urban form. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. It preregisters the conventional `A2` and technology-forward `S3` rivals, then builds the evidence surface while keeping architecture outcomes sealed.
+The [New York dossier](new-york/README.md) changes the mechanism and urban form. Power loss propagates indoors through cooling, elevators, domestic water, communications, records and medical support. It preregisters the conventional `A2` and technology-forward `S3` rivals, then builds the evidence surface and a rejectable civil-state compiler while keeping architecture outcomes sealed.
 
 A campaign owns the joint population–service–time state, coupled infrastructure dependencies, origin-to-effect paths, protected-local and mandatory-movement decisions, civil transfer and failure adjudication. Capability studies own component physics. Force studies own formation and readiness. Assurance owns the warrant for belief.
 

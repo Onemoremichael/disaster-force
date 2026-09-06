@@ -2039,3 +2039,47 @@ That finding connects the New York compiler to force design, building preparatio
 All relative Markdown links are checked from their owning files, all repository Markdown remains plain text, and no workbook binary or quantitative result changes in this pass. Detailed campaign records, source and evidence ledgers, and model ownership remain in place.
 
 The next substantive pass preregisters the civil-state compiler before any synthetic record is generated. Architecture outcomes remain sealed; no `NCAC` gate advances and no rendering is authorized.
+
+## Pass 46 — New York `L0` civil-state compiler registration
+
+### Research question
+
+Can the campaign preregister a population–household–building compiler that preserves relational civil state, carries survey uncertainty, fails visibly under unsupported inference and remains blind to architecture outcomes—before creating a single synthetic record?
+
+### Method decision
+
+Registration `DF-NYC-L0-PR46-COMPILER-v1` separates the exact 2020 selection population of 414,234 from the 2020–2024 ACS analytic universe of 403,320 people, 170,678 households, 170,678 occupied units, 188,061 housing units and 7,808 group-quarters residents. Silent rescaling between vintages is prohibited.
+
+The compiler is an eleven-stage controlled pipeline: verify source and parent commitments; declare universes; construct covariance cases; draw and project coherent nonnegative integer targets; join PUMS household and person donors; audit donor support through a local-to-citywide pool ladder; solve survey-weight-seeded multilevel IPU with entropy regularization; integerize donor-equivalence-class counts under a 0.1-percent optimality-gap rule; instantiate whole households; assign households by min-cost flow only to public tract-by-structure-by-tenure capacity classes; and validate before any governed release.
+
+PUMA is treated as donor support, never tract observation. `SERIALNO` preserves household–person linkage; `WGTP` and `PWGTP` seed the appropriate levels. Independent person draws, fabricated unsupported households and silent target clipping are prohibited. TRS is retained as an integerization benchmark rather than the primary solver.
+
+The state model distinguishes `OBSERVED`, `SYNTHETIC`, `UNKNOWN`, `NOT_APPLICABLE`, `STRUCTURAL_ZERO` and `SEALED`. Medical-power class, caregiver relation, exact address, unit, floor and outage operability remain unknown because neither ACS/PUMS nor the current building-administrative surface establishes them. Public building assignment stops at a capacity class.
+
+### Ensemble and custody decision
+
+The nested candidate ladder is `K=125, 250, 500, 1,000`; 250 is the primary planning candidate but has no presumptive admission. Every candidate divides the 1,000 registered global worlds. The fixed pairing rule `1 + MOD(73 × (replicate − 1) + 19, K)` uses each member exactly eight, four, two or one times respectively and binds the same metropolitan member across all twelve catchments. Ensemble size can depend only on input fit, variance reproduction, donor distortion, split-half stability, feasibility and convergence—not `A2`, `S3` or campaign outcomes.
+
+At `K=250`, the point-estimate planning surface contains 100.83 million person realizations and 42.6695 million household realizations. The implied engineering architecture is immutable base records plus member deltas and integer class counts rather than hundreds of duplicated microfiles.
+
+Public release contains method, source references, cryptographic commitments, aggregate diagnostics and rejection logs only. Relational synthetic state remains controlled. Exact location and live operational state remain protected operational data. Source, target, compiler, privacy/civil-rights, independent reproduction, holdout and architecture authorities are separated. Differential-privacy epsilon and delta remain deliberately unset because a privacy authority must first decide purpose, adjacency, threat and utility; “synthetic” is not accepted as a privacy proof.
+
+### Rejection surface
+
+The workbook registers 28 hard constraints, 20 validation rules and 18 deliberate failure injections. Tests cover integer identities, source-aware marginal fit, donor support and concentration, held-out cross-tabs, building capacity, nested convergence, seed and method sensitivity, independent reproduction, membership and attribute inference, nearest-neighbor disclosure, rare-household uniqueness, linkage and query leakage.
+
+Injections include contradictory subtotals, negative uncertainty draws, structural zeros, PUMA-to-tract leakage, split households, duplicate persons, donor monopoly, solver timeout, building shortage, unknown-state coercion, proxy operability, seed drift, vintage substitution, holdout leakage, architecture leakage, privacy attack and independent mismatch. Every case has a stop, rejection, escalation or release-denial response fixed before implementation.
+
+### Verification and finding
+
+The twelve-sheet workbook passes all sixteen formula-backed integrity controls. The complete 1,000-row pairing map is inspected at both ends and independently balanced. The formula-error scan finds no spreadsheet errors; every sheet is rendered and visually inspected; and the archive passes structural validation. Workbook SHA-256 is `e75b0f24355d32de342855be98c2bc3b8e59db8949ba6d41641ab0fba0b77cdb`.
+
+The registered output inventory is intentionally empty: zero coherent target draws, donor weights, integer selections, person records, household records, group-quarter records, building assignments, operational building states, architecture outcomes or campaign aggregates. The pre-existing 24,000 architecture rows and 2,000 campaign aggregates remain reserved and blank.
+
+The finding is institutional as much as statistical. A mature Department of Resilience needs a federated civil-state production system with protected local custody, official-statistical reconciliation, building observability, disconnected field updating, privacy-preserving linkage, purpose-limited service interfaces and independent rights/security assurance. That system is analogous in seriousness to military mission-data and operational-picture infrastructure, but its objective must be minimal necessary civil service rather than generalized surveillance.
+
+### Next decision
+
+The operator method is now frozen, not executed. The next pass must acquire and commit the PUMS donor surface, implement the coherent target engine and public building-class compiler, run all deliberate failure tests and create a separately reproducible diagnostic package. Architecture outcomes remain inaccessible. Formal `L0` still requires independent reconstruction of the prior New York chain, salted external holdout custody, approved privacy thresholds, operational building and medical-power evidence or bounded unknown-state rules, actual service territories or approval of the borough proxy, causal-feasibility constraints and alternative dependence cases.
+
+No `NCAC` evidence gate advances and no rendering is authorized.
