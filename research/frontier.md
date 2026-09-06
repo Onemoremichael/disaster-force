@@ -41,21 +41,25 @@ operability · rights-preserving linkage     causal feasibility · custody · re
         │                                               │
         └───────────────────────┬───────────────────────┘
                                 ▼
+                 REGISTERED CIVIL-STATE METHOD
+                 28 constraints · nested K ladder · zero records
+                                │
+                                ▼
                        FORMAL L0 FREEZE
                                 │
                                 ▼
                       A2 ↔ S3 PAIRED TEST
 ```
 
-The first three stages are operator-complete. The [street audit](proving/campaigns/new-york/l0-street-topology-audit.md) records 126,779 canonical street edges, 7,129 tract pairs and 847 candidate catchments; all twelve disclosed references and three commitments survive primary, strict and permissive screens. The [experiment registry](proving/campaigns/new-york/l0-empty-outcome-registration.md) reserves 12,000 worlds, 24,000 paired architecture rows and 2,000 campaign aggregates without filling an outcome. The [hierarchical generator](proving/campaigns/new-york/l0-world-generator-registration.md) fills only twelve stress factors in each world. The [input registration](proving/campaigns/new-york/l0-population-building-input-registration.md) binds 87 tracts to official demographic estimates, published uncertainty and inherited building proxies while leaving every synthetic person, household, operational building and architecture result empty.
+The operator chain is now specified through civil-state compilation. The [street audit](proving/campaigns/new-york/l0-street-topology-audit.md) records 126,779 canonical street edges, 7,129 tract pairs and 847 candidate catchments; all twelve disclosed references and three commitments survive primary, strict and permissive screens. The [experiment registry](proving/campaigns/new-york/l0-empty-outcome-registration.md) reserves 12,000 worlds, 24,000 paired architecture rows and 2,000 campaign aggregates without filling an outcome. The [hierarchical generator](proving/campaigns/new-york/l0-world-generator-registration.md) fills only twelve stress factors in each world. The [input registration](proving/campaigns/new-york/l0-population-building-input-registration.md) binds 87 tracts to official demographic estimates, published uncertainty and inherited building proxies. The new [civil-state compiler registration](proving/campaigns/new-york/l0-civil-state-compiler-registration.md) fixes denominator authority, household-preserving donors, target uncertainty, building-class assignment, nested ensemble convergence, privacy, custody and rejection before generating a record.
 
 That stop is substantive. Marginal tables do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Inventing those relationships would determine the answer before the architecture test begins.
 
 ## The next connected moves
 
-### 1. Build a civil-state compiler that can fail visibly
+### 1. Implement and independently reproduce the civil-state compiler
 
-The immediate task is to preregister, then independently reproduce, a privacy-preserving population–household–building compiler. It must preserve household structure, distinguish observed margins from modeled joints, carry published uncertainty into an ensemble, enforce building-capacity constraints, retain `UNKNOWN` where evidence is absent and expose donor distortion and privacy risk. Architecture outcomes must remain unavailable while its ensemble size, fit rules and rejection thresholds are chosen.
+The method is now preregistered with zero synthetic records. The immediate task is to acquire and freeze the PUMS donor surface, implement the target engine and household-preserving compiler, exercise all deliberate failure tests, and have a second team reproduce it from the source commitments. It must distinguish observed margins from modeled joints, carry published uncertainty into a nested ensemble, enforce building-class capacity, retain `UNKNOWN` where evidence is absent and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence and disclosure are evaluated.
 
 This is larger than a campaign-data problem. A mature Department would need a standing **civil-state production system** that can reconcile protected local records, official statistics, building systems and field observations during network failure without creating a population-surveillance regime. The compiler is therefore an early specification for operational information infrastructure, rights architecture and a new public technical profession.
 
@@ -81,7 +85,7 @@ Only then can the economic study mature from large illustrative envelopes into a
 
 The New York contest cannot run until all of the following are frozen or independently accepted:
 
-- the population–household–building compiler, its uncertainty ensemble and disclosure controls;
+- an independently reproduced population–household–building compiler, accepted uncertainty ensemble and disclosure controls;
 - medical-power and operational-building coverage with explicit missing-state rules;
 - operator results reproduced from canonical source snapshots by an independent team;
 - actual service territories, or a formally bounded decision to retain the borough proxy;
@@ -94,4 +98,4 @@ The wider force cannot claim representative maturity until its critical service 
 
 Centralizing the frontier prevents progress reporting from overwhelming the argument. More importantly, the research controls prevent three forms of self-deception: choosing data after seeing which architecture wins, mistaking synthetic precision for observed civil state, and scaling a locally optimized solution into a national force before portability is demonstrated.
 
-The next pass should advance the compiler registration while keeping all synthetic records and architecture outcomes empty. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
+The next pass should implement the registered compiler through its public building-class layer, beginning with immutable PUMS custody and the coherent target engine, while keeping architecture outcomes sealed and public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.

@@ -21,7 +21,7 @@ OCCUPIED DISTRICT → RECEIVING GEOGRAPHY → CIVIL MOBILITY
       ↓                                      ↓
 LOCAL PROTECTION ───────────────────────→ NCAC-35
                                              ↓
-                        NEW YORK PREREGISTRATION → L0 → STREET AUDIT → EMPTY REGISTRY → WORLD GENERATOR
+                        NEW YORK PREREGISTRATION → L0 → STREET AUDIT → EMPTY REGISTRY → WORLD GENERATOR → INPUTS → COMPILER
 ```
 
 Later workbooks often supersede one conclusion while retaining the earlier model as a lower bound, sensitivity surface or lineage record. Budgets are not automatically additive: several studies allocate or deepen capacity already carried by a parent force.
@@ -56,6 +56,7 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | [New York `L0` empty outcome registry](nyc-l0-empty-outcome-registry.xlsx) | Pre-outcome row universe, schemas, missingness and two-level decision structure | Registers 12,000 world identities, 24,000 paired architecture rows and 2,000 campaign aggregates; all 1,018,000 reserved cells remain blank and seventeen integrity checks pass. [Registration](../research/proving/campaigns/new-york/l0-empty-outcome-registration.md) |
 | [New York `L0` world generator](nyc-l0-world-generator-registration.xlsx) | Deterministic factor values and hierarchical dependence before architecture execution | Populates 144,000 factor values across 12,000 registered worlds, preserves every one of 1,000 centered strata per catchment–factor and passes five dependence tolerances on attempt zero. It is design coverage, not probability; all architecture outcomes remain empty. [Registration](../research/proving/campaigns/new-york/l0-world-generator-registration.md) |
 | [New York `L0` population and building inputs](nyc-l0-population-building-input-registration.xlsx) | Official demographic margins, uncertainty, building proxies and empty synthetic-state contract | Binds 87 tracts, 156 selected ACS estimate cells, 3,306 tract metrics and 456 catchment metrics; uses variance replicates where published and flags RSS approximations elsewhere. Medical-power data remain county context and all synthetic and architecture state remains empty. [Registration](../research/proving/campaigns/new-york/l0-population-building-input-registration.md) |
+| [New York `L0` civil-state compiler](nyc-l0-civil-state-compiler-registration.xlsx) | Population–household–building method before any synthetic record exists | Registers 28 hard constraints, 20 validation rules, 18 failure injections, a household-preserving donor method and balanced nested `K=125–1,000` pairing. The primary `K=250` planning case implies 100.83M person-realization rows; all synthetic and architecture outputs remain empty. [Registration](../research/proving/campaigns/new-york/l0-civil-state-compiler-registration.md) |
 
 ## Utility and hazard-control systems
 
