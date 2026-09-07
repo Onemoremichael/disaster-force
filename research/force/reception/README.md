@@ -10,6 +10,8 @@ The projection layer's [federated first-reach water architecture](../projection/
 
 The [assurance-source family competition](../projection/wrg-fr10-assurance-source-family-competition.md) makes the fixed destination contract source-specific. Coastal carriers need offshore landing corridors; groundwater groups need characterized wellfields; inland plants need raw-water and residual interfaces; sealed transfer needs sanitary multimode terminals. A prepared receiver is therefore a portfolio of source interfaces, not one universal pipe stub.
 
+The [closed-loop endurance competition](../projection/wrg-fr10-closed-loop-water-endurance.md) adds receiving obligations for retained liquid, conditioned solids, process-material replenishment, dual-quality connection control, protected power and depot reset. A receiver that accepts product but cannot safely stage residuals or preserve product-class identity is not an endurance-capable node.
+
 That failure now hands the population-movement problem to the separate [civil mobility and continuity subsystem](../mobility/README.md). Its first reference force replaces the corridor multiplier with observed network gates, purpose-built fleets and nodes, protected cohorts, route restoration and distributional assurance.
 
 The architecture competition remains among:

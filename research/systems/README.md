@@ -8,6 +8,8 @@ The studies are organized around complete service chains rather than equipment f
 
 The successor [assurance-source family competition](../force/projection/wrg-fr10-assurance-source-family-competition.md) applies that rule to four complete chains. It makes marine access, prepared aquifers, variable-feed limits, sealed wet logistics, residual custody and consumable autonomy part of water-force physics. Its two portfolio-wide failures now own the next water technology program.
 
+The [closed-loop water endurance competition](../force/projection/wrg-fr10-closed-loop-water-endurance.md) designs that technology program around four rivals. It shows why storage, regeneration, service quality and circular processing must be competed against the same complete mass, energy, custody and repeat-mission ledger. It also adds a Water Endurance Squadron to the force hypothesis without admitting a platform.
+
 The same layer owns composition. [The Resilience Arsenal](resilience-arsenal.md) organizes acquisition around effect threads; [information, autonomy and enablers](information-autonomy-and-enablers.md) governs connected-to-manual-safe operation; the [common technical architecture](common-technical-architecture.md) allocates interfaces, degraded modes, authority and provenance; and the [platform requirement register](platform-requirement-register.md) records holds, rejected universals and the evidence required before form or rendering.
 
 The design rule is **standardize interfaces while diversifying critical implementations**. Modularity that creates one national fuel, data, control, maintenance or supplier dependency is not resilience.
