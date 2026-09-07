@@ -2289,3 +2289,39 @@ The twenty-one-sheet workbook records the metric authority, 1,557-cell architect
 The result deepens the institutional case for a Civil State Authority. Semantic registries, aggregation operators, support compilation, partial-identification reports, protected relational fusion, privacy rules and versioned operational attestations are force infrastructure. They prevent a mathematically convenient allocation from silently deciding which people, households and buildings receive service.
 
 No target ensemble, donor weights, synthetic records, building assignment, architecture outcome or campaign aggregate is created. Formal `L0`, every `NCAC` evidence gate and all renderings remain closed.
+
+## Pass 53 — New York `L0` atomic moment-cone audit
+
+### Research question
+
+Can the Pass 52 atomic support carry a probability distribution whose aggregate mean and covariance exactly reproduce the published ACS points and estimator covariance, and does authoritative under-five age detail resolve the disability-universe gap without breaking point feasibility?
+
+### Under-five source extension
+
+Registration `DF-NYC-L0-PR53-ATOMIC-MOMENT-CONE-v3B1A` derives `age_under_5` from `B01001_003` and `B01001_027` in the frozen official variance-replicate archive. It preserves the complete official covariance with all registered `B01001` margins. All 72 reconstructed point-and-standard-error checks are exact within floating-point tolerance, and 252 lower-triangle covariance entries are retained.
+
+The extended 39-row aggregation operator has rank 33 and nullity 1,524. All twelve catchments retain exact nonnegative integer witnesses; all 468 point margins reconstruct with zero residual and every bridge remains feasible. The under-five count is now point-identified in every catchment, reducing its median feasible width from 7,090 to zero. Eight other tested operational joints remain unidentified in all twelve catchments.
+
+### Moment-cone impossibility
+
+Seven catchment margins for occupied mobile-home-or-other units have published point zero and positive sampling standard error. For any nonnegative random variable `X`, `E[X] = 0` implies `X = 0` almost surely and therefore `Var[X] = 0`. The requested pairs of zero state mean and positive state variance are outside the nonnegative moment cone. No multivariate covariance completion, optimizer, truncation or projection can preserve both the requested moments and lawful support.
+
+The result identifies a category error in the proposed successor. Official variance-replicate covariance describes repeated-sample behavior of the estimator. It is not automatically cross-world covariance of the unknown true civil state. The source authority is retained but moved into a measurement likelihood `p(ŷ | A x,V)`.
+
+### Successor and stop state
+
+Exact moment cloning and truncated or repaired Gaussian generation are rejected. The next admissible method is an atomic measurement-error posterior:
+
+```text
+p(x | ŷ) ∝ p(ŷ | A x,V)p₀(x),
+```
+
+with `x` restricted to the registered nonnegative integer support. `v3C0` must preregister its likelihood, reference prior, at least three dependence cases, boundary treatment, constrained computation and posterior-predictive admission gates before sampling. It must separate likelihood information from prior regularization and preserve the nested ceiling, partial-identification, semantic-failure, privacy and reproduction controls.
+
+No posterior state, target ensemble, donor fit, synthetic record, building assignment, architecture outcome or campaign aggregate is created. Formal `L0`, every `NCAC` evidence gate and all renderings remain closed.
+
+### Artifact and institutional consequence
+
+The sixteen-sheet workbook records target authority, the under-five source extension, official covariance, exact point support, all 468 reconstructions, identification bounds, the complete 468-pair boundary audit, seven formal conflicts, successor specification, empty downstream objects, cryptographic commitments and eleven formula-backed integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `ed0a8c7dec3d08f4f508101faf97fd5baece19a33e38fc94cd5719a8cfe536f6`.
+
+The Civil State Authority now requires explicit measurement-model custody in addition to semantic and data custody: estimator registries, likelihood governance, disclosed prior sensitivity, posterior attestation and empirical coverage evaluation. Without that separation, a force can turn sampling error into imaginary population variation and size operational service around an impossible state model.

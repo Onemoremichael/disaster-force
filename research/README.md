@@ -75,10 +75,17 @@ ATOMIC BASIS v3B0
           └── STOP: feasible support is not a calibrated distribution
           │
           ▼
+ATOMIC MOMENT-CONE AUDIT v3B1A
+          ├── authoritative under-five extension · rank 33
+          ├── PASS: all 468 published points reconstruct
+          ├── FAIL: seven zero-mean positive-variance targets are impossible
+          └── STOP: estimator covariance is not state covariance
+          │
+          ▼
 STOP — NO DONOR FIT, SYNTHESIS, BUILDING ASSIGNMENT OR ARCHITECTURE RESULT
 ```
 
-The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` proves that the published linear moments can coexist, then fails because its Gaussian support is not civil support. `v3B0` registers that support and proves exact point feasibility, but also quantifies why one feasible witness is not an estimate: 38 margins constrain only 32 independent directions across 1,557 atomic cells. The next method must calibrate a distribution over those feasible states, while preserving the official moment authority and every current stop rule. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
+The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` proves that the published linear moments can coexist, then fails because its Gaussian support is not civil support. `v3B0` registers that support and proves exact point feasibility. `v3B1A` adds the missing under-five authority, but proves that the proposed exact state-moment calibration is impossible: seven nonnegative margins would require mean zero and positive variance. Official estimator covariance now moves into a measurement likelihood. The next method must preregister a likelihood, disclosed state priors, sensitivity cases and posterior-predictive admission gates before sampling. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
 
 ## Two views of every quantitative decision
 
