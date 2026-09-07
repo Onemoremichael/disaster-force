@@ -89,10 +89,17 @@ ATOMIC POSTERIOR PREREGISTRATION v3C0
           └── ZERO posterior states until execution and attestation
           │
           ▼
+POSTERIOR PREFLIGHT v3C0 → v3C0A
+          ├── PASS: construction, propriety and reduced-support moves
+          ├── FAIL: G04 passes only 37 of 48 fixed-state paths
+          ├── FREEZE: whitened familywise-calibrated successor gate
+          └── ZERO posterior transitions or architecture reads
+          │
+          ▼
 STOP — NO DONOR FIT, SYNTHESIS, BUILDING ASSIGNMENT OR ARCHITECTURE RESULT
 ```
 
-The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` proves that the published linear moments can coexist, then fails because its Gaussian support is not civil support. `v3B0` registers that support and proves exact point feasibility. `v3B1A` adds the missing under-five authority, but proves that the proposed exact state-moment calibration is impossible. `v3C0` now preregisters four likelihood cases, three state-prior cases, constrained computation, nested retention, predictive checks and the architecture firewall before sampling. The next method must execute and independently challenge that frozen constitution; it may not select a favorable case or fit donors first. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
+The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` proves that the published linear moments can coexist, then fails because its Gaussian support is not civil support. `v3B0` registers that support and proves exact point feasibility. `v3B1A` adds the missing under-five authority, but proves that the proposed exact state-moment calibration is impossible. `v3C0` preregisters four likelihood cases, three state-prior cases, constrained computation, nested retention, predictive checks and the architecture firewall before sampling. The Pass 55 preflight then catches a statistically ill-posed covariance gate before the 57.6-million-transition run: all 1,584 diagonal ratios pass, but 11 of 48 paths fail a spectrum- and fourth-moment-dependent Frobenius cutoff. The next method must rerun the frozen `v3C0A` whitened, familywise-calibrated preflight; it may not start posterior chains or fit donors first. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
 
 ## Two views of every quantitative decision
 

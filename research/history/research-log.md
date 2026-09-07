@@ -2361,3 +2361,39 @@ The next admissible pass is an architecture-blind implementation and independent
 The work further specifies a standing Civil State Authority for the Department of Resilience: semantic constitution, measurement registry, protected data federation, prior governance, disconnected updating, privacy and rights engineering, computational assurance and decision attestation are permanent force infrastructure.
 
 The seventeen-sheet workbook records the complete registration, reconciled scale, source and dataset commitments, empty output surface and fourteen formula-backed integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `47ff05bb55cc89f326225ca79de304f8110f4707baaef34a8715529d8de22231`.
+
+## Pass 55 — New York `L0` posterior preflight audit
+
+### Research question
+
+Can the registered `v3C0` likelihood construction, posterior propriety and move grammar survive an architecture-blind preflight before the project spends 57.6 million transition proposals, and does its fixed-state covariance gate apply a common statistical standard across all four likelihood families?
+
+### Preflight construction
+
+Audit `DF-NYC-L0-PR55-POSTERIOR-PREFLIGHT-v3C0` reconstructs 276 variance-replicate point and standard-error authorities, the 39-by-1,557 atomic aggregation operator and its rank-33 independent observation basis. Six exact identities leave atomic nullity 1,524 and a relative row-space projection residual of `1.76×10⁻¹⁵`.
+
+The three Gaussian covariance completions all reconcile in 56 iterations with identity residual below `10⁻¹⁰` and official Gram error below `3.60×10⁻¹⁵`. All 36 Gaussian catchment matrices are positive definite in the reduced basis. The Student-`t₇` case correctly uses scale `5V/7` to preserve covariance `V`.
+
+Posterior-propriety arguments close for all twelve likelihood–prior cases. Positive-definite Gaussian likelihoods supply quadratic decay in the two ledger-total dimensions. The 33-dimensional `t₇` likelihood supplies polynomial tail exponent 40, exceeding the two-dimensional lattice requirement. Proper conditional references, the positive PUMS floor and the bounded adverse tilt preserve finiteness.
+
+### Fixed-state result and stop
+
+Each of four likelihoods is simulated for 100,000 draws in each of twelve catchments. All 1,584 diagonal variance ratios fall inside `0.98–1.02`. The native-coordinate relative-Frobenius cutoff nevertheless passes only 37 of 48 paths: 11 of 12 for `L0_GAUSS_ZERO`, 12 of 12 for `L1_GAUSS_SHARED`, 10 of 12 for `L2_GAUSS_CONCORDANT` and 4 of 12 for `L3_T7_ZERO`.
+
+The observed median errors agree with analytical sample-covariance RMS expectations. Gaussian relative RMS changes with covariance effective rank as approximately `sqrt((r_eff+1)/N)`. For an elliptical law it changes with fourth-moment factor `κ` as approximately `sqrt((κ r_eff+2κ−1)/N)`; `κ=5/3` for `t₇`. The common `0.01` cutoff is therefore partly a test of covariance spectrum and tail family rather than only implementation fidelity.
+
+Because one co-governing gate fails, the audit stops. It executes zero posterior transitions, creates zero posterior states and reads zero architecture outcomes. The result is classified as successful assurance: it prevents an invalid acceptance rule from governing an expensive run.
+
+### Move and failure challenges
+
+Five exact reduced-support graphs isolate the total, composition, interaction-cycle, integer-kernel, bridge-relief and structural-zero mechanisms. All five are connected under the required moves. Ablations expose 21 components when composition is removed, three when the `2×2` cycle is removed and 21 when the integer-kernel move is removed; removing bridge relief doubles the small bridge-corner diameter.
+
+Five deliberate defects are detected: use of `V` as the `t₇` scale, factorization of all 39 redundant coordinates, clipping an estimator residual at zero, removal of the interaction move and removal of the integer-kernel move. These tests do not prove full-space irreducibility or chain mixing; those remain posterior admission questions.
+
+### Frozen amendment and next boundary
+
+Successor `DF-NYC-L0-PR55A-POSTERIOR-PREFLIGHT-v3C0A` retains exactly 100,000 draws per path, all 48 paths and the committed seed grammar. It requires deterministic factor-covariance error no greater than `10⁻¹²`, then whitens centered draws and tests the 561 unique covariance elements in each 33-dimensional path. Two-sided Bonferroni control fixes campaign familywise alpha at `0.01` over 26,928 elements and critical `|z|≤5.083081293`; element standard errors use `κ=1` for Gaussian and `κ=5/3` for `t₇`. Frobenius errors remain diagnostics, not gates.
+
+The amendment is frozen but not executed. The next admissible pass must rerun all 48 fixed-state paths under `v3C0A`. The 57.6-million-transition posterior, donor fitting and architecture access remain prohibited until it passes.
+
+The sixteen-sheet workbook records the decision, registration, 276 source checks, row basis, three covariance reconciliations, 36 positive-definite matrices, 48 simulation paths, twelve propriety arguments, five connectivity graphs, five failure injections, frozen amendment, empty output surface, source and dataset commitments and sixteen integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `b9a5a1a968dab8db2b5a658c552bc7f73bc65a33e870aa1a5a37b43d898cdab9`.
