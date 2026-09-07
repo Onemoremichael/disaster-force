@@ -2,7 +2,7 @@
 
 This layer explains how certified capacity moves from origin to operating public service through damaged networks.
 
-The sequence now closes one additional level from canonical cargo to a serial formation compiler:
+The sequence now closes one additional level from canonical cargo to a representative complete-system competition:
 
 1. [Joint deployment and distribution](joint-deployment-and-distribution-enterprise.md) joins strategic movement, theater opening, sustainment, reverse flow and regeneration.
 2. [The 72-hour Service Entry Force](72-hour-service-entry-force.md) creates six independently originated campaign paths and tests two-cell loss.
@@ -10,6 +10,7 @@ The sequence now closes one additional level from canonical cargo to a serial fo
 4. [Canonical cargo and transport closure](canonical-cargo-and-transport-closure.md) recompiles all forty-eight formation families into external cargo positions and tests ten concurrent campaigns by mode and deadline.
 5. [Carrier–node requirements and the 25-year mobility program](carrier-node-requirements-and-industrial-program.md) converts that common demand into three rival activation, carrier-group, transfer-node and program envelopes.
 6. [`WRG-50` serial manifest and configuration admission](wrg50-serial-manifest-and-configuration-admission.md) expands one complete water-formation hypothesis into planning objects, tests rival positions and denies dispatch or service when configuration and receiver evidence are absent.
+7. [The first-reach water-system competition](wrg-fr10-first-reach-water-system-and-technology-competition.md) converts the failed pipe-volume claim into four rival conveyance and machine architectures inside one complete ten-kilometre public-service mission.
 
 The canonical cargo compiler replaces Pass 60's scalar 36.6-percent movement screen with a stricter result. Dimensional burden raises 6.677 million physical tonnes to 7.048 million chargeable tonnes. A protected reserve and deadline buckets leave 1.702 million physical tonnes delivered, or 25.5 percent, while weakest-class closure produces only 314.5 of 2,420 complete formation equivalents, or 13.0 percent. Just 11 of 480 formation-campaign records pass transport and no receiver is admitted.
 
@@ -17,6 +18,8 @@ Pass 62 shows how large the response becomes when the same public target is impo
 
 Pass 63 begins that next step with `WRG-50`. Its sixteen source lines expand to 690 planning objects and 20,775.445 chargeable tonnes before the source's unconfigured contingency. The inherited surface screen fits 560 objects. A 120-tonne clean-sheet land and rail target fits 689 by mass and 686 by chargeable burden, closing five of six complements. It still admits zero dispatches and zero receiver handoffs because no object carries the complete twenty-eight-field release evidence and no node or site contract is verified. The pipe line also assigns less transport cube than its material volume alone, so the next proof must physically configure and measure a complete first-reach system rather than schedule the aggregate.
 
-The chain now has stable planning identity but remains short of controlled asset identity. The next projection proof must release one representative subsystem bill of material, preserve complement identity through discrete carrier and node queues, commission it at a named receiver under seeded loss and regenerate it before a second activation.
+Pass 64 establishes that first-reach requirement. Ten installed kilometres plus a ten-percent repair reserve require 583.638 tonnes and 614.356 cubic metres of reference material before packaging, rejecting the source's 198-cubic-metre claim. Sectional, reeled, field-extruded and fold-flat rivals produce 78–152-hour declared line schedules and roughly 3,862–4,228-tonne complete-system planning configurations. None is selected. A single trunk also fails the fifty-percent degraded-service target after rupture, three wastewater trains are required at the declared return-flow case, and fifteen representative gates remain open. The declared $110.4 billion technology-program base funds four rival systems, six proving corridors, twelve prepared receivers, machine prototypes, production lines, initial field sets and regeneration infrastructure.
+
+The chain now has a complete representative mission and rival requirements but remains short of controlled asset identity. The next projection proof must compete one large trunk against parallel lines, a deployable bypass and distributed storage; then release one subsystem bill of material, preserve complement identity through carrier and node queues, commission it at a named receiver under seeded loss and regenerate it before a second activation.
 
 The projection subsystem can deliver only the mobile share of a complete service system. The [receiving subsystem](../reception/README.md) owns the fixed share, destination intake and population relocation problem.
