@@ -1,5 +1,7 @@
 # Power restoration force engineering: from generator inventory to deployable utility
 
+> **Applied successor — Pass 71.** The [cellular power and thermal independence study](../../force/projection/wrg-fr10-cellular-power-and-thermal-independence.md) applies this complete-utility doctrine to three independent Water Service Cells. It separates continuous load, peak/start, stored energy, dispatchable module loss, heat rejection, fuel lineage, black start, protection, offline control and reset. The result advances one clean-sheet performance envelope to representative competition while preserving twenty open gates and blocking rendering.
+
 ## Engineering judgment
 
 The Department of Resilience should not buy a national fleet of emergency generators and call it a power force. It should field **deployable electric utilities** that can identify priority loads, isolate damaged systems, establish safe sources, form stable electrical islands, transform and distribute power, manage fuel and storage, protect people and equipment, restore or bypass grid nodes, convert electricity into thermal safety, synchronize with recovering utilities, and transfer operation without a second outage.

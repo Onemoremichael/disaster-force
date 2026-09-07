@@ -2,6 +2,8 @@
 
 ## End-to-end independence, cellular force depth and the cost of removing common modes
 
+> **Successor correction — Pass 71.** The [cellular power and thermal study](wrg-fr10-cellular-power-and-thermal-independence.md) replaces `K4`'s three abstract receiver-power placeholders with whole-cell electric, thermal, energy, control and reset architectures. Only the multi-vector cellular comparator qualifies all three cells and preserves every declared service world; its mass and program consequence supersede the placeholder account. This paper continues to own end-to-end domain independence; the successor owns the power-and-thermal subsystem.
+
 Passes 66 through 69 progressively changed what “water redundancy” means. A second pipe was insufficient when both pipes ended inside one receiver-wide hold. A second source was insufficient when a negative field screen could not establish safety. A portfolio of coastal, groundwater, inland-treatment and sealed-transfer sources was insufficient when residual custody and process materials failed. Regeneration and circular processing could close those material denials, but their power and reset dependencies remained visible.
 
 The unresolved question is now larger than water production:
