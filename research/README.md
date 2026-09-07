@@ -50,6 +50,8 @@ The [`PTS-5` energy and heat-rejection competition](force/projection/pts5-energy
 
 The [`PTS-5` deployment-geometry competition](force/projection/pts5-deployment-geometry-competition.md) isolates the next decision by holding one rapid-bridge payload constant across road, rail, shallow-water, prepared-anchor and tri-modal hosts. Their different access, carrier, setup, footprint and heat-rejection burdens produce seventeen, fourteen, eighteen, twenty and seventeen passes across twenty-three worlds. No host is admitted; the next compiler must test all thirty lineage–geometry pairings before the complete group can advance.
 
+The [`PTS-5` lineage–geometry compiler](force/projection/pts5-lineage-geometry-compatibility-compiler.md) performs that cross and proves that no source–host pair is universal. Its group lower bound then becomes the input to the [national readiness-topology competition](force/projection/pts50-national-readiness-topology-competition.md). Seven architectures are tested across thirty-two receiving geographies and 126 topology-world records. A ten-island, three-mode federation preserves ten cells after one island and two modes fail with thirteen packages, while a sixteen-package four-mode lattice survives one more compound world and reduces fixed-site dependence. The differentiated national comparator requires 1,088 packages and $5.165 trillion over twenty-five years. None is admitted; thirty gates and the physical independence of the fixed islands remain open.
+
 [Proving](proving/README.md) is where the design is allowed to fail. Geographic campaigns place the integrated force in real terrain and built form. The test enterprise converts decisive failures into rival mechanisms and representative trials. Assurance governs sources, uncertainty, privacy, safety, reproducibility and claim admission. Proving may return no winner.
 
 [Programmatics](programmatics/README.md) translates a surviving design into capital, recurring operations, workforce, readiness, industrial capacity and public value. Budgets may compare and phase architectures. They may not silently weaken the service guarantee because the required institution is large.
@@ -122,6 +124,16 @@ The stop is part of the proof architecture. `v2` repairs the first failure but e
 The model tree under [`models/`](../models/README.md) mirrors this research tree. A workbook owns formulas, uncertainty, sensitivity and integrity controls. Its paired paper owns interpretation, boundaries and consequences. Neither can silently expand the authority of the other.
 
 The [model catalog](../models/CATALOG.md) is the exhaustive inventory. This architecture is intentionally not. It should remain a map of the argument, while section landing pages explain enduring responsibilities and the frontier records current status.
+
+## Pass discipline
+
+Each pass begins with the strongest unresolved decision, compares rival mechanisms under common requirements, and ends by naming five things explicitly: the result that now governs, the prior belief or architecture that failed, the assumptions that remain provisional, the new burden created by success, and the next experiment most capable of changing the design. The sequence is therefore:
+
+```text
+QUESTION → RIVAL MECHANISMS → COMMON TEST → FALSIFICATION → STOCKTAKE → NEXT BOUNDARY
+```
+
+This discipline is intentionally compatible with high technical ambition. Autonomous infrastructure, novel carriers, advanced nuclear systems, robotic construction, new materials and machine-directed logistics may enter as full acquisition programs when they answer a registered failure. They do not receive a weaker evidence standard because they are transformative.
 
 ## Reading routes
 
