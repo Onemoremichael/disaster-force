@@ -47,6 +47,9 @@ LOCAL PROTECTION ─────────────────────
                                 TARGET ENGINE v1 REPAIR FAILURE
                                              ↓
                               STRUCTURAL ENGINE v2 CALIBRATION FAILURE
+                                             ↓
+                           MOMENT ENGINE v3A: LINEAR FEASIBILITY,
+                              NONLINEAR CIVIL-STATE FAILURE
 ```
 
 Budgets are not automatically additive. Several workbooks allocate, deepen, or stress capacity already carried by a parent force. The original $1 trillion force-capital constraint, the domain-specific $1 trillion fire and flood experiments, the $130 billion flood research program, the selected $2 trillion technology case, and the $320 billion proving-network cross-classification are distinct analytical frames.

@@ -63,10 +63,16 @@ STRUCTURAL TARGET ENGINE v2
           └── FAIL: published-margin uncertainty calibration
           │
           ▼
+MOMENT-RECONCILED ENGINE v3A
+          ├── official covariance + SEs + linear identities coexist
+          ├── FAIL: Gaussian states violate nonlinear civil bounds
+          └── FAIL: repaired centers + selected-tail stability
+          │
+          ▼
 STOP — NO DONOR FIT, SYNTHESIS, BUILDING ASSIGNMENT OR ARCHITECTURE RESULT
 ```
 
-The stop is part of the proof architecture. `v2` repairs the first failure: totals, complements, nested shares and closed compositions now create coherent civil states before projection, leaving only negligible integer reconciliation. That exposes the deeper failure. Forcing separately published tables into one directed hierarchy inflates or suppresses uncertainty even when every row is legal; housing-unit spread reaches about `1.8×` its published standard error. The next method must reconcile moments across the whole ensemble or estimate a defensible latent atomic-cell system, while preserving all current stop rules. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
+The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` then proves that the published linear moments can coexist: it preserves official covariance blocks and marginal standard errors while enforcing every additive identity, eliminating all interior spread failures. The raw Gaussian states still leave the nonlinear feasible region in roughly half of rows. Projecting them back creates one-sided center bias, candidate rejection and unstable tails. The next method must build a nonnegative latent atomic-cell distribution whose aggregates inherit the published moments, while preserving all current stop rules. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
 
 ## Two views of every quantitative decision
 

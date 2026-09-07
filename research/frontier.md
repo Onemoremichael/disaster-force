@@ -55,6 +55,13 @@ operability · rights-preserving linkage     causal feasibility · custody · re
                                 │
                                 ├── FAIL: K=1,000 tail stability
                                 ├── FAIL: published-margin calibration
+                                ▼
+                 MOMENT-RECONCILED ENGINE v3A · 36,000 CANDIDATES
+                 official covariance · marginal SEs · exact identities
+                                │
+                                ├── PASS: every interior spread calibration
+                                ├── FAIL: nonlinear civil-state feasibility
+                                ├── FAIL: repaired centers + tail stability
                                 └── STOP: ZERO DONOR FIT / SYNTHESIS / OUTCOMES
 ```
 
@@ -66,17 +73,19 @@ The first [target-engine ceiling audit](proving/campaigns/new-york/l0-target-eng
 
 The [structural target engine](proving/campaigns/new-york/l0-structural-target-engine.md) then changes the sampling grammar rather than the ceiling. Positive totals, bounded complements, nested shares and closed compositions generate a coherent civil state before integer projection. Across another 36,000 candidates, every row is legal, no row is rejected and median mean repair falls to about `0.0015` input standard errors. Yet every case still misses the `0.0050` selected-tail limit, and every case fails a new co-governing published-margin calibration gate. The largest defect is housing-unit dispersion, which reaches `1.73–1.81` times its published standard error. Donor fitting, synthesis, building assignment and architecture execution remain at zero.
 
-That second stop is substantive. Structural coordinates eliminate optimizer-created coherence but reveal that a single directed hierarchy can double-count or suppress uncertainty when independently published tables are forced to agree. Reversing which table sits upstream would move the error to a different margin. Marginal tables also do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Repairing or inventing those relationships would determine the answer before the architecture test begins.
+The [moment-reconciliation engine](proving/campaigns/new-york/l0-moment-reconciliation-engine.md) separates linear statistical consistency from civil-state feasibility. Three sensitivity completions preserve every official VRE covariance block, every registered marginal standard error and all six exact additive identities. All interior spread failures disappear. The earlier housing-unit inflation is therefore not forced by the published statistics.
+
+The third stop is more fundamental. A Gaussian law with correct linear moments has unbounded support. Across each 12,000-row completion, about 5,250 raw rows contain a negative cell and about 5,900 violate a civil subset relation. Integer projection produces legal final rows but cannot do so symmetrically at the boundary: it shifts population centers, rejects two extreme rows and leaves selected tails unstable. Choosing the least-failing completion after observation would not solve the distributional error. Marginal tables also do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Repairing or inventing those relationships would determine the answer before the architecture test begins.
 
 ## The next connected moves
 
-### 1. Reconcile cross-table moments before donor fitting
+### 1. Generate the civil state on its feasible support
 
-Target engine `v2` has reached its registered ceiling and failed. The immediate task is not more draws, a looser threshold or a reversal of the chosen hierarchy. `v3` must compare an ensemble-level constrained moment-reconciliation method against a latent atomic-cell model. Each must preserve row identities, match all interior published means and variances within the registered tolerances, bound rather than invent unidentified cross-table dependence, and emit an impossibility or minimum-conflict surface when the requested moments cannot coexist. Both rivals must repeat the exact nested-prefix, calibration, repair-distance, integrity and deliberate-failure checks before a single donor weight is fitted.
+Moment engine `v3A` has answered the linear feasibility question and failed the civil-state ceiling. The immediate task is not more draws, a looser threshold, a preferred covariance start or gentler projection. `v3B` must generate nonnegative latent atomic cells and derive every total, complement, nested group and closed composition by aggregation. It must preserve official covariance authority, bound rather than invent unidentified cross-table dependence, minimize aggregate moment conflict, disclose structural-zero and rare-cell behavior and emit an impossibility surface when the requested moments cannot coexist on the feasible support. It must repeat the exact nested-prefix, calibration, repair-distance, integrity and deliberate-failure checks before a single donor weight is fitted.
 
 Only an admitted target ensemble may enter the household-preserving donor compiler. That later step must still distinguish observed margins from modeled joints, enforce building-class capacity, retain `UNKNOWN` where evidence is absent, label local, adjacent and citywide donor support, and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence, disclosure and independent reproduction are evaluated.
 
-This is larger than a campaign-data problem. A mature Department would need a standing **civil-state production system** that can reconcile protected local records, official statistics, building systems and field observations during network failure without creating a population-surveillance regime. The compiler is therefore an early specification for operational information infrastructure, rights architecture and a new public technical profession.
+This is larger than a campaign-data problem. A mature Department would need a standing **Civil State Authority** that can reconcile protected local records, official statistics, building systems and field observations during network failure without creating a population-surveillance regime. The compiler is therefore an early specification for operational information infrastructure, rights architecture and a new public technical profession.
 
 ### 2. Replace administrative proxies with operability evidence
 
@@ -113,4 +122,4 @@ The wider force cannot claim representative maturity until its critical service 
 
 Centralizing the frontier prevents progress reporting from overwhelming the argument. More importantly, the research controls prevent three forms of self-deception: choosing data after seeing which architecture wins, mistaking synthetic precision for observed civil state, and scaling a locally optimized solution into a national force before portability is demonstrated.
 
-The next pass should register and challenge two `v3` cross-table reconciliation rivals before implementing either as the preferred target authority. Donor fitting remains prohibited until an engine admits an ensemble at the registered ceiling. If one does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
+The next pass should register and challenge latent atomic-cell engine `v3B` against the `v3A` linear benchmark before implementing it as target authority. Donor fitting remains prohibited until an engine admits an ensemble at the registered ceiling. If one does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
