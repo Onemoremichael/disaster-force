@@ -6,6 +6,8 @@
 
 Pass 58 is a first canonical successor to the Pass 23 joint force-allocation screen. It is a governed planning model, not an independent cost estimate, table of organization, budget recommendation or procurement baseline. Its purpose is to make the mature force architecture quantitatively contestable without hiding missing formations or counting common systems several times.
 
+Pass 59's [Household Collection Group formation design](household-collection-group-formation-design.md) now supersedes the `CM-HCG` unit proxy for configuration research while leaving this paper's national totals in force. It reduces the organic HCG line through a seven-company organization and role-specific readiness, then shows why no national saving is admissible until prepared and supporting capacity is allocated.
+
 The accompanying [`canonical-force-allocation-model.xlsx`](../../../models/force/generation/canonical-force-allocation-model.xlsx) is the arithmetic authority for this pass. The earlier [`joint-force-allocation-model.xlsx`](../../../models/force/generation/joint-force-allocation-model.xlsx) remains the predecessor and reconciliation control.
 
 ## Executive judgment
@@ -307,7 +309,7 @@ Pass 58 changes the order of work.
 
 ### 9.1 Configure the dominant unit-of-account
 
-The next force-generation configuration should decide what `CM-HCG` actually is. It must separate functions that remain organic from those embedded in prepared districts or pooled at higher echelon; derive a shift-complete occupation roster; map every shared crew and equipment set; and test one group across several simultaneous neighborhood cells. This is the largest leverage point in both workforce and annual operations.
+Pass 59 completes the first configuration of `CM-HCG`. `HCG-35B` separates a seven-company origin formation from prepared districts and heavy route, power and water support; derives a shift-complete workforce; replaces the blanket 3.4 crew-set factor with role-specific generation; and preserves the complete-service failure test. It reduces the organic national line but does not change this paper's headline because its external occupations and item pools remain unallocated.
 
 ### 9.2 Build a shared-capacity allocation ledger
 
