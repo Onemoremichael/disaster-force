@@ -2397,3 +2397,51 @@ Successor `DF-NYC-L0-PR55A-POSTERIOR-PREFLIGHT-v3C0A` retains exactly 100,000 dr
 The amendment is frozen but not executed. The next admissible pass must rerun all 48 fixed-state paths under `v3C0A`. The 57.6-million-transition posterior, donor fitting and architecture access remain prohibited until it passes.
 
 The sixteen-sheet workbook records the decision, registration, 276 source checks, row basis, three covariance reconciliations, 36 positive-definite matrices, 48 simulation paths, twelve propriety arguments, five connectivity graphs, five failure injections, frozen amendment, empty output surface, source and dataset commitments and sixteen integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `b9a5a1a968dab8db2b5a658c552bc7f73bc65a33e870aa1a5a37b43d898cdab9`.
+
+## Pass 56 — Department of Resilience force architecture
+
+### Research question
+
+What is the mature composition of a defense-peer resilience institution when organizational ownership, civilian outcomes, deployable formations, operational command and mobilization status are treated as different design problems rather than accumulated lists of capabilities?
+
+### Architectural correction
+
+The pass identifies an ambiguity distributed across the earlier corpus. The Department consistently carried seven operating services, while force composition carried nine “service-effect portfolios,” mature force design initially detailed six service families, functional commands sometimes mixed generation and employment, and components were occasionally presented like interchangeable workforce shares. Each statement contained useful content, but their relationship was not governed by one canonical grammar.
+
+The new [Department force architecture](../force/force-architecture.md) establishes five coordinates:
+
+1. **generating service** owns the profession, equipment lifecycle, school, acquisition sponsor and depot;
+2. **civilian effect** defines the public condition and its measured service level;
+3. **formation** is the indivisible package that closes an operating chain and receives readiness credit;
+4. **employment command** allocates and integrates formations across geography and time; and
+5. **component** defines authority, readiness, availability and mobilization terms.
+
+The seven-service settlement is now canonical: Land Engineering, Air Response, Maritime Response, Infrastructure Restoration, Health Protection, Community Stabilization and Civil Mobility and Continuity. The nine effect portfolios remain the public-outcome vocabulary, not another set of services or acquisition chains. The detailed mature-force paper now includes Civil Mobility and Continuity formation families and explicitly separates person-specific movement from common-user force and cargo lift.
+
+### Institutional and command design
+
+The Department, National Resilience Establishment and Resilience Force remain separate objects. The Department owns the public guarantee, resources, civil authority and accountability. The Establishment owns everything required to generate capacity before employment. The Force is the certified subset of complete formations available for campaigns.
+
+Command is divided among geographic employment commands, operational functional commands that govern scarce national networks, and generating institutions. Strategic Mobility, Civil Mobility and Continuity, Strategic Sustainment, Resilience Medical, Information and Forecast, and Joint Campaign Assurance solve national allocation problems. Industrial mobilization, training and doctrine, and acquisition institutions generate capacity but do not become incident commanders.
+
+Affected civil authorities set legitimate public priorities; campaign commanders integrate action; licensed technical authorities release systems; and independent safety, rights, cost and test authorities govern claim admission. No actor acquires the others’ authority by owning the asset or controlling the schedule.
+
+### Formation and technology consequence
+
+Every formation is now governed by one service-contract record covering supported population or function, effect at safe use, time bands, damage envelope, organic package, supporting dependencies, movement and reception, sustainment and waste, authority, transfer and regeneration. Readiness is the minimum across people, material, movement, reception, sustainment, authority and regeneration.
+
+The capability-development enterprise is reorganized around six mission threads rather than showcase vehicles: enter a broken theater; reach occupied civil terrain; control an active hazard; produce and distribute lifelines; preserve care and human continuity; and sustain, transfer and regenerate. A nuclear desalination carrier or purpose-built firefighting aircraft can emerge from those threads, but only after the complete water or fire-effect chain establishes why that form changes a binding coefficient.
+
+The acquisition object becomes a formation product line: production article, crew, training, software and data rights, handling equipment, spares, depot plan, base and receiver interfaces, environmental and safety cases, supply-chain map and mobilization tooling. Competition occurs among mechanisms, system-family integrators and mature suppliers rather than ending when one platform wins.
+
+### Parity and build sequence
+
+Parity is defined across mission, people, operations, mobility, capital, innovation, industry and evidence—not by one symbolic appropriation. Existing screens of `$12.049 trillion` in 25-year capital, `$858 billion` in mature annual operations, a separate `$2 trillion` technology case and `$320 billion` proving-network case remain non-additive hypotheses pending one Department-wide work breakdown.
+
+A five-epoch build moves from constitutional and proving capacity in years 0–5, through first certified formation increments, national concurrency depth and campaign endurance, to invited global stabilization capacity by years 20–25. Full authorization removes political delay, not shipyard, workforce, test, supplier and learning time.
+
+### Repository restructuring
+
+The root README now presents the force as a matrix and routes the live statistical campaign to the frontier rather than reproducing its pass history. The force landing page becomes a stable operating-system map. The generation landing page presents one causal sequence—requirement, architecture, configuration, readiness and allocation—rather than a file list. Research and synthesis routes point first to the canonical force architecture. Successor notes preserve the authority boundaries of the Department, composition and mature-force papers without erasing their detail.
+
+No quantitative workbook or rendering is created. The next concrete architecture work is a governed formation registry, followed by a mission-failure-to-technology portfolio and a single Department-wide capital, operating, workforce and industrial work breakdown. Renderings remain blocked until representative configurations close.

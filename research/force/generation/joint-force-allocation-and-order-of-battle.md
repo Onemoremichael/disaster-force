@@ -1,5 +1,7 @@
 # Joint Force Allocation and National Order of Battle
 
+> **Architecture boundary:** The later [Department force architecture](../force-architecture.md) is canonical for the distinction among services, effects, formations, commands and components. This paper and its workbook remain the current quantitative concurrency, workforce, movement and fiscal screen. Their thirty-four formation families and five credited component classes are not yet the complete formation registry; tribal and civil-auxiliary capacity receive no automatic numerical credit.
+
 ## Executive judgment
 
 A Department of Resilience equal in seriousness to the Department of Defense cannot be a loose federation of specialized fleets. It requires a **single national force-management system** that decides which complete formations exist, which component owns them, which campaigns may plan against them, which commander receives them, how they reach a damaged theater, and when they have genuinely returned to readiness.

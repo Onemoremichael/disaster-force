@@ -1,5 +1,7 @@
 # Readiness, posture, and force generation
 
+> **Canonical grammar:** The [Department force architecture](../force-architecture.md) now fixes the objects to which this readiness system applies. Services generate complete formations, commands employ them, components define mobilization terms, and no effect or platform receives readiness credit outside its formation chain.
+
 ## Readiness is the product
 
 The Department of Resilience does not principally buy vehicles, facilities, or headcount. It buys **credible time-bounded promises of civilian effect**.
