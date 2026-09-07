@@ -32,6 +32,8 @@ The [`PTS-5` fourth-access competition](projection/pts5-fourth-access-mechanism-
 
 The [`TAFG-1` tri-vector access group](projection/tafg1-trivector-access-group-configuration.md) is the first configured formation in that ecosystem. It fields independent atmospheric and terrain-carried service cells plus a robotic utility bridge, 488 deployed people and a complete recovery cycle. It closes fourteen behavior worlds; simultaneous demand in a second region drives a direct heavy-VTOL-versus-duplicate-group comparison. The ancestry screen shows that vehicle diversity is meaningless if one payload arsenal or loading node can stop all paths.
 
+The [`TAFG-1` payload, arsenal and dispatch compiler](projection/tafg1-payload-arsenal-dispatch-compiler.md) turns that warning into force structure. Its reference separates atmospheric, terrain and corridor custody across three arsenals with independent loaders, energy, controls and release, adds 102 deployed custody positions per group and closes every declared one-region cut. It also divides second-region claims into nominal, vehicle-loss and mode-or-site-loss assurance. The prior eight-aircraft VHL option is nominal only; two complete groups remain the expensive assured upper comparator until a leaner multi-physics rival closes the same compound loss requirement.
+
 ## The architecture
 
 ```text
