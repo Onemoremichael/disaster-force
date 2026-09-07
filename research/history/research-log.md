@@ -2523,3 +2523,53 @@ The daily sustainment screen passes all ten campaigns under inherited coefficien
 The twelve-sheet workbook contains a decision summary, assumptions, forty-eight formation records, campaign demand, inventory, component workforce, capital work breakdown, annual operations, deployment/reception/sustainment screens, predecessor bridge, sources/evidence gates and terminal integrity. Fourteen formula-backed integrity checks pass; the formula-error scan is empty; all twelve sheets are visually inspected; and the Open XML archive validates. Workbook SHA-256 is `bbf1e4e78614b4f54eaf1e965e622975e4e6d5e7605584f675c94eda0dfc1459`.
 
 The root, research, force, generation, model-catalog, synthesis, frontier and supersession routes now identify the canonical successor while preserving Pass 23 as history and arithmetic control. No rendering is created. The next force-generation pass should configure the Household Collection Group unit of account, followed by an item-identified shared-capacity ledger and a canonical-cargo rebuild of the deployment enterprise.
+
+## Pass 59 — Household Collection Group formation design
+
+### Research question
+
+What is the correct force-generation unit for the canonical Household Collection Group, and which `NCAC-35 A2` functions must remain organic, exist in prepared geography or be supplied by other formations without allowing any obligation to disappear?
+
+### Echelon correction
+
+The new [Household Collection Group formation design](../force/generation/household-collection-group-formation-design.md) distinguishes the complete neighborhood-system test from the deployable origin formation. `NCAC-35` remains the boundary within which household verification, vertical service, collection, protected districts, route release, power, water, communications, rights and handoff must all close. `HCG-35B` becomes the force-generation object inside that boundary.
+
+The group contains seven `HCC-5` Household Continuity Companies. Each nominal company envelope carries approximately 4,994 demand people, 2,038 household records, 215 vertical-service cases and 898 collection cases. It has 49 two-person household teams, 14 four-person vertical teams and a 24-person headquarters. Five collection squadrons, eight communications nodes, route-interface teams, group command, rights, clinical regulation, records and organic sustainment remain at group level.
+
+The resulting organic formation contains 5,076.2 shift-complete deployed people: 360 in group command and regulatory functions, 168 in company headquarters, 1,893.4 in household access, 1,081.9 in vertical continuity, 662.4 in collection, 115.9 in route interface, 132.5 in communications and field records, and 662.1 in sustainment and regeneration.
+
+Role-specific readiness factors replace Pass 58's blanket 3.4 crew-set factor. One owned HCG now screens at 12,162.9 affiliated billets. Across the retained inventory of 128 formations, the organic direct line is 1,556,855.8, 36.0 percent below the Pass 58 proxy of 2,431,462.4. The factors are component hypotheses, not observed force-generation performance.
+
+### Prepared and shared capacity
+
+The group does not organically own the 34 prepared district packages, seven heavy route-assurance detachments, ten power blocks or nine water islands in the complete system. Proposed receiving owners are Community Stabilization and the prepared lattice for districts; Land Engineering and Civil Road Mobility for route release; Power Restoration and Grid Bridge for power; and Water Restoration for water. The HCG retains light route-interface teams and its disconnected local communications minimum.
+
+At 69 simultaneous HCG-equivalents, a twenty-percent reserve and the inherited readiness factors, the external item screen requires 3,754 prepared district packages, 828 route detachments, 1,183 power blocks and 1,065 water islands. Existing canonical formation counts cannot be credited because their item contents, locations, claim intervals and denial rules have not been mapped.
+
+The workforce boundary is equally important. Relative to the complete `A2` system, `HCG-35B` removes about 2,510 deployed positions per active group. The simultaneous reserved requirement is approximately 207,858 external on-duty positions. An illustrative 2.5 generation factor produces 519,644 affiliated billets before institutional depth. Those positions are not a validated addition, but they prevent the organic reduction from being reported as a national saving.
+
+### Mass and capital conservation
+
+The organic HCG carries household and vertical team sets, five collection squadrons, route-interface sets, eight communications nodes, command/data/clinical modules and first-entry sustainment. It screens at 1,525.1 functional tonnes and 1,830.1 packed tonnes, 71.4 percent below the inherited 6,388.5-tonne mobile proxy.
+
+The external contract retains 3,819.8 functional tonnes. The complete assigned system is 5,344.9 functional and 6,413.9 packed tonnes, slightly above `A2` because the revised organization adds household, route-interface and communications sets. Reorganization changes deployment echelon; it does not remove physical burden.
+
+The inherited cost convention produces $2.249 billion in organic HCG unit capital and $4.737 billion in external unit capital. The $6.986 billion complete assigned system is about $120 million above the `A2` proxy. Applied nationally, the inadmissible organic-only screen would reduce the Department to 9.505 million affiliations, $14.470 trillion capital and $1.605 trillion mature annual operations. Exclusive support for every owned HCG screens at 10.087 million affiliations, $15.197 trillion capital and $1.700 trillion annual operations. Neither replaces Pass 58; the first omits obligations and the second precludes efficient pooling.
+
+### Failure and technology result
+
+The base and eight declared physical component-loss cases pass. The minimum base ratio is 118.6 percent; N-2 power is exactly 100 percent and the five-district loss leaves 101.1 percent.
+
+Commercial-network isolation still fails household verification at 88.8 percent. Isolation plus one unavailable company reaches 78.3 percent. Route support beginning 24 hours late produces a 67.2-percent complete minimum; half the prepared districts active by deadline yields 59.3 percent; and half the shared utility capacity yields 62.3 percent.
+
+The model derives two coupled technology thresholds. With one company lost and offline verification held at 15 percent, field productivity must rise from 1.60 to 2.15 completed households per team-hour. If conventional productivity remains, lawful offline verification must rise from 15.0 to 36.7 percent. The seven route detachments can begin no more than 12.29 hours late and still meet the 48-hour route contract under the inherited rate.
+
+These failures create eight research programs: a disconnected household continuity graph; a building-access mission system; powered vertical continuity; a common-cabin collection family; route request-to-release tools; prepared district adapters; shared-capacity allocation and denial; and human force-generation systems. None receives operational credit.
+
+### Artifact, repository and next boundary
+
+The nine-sheet [companion workbook](../../models/force/generation/household-collection-group-model.xlsx) contains the decision summary, declared controls, fourteen mission cases, six technology and interface thresholds, organization, `HCC-5` company design, mass and capital echelon ledger, shared-capacity requirement, national lower and exclusive-support screens, sources, twelve evidence gates and sixteen terminal integrity checks. All checks pass, the saved-workbook formula scan is empty, an input sensitivity changes the compound isolation case from fail to pass at 2.2 households per team-hour and restores the failure at 1.6, all nine sheets are visually reviewed, and the Open XML archive validates. Workbook SHA-256 is `b103b3e7106263b6c726a30a478bb6ae668a7e14bed222aa249dd17680a26410`.
+
+The root, research, force, generation, model, synthesis, frontier, history and supersession routes now distinguish `NCAC-35` as the complete system from `HCG-35B` as the origin formation. Pass 58's national totals remain current. No rendering is created.
+
+The next force-generation pass should build the canonical shared-capacity allocation ledger: common item identities, configuration, location, readiness, time-phased claims, supporting authority, transport path, common-mode loss, substitution and denial across all forty-eight families and ten campaigns. A second claimant must fail when the first consumes the capacity.

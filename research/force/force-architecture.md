@@ -186,6 +186,8 @@ Echelons describe increasing integration and endurance, not prestige.
 
 The existing [`NCAC-35`](mobility/neighborhood-continuity-and-access-cell.md) result demonstrates why names alone are dangerous. Once household contact, vertical access, route release, utilities, rights, accessible collection and seven-day sustainment are included, one neighborhood continuity cell screens at 7,587 deployed people and 6,388 packed tonnes in its conventional architecture. That is not a validated table of organization. It is evidence that a team-sized label cannot absorb a formation-sized service contract.
 
+The [Household Collection Group configuration](generation/household-collection-group-formation-design.md) now resolves the first echelon inside that contract. `NCAC-35` remains the complete neighborhood-system test; `HCG-35B` is the seven-company deployable origin formation. Prepared districts and heavy route, power and water capacity move to named supporting owners but remain serial mission requirements. The distinction makes the mobile formation lighter without allowing the architecture or budget to erase the rest of the system.
+
 ### 7.2 Campaign force
 
 A **Resilience Campaign Force** is task-organized around a vector of service deficits. Its headquarters owns the integration of effects, not the professions that generate them. At activation it receives:

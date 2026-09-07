@@ -316,7 +316,7 @@ It does not establish:
 - field performance, safety acceptance or local legitimacy; or
 - an evidence basis for platform rendering.
 
-Pass 58 has now completed the first registry-based rebuild. The [canonical allocation](canonical-force-allocation-and-fiscal-reconciliation.md) preserves the ten-campaign stress promise, disaggregates the utility line, adds the fifteen missing families, exposes shared-capacity credits and identifies household-continuity labor, strategic movement and responder basing as the dominant new contradictions. The next force-design pass should configure the Household Collection Group unit of account and replace provisional shared credits with item-identified allocations. In parallel, the five balanced formation baselines above should advance toward item-level configuration.
+Pass 58 completed the first registry-based rebuild. The [canonical allocation](canonical-force-allocation-and-fiscal-reconciliation.md) preserves the ten-campaign stress promise, disaggregates the utility line, adds the fifteen missing families, exposes shared-capacity credits and identifies household-continuity labor, strategic movement and responder basing as the dominant new contradictions. Pass 59's [Household Collection Group design](household-collection-group-formation-design.md) now configures the dominant unit of account as a seven-company origin formation and preserves its district, route, power and water obligations as explicit external contracts. The next force-design pass should replace provisional shared credits across all forty-eight families with item-identified, time-phased allocations. In parallel, the five balanced formation baselines above should advance toward item-level configuration.
 
 ## Conclusion
 

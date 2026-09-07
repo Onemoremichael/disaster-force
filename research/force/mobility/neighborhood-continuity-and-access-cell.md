@@ -8,6 +8,8 @@
 
 **Companion model:** [Neighborhood Continuity and Access Cell model](../../../models/force/mobility/neighborhood-continuity-access-cell-model.xlsx)
 
+**Formation successor:** Pass 59's [Household Collection Group design](../generation/household-collection-group-formation-design.md) retains `NCAC-35` as the complete system test but replaces the whole-system `A2` proxy as the canonical deployable formation. Its seven-company `HCG-35B` keeps household, building, vertical, collection, rights and handoff functions organic while district, route, power and water obligations become explicit external contracts. No evidence gate advances.
+
 ## Executive judgment
 
 The missing neighborhood formation is not a liaison element, a bus fleet, a rescue task force, a shelter detachment, or a public-works package. At the declared workload it is a **brigade-scale joint civil formation** that owns the seam from household contact to protected local service or complete movement.
