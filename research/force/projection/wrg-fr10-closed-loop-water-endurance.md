@@ -2,6 +2,8 @@
 
 ## Closed-loop endurance under residual and consumable denial
 
+> **Successor correction — Pass 70.** The [end-to-end independence study](wrg-fr10-end-to-end-independence.md) connects the endurance module back into the whole service chain. It shows that two source cores can still share one-cut carrier, receiver, power, quality, material, crew, depot, control and base dependencies. A three-cell upper comparator closes the declared dependency worlds, but every representative gate remains open. This paper continues to own residual and consumable closure; the successor owns end-to-end independence and force depth.
+
 Pass 68 established that there is no universal water machine. A nuclear coastal carrier, a protected-groundwater group, a variable-feed inland treatment group and a sealed-reference transfer lattice each close different source and access conditions. The combined portfolio serves ten of twelve declared theaters, but every family fails two cases: a fourteen-day inland mission with no lawful residual outlet and a thirty-day inland mission without external process consumables.
 
 Those failures are not logistics details. They expose the central physical problem in a disaster water force. A treatment plant does not destroy contaminants, salts, suspended matter or process chemicals. It separates, transforms, concentrates, immobilizes or transfers them. A force that claims endurance because its product tank remains full while its residual tank, media store, chemical cabinet, clean-in-place system or heat-rejection path is exhausted has counted only the desirable side of the process.
@@ -386,4 +388,3 @@ It does not establish that the declared reduction factors, masses, power levels,
 The immediate successor should connect this endurance module back into the whole assurance chain. It must preserve serialized source identity and independent provenance through carrier, prepared node, treatment, receiver island, product-class network, residual custody, depot regeneration and a second event. That model should quantify which components are common across the four source families, which are theater-specific and which create a hidden shared failure.
 
 The deeper institutional conclusion is already clear. A Department of Resilience cannot buy water production and outsource everything undesirable to the disaster. Its force must own the whole transformation, including the material left behind and the ability to serve again.
-

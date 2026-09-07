@@ -12,6 +12,8 @@ The [assurance-source family competition](../projection/wrg-fr10-assurance-sourc
 
 The [closed-loop endurance competition](../projection/wrg-fr10-closed-loop-water-endurance.md) adds receiving obligations for retained liquid, conditioned solids, process-material replenishment, dual-quality connection control, protected power and depot reset. A receiver that accepts product but cannot safely stage residuals or preserve product-class identity is not an endurance-capable node.
 
+The [end-to-end independence study](../projection/wrg-fr10-end-to-end-independence.md) makes those obligations cell-specific. Separate sources must retain separate receiving nodes, power domains, release workcells, product islands, material lineages and reset routes if either is to survive a one-domain cut. Prepared geography therefore needs plural failure domains, not several connectors on one terminal.
+
 That failure now hands the population-movement problem to the separate [civil mobility and continuity subsystem](../mobility/README.md). Its first reference force replaces the corridor multiplier with observed network gates, purpose-built fleets and nodes, protected cohorts, route restoration and distributional assurance.
 
 The architecture competition remains among:
