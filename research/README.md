@@ -69,10 +69,16 @@ MOMENT-RECONCILED ENGINE v3A
           └── FAIL: repaired centers + selected-tail stability
           │
           ▼
+ATOMIC BASIS v3B0
+          ├── 1,557 lawful nonnegative cells · exact point witnesses
+          ├── 1,525 latent directions · no tested joint identified
+          └── STOP: feasible support is not a calibrated distribution
+          │
+          ▼
 STOP — NO DONOR FIT, SYNTHESIS, BUILDING ASSIGNMENT OR ARCHITECTURE RESULT
 ```
 
-The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` then proves that the published linear moments can coexist: it preserves official covariance blocks and marginal standard errors while enforcing every additive identity, eliminating all interior spread failures. The raw Gaussian states still leave the nonlinear feasible region in roughly half of rows. Projecting them back creates one-sided center bias, candidate rejection and unstable tails. The next method must build a nonnegative latent atomic-cell distribution whose aggregates inherit the published moments, while preserving all current stop rules. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
+The stop is part of the proof architecture. `v2` repairs the first failure but exposes cross-table spread distortion. `v3A` proves that the published linear moments can coexist, then fails because its Gaussian support is not civil support. `v3B0` registers that support and proves exact point feasibility, but also quantifies why one feasible witness is not an estimate: 38 margins constrain only 32 independent directions across 1,557 atomic cells. The next method must calibrate a distribution over those feasible states, while preserving the official moment authority and every current stop rule. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
 
 ## Two views of every quantitative decision
 

@@ -1,6 +1,6 @@
 # Active research frontier
 
-**Decision state:** 6 September 2026
+**Decision state:** 7 September 2026
 
 **Purpose:** one repository-wide statement of what is believed, what is sealed and what must be learned next
 
@@ -62,6 +62,13 @@ operability · rights-preserving linkage     causal feasibility · custody · re
                                 ├── PASS: every interior spread calibration
                                 ├── FAIL: nonlinear civil-state feasibility
                                 ├── FAIL: repaired centers + tail stability
+                                ▼
+                 ATOMIC BASIS v3B0 · 1,557 CELLS PER CATCHMENT
+                 lawful support · exact integer point witnesses
+                                │
+                                ├── PASS: all 456 published margins reconstruct
+                                ├── FAIL: 1,525 latent directions remain
+                                ├── FAIL: no tested operational joint is identified
                                 └── STOP: ZERO DONOR FIT / SYNTHESIS / OUTCOMES
 ```
 
@@ -77,11 +84,15 @@ The [moment-reconciliation engine](proving/campaigns/new-york/l0-moment-reconcil
 
 The third stop is more fundamental. A Gaussian law with correct linear moments has unbounded support. Across each 12,000-row completion, about 5,250 raw rows contain a negative cell and about 5,900 violate a civil subset relation. Integer projection produces legal final rows but cannot do so symmetrically at the boundary: it shifts population centers, rejects two extreme rows and leaves selected tails unstable. Choosing the least-failing completion after observation would not solve the distributional error. Marginal tables also do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Repairing or inventing those relationships would determine the answer before the architecture test begins.
 
+The [atomic-basis registration](proving/campaigns/new-york/l0-atomic-basis-registration.md) now defines the lawful support before attempting another stochastic law. Each catchment receives 596 age- and universe-valid person cells, 960 occupied household-unit cells and one vacant-unit cell. All twelve published point vectors admit exact nonnegative integer witnesses and all 456 margins reconstruct with zero residual. This proves representation, not population inference: the aggregation operator has rank 32 and nullity 1,525, and the solver witnesses are sparse extreme points rather than estimates.
+
+The support also reveals that the prior aggregate rulebook was semantically incomplete. Four constructed contradictions satisfy all 33 inherited aggregate constraints yet violate the atomic basis: disability without any difficulty, independent-living difficulty outside the adult-disabled population, a forced overlap between living-alone and child-present households, and an impossible older-adult one-person intersection. All four are rejected. More importantly, none of nine tested joint quantities is point-identified in any catchment. Feasible widths reach 10,108 people for the under-five partition, 5,096 households for the no-vehicle and limited-English intersection, and 6,676 units for renter occupancy in 50-plus-unit structures. A single feasibility witness would therefore manufacture operational demand.
+
 ## The next connected moves
 
-### 1. Generate the civil state on its feasible support
+### 1. Calibrate a distribution over the feasible support
 
-Moment engine `v3A` has answered the linear feasibility question and failed the civil-state ceiling. The immediate task is not more draws, a looser threshold, a preferred covariance start or gentler projection. `v3B` must generate nonnegative latent atomic cells and derive every total, complement, nested group and closed composition by aggregation. It must preserve official covariance authority, bound rather than invent unidentified cross-table dependence, minimize aggregate moment conflict, disclose structural-zero and rare-cell behavior and emit an impossibility surface when the requested moments cannot coexist on the feasible support. It must repeat the exact nested-prefix, calibration, repair-distance, integrity and deliberate-failure checks before a single donor weight is fitted.
+Atomic basis `v3B0` has answered the point-support question. The immediate task is not to treat its sparse witness as a population or to sample uniformly from a 1,525-dimensional polytope. `v3B1` must calibrate a probability distribution over nonnegative atomic states whose aggregates inherit the Pass 51 official means and covariance. It must add an authoritative `0–4` versus `5–17` age partition, because the disability universe changes at age five while the registered target surface currently contains only an under-eighteen total. It must bound rather than invent unidentified dependence, disclose regularization, structural-zero and rare-cell behavior, and emit partial-identification and minimum-conflict surfaces. It must repeat the exact nested-prefix, calibration, repair-distance, integrity and deliberate-failure checks before a single donor weight is fitted.
 
 Only an admitted target ensemble may enter the household-preserving donor compiler. That later step must still distinguish observed margins from modeled joints, enforce building-class capacity, retain `UNKNOWN` where evidence is absent, label local, adjacent and citywide donor support, and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence, disclosure and independent reproduction are evaluated.
 
@@ -109,7 +120,7 @@ Only then can the economic study mature from large illustrative envelopes into a
 
 The New York contest cannot run until all of the following are frozen or independently accepted:
 
-- an independently reproduced population–household–building compiler, accepted uncertainty ensemble and disclosure controls;
+- an independently reproduced atomic-state and population–household–building compiler, accepted uncertainty ensemble and disclosure controls;
 - medical-power and operational-building coverage with explicit missing-state rules;
 - operator results reproduced from canonical source snapshots by an independent team;
 - actual service territories, or a formally bounded decision to retain the borough proxy;
@@ -122,4 +133,4 @@ The wider force cannot claim representative maturity until its critical service 
 
 Centralizing the frontier prevents progress reporting from overwhelming the argument. More importantly, the research controls prevent three forms of self-deception: choosing data after seeing which architecture wins, mistaking synthetic precision for observed civil state, and scaling a locally optimized solution into a national force before portability is demonstrated.
 
-The next pass should register and challenge latent atomic-cell engine `v3B` against the `v3A` linear benchmark before implementing it as target authority. Donor fitting remains prohibited until an engine admits an ensemble at the registered ceiling. If one does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
+The next pass should preregister and challenge stochastic atomic-state engine `v3B1` against both the `v3A` moment benchmark and the `v3B0` support. Donor fitting remains prohibited until an engine admits an ensemble at the registered ceiling. If one does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.

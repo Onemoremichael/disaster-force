@@ -2251,3 +2251,41 @@ The result adds a permanent institutional requirement: a Department of Resilienc
 ### Next decision
 
 Moment engine `v3A` remains a linear-feasibility benchmark but is rejected as target authority. The next admissible pass is a registered latent atomic-cell engine `v3B` that generates nonnegative primitive states and derives aggregate margins, preserves official covariance authority, bounds unidentified dependence and reports a minimum-conflict or impossibility surface. Donor fitting, synthetic records, building assignment, architecture outcomes, formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
+
+## Pass 52 — New York `L0` factorized atomic-basis registration
+
+### Research question
+
+Do the thirty-eight published catchment point margins admit exact nonnegative integer representation on a semantically valid civil-state support, what constraints does that support add beyond the Pass 51 aggregate rulebook, and how much joint state remains unidentified before stochastic calibration?
+
+### Registered architecture
+
+Registration `DF-NYC-L0-PR52-ATOMIC-BASIS-v3B0` creates three ledgers per catchment. The person ledger contains 596 cells across six age bands, civilian-noninstitutionalized universe, group-quarters status and age-valid disability patterns. The occupied household-unit ledger contains 960 cells across family, living-alone, child, older-adult, vehicle, language, electric-heat, tenure and six structure dimensions. One separate vacant-unit atom prevents occupied attributes from being assigned outside their universe.
+
+Person semantics restrict ages `0–4` to hearing and vision difficulty, ages `5–17` to five valid difficulties and adults to all six. Out-of-universe atoms carry no disability classification, and every disabled atom has at least one valid difficulty. Household semantics make living alone nonfamily and child-free, derive older-adult one-person households as an intersection and bind each occupied household to one occupied housing unit. Three bridges require sufficient non-group-quarters persons, children and older adults for the household ledgers without fabricating person-to-household records.
+
+### Feasibility and geometry finding
+
+All twelve catchments admit exact nonnegative integer witnesses. Every one of 456 published margins reconstructs with zero residual and every bridge has nonnegative slack. The 38-by-1,557 aggregation operator has rank 32 because six published identities reduce the independent aggregate directions. Its nullity is 1,525.
+
+The zero-objective witnesses occupy only 16–22 person cells and 16–20 household cells per catchment. That sparsity is an extreme-point artifact and is explicitly barred from interpretation as an estimated population. Point feasibility establishes only that at least one state exists.
+
+### Semantic and identification finding
+
+The support implies four aggregate restrictions omitted from the prior 33-rule polytope: difficulty totals must cover any disability; independent-living difficulty must remain inside adult disability; living-alone and child-present households are disjoint; and older-adult one-person households must satisfy their intersection lower bound. All 48 observed checks pass. Four injected contradictions are constructed to satisfy every Pass 51 aggregate rule while violating one new semantic consequence. The atomic basis rejects all four.
+
+Continuous linear programs bound nine latent joint quantities in every catchment. All 108 intervals are valid and none is point-identified. Maximum widths include 10,108 people for the `0–4` partition, 5,096 households for the no-vehicle and limited-English intersection, 6,676 units for renter occupancy in fifty-plus-unit structures and 3,428 households jointly containing children and older adults. The published margins therefore leave operationally decisive populations radically underdetermined.
+
+### Evidence gap and successor
+
+Age-valid disability requires a `0–4` versus `5–17` partition, but the registered target surface contains only an under-eighteen total. The necessary components exist in ACS table `B01001`; the next registration must add them and preserve their official covariance rather than inferring the split from a witness or donor ratio.
+
+`v3B1` must preregister a distributional calibration over feasible atomic states against the Pass 51 mean and covariance benchmark. It must disclose regularization of unidentified dependence, retain the nested `K=125–1,000` ladder and every center, spread, tail, repair-distance and integrity gate, and report partial-identification and minimum-conflict surfaces. Donor fitting remains prohibited until a stochastic ensemble is admitted.
+
+### Artifact and institutional consequence
+
+The twenty-one-sheet workbook records the metric authority, 1,557-cell architecture, complete cell enumerations, support rules, aggregation map, integer witnesses, exact reconstruction, implied constraints, adversarial injections, partial-identification bounds, empty downstream tables and cryptographic commitments. All formula-backed controls pass, the formula-error scan is empty, all sheets pass visual inspection and the Open XML archive validates. Workbook SHA-256 is `8e488633ef63b8b0dc09f4f694aa01474bf7d32beea55436dbcab12b436c22ba`.
+
+The result deepens the institutional case for a Civil State Authority. Semantic registries, aggregation operators, support compilation, partial-identification reports, protected relational fusion, privacy rules and versioned operational attestations are force infrastructure. They prevent a mathematically convenient allocation from silently deciding which people, households and buildings receive service.
+
+No target ensemble, donor weights, synthetic records, building assignment, architecture outcome or campaign aggregate is created. Formal `L0`, every `NCAC` evidence gate and all renderings remain closed.
