@@ -23,7 +23,8 @@ LOCAL PROTECTION ─────────────────────
                                              ↓
                         NEW YORK PREREGISTRATION → L0 → STREET AUDIT → EMPTY REGISTRY
                         → WORLD GENERATOR → INPUTS → COMPILER → DONOR AUDIT
-                        → TARGET ENGINE v1: CEILING FAILURE
+                        → TARGET ENGINE v1: REPAIR FAILURE
+                        → STRUCTURAL ENGINE v2: CALIBRATION FAILURE
 ```
 
 Later workbooks often supersede one conclusion while retaining the earlier model as a lower bound, sensitivity surface or lineage record. Budgets are not automatically additive: several studies allocate or deepen capacity already carried by a parent force.
@@ -61,6 +62,7 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | [New York `L0` civil-state compiler](proving/campaigns/new-york/nyc-l0-civil-state-compiler-registration.xlsx) | Population–household–building method before any synthetic record exists | Registers 28 hard constraints, 20 validation rules, 18 failure injections, a household-preserving donor method and balanced nested `K=125–1,000` pairing. The primary `K=250` planning case implies 100.83M person-realization rows; all synthetic and architecture outputs remain empty. [Registration](../research/proving/campaigns/new-york/l0-civil-state-compiler-registration.md) |
 | [New York `L0` PUMS donor support audit](proving/campaigns/new-york/nyc-l0-pums-donor-support-audit.xlsx) | Official donor custody, relational integrity, class sparsity and geographic support before compiler execution | Reproduces five official New York PUMS controls exactly, verifies the household–person relation and measures an explicit local → adjacent → citywide donor ladder. Of 2,123 joint household classes, 798 have fewer than five donors; every target, synthetic and architecture output remains empty. [Audit](../research/proving/campaigns/new-york/l0-pums-donor-support-audit.md) |
 | [New York `L0` target-engine ceiling audit](proving/campaigns/new-york/nyc-l0-target-engine-ceiling-audit.xlsx) | Whether official marginal uncertainty can produce a coherent, stable integer target ensemble before donor fitting | Audits 36,000 candidate vectors under three covariance cases. All satisfy 33 hard constraints, but every case misses the registered selected-tail convergence limit at `K=1,000`; thirteen rows exceed the repair-distance rule. No ensemble is admitted and all downstream outputs remain zero. [Audit](../research/proving/campaigns/new-york/l0-target-engine-ceiling-audit.md) |
+| [New York `L0` structural target engine](proving/campaigns/new-york/nyc-l0-structural-target-engine.xlsx) | Whether first-principles totals, complements, nested shares and closed compositions can admit a coherent and calibrated target ensemble | Audits 36,000 structurally generated targets. Every row is a valid integer and projection repair is negligible, but all three cases miss selected-tail stability and published-margin calibration; worst housing-unit spread is `1.73–1.81×` its input SE. No ensemble is admitted. [Audit](../research/proving/campaigns/new-york/l0-structural-target-engine.md) |
 
 ## Utility and hazard-control systems
 

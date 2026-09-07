@@ -2185,3 +2185,35 @@ This continues the Pass 47 physical reorganization without another mass file mov
 The nineteen-sheet workbook exposes registrations, sources, exact reconstruction checks, target definitions, covariance cases, constraints, convergence, repair diagnostics, rejected rows, distributions, failure injections, integrity controls and 3,000 focal candidate rows. The full 36,000-row cases are hash-committed. All formula-backed controls pass, the formula-error scan is empty, every sheet is rendered and visually inspected, and the Open XML archive validates. Workbook SHA-256 is `133cebc151f3f7ea7cd6f67448cf47eab03ff6f8d94a38dcfa5336fa39a073e5`.
 
 The next admissible pass is target engine `v2` in structural coordinates. Donor fitting remains prohibited until a target ensemble clears the registered ceiling. Formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
+
+## Pass 50 — New York `L0` structural target engine
+
+### Research question
+
+Can a first-principles civil-state parameterization remove the post-draw repair defect in target engine `v1` while preserving published marginal uncertainty and registered tail stability?
+
+### Method change
+
+Registration `DF-NYC-L0-PR50-STRUCTURAL-TARGETS-v2` keeps the official input surface, twelve catchments, 849-dimensional exactly nested Latin-hypercube design, three covariance cases, `K=125–1,000` ladder and 33 hard constraints. It changes the object being sampled. Positive totals, bounded complements, nested shares and closed compositions generate age, disability, household, occupancy, tenure and structure relationships before integer projection.
+
+The integer weighted-`L1` solver remains only as a rounding and residual-reconciliation layer. Ten deliberate structural contradictions test the coordinate transformation itself. All resolve to nonnegative, identity-consistent pre-projection states.
+
+A published-margin calibration gate is added before the sealed ceiling run. Every ensemble mean must remain within `0.50` input standard errors of its published estimate. For interior margins at least two input standard errors above zero, ensemble spread must remain within `0.75–1.25` times the input standard error. Boundary-limited cells remain governed on center and disclosed on spread, but are not required to reproduce an impossible symmetric distribution below zero.
+
+### Ceiling finding
+
+The structural engine produces 36,000 candidate targets. Every cell is a nonnegative integer, every row satisfies six equalities and twenty-seven inequalities, and no row crosses a projection-distance stop. Median mean repair is about `0.0015` input standard errors; the largest single-cell repair is below `0.272`. Structural coordinates therefore solve the `v1` repair defect.
+
+No ensemble is admitted. At `K=1,000`, maximum selected-quantile changes are `0.006324` for `T0`, `0.005427` for `T1` and `0.007567` for `T2`, each above the `0.0050` limit. Published-margin calibration also fails in every case. `T0`, `T1` and `T2` have respectively 16, 13 and 43 interior spread failures; worst housing-unit standard-deviation ratios are `1.805`, `1.798` and `1.733`. `T0` also has two center failures.
+
+The result isolates a cross-table moment problem. The directed hierarchy derives households from population, group quarters and household size, then derives housing units from households and vacancy. Uncertainty accumulates even though the separately published housing-unit margin has its own standard error. Reversing the hierarchy would relocate rather than resolve the conflict.
+
+### Artifact and repository consequence
+
+The twenty-sheet workbook records the structural-coordinate register, exact source reconstruction, cases, constraints, convergence, complete calibration surface, projection diagnostics, structural injections, target integrity, 3,000 exposed focal rows and full-array cryptographic commitments. Formula-backed controls pass, the formula-error scan is empty and every sheet is rendered and visually inspected. Workbook SHA-256 is `023a99e009fe2b2fa36b01287f7053890f25582bcf4c8afa87ea4c56a1dfc851`.
+
+The root prospectus, research architecture, active frontier, New York dossier, synthesis, model catalog, evidence ledger and supersession map now distinguish row coherence, numerical repair, sample stability and marginal calibration rather than reporting a generic target failure.
+
+### Next decision
+
+Target engine `v3` must compare an ensemble-level constrained moment-reconciliation method with a latent atomic-cell model. Each rival must preserve every current gate and produce an impossibility or minimum-conflict surface when published centers, variances and hard identities cannot coexist. Donor fitting, synthetic state, building assignment, architecture outcomes, formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
