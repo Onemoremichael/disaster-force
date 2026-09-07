@@ -2,6 +2,8 @@
 
 ## Federated first-reach water architecture for the Department of Resilience
 
+> **Successor correction — Pass 67.** The [unknown-agent water-assurance architecture](wrg-fr10-unknown-agent-water-assurance.md) resolves this paper's final institutional common mode without weakening the stop rule. It separates five release states and four evidence classes, prohibits a negative field screen from qualifying a held primary source, and competes independent provenance and sealed reserve as physical service paths. A qualified half-demand source plus twenty-four-hour reserve safely maintains the floor in ten of twelve worlds; a second continuous provenance reaches eleven. The twelfth remains a universal safe stop. Every architecture remains unadmitted and rendering remains blocked.
+
 Pass 65 found the limit of local redundancy. Its strongest first-reach water topology—two route-separated half-flow trunks feeding four storage sectors—maintained at least fifty percent of declared service in six of seven registered failure worlds. It still collapsed when the receiver as a whole was placed on contamination hold. That failure could not be repaired by adding another pipe to the same terminal, another tank behind the same quality authority, or another distribution point on the same public network. The architecture had diversified conveyance while preserving a common receiver.
 
 Pass 66 moves the system boundary outward. It asks:
