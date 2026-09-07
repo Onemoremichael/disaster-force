@@ -59,6 +59,10 @@ LOCAL PROTECTION ─────────────────────
                                              ↓
                        ATOMIC POSTERIOR PREREGISTRATION v3C0:
                        12 CASES · 25 GATES · ZERO POSTERIOR STATES
+                                             ↓
+                         POSTERIOR PREFLIGHT v3C0 → v3C0A:
+                         37/48 PATHS PASS · STOP BEFORE CHAINS
+                         CALIBRATED SUCCESSOR FROZEN, NOT RERUN
 ```
 
 Budgets are not automatically additive. Several workbooks allocate, deepen, or stress capacity already carried by a parent force. The original $1 trillion force-capital constraint, the domain-specific $1 trillion fire and flood experiments, the $130 billion flood research program, the selected $2 trillion technology case, and the $320 billion proving-network cross-classification are distinct analytical frames.

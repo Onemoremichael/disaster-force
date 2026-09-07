@@ -1,5 +1,7 @@
 # New York `L0` atomic measurement-error posterior preregistration
 
+> **Successor authority:** The [Pass 55 posterior preflight audit](l0-posterior-preflight-audit.md) implements the preregistered construction but stops before posterior execution because `G04` passes only 37 of 48 fixed-state paths. It freezes a versioned `v3C0A` replacement gate; the amended preflight has not yet run.
+
 **Registration:** `DF-NYC-L0-PR54-ATOMIC-POSTERIOR-v3C0`
 
 **Decision:** freeze a twelve-case factorial measurement-error posterior over lawful atomic civil states before sampling. No posterior state, donor fit, synthetic record, building assignment or architecture outcome is produced or admitted in this pass.
@@ -350,7 +352,7 @@ Pass 54 establishes that:
 
 It does not establish that the posterior is proper in implementation, that chains mix, that the likelihood reproduces its covariance, that any candidate ensemble is calibrated, that PUMS partial pooling is decision-robust, that a donor compiler works, or that either architecture performs. It creates tests for those claims.
 
-The next admissible pass is an architecture-blind implementation and challenge of `v3C0`. It must first run fixed-state likelihood calibration and reduced-support connectivity tests, then execute all 144 catchment-case paths, evaluate every gate and obtain independent reproduction. If any stop gate fails at the registered ceiling, no ensemble is admitted and donor fitting remains prohibited. If all numerical gates pass but prior dominance or likelihood reversal appears, the cases remain separate and the campaign result remains partially identified.
+Pass 55 subsequently performs that architecture-blind preflight and stops before posterior chains: reduced-support connectivity passes, but the registered `G04` fixed-state covariance rule passes only 37 of 48 paths. The live next action is therefore the versioned `v3C0A` preflight rerun described in the successor audit, not execution of all 144 catchment-case paths. If the amended preflight passes, the full factorial may begin; any later stop-gate failure still denies ensemble admission. If all numerical gates pass but prior dominance or likelihood reversal appears, the cases remain separate and the campaign result remains partially identified.
 
 Only an admitted posterior ensemble may proceed to the already registered tier-labeled household-preserving donor fit. Medical-power coverage, protected household–building binding, operational building state, observed service territories, causal-feasibility rules, salted external holdout custody and independent human-subject, disability, civil-rights, ethics and worker-safety review remain parallel obligations. Formal `L0`, all twenty `NCAC` gates, national force credit and renderings remain closed.
 
