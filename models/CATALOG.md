@@ -11,7 +11,7 @@ This is the exhaustive inventory. The shorter [model-library guide](README.md) e
 ```text
 DEPARTMENT SCALE
       ↓
-FORCE ALLOCATION → DEPLOYMENT ENTERPRISE
+FORMATION REGISTRY → FORCE ALLOCATION → DEPLOYMENT ENTERPRISE
       ↓                    ↓
 CASCADIA CLOSURE → COVARIANCE FAILURE
       ↓
@@ -38,6 +38,7 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | Workbook | Decision it owns | Present use |
 | --- | --- | --- |
 | [Force and resource model](programmatics/disaster-force-model.xlsx) | Initial Department scale under a $1T capital constraint | Historical top-down baseline; later force allocation supersedes its inventory and headcount. [Analysis](../research/programmatics/force-and-resource-model.md) |
+| [National Formation Registry](force/generation/national-formation-registry.xlsx) | Canonical formation identity, quantitative lineage, ten-field contract maturity, dependency gaps and technology pull | Current `R1/R2` force-structure control: 48 canonical families, 15 absent from the Pass 23 inventory, one legacy utility aggregate, eight `R2+` configuration proxies and zero `R3` formations. It changes no fiscal total. [Analysis](../research/force/generation/national-formation-registry.md) |
 | [Joint force allocation](force/generation/joint-force-allocation-model.xlsx) | Force families, concurrency, components, workforce and funding | Current Department-wide `R1/R2` reference with `R2+` arithmetic: 34 formation families, about 714,000 deployed personnel and $12.05T capital. Movement, reception and evidence gates remain open. [Analysis](../research/force/generation/joint-force-allocation-and-order-of-battle.md) |
 | [Joint deployment and distribution](force/projection/joint-deployment-distribution-model.xlsx) | Permanent origin-to-effect movement, entry, basing, sustainment and regeneration | Reference chains close on declared assumptions; correlated path loss still defeats Cascadia and the allied megacity. Its $4.744T envelope is nested inside force allocation. [Analysis](../research/force/projection/joint-deployment-and-distribution-enterprise.md) |
 | [Cascadia campaign](proving/campaigns/cascadia/cascadia-campaign-model.xlsx) | Item-level regional service closure across damaged service islands | Deterministic `R2/R2+` screen closes all declared services and milestones; asset damage, rates and twenty evidence gates remain open. [Campaign](../research/proving/campaigns/cascadia/README.md) |

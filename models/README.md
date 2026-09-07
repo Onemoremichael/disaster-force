@@ -17,6 +17,8 @@ This is more than file organization. It identifies the decision each workbook is
 
 The complete [model catalog](CATALOG.md) links every workbook to its owning paper, current use, maturity, and supersession status.
 
+The [National Formation Registry](force/generation/national-formation-registry.xlsx) is now the force-model control surface. It reconciles forty-eight canonical family hypotheses with the thirty-four-line allocation workbook, distinguishes the legacy utility aggregate, scores each ten-field service contract and exposes the formation, dependency and technology work required before the national model is rebuilt.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -32,7 +34,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORCE ALLOCATION → DEPLOYMENT ENTERPRISE
+FORMATION REGISTRY → FORCE ALLOCATION → DEPLOYMENT ENTERPRISE
       ↓                    ↓
 CASCADIA CLOSURE → COVARIANCE FAILURE
       ↓
