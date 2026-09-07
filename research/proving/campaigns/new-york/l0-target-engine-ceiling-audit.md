@@ -66,4 +66,4 @@ This pass does not create a synthetic population. It does not fit PUMS donors, i
 
 The companion [workbook](../../../../models/proving/campaigns/new-york/nyc-l0-target-engine-ceiling-audit.xlsx) contains the registrations, sources, reconstruction checks, metric definitions, covariance cases, constraints, convergence results, projection summaries, rejected rows, distribution diagnostics, failure injections, integrity controls, and a 1,000-member focal diagnostic for each case. The full case arrays are cryptographically committed in the workbook.
 
-The next admissible implementation pass is `v2` of the target engine. It must change coordinates before it changes the ceiling. Donor fitting remains downstream.
+The [structural-coordinate successor](l0-structural-target-engine.md) changes coordinates before changing the ceiling. It eliminates excessive projection repair and produces 36,000 coherent integer states, but still admits no case: all three miss tail stability and published-margin calibration. The next method must reconcile cross-table moments at ensemble level or construct a defensible latent atomic-cell system. Donor fitting remains downstream.

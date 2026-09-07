@@ -54,16 +54,19 @@ OFFICIAL GEOGRAPHY + EMPTY OUTCOME REGISTRY + 12,000 STRESS WORLDS
 OFFICIAL MARGINS + BUILDING PROXIES + PUMS DONOR CUSTODY
           │
           ▼
-COHERENT TARGET ENGINE v1
+TARGET ENGINE v1 ── FAIL: post-draw repair creates coherence
           │
-          ├── 36,000 feasible integer candidates
-          └── FAIL: tail stability at registered K=1,000 ceiling
+          ▼
+STRUCTURAL TARGET ENGINE v2
+          ├── 36,000 coherent integers · negligible repair
+          ├── FAIL: tail stability at registered K=1,000 ceiling
+          └── FAIL: published-margin uncertainty calibration
           │
           ▼
 STOP — NO DONOR FIT, SYNTHESIS, BUILDING ASSIGNMENT OR ARCHITECTURE RESULT
 ```
 
-The stop is part of the proof architecture. The model did not fail because it could not find feasible integers; it failed because separate draws of related published totals required enough repair to destabilize rare but operationally decisive states. The next method must create coherence in structural coordinates before projection. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
+The stop is part of the proof architecture. `v2` repairs the first failure: totals, complements, nested shares and closed compositions now create coherent civil states before projection, leaving only negligible integer reconciliation. That exposes the deeper failure. Forcing separately published tables into one directed hierarchy inflates or suppresses uncertainty even when every row is legal; housing-unit spread reaches about `1.8×` its published standard error. The next method must reconcile moments across the whole ensemble or estimate a defensible latent atomic-cell system, while preserving all current stop rules. The [active frontier](frontier.md) is the single repository-wide authority for that state and the next admissible work.
 
 ## Two views of every quantitative decision
 
