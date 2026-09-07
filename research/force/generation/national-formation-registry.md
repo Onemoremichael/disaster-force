@@ -2,6 +2,8 @@
 
 ## Reconciling the mature Department of Resilience architecture with the current quantitative order of battle
 
+> **Quantitative successor:** Pass 58's [Canonical Force Allocation](canonical-force-allocation-and-fiscal-reconciliation.md) now adds all fifteen absent families, retires `I-UPG` operationally and preserves shared systems through explicit credits. This registry remains the authority for family identity and evidence state; the successor workbook owns current national sizing.
+
 ### Research state
 
 `R2 institutional architecture` · `R1/R2 formation registry` · `R2+ configuration proxies for eight families` · no formation has reached `R3` · no rendering authorized
@@ -314,7 +316,7 @@ It does not establish:
 - field performance, safety acceptance or local legitimacy; or
 - an evidence basis for platform rendering.
 
-The next force-design pass should rebuild the joint allocation model around the registry. It should preserve the existing ten-campaign stress promise, disaggregate the utility line, add the fifteen missing canonical families, declare shared capacity once and identify the new binding movement, reception, sustainment and workforce contradictions. In parallel, the five formation baselines above should be advanced toward item-level configuration.
+Pass 58 has now completed the first registry-based rebuild. The [canonical allocation](canonical-force-allocation-and-fiscal-reconciliation.md) preserves the ten-campaign stress promise, disaggregates the utility line, adds the fifteen missing families, exposes shared-capacity credits and identifies household-continuity labor, strategic movement and responder basing as the dominant new contradictions. The next force-design pass should configure the Household Collection Group unit of account and replace provisional shared credits with item-identified allocations. In parallel, the five balanced formation baselines above should advance toward item-level configuration.
 
 ## Conclusion
 

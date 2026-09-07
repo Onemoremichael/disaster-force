@@ -510,7 +510,7 @@ This is an industrial component of the establishment, not ordinary procurement. 
 
 ## Provisional mature scale
 
-The original quantitative workbook yielded approximately 302,000 active and 396,500 reserve personnel. Pass 23's [joint force allocation study](joint-force-allocation-and-order-of-battle.md) supersedes that top-down screen as the current force-generated reference. Its thirty-four formation families and ten simultaneous campaigns produce about 714,000 people deployed and 3.95 million affiliated billet-equivalents after rotation, components, institutional depth and the integrated utility force. Neither result is a validated table of organization; the scale jump is evidence that the earlier workforce did not generate this paper's mature promise.
+The original quantitative workbook yielded approximately 302,000 active and 396,500 reserve personnel. Pass 23's [joint force allocation study](joint-force-allocation-and-order-of-battle.md) superseded that top-down screen with thirty-four rows and 3.95 million affiliated billet-equivalents. The later [canonical allocation](canonical-force-allocation-and-fiscal-reconciliation.md) now represents all forty-eight registry families and reaches 10.484 million affiliated billet-equivalents after explicit shared-crew credits, the common utility enterprise and institutional depth. None of these results is a validated table of organization; each scale jump is evidence that an earlier workforce did not generate the fuller promise.
 
 A coherent mature posture would contain, at minimum:
 
