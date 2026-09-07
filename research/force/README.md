@@ -22,6 +22,8 @@ The [`PTS-5` energy and heat-rejection competition](projection/pts5-energy-and-h
 
 The [`PTS-5` deployment-geometry competition](projection/pts5-deployment-geometry-competition.md) then holds one rapid-bridge payload constant and makes its host an explicit force choice. Road, rail, shallow-water, prepared-anchor and tri-modal rivals pass seventeen, fourteen, eighteen, twenty and seventeen of twenty-three worlds while transported-system mass spans 471–1,505 tonnes. The result adds a $976.8 billion geometry-host enterprise to the twenty-five-year comparison, but admits no host: thirty-four evidence gates still block configuration and rendering.
 
+The [`PTS-5` lineage–geometry compatibility compiler](projection/pts5-lineage-geometry-compatibility-compiler.md) joins those coordinates. Thirty source–host pairs produce 960 deterministic results and separate rapid-mobile, prepared, transition, firm and new-host roles without treating pass counts as scores. All five storage-only pairs break current host envelopes. At group scale, a twelve-cell inventory can preserve ten cells after any two mobile-mode losses only if at least nine cells are independently forward; an unprepared receiver requires thirty complete mobile cell-equivalents. The resulting $4.397T–$8.322T program bounds expose the choice between geography and replication. Forty-two gates remain open and rendering stays blocked.
+
 ## The architecture
 
 ```text
