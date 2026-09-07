@@ -16,6 +16,8 @@ The [end-to-end independence study](projection/wrg-fr10-end-to-end-independence.
 
 The [cellular power and thermal study](projection/wrg-fr10-cellular-power-and-thermal-independence.md) replaces the upper comparator's abstract power allowance. A central plant, separate engine islands and hybrid black-start cells can preserve aggregate service while qualifying no complete cell. Only a three-lineage multi-vector utility architecture closes the declared cell-level power, heat, energy, control and reset contract. It raises the comparator to 11,250 dry tonnes and 598 crew, and remains denied by twenty representative gates.
 
+The [heat-blackout power and thermal service study](projection/heat-blackout-power-and-thermal-service-cell.md) moves from process power to occupied civil terrain. It derives a `PTS-50` group from a 50,000-person, seven-day service contract rather than a megawatt target. A twelve-cell upper comparator closes sixteen declared worlds and the lawful stop with 2,688 deployed people and 7,740 dry tonnes, but its 2,389-MWh energy requirement, building interfaces, human-service rates and twenty-four representative gates remain unproved.
+
 ## The architecture
 
 ```text
@@ -54,7 +56,7 @@ The distinction is binding. Seven services are not nine effect portfolios. A for
 
 [Generation](generation/README.md) owns everything that must exist before employment: services, components, professions, formation families, readiness cycles, commands, bases, depots and the national order of battle.
 
-[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, damaged-theater entry, onward distribution, responder basing, sustainment, reverse flow and regeneration. Its canonical compiler reaches one formation-level serial register; the first-reach studies now convert one invalid source line into rival material, packing, machine, schedule, failure, receiver, federation, assurance, source-family, endurance, end-to-end independence and cellular power-thermal requirements. Measured articles, serialized residual and process-material subsystems, qualified energy wet loads, validated carrier and receiver paths, separate depots and complete second-event cells remain the proof boundary.
+[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, damaged-theater entry, onward distribution, responder basing, sustainment, reverse flow and regeneration. Its canonical compiler reaches one formation-level serial register; the first-reach studies convert one invalid water-source line into rival material, packing, machine, schedule, failure, receiver, federation, assurance, source-family, endurance, end-to-end independence and cellular power-thermal requirements. The occupied-building study then opens a second deep mission thread around heat, power and civil access. Measured articles, serialized residual and process-material subsystems, qualified energy wet loads, validated building and receiver paths, separate depots and complete second-event cells remain the proof boundary.
 
 [Reception](reception/README.md) treats fixed sites, surviving buildings, utility interfaces, stocks, records, inspection and labor as force capacity. A mobile module does not become public service merely because it arrives.
 

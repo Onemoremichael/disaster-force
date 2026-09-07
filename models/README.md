@@ -27,6 +27,8 @@ The [End-to-End Service-Chain Independence model](force/projection/wrg-fr10-end-
 
 The [Cellular Power and Thermal Independence model](force/projection/wrg-fr10-cellular-power-and-thermal-independence.xlsx) replaces that upper comparator's three power placeholders with central, isolated, hybrid and multi-vector utility architectures. The first three pass seven, ten and twelve of sixteen service worlds but qualify no complete cells. `P4` qualifies all three, passes all service worlds and the lawful stop, and reconstructs the formation at 11,250 dry tonnes, 12,960 chargeable tonnes and 598 crew. Its $232.80 billion replacement power program raises the whole comparator to $796.88 billion. Eleven sheets, four live stress changes, sixty integrity checks and a zero-error scan reconcile; twenty evidence gates and the campaign-energy wet load remain open, so admission and rendering stay blocked.
 
+The [Heat-Blackout Power and Thermal Service model](force/projection/heat-blackout-power-and-thermal-service-cell.xlsx) derives an occupied-district formation from people and building services. The declared 50,000-person mission requires 14.22 MWe, 19.65 MWth, 2,389 MWh and 1,280 connection crew-hours. Facility and central-refuge rivals pass no service worlds, a building mesh passes four and the twelve-cell `PTS-50` upper comparator passes sixteen plus the lawful stop. It contains 2,688 deployed people, 7,740 dry tonnes, 8,901 chargeable tonnes and a $2.320 trillion national twenty-five-year comparator. Eleven sheets, four restored input changes, thirty-two integrity checks and a zero-error scan reconcile; wet energy and twenty-four evidence gates remain open, so admission and rendering stay blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -42,7 +44,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING HEAT-BLACKOUT SERVICE
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
