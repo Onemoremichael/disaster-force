@@ -2691,3 +2691,39 @@ The fourteen-sheet [Carrier–Node Requirement and Program workbook](../../model
 All fourteen sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `b0fc15b2cfba11907e9c136d5e1366f91bb8c955aab65aecae0f3c9a2c279749`.
 
 No external site research and no rendering are introduced. Fifteen gates remain open. The result does not overturn Pass 61's 13.0-percent complete-formation closure because it contains no serial schedule. The next force-model pass should construct one tagged and measured representative manifest and run its indivisible items through rival carrier, node, route and receiver schedules under seeded loss.
+
+## Pass 75 — `PTS-5` lineage–geometry compatibility and access assurance
+
+### Research question
+
+What force emerges when all six Pass 73 energy and heat-rejection lineages are compiled into all five Pass 74 deployment geometries, and how many complete `PTS-5` cell-equivalents must a `PTS-50` group hold in mobile or forward form to preserve ten cells after two simultaneous transport-mode losses?
+
+### Pair compiler
+
+The new [`PTS-5` lineage–geometry compatibility study](../force/projection/pts5-lineage-geometry-compatibility-compiler.md) treats a governed source–host pair as the minimum acquisition article. Thirty pairs compile fixed and mobile dry mass, wet mass, cube, module positions, road/rail/water carriers, support and tare, setup, degraded setup, crew, heat rejection, site, noise, exhaust, current host envelope, temporal role, lifecycle cost and evidence state.
+
+Thirty-two integrated worlds combine energy, access, receiver, ground, heat, workforce, control, packet and reset failures. The resulting 960 records separate available service from physical release and preserve failure identity rather than turning pass counts into weighted rankings.
+
+Six pairs are `T1 MOBILE`, eight `T1 PREPARED`, six `T2 TRANSITION`, five `T3 FIRM` and five `NEW HOST FAMILY`. No pair closes every world. Every transported-storage pair breaks the present host envelopes; the 2,784-tonne dry lineage reaches approximately 11,384 m³ and 117–122 governed mobile positions before a valid new host exists. All firm microreactor pairs remain a strategic `T3` force even when the host can carry them.
+
+### Access-assurance lower bound
+
+Let `p` be independently available fixed cells. To preserve ten complete cells after any two of road, rail and navigable water fail, each mobile mode must carry `10 − p` complete service equivalents. Total packages equal `p + 3(10 − p) = 30 − 2p`.
+
+A twelve-package inventory therefore requires at least nine forward cells. Nine fixed plus one road, one rail and one water cell close the two-transport-mode guarantee only while the fixed service remains available. An unprepared receiver requires thirty complete mobile cell-equivalents. The current twelve-cell architecture cannot satisfy the unprepared, ten-cell, two-mode-loss guarantee; the contradiction is mathematical rather than a scheduling deficit.
+
+The forward-stock curve also exposes the next common mode. Zero and three fixed-cell cases retain ten after fixed-anchor plus road loss because their remaining rail and water replication is large. Six, nine and ten fixed-cell cases retain eight, two and zero. A prepared-federation design must therefore prove fixed-site independence rather than treating forward location as automatic resilience.
+
+### Program and technology consequence
+
+The Pass 75 research comparator adds a $60B coupling increment to the Pass 74 force, producing $4.753T over twenty-five years in constant 2026 dollars without claiming access assurance. Replacing the current $2.564T lineage-and-host cell layer with alternative fixed/mobile package counts produces national boundaries of $8.322T for an unprepared thirty-copy force, $7.013T for three fixed cells, $5.705T for six fixed cells, $4.397T for the nine-forward-cell lower bound and $3.961T for ten fixed cells. These are architecture boundaries, not procurement recommendations or independent cost estimates.
+
+The expanded $240B coupling portfolio funds sixteen programs: a government-owned compiler, measured module envelopes, source and heat-sink exchange, a heavy-storage host family, prepared firm-source anchors, rail and shallow-water utility hosts, complete tri-modal replication, three-path stock positioning, fixed/mobile custody, denial-aware allocation, rapid calorimetric acceptance, hot-smoke sites, cross-prime safety, reverse logistics and a dual-denial group demonstration.
+
+### Artifact, validation and next boundary
+
+The thirteen-sheet [companion workbook](../../models/force/projection/pts5-lineage-geometry-compatibility-compiler.xlsx) contains the summary, assumptions, inherited lineages and geometries, thirty-pair build, thirty-two worlds and 960 long-form results, role map, group lower-bound proof, program alternatives, technology portfolio, forty-two evidence gates, integrity controls and reading guide.
+
+All seventy-nine arithmetic and integrity checks pass. The formula-error scan returns zero matches, every rendered sheet range is visually inspected and the Open XML archive validates. Workbook SHA-256 is `f106d7266c21935268c2cb53b7cc61583838b962ee4a0768f8f2fd20a2490498`. No external site research is introduced.
+
+All thirty representative pair articles and twelve system trials remain open. Strict admission is zero and rendering remains blocked. The next force-model pass should compare national readiness topologies—expeditionary replication, prepared federation, hybrid force, selective guarantee and novel access substitution—across actual receiving geography, serialized supplier and route ancestry, anchor-plus-mode denial and lifecycle uncertainty.

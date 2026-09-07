@@ -33,6 +33,8 @@ The [`PTS-5` Energy and Heat-Rejection Lineage Competition](force/projection/pts
 
 The [`PTS-5` Deployment Geometry Competition](force/projection/pts5-deployment-geometry-competition.xlsx) holds one rapid-bridge service payload constant while its carrier system changes. Thirty-two module positions, 580 dry tonnes, 54.8 wet tonnes and 2,630 cubic metres are carried through road, rail, shallow-water, prepared-anchor and tri-modal rivals. They pass seventeen, fourteen, eighteen, twenty and seventeen of twenty-three worlds, with transported-system mass from 471 to 1,505 tonnes. The geometry-host enterprise contributes $976.8 billion over twenty-five years and revises the national comparator to $4.693 trillion. Twelve sheets, five restored sensitivities, fifty checks and a zero-error scan reconcile; thirty-four gates remain open and rendering stays blocked.
 
+The [`PTS-5` Lineage–Geometry Compatibility Compiler](force/projection/pts5-lineage-geometry-compatibility-compiler.xlsx) crosses all six energy lineages with all five deployment hosts. Thirty pairs generate 960 long-form results across thirty-two integrated worlds. Six pairs are rapid-mobile, eight prepared, six transition, five strategic-firm and five new-host requirements; every storage-only pair exceeds current host envelopes. The `PTS-50` lower-bound sheet proves that an unprepared ten-cell guarantee after any two mobile-mode losses needs thirty complete mobile cell-equivalents, while a twelve-package force needs at least nine independently available forward cells. Program boundaries span $4.397T–$8.322T. Thirteen sheets, seventy-nine checks and a zero-error scan reconcile; forty-two gates remain open and rendering stays blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -48,7 +50,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
