@@ -2481,3 +2481,45 @@ The eight-sheet workbook contains a decision summary, forty-nine-record registry
 The root, force and generation reading paths now place the registry between architecture and allocation. The model library and catalog identify it as the force-model control surface. The strategic study incorporates the inventory and relational evidence gaps; the supersession map preserves Pass 23 as the current fiscal and concurrency screen without treating its thirty-four lines as the complete mature inventory.
 
 No rendering is created. The next force-model pass must reconstruct joint allocation around the registry, add the fifteen missing canonical lines, disaggregate `I-UPG`, count shared capacity once and rerun movement, reception, sustainment, workforce and fiscal contradictions.
+
+## Pass 58 — Canonical Force Allocation
+
+### Research question
+
+What national concurrency, owned inventory, component structure, workforce, capital, mature operations and entry burden follow when all forty-eight canonical formation families are represented, the legacy utility aggregate is retired and every shared system remains visible rather than being counted twice?
+
+### Canonical reconstruction
+
+The new [Canonical Force Allocation](../force/generation/canonical-force-allocation-and-fiscal-reconciliation.md) preserves the thirty-three Pass 23 lines that map to canonical families and reproduces the predecessor capital result to $0.02 billion and workforce to less than one billet-equivalent. It then adds the fifteen missing families: `J-RIG`, `M-MPG`, `I-WRG`, `I-PRG`, `I-GBG`, `H-THC`, `H-PMG`, `C-ERG` and all seven Civil Mobility and Continuity families.
+
+The ten-campaign package expands from 1,750 to 2,420 heterogeneous formation-equivalent commitments. The arithmetic retires 76 `I-UPG` commitments before adding 746 new-family commitments. It does not claim that different formations produce comparable units of service.
+
+Owned inventory remains governed by the weakest material, personnel, movement, reception and sustainment factor after a twenty-percent reserve, with a separate global-duplicate floor. All forty-eight arithmetic inventory screens pass. Correlated suppliers, bases, routes, data, crews and receivers remain outside the readiness calculation.
+
+### Shared-capacity reconciliation
+
+The $1.698 trillion National Utility Projection System remains one common capital line rather than being copied into water, power and grid bridge. Utility, maritime-production, patient-movement and civil-mobility formations carry separate gross people and capital claims followed by explicit shared credits for embedded plant, carriers, stock, bases and crews.
+
+Before reserve, the complete ledger contains $14.917 trillion in gross formation and common claims, $2.268 trillion in shared-system credit and $12.649 trillion net. The twenty-percent reserve produces $15.179 trillion. Relative to Pass 23, the fifteen families add $5.852 trillion gross with reserve; $2.722 trillion of visible credit leaves a $3.130 trillion net increase.
+
+The credit is a research claim, not free capacity. It is valid only if a later item-level ledger proves that the shared object can satisfy every simultaneous claimant with its own readiness, authority and time-phased allocation.
+
+### Workforce and operating result
+
+The successor contains 3,345,320 retained formation-direct billets; 5,838,642 new-family direct billets after shared-crew credit; the 198,198-person NUPS common enterprise once; and 1,102,075 billets of institutional depth. The resulting 10,484,235 affiliated billet-equivalents are not a federal employee recommendation.
+
+Household Collection is the largest new line. Mapping the `NCAC-35 A2` proxy to 128 owned formations produces about 2.431 million direct billets after a declared shared district-service credit. The result exposes an unresolved echelon problem: the future force must decide which building access, protected district, route, utility, civil-data and sustainment functions are organic, pooled or prepared locally without allowing any of them to disappear.
+
+The annual bridge holds Pass 23's integrated $858 billion mature screen, then adds $538.8 billion for new direct personnel, $176.3 billion for new institutional depth and $163.3 billion for net formation O&M. The $1.736 trillion successor is a run-rate contradiction, not a budget estimate.
+
+### Entry contradiction
+
+Gross early formation mass is 8.903 million tonnes. A declared twenty-five-percent prepositioning credit leaves 6.677 million tonnes against 2.463 million tonnes of inherited seventy-two-hour effective throughput, a 4.214-million-tonne deficit. All ten campaigns also exceed the inherited responder-basing capacity attached to their theater-opening commands, with deficits from about 24,695 to 81,740 people.
+
+The daily sustainment screen passes all ten campaigns under inherited coefficients, but this is the least credible apparent success because supply allowances omit dominant fuel, water, medical, construction, maintenance, waste and reverse-flow burdens. Strategic movement, prepared receiving capacity and zero-host-utility bases must be rebuilt with the mission formations rather than inherited unchanged.
+
+### Artifact, repository and next boundary
+
+The twelve-sheet workbook contains a decision summary, assumptions, forty-eight formation records, campaign demand, inventory, component workforce, capital work breakdown, annual operations, deployment/reception/sustainment screens, predecessor bridge, sources/evidence gates and terminal integrity. Fourteen formula-backed integrity checks pass; the formula-error scan is empty; all twelve sheets are visually inspected; and the Open XML archive validates. Workbook SHA-256 is `bbf1e4e78614b4f54eaf1e965e622975e4e6d5e7605584f675c94eda0dfc1459`.
+
+The root, research, force, generation, model-catalog, synthesis, frontier and supersession routes now identify the canonical successor while preserving Pass 23 as history and arithmetic control. No rendering is created. The next force-generation pass should configure the Household Collection Group unit of account, followed by an item-identified shared-capacity ledger and a canonical-cargo rebuild of the deployment enterprise.

@@ -17,7 +17,7 @@ This is more than file organization. It identifies the decision each workbook is
 
 The complete [model catalog](CATALOG.md) links every workbook to its owning paper, current use, maturity, and supersession status.
 
-The [National Formation Registry](force/generation/national-formation-registry.xlsx) is now the force-model control surface. It reconciles forty-eight canonical family hypotheses with the thirty-four-line allocation workbook, distinguishes the legacy utility aggregate, scores each ten-field service contract and exposes the formation, dependency and technology work required before the national model is rebuilt.
+The [National Formation Registry](force/generation/national-formation-registry.xlsx) governs force identity and evidence state. The [Canonical Force Allocation](force/generation/canonical-force-allocation-model.xlsx) is its first national quantitative successor: it sizes all forty-eight families, disaggregates the legacy utility line, exposes shared-system credits, reproduces the predecessor baseline and reruns workforce, capital, movement, reception and sustainment screens. Its $15.179T capital and 10.484M affiliated-billet results are planning contradictions, not estimates.
 
 ## How to inspect a model
 

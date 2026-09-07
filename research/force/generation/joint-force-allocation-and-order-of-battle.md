@@ -1,6 +1,6 @@
 # Joint Force Allocation and National Order of Battle
 
-> **Architecture boundary:** The later [Department force architecture](../force-architecture.md) is canonical for the distinction among services, effects, formations, commands and components. The [National Formation Registry](national-formation-registry.md) now establishes forty-eight canonical family hypotheses and shows that only thirty-three have distinct lines here; `I-UPG` is retained as a legacy aggregate pending disaggregation into water, power and grid-bridge families. This paper and workbook remain the current quantitative concurrency, workforce, movement and fiscal screen. Tribal and civil-auxiliary capacity receive no automatic numerical credit.
+> **Successor boundary:** The later [Department force architecture](../force-architecture.md) and [National Formation Registry](national-formation-registry.md) are canonical for force identity. Pass 58's [canonical allocation](canonical-force-allocation-and-fiscal-reconciliation.md) supersedes this paper as the current forty-eight-family concurrency, workforce and fiscal screen. This paper and workbook remain the reproduced Pass 23 predecessor: thirty-three canonical families plus the retired `I-UPG` utility aggregate. Tribal and civil-auxiliary capacity receive no automatic numerical credit in either screen.
 
 ## Executive judgment
 

@@ -6,7 +6,7 @@ The central distinction is between **generation** and **employment**. The Nation
 
 Neither half is an equipment catalog. The operative object is a complete formation with command, labor, access, sustainment, safety, rights, movement, reception and transfer authority.
 
-The [National Formation Registry](generation/national-formation-registry.md) is the governed bridge from this architecture to force structure. It records forty-eight canonical family hypotheses, exposes the fifteen not yet represented in the quantitative order of battle, preserves one legacy utility aggregate without treating it as mature structure and identifies the configuration evidence required before any family can receive representative readiness credit.
+The [National Formation Registry](generation/national-formation-registry.md) is the governed bridge from architecture to force structure. It records forty-eight canonical family hypotheses and identifies the configuration evidence required before any family can receive representative readiness credit. The [canonical allocation](generation/canonical-force-allocation-and-fiscal-reconciliation.md) now supplies a first quantitative successor: it retires the legacy utility aggregate, adds all fifteen absent families, preserves common systems once and exposes the resulting workforce, capital, movement and reception contradictions.
 
 ## The architecture
 
