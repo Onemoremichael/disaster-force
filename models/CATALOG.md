@@ -27,6 +27,8 @@ LOCAL PROTECTION ─────────────────────
                         → STRUCTURAL ENGINE v2: CALIBRATION FAILURE
                         → MOMENT ENGINE v3A: LINEAR FEASIBILITY,
                           NONLINEAR CIVIL-STATE FAILURE
+                        → ATOMIC BASIS v3B0: POINT FEASIBILITY,
+                          EXTREME NONIDENTIFICATION
 ```
 
 Later workbooks often supersede one conclusion while retaining the earlier model as a lower bound, sensitivity surface or lineage record. Budgets are not automatically additive: several studies allocate or deepen capacity already carried by a parent force.
@@ -66,6 +68,7 @@ Later workbooks often supersede one conclusion while retaining the earlier model
 | [New York `L0` target-engine ceiling audit](proving/campaigns/new-york/nyc-l0-target-engine-ceiling-audit.xlsx) | Whether official marginal uncertainty can produce a coherent, stable integer target ensemble before donor fitting | Audits 36,000 candidate vectors under three covariance cases. All satisfy 33 hard constraints, but every case misses the registered selected-tail convergence limit at `K=1,000`; thirteen rows exceed the repair-distance rule. No ensemble is admitted and all downstream outputs remain zero. [Audit](../research/proving/campaigns/new-york/l0-target-engine-ceiling-audit.md) |
 | [New York `L0` structural target engine](proving/campaigns/new-york/nyc-l0-structural-target-engine.xlsx) | Whether first-principles totals, complements, nested shares and closed compositions can admit a coherent and calibrated target ensemble | Audits 36,000 structurally generated targets. Every row is a valid integer and projection repair is negligible, but all three cases miss selected-tail stability and published-margin calibration; worst housing-unit spread is `1.73–1.81×` its input SE. No ensemble is admitted. [Audit](../research/proving/campaigns/new-york/l0-structural-target-engine.md) |
 | [New York `L0` moment-reconciliation engine](proving/campaigns/new-york/nyc-l0-moment-reconciliation-engine.xlsx) | Whether official covariance blocks, marginal standard errors and exact additive identities can coexist—and whether that linear solution is a valid civil-state distribution | Preserves every official VRE covariance block, every registered marginal SE and all six exact identities across three completions, eliminating every interior spread failure. Roughly half of raw Gaussian rows still violate nonnegativity or subset bounds; repair shifts centers, rejects two rows and leaves tails unstable. No ensemble is admitted. [Audit](../research/proving/campaigns/new-york/l0-moment-reconciliation-engine.md) |
+| [New York `L0` atomic-basis registration](proving/campaigns/new-york/nyc-l0-atomic-basis-registration.xlsx) | Whether the published point margins have an exact nonnegative integer representation on a semantically valid support, and what those margins identify | Registers 1,557 person, occupied-household and vacant-unit atomic cells per catchment and reconstructs all 456 margins exactly. The aggregation operator has rank 32 and nullity 1,525; no tested operational joint is point-identified. This is support authority, not a stochastic ensemble. [Registration](../research/proving/campaigns/new-york/l0-atomic-basis-registration.md) |
 
 ## Utility and hazard-control systems
 
