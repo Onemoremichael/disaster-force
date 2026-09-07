@@ -2803,3 +2803,29 @@ The thirteen-sheet workbook contains assumptions, eight mechanisms, complete-pay
 ### Pass stocktake
 
 The pass falsifies a universal fourth carrier and the assumption that access means carriage only. It leaves all mechanism performance, costs, industrial quantities and admission provisional. The burden moves into bases, weather, receiver acceptance, configuration, recovery, supplier ancestry and second-event depth. Pass 79 should configure an `M1+M3+M5` tri-vector formation, with `M4` as the concurrency challenger. Rendering remains blocked until that configuration establishes actual form.
+
+## Pass 79 — `TAFG-1` tri-vector access-group configuration
+
+### Research question and result
+
+What does the leading `M1+M3` portfolio become when the missing `M5` service bridge is configured into the same formation, and do its payloads, people, ancestry, receivers, reset and costs support the claimed fourteen-world behavior?
+
+The [`TAFG-1` study](../force/projection/tafg1-trivector-access-group-configuration.md) creates one reference group with two `HBL-320` liftships, four `ATUT-160` terrain vehicles and four `RUC-100` utility-corridor projectors. It owns two independent 635-tonne physical service cells and one 400-tonne bridge payload, for 1,670 fielded tonnes. The common physical manifest contains sixteen functional packages and thirty-two governed positions across 580 dry tonnes plus 55 tonnes of initial consumables.
+
+The tri-vector group closes fourteen of fifteen declared behavior worlds. The utility bridge removes the 80-kilometre gap that defeated Pass 78. The remaining failure is a second simultaneous hard-access region because a committed group cannot be counted twice. `F2` adds an eight-aircraft heavy-VTOL lattice and closes all fifteen; `F3` duplicates the group and also closes all fifteen; `F4` combines VHL and corridors but closes only ten because it gives up atmospheric and terrain breadth.
+
+### Formation, independence and technology consequence
+
+The reference formation has 488 deployed people, 286 trained local reservists, 158 regionally shared specialists, a minimum 124-person watch-and-launch posture and 1,056 affiliated positions including relief, depot, school and institutional depth. Recovery covers termination, inventory, decontamination, repair, energy, crew relief, receiver handback and certified reload. Its longest declared path is 144 hours against a 168-hour target.
+
+Ten ancestry domains—energy, launch and base, control, workforce, supplier, receiver, weather, reset, payload and authority—replace the assumption that different propulsion establishes independence. Withholding one vector leaves another effect, but withholding common payload custody removes all three. The next common-mode problem is therefore the arsenal and loading system.
+
+The force requires clean-sheet buoyant structures and variable buoyancy; high-authority propulsion and mooring; articulated autonomous terrain mobility and recovery; robotic high-capacity utility tissue with sectional isolation; common but plural-custody service modules; offline mission intelligence; receiver assurance; and representative compound-environment trials. The model separates $165B of article-family RDT&E, a $180B cross-cutting technology increment and a $160B shared command, base and proving enterprise.
+
+### Economy, artifact and stocktake
+
+Twenty-two assigned hard-access groups, 1.5 concurrency and 1.3 readiness require forty-three ready groups. At $16.9B lifecycle per group, formation lifecycle is $726.7B. Adding article-family research, cross-cutting technology and shared enterprise produces a $1.2317T successor. Replacing the Pass 78 paired program once recompiles the national boundary at $7.23141195T. `F2`, `F3` and `F4` produce declared whole-force comparators of $7.81194395T, $8.04311195T and $7.24510655T.
+
+The twelve-sheet [companion workbook](../../models/force/projection/tafg1-trivector-access-group-configuration.xlsx) contains the summary, assumptions, four formations, controlled manifest, workforce, sixteen mission worlds, ancestry and compound withholding, reset, program cost, thirty-four evidence gates, thirty-six checks and reading guide. All thirty-six checks pass, the formula-error scan is empty, every sheet is visually reviewed and the Open XML archive validates. Changing assigned groups from twenty-two to thirty raises ready groups from forty-three to fifty-nine and the national comparator from $7.23141195T to $7.50181195T, then restoration returns the baseline exactly. Workbook SHA-256 is `3783fe259aa88364f0a9473ef9c26e65ecbc0844927ab08b043849cbef327f62`.
+
+The pass makes the tri-vector formation boundary, manifest, service-bridge role, workforce system, ten ancestry domains, reset path and concurrency rivals authoritative at `R2`. It falsifies vehicle diversity as independence, a vehicle-only unit of force and any implicit double counting of a deployed group. All quantities and behavior results remain hypotheses; all thirty-four gates are open and strict admission is zero. Pass 80 should compile separately sourced payload lots, arsenals, loading equipment, bases, energy, crews, release authorities and hour-48 dispatch schedules, then insert common-mode loss and run `F2` and `F3` against a discrete second-region timeline. No external-site research or rendering is introduced.
