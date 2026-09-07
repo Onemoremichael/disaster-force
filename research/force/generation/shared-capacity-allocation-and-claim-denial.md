@@ -385,7 +385,7 @@ First, Pass 58 remains the held national planning baseline; unsupported credits 
 
 It does not support a new national cost total, a final force size, a public-priority ordering or an acquisition program. The 48-by-10 campaign matrix remains a declared stress architecture. Source inventories remain coarse. Four critical pool classes remain unquantified. Mode shares are provisional. No present capital credit has earned item-level operational admission.
 
-The next force-model pass should therefore create a canonical cargo and transport register. It should identify complete deployable packages, origin families, dimensions, mass, hazardous classes, handling interfaces, activation, mode compatibility, discharge, onward movement, receiver prerequisites and service deadlines. It should then allocate actual carrier and node objects while preserving follow-on reserve and regeneration.
+Pass 61 now supplies the first required successor in [canonical cargo and transport closure](../projection/canonical-cargo-and-transport-closure.md). It converts the forty-eight-family package into 448 position-class records and 4,480 campaign claims, adds dimensional burden, protected reserve and deadline buckets, and reduces complete-formation closure to 13.0 percent. It does not yet supply serial items, origins, carriers, routes, nodes or receivers; those remain the binding next layer.
 
 Only after that work, and after the representative service configurations close their physics, should the project render major vehicles. The form of a civil airlifter, response carrier, inland flood vessel, autonomous pipeline train or mobile base should emerge from the contested allocation and service chain—not substitute for it.
 
