@@ -6,6 +6,8 @@ This layer explains what must already exist at destinations and how surviving ca
 
 [National Receiving Geography](national-receiving-geography.md) replaces equal regions with thirty-two population-weighted planning catchments and a four-mode relocation screen. It finds that the baseline lattice is both capacity-limited and geography-limited: only 2,355.80 CDE survive against 2,500 demanded, and baseline corridors serve 2,066.42 CDE.
 
+The projection layer's [federated first-reach water architecture](../projection/wrg-fr10-federated-receiver-architecture.md) now resolves one receiver at mission-system scale. It shows that several physical sites remain one receiver when terminal, power, quality or source dependencies can stop them together. Its minimum local federation uses independently releasable service islands with separate distribution, branches, black start, quality workcells, storage and accessible catchments; a second source provenance removes the next registered common mode. Every boundary remains untested, so no receiver is admitted.
+
 That failure now hands the population-movement problem to the separate [civil mobility and continuity subsystem](../mobility/README.md). Its first reference force replaces the corridor multiplier with observed network gates, purpose-built fleets and nodes, protected cohorts, route restoration and distributional assurance.
 
 The architecture competition remains among:
