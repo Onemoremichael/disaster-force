@@ -76,6 +76,13 @@ operability · rights-preserving linkage     causal feasibility · custody · re
                                 ├── PASS: all 468 published points reconstruct
                                 ├── FAIL: exact moment cloning is impossible
                                 ├── 7 zero-point positive-SE contradictions
+                                ▼
+                 ATOMIC POSTERIOR PREREGISTRATION v3C0
+                 4 likelihoods × 3 priors · 12 separate cases
+                                │
+                                ├── 1,152 chains · 57.6M transition ceiling
+                                ├── 25 gates · 23 deliberate failures
+                                ├── architecture firewall · independent reproduction
                                 └── STOP: ZERO ENSEMBLE / DONOR FIT / OUTCOMES
 ```
 
@@ -99,13 +106,15 @@ The [atomic moment-cone audit](proving/campaigns/new-york/l0-atomic-moment-cone-
 
 The pass then rejects the intended `v3B1` calibration target. Seven catchment margins have published point estimate zero and positive sampling standard error. For a nonnegative quantity, mean zero implies zero variance, so no lawful civil-state distribution can exactly clone both values. The official covariance describes repeated-sample behavior of the estimator, not cross-world variation of true populations. It remains authoritative in `p(ŷ | A x,V)`, while uncertainty over `x` requires an explicit, sensitivity-tested state prior. This is a semantic correction to the statistical constitution, not a reason to discard the source.
 
+The [atomic posterior preregistration](proving/campaigns/new-york/l0-atomic-posterior-preregistration.md) now freezes that constitution. Four measurement cases—three Gaussian covariance completions and one covariance-preserving Student-`t` boundary case—cross three lawful state priors: weak branch balance, geographically labeled PUMS partial pooling and a bounded adverse operational tilt. All twelve cases remain separate. The registered ceiling is 1,152 chains, 57.6 million transition proposals and at most 144,000 retained candidate states, with exactly nested `K=125–1,000` prefixes. Twenty-five co-governing gates and twenty-three deliberate failures cover custody, likelihood construction, support, convergence, predictive behavior, sensitivity, privacy, firewall and independent reproduction. Preregistration produces zero posterior states.
+
 ## The next connected moves
 
-### 1. Preregister an atomic measurement-error posterior
+### 1. Execute and independently challenge the registered posterior
 
-Atomic basis `v3B0` answered the support question. Audit `v3B1A` closes the under-five source gap and proves exact moment cloning is outside the nonnegative moment cone. The next method is therefore `v3C0`, not a more elaborate attempt to force the same moments. It must preregister a likelihood for the published estimators conditional on `A x`, preserve official covariance in that likelihood, and disclose a reference law over lawful nonnegative integer states.
+Atomic basis `v3B0` answered the support question. Audit `v3B1A` closes the under-five source gap and proves exact moment cloning is outside the nonnegative moment cone. Registration `v3C0` now fixes the lawful replacement before execution: `p(x | ŷ,m,p) ∝ p(ŷ | A x,Vₘ)p₀(x | p)` over nonnegative integer atomic states.
 
-At least three dependence cases must be frozen before sampling: weak association, PUMS-informed association with geographic support labels, and an adverse rare-cell structure. The implementation must separate likelihood information from prior regularization, report partial-identification and prior-sensitivity surfaces, and pass posterior-predictive reconstruction and interval-coverage gates. It must retain the nested `K=125–1,000` prefixes, tail stability, semantic contradictions, boundary diagnostics, privacy controls and independent reproduction requirements before a single donor weight is fitted.
+The next pass must implement the registered four-by-three factorial without amendment, first validate the measurement models in 100,000-draw fixed-state tests and demonstrate move connectivity on reduced supports, then run all 144 catchment-case paths. Every case must retain its identity. Prior dominance and likelihood reversal are reportable sensitivity findings, not reasons to delete a case. Any failed stop gate at the registered ceiling denies ensemble admission.
 
 Only an admitted target ensemble may enter the household-preserving donor compiler. That later step must still distinguish observed margins from modeled joints, enforce building-class capacity, retain `UNKNOWN` where evidence is absent, label local, adjacent and citywide donor support, and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence, disclosure and independent reproduction are evaluated.
 
@@ -146,4 +155,4 @@ The wider force cannot claim representative maturity until its critical service 
 
 Centralizing the frontier prevents progress reporting from overwhelming the argument. More importantly, the research controls prevent three forms of self-deception: choosing data after seeing which architecture wins, mistaking synthetic precision for observed civil state, and scaling a locally optimized solution into a national force before portability is demonstrated.
 
-The next pass should preregister and challenge atomic measurement-error posterior `v3C0` against the official estimator behavior and the `v3B0` support. Donor fitting remains prohibited until an engine admits an ensemble at the registered ceiling. If one does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
+The next pass should execute and independently challenge atomic measurement-error posterior `v3C0` against official estimator behavior and the `v3B0` support. Donor fitting remains prohibited until all applicable gates admit an ensemble at the registered ceiling. If one is admitted, the compiler must preserve local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.

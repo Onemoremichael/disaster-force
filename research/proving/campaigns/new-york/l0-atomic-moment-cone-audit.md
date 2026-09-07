@@ -6,6 +6,8 @@
 
 **Paired model:** [New York `L0` atomic moment-cone audit](../../../../models/proving/campaigns/new-york/nyc-l0-atomic-moment-cone-audit.xlsx)
 
+**Successor:** Pass 54 has now frozen the [`v3C0` atomic posterior preregistration](l0-atomic-posterior-preregistration.md). The specification below is retained as the requirement lineage; the later registration is current authority.
+
 ## Executive judgment
 
 Pass 52 registered a lawful atomic support and proved that all 456 published point margins could be reconstructed by nonnegative integer states. It then proposed a natural successor: calibrate a distribution over those states whose aggregate mean and covariance exactly equal the published ACS point estimates and variance-replicate covariance.

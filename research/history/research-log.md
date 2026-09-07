@@ -2325,3 +2325,39 @@ No posterior state, target ensemble, donor fit, synthetic record, building assig
 The sixteen-sheet workbook records target authority, the under-five source extension, official covariance, exact point support, all 468 reconstructions, identification bounds, the complete 468-pair boundary audit, seven formal conflicts, successor specification, empty downstream objects, cryptographic commitments and eleven formula-backed integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `ed0a8c7dec3d08f4f508101faf97fd5baece19a33e38fc94cd5719a8cfe536f6`.
 
 The Civil State Authority now requires explicit measurement-model custody in addition to semantic and data custody: estimator registries, likelihood governance, disclosed prior sensitivity, posterior attestation and empirical coverage evaluation. Without that separation, a force can turn sampling error into imaginary population variation and size operational service around an impossible state model.
+
+## Pass 54 — New York `L0` atomic posterior preregistration
+
+### Research question
+
+What statistical constitution can infer lawful nonnegative atomic civil states from official marginal estimators without cloning estimator covariance as state variation, hiding unidentified dependence, selecting a favorable model after seeing architecture outcomes or manufacturing precision through post-draw repair?
+
+### Registered constitution
+
+Registration `DF-NYC-L0-PR54-ATOMIC-POSTERIOR-v3C0` separates the observed estimator, its repeated-sample covariance, the lawful latent civil state, the aggregation operator, the measurement likelihood and the state prior. Every likelihood evaluates the published 39-margin estimator in a fixed 33-dimensional independent row basis conditional on aggregates `A x` from one 1,557-cell nonnegative integer state.
+
+Four likelihood cases are frozen: the Pass 51 zero-cross-table Gaussian completion, moderate shared-place and strong concordant Gaussian completions, and a seven-degree-of-freedom Student-`t` case with scale `5/7 V` so its covariance remains `V`. Three state-prior cases are frozen: a weak branch-balanced reference, a tier-labeled PUMS partial-pooling reference whose concentration is selected only by leave-one-PUMA-out log loss over `{1,4,16,64,256}`, and a bounded adverse operational tilt with maximum `4:1` prior odds. All twelve likelihood-prior combinations remain separate.
+
+### Computation and scale
+
+Each of twelve catchments is assigned eight chains under every case. Every chain receives 10,000 warmup and 40,000 production iterations; adaptation ends before production. SHA-256 orders 125 retained indices per chain, and a case-specific rotation interleaves chains into exact `K=125,250,500,1,000` prefixes whose chain contributions differ by no more than one.
+
+The complete ceiling is 144 catchment-case paths, 1,152 chains, 57.6 million transition proposals, 144,000 potential retained states, 224,208,000 atomic values and 5,616,000 aggregate and posterior-predictive values. The dense atomic payload ceiling is 896,832,000 raw `int32` bytes before compression and manifests.
+
+The registered move mixture combines total birth/death, person and household reallocations, `2×2` interaction cycles, integer null-`A` circuits and cross-ledger bridge relief. Illegal proposals receive posterior probability zero. Estimator residuals remain real-valued and untruncated at zero. No state is repaired, clipped or projected after sampling.
+
+### Gates and firewall
+
+Twenty-five co-governing gates cover custody, rank, positive-definite covariance, posterior propriety, 100,000-draw covariance recovery, boundary behavior, semantic support, convergence, effective sample size, dispersed starts, nested-prefix chain balance, mean and tail stability, joint-distribution stability, posterior-predictive coverage and discrepancy, prior dominance, likelihood reversal, privacy, zero architecture reads and independent reproduction. Twenty-three deliberate failure injections require the system to detect support violations, covariance errors, boundary truncation, moment cloning, case deletion, silent city pooling, prior drift, seed drift, warmup leakage, stuck chains, selected retention, predictive conflict, hidden sensitivity, architecture access, identity leakage, hash mismatch and reproduction conflict.
+
+Architecture outputs remain inaccessible through fitting. Prior hyperparameters are selected from semantic or donor evidence only and committed before posterior execution. Prior dominance and likelihood reversal retain separate cases and block single-state or confirmatory claims; they are not hidden by pooling.
+
+### Stop state and institutional consequence
+
+This pass is preregistration only. Every posterior-state, posterior-predictive, diagnostic, sensitivity, donor, synthetic-record, building and architecture table remains at zero rows. No target ensemble is admitted.
+
+The next admissible pass is an architecture-blind implementation and independent challenge of all 144 catchment-case paths. It must first pass fixed-state likelihood simulation and reduced-support connectivity tests, then every applicable admission gate at the registered ceiling. A stop failure denies the ensemble and preserves the donor-fit prohibition.
+
+The work further specifies a standing Civil State Authority for the Department of Resilience: semantic constitution, measurement registry, protected data federation, prior governance, disconnected updating, privacy and rights engineering, computational assurance and decision attestation are permanent force infrastructure.
+
+The seventeen-sheet workbook records the complete registration, reconciled scale, source and dataset commitments, empty output surface and fourteen formula-backed integrity checks. All sheets pass visual inspection, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `47ff05bb55cc89f326225ca79de304f8110f4707baaef34a8715529d8de22231`.
