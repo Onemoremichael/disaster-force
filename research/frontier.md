@@ -1,6 +1,7 @@
 # Active research frontier
 
-**Decision state:** 5 September 2026  
+**Decision state:** 6 September 2026
+
 **Purpose:** one repository-wide statement of what is believed, what is sealed and what must be learned next
 
 This is not a release note or a queue of disconnected papers. It is the present edge of the argument: the narrow set of uncertainties whose resolution would most change the mature Department of Resilience, its force and its industrial program.
@@ -41,30 +42,32 @@ operability · rights-preserving linkage     causal feasibility · custody · re
         │                                               │
         └───────────────────────┬───────────────────────┘
                                 ▼
-                 REGISTERED CIVIL-STATE METHOD
-                 28 constraints · nested K ladder · tiered donor support
+                 REGISTERED CIVIL-STATE METHOD + DONOR SUPPORT
+                 hard identities · nested K ladder · tiered PUMS custody
                                 │
                                 ▼
-                 COHERENT TARGET ENGINE · ZERO RECORDS
+                 TARGET ENGINE v1 · 36,000 CANDIDATES
+                 all feasible integers · no ensemble admitted
                                 │
-                                ▼
-                       FORMAL L0 FREEZE
-                                │
-                                ▼
-                      A2 ↔ S3 PAIRED TEST
+                                ├── FAIL: K=1,000 tail stability
+                                └── STOP: ZERO DONOR FIT / SYNTHESIS / OUTCOMES
 ```
 
 The operator chain is now specified through civil-state compilation. The [street audit](proving/campaigns/new-york/l0-street-topology-audit.md) records 126,779 canonical street edges, 7,129 tract pairs and 847 candidate catchments; all twelve disclosed references and three commitments survive primary, strict and permissive screens. The [experiment registry](proving/campaigns/new-york/l0-empty-outcome-registration.md) reserves 12,000 worlds, 24,000 paired architecture rows and 2,000 campaign aggregates without filling an outcome. The [hierarchical generator](proving/campaigns/new-york/l0-world-generator-registration.md) fills only twelve stress factors in each world. The [input registration](proving/campaigns/new-york/l0-population-building-input-registration.md) binds 87 tracts to official demographic estimates, published uncertainty and inherited building proxies. The [civil-state compiler registration](proving/campaigns/new-york/l0-civil-state-compiler-registration.md) fixes denominator authority, household-preserving donors, target uncertainty, building-class assignment, nested ensemble convergence, privacy, custody and rejection before generating a record. The [PUMS donor audit](proving/campaigns/new-york/l0-pums-donor-support-audit.md) then reproduces all five official New York controls exactly, closes household–person linkage and measures the local → adjacent → citywide support ladder while preserving every synthetic and architecture output at zero.
 
 That audit changes implementation. The 123,463 occupied New York City donor households contain 2,123 observed nine-dimensional household classes. Classes with fewer than five donors comprise 37.59 percent of the class surface but only 1.16 percent of weighted households. The weakest local pool supports 71.36 percent of citywide weighted class mass; adding touching PUMAs raises the worst case to 89.66 percent. The compiler must therefore use explicit hierarchical partial pooling, publish the support tier behind each fitted class and reject silent citywide borrowing. PUMA selects donors; it does not observe tract households.
 
-That stop is substantive. Marginal tables do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Inventing those relationships would determine the answer before the architecture test begins.
+The first [target-engine ceiling audit](proving/campaigns/new-york/l0-target-engine-ceiling-audit.md) now turns the observed margins into 36,000 nonnegative integer candidate vectors under three disclosed covariance cases. All candidates satisfy six equalities and twenty-seven inequalities. None of the three ensembles is admitted: their central means stabilize, but their worst selected-quantile changes remain between `0.00774` and `0.00964`, above the registered `0.0050` limit, and thirteen rows require excessive feasibility repair. Donor fitting, synthesis, building assignment and architecture execution remain at zero.
+
+That stop is substantive. The first engine sampled several related published totals as separate primitives and asked an optimizer to create coherence afterward. It could therefore preserve the center while moving tails. Marginal tables also do not reveal the joint relationship among age, disability, household membership, medical dependence, caregiver support, building type, floor, elevator access, water pressure, indoor heat and safe movement. Repairing or inventing those relationships would determine the answer before the architecture test begins.
 
 ## The next connected moves
 
-### 1. Implement the coherent target engine and independently reproduce the compiler
+### 1. Replace the failed target parameterization before donor fitting
 
-The method is preregistered and the PUMS source-custody and support audit is complete with zero synthetic records. The immediate task is to implement the coherent target engine and household-preserving compiler, exercise all deliberate failure tests, and have a second team reproduce it from the source commitments. It must distinguish observed margins from modeled joints, carry published uncertainty into a nested ensemble, enforce building-class capacity, retain `UNKNOWN` where evidence is absent, label local, adjacent and citywide donor support, and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence and disclosure are evaluated.
+Target engine `v1` has reached its registered ceiling and failed. The immediate task is not more draws or a looser threshold. It is a `v2` structural-coordinate generator that draws primitive totals, complements and simplex shares so population, group quarters, occupancy, vacancy, tenure, structure and disability relations are coherent before integer projection. Published margins and variance replicates remain calibration authorities; projection becomes bounded rounding and reconciliation rather than the mechanism that creates a population. The new version must repeat the exact nested-prefix, tail-convergence, repair-distance and deliberate-failure checks before a single donor weight is fitted.
+
+Only an admitted target ensemble may enter the household-preserving donor compiler. That later step must still distinguish observed margins from modeled joints, enforce building-class capacity, retain `UNKNOWN` where evidence is absent, label local, adjacent and citywide donor support, and expose donor distortion and privacy risk. Architecture outcomes remain unavailable while fit, convergence, disclosure and independent reproduction are evaluated.
 
 This is larger than a campaign-data problem. A mature Department would need a standing **civil-state production system** that can reconcile protected local records, official statistics, building systems and field observations during network failure without creating a population-surveillance regime. The compiler is therefore an early specification for operational information infrastructure, rights architecture and a new public technical profession.
 
@@ -103,4 +106,4 @@ The wider force cannot claim representative maturity until its critical service 
 
 Centralizing the frontier prevents progress reporting from overwhelming the argument. More importantly, the research controls prevent three forms of self-deception: choosing data after seeing which architecture wins, mistaking synthetic precision for observed civil state, and scaling a locally optimized solution into a national force before portability is demonstrated.
 
-The next pass should implement the coherent target engine and hierarchical donor fit, then carry only an accepted input ensemble through the registered public building-class layer. It must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.
+The next pass should implement and challenge the `v2` structural-coordinate target engine. Donor fitting remains prohibited until that engine admits an ensemble at the registered ceiling. If it does, the compiler must preserve the local → adjacent → citywide support labels, run sparse-cell and privacy failures before architecture access, and keep public relational records prohibited. In parallel research terms—not in outcome access—the Department-scale agenda remains force composition, civil-state infrastructure, building operability, technology maturation and the industrial economy. These are one coupled design problem.

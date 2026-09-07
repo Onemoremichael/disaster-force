@@ -2149,3 +2149,39 @@ The fifteen-sheet workbook passes exact source-reproduction, linkage, geography,
 All coherent-target, donor-weight, integer-selection, synthetic household, synthetic person, group-quarters synthesis, building assignment, operational-state, architecture-outcome and campaign-aggregate tables remain at zero. The next pass is the coherent target engine and tier-labeled hierarchical fit, followed by deliberate-failure, privacy, convergence and independent-reproduction tests. Medical-power need, caregiver relation, exact household–building binding, building operability, service territories, alternative dependence cases, causal feasibility and salted external holdout custody remain open.
 
 No `NCAC` evidence gate advances and no rendering is authorized.
+
+## Pass 49 — New York `L0` target-engine ceiling audit and narrative repository spine
+
+### Research question
+
+Can the registered official marginal surface produce a coherent, stable integer target ensemble before donor fitting—and can the growing repository present that result as part of one argument rather than another item in a chronological list?
+
+### Target method
+
+Registration `DF-NYC-L0-PR49-TARGETS-v1` binds the Pass 44 official inputs, Pass 46 compiler rules and Pass 48 donor custody. Eight ACS variance-replicate tables are reconstructed at catchment level by summing components and geographies separately across all eighty published replicates. The implementation reproduces all 264 registered estimate and standard-error pairs within numerical tolerance. Sixteen metrics without published variance-replicate coverage retain the disclosed root-sum-square uncertainty approximation.
+
+The sampling design is one deterministic 1,000-member nested Latin hypercube over 849 latent dimensions. Each of the first 125, 250, 500 and 1,000 members occupies all marginal strata exactly. A prior Sobol-prefix approach was rejected before release because the registered non-power-of-two prefixes would not preserve its balance property.
+
+Three covariance cases separate published within-table dependence from missing cross-table structure. `T0_TABLE_BLOCK` uses only available variance-replicate covariance. `T1_SHARED_CATCHMENT` adds moderate metropolitan and catchment loadings. `T2_CONCORDANT_DOMAIN` adds stronger metropolitan, catchment and domain concordance. These cases are sensitivities, not fitted probabilities.
+
+Each case–member–catchment vector is projected through one nonnegative integer weighted-`L1` mixed-integer program with six equalities and twenty-seven inequalities. Projection is evaluated separately from admission. A row is rejected if the solver fails, mean standardized repair exceeds `0.50`, a screen-precision margin moves more than five standard errors, or any margin moves more than eight standard errors. Ten deliberate contradictions are all rejected.
+
+### Ceiling finding
+
+The engine produces 36,000 candidate target vectors. Every cell is nonnegative and integral; every vector satisfies all 33 hard constraints. Thirteen rows still fail the repair-distance rule: eight under `T0`, four under `T1` and one under `T2`.
+
+At `K=1,000`, central means meet the registered `0.0025` stability limit in every case. Selected tails do not meet the `0.0050` limit. Maximum quantile changes are `0.008906` for `T0`, `0.009638` for `T1` and `0.007738` for `T2`. No case is admitted. Donor weights, integer donor counts, synthetic households and persons, building assignments, architecture outcomes and campaign aggregates remain zero.
+
+The diagnosis is parameterization, not insufficient optimization. Population and civilian noninstitutionalized population, households and occupied units, occupancy and vacancy, tenure partitions and structure partitions are related structural quantities. Sampling them too independently and repairing afterward can stabilize means while shifting tails. The successor must draw primitive totals, complements and simplex shares coherently before a small integer reconciliation step. Increasing `K`, relaxing the limit or selecting the least-bad covariance case would be a new method and is not authorized.
+
+### Repository decision
+
+The root README is rebuilt as an executive prospectus rather than a catalog. It now carries the national premise, effect-based design rule, three institutional layers, emerging echelon structure, innovation and industrial consequence, proof architecture and live negative result before offering three concise reading routes. The research README becomes the stable proof spine. The active frontier, New York dossier, synthesis, model catalog, evidence ledger, source ledger and supersession map are synchronized to the failed target ceiling and the structural-coordinate successor.
+
+This continues the Pass 47 physical reorganization without another mass file move. The stable directory tree remains mandate → force → mission systems → proving → synthesis, with programmatics alongside and history behind. Exhaustive inventories remain in the model catalog; the intellectual front doors carry only the argument and the current proof boundary.
+
+### Verification and next decision
+
+The nineteen-sheet workbook exposes registrations, sources, exact reconstruction checks, target definitions, covariance cases, constraints, convergence, repair diagnostics, rejected rows, distributions, failure injections, integrity controls and 3,000 focal candidate rows. The full 36,000-row cases are hash-committed. All formula-backed controls pass, the formula-error scan is empty, every sheet is rendered and visually inspected, and the Open XML archive validates. Workbook SHA-256 is `133cebc151f3f7ea7cd6f67448cf47eab03ff6f8d94a38dcfa5336fa39a073e5`.
+
+The next admissible pass is target engine `v2` in structural coordinates. Donor fitting remains prohibited until a target ensemble clears the registered ceiling. Formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
