@@ -30,6 +30,8 @@ The [`PTS-5` fixed service-island compiler](projection/pts5-fixed-service-island
 
 The [`PTS-5` fourth-access competition](projection/pts5-fourth-access-mechanism-competition.md) then replaces the remaining placeholder with eight clean-sheet mechanisms. No single vehicle is universal. A heavy buoyant-lift and autonomous-terrain pair closes thirteen of fifteen worlds, while robotic utility corridors and local-conversion seed forces establish that access can bridge or reproduce service rather than carry all mass. The mature force therefore needs a multi-physics access ecosystem, its own bases and observatories, and a common payload authority. All credit remains zero pending representative trials.
 
+The [`TAFG-1` tri-vector access group](projection/tafg1-trivector-access-group-configuration.md) is the first configured formation in that ecosystem. It fields independent atmospheric and terrain-carried service cells plus a robotic utility bridge, 488 deployed people and a complete recovery cycle. It closes fourteen behavior worlds; simultaneous demand in a second region drives a direct heavy-VTOL-versus-duplicate-group comparison. The ancestry screen shows that vehicle diversity is meaningless if one payload arsenal or loading node can stop all paths.
+
 ## The architecture
 
 ```text
