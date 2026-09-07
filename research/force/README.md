@@ -20,6 +20,8 @@ The [heat-blackout power and thermal service study](projection/heat-blackout-pow
 
 The [`PTS-5` energy and heat-rejection competition](projection/pts5-energy-and-heat-rejection-lineage-competition.md) closes the first part of that wet-energy boundary. It shows that source conversion raises one cell's occupied-site rejection from 2.80 MWth to as much as 5.69 MWth, while a seven-day storage-only configuration requires 2,784 tonnes. No liquid, gas, storage, local-resource, prepared-anchor or strategic firm lineage is universal. The force therefore advances as a common service spine with black-start, rapid-bridge, seven-day and strategic-firm echelons; a mixed provisional `PTS-50` reaches 12,200 dry tonnes and 2,852 deployed people while all twenty-eight gates remain open.
 
+The [`PTS-5` deployment-geometry competition](projection/pts5-deployment-geometry-competition.md) then holds one rapid-bridge payload constant and makes its host an explicit force choice. Road, rail, shallow-water, prepared-anchor and tri-modal rivals pass seventeen, fourteen, eighteen, twenty and seventeen of twenty-three worlds while transported-system mass spans 471–1,505 tonnes. The result adds a $976.8 billion geometry-host enterprise to the twenty-five-year comparison, but admits no host: thirty-four evidence gates still block configuration and rendering.
+
 ## The architecture
 
 ```text
