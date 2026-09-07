@@ -2573,3 +2573,45 @@ The nine-sheet [companion workbook](../../models/force/generation/household-coll
 The root, research, force, generation, model, synthesis, frontier, history and supersession routes now distinguish `NCAC-35` as the complete system from `HCG-35B` as the origin formation. Pass 58's national totals remain current. No rendering is created.
 
 The next force-generation pass should build the canonical shared-capacity allocation ledger: common item identities, configuration, location, readiness, time-phased claims, supporting authority, transport path, common-mode loss, substitution and denial across all forty-eight families and ten campaigns. A second claimant must fail when the first consumes the capacity.
+
+## Pass 60 — Shared capacity allocation and claim denial
+
+### Research question
+
+What must be true before a formation can claim capacity generated or owned elsewhere, and what national command and accounting architecture prevents the same people, capital, base, carrier, site or service from satisfying incompatible simultaneous obligations?
+
+### Conservation doctrine
+
+The new [shared-capacity allocation and claim-denial study](../force/generation/shared-capacity-allocation-and-claim-denial.md) separates four objects that earlier models partially combined: physical availability, standing obligation, time-bound reservation and institutional ownership. A fiscal credit may prevent duplicate purchase; it does not remove a responder from the theater, a tonne from the origin or a supporting crew from the formation's complete service chain.
+
+A source is shareable only when it has persistent identity, effect, quantity, complete configuration, location, availability interval, activation and regeneration time, readiness, release authority and compatible substitution rules. Divisible flows, indivisible modules, prepared sites, licensed labor, authority-bound services and serial work queues require different allocation logic. Protected reserve is an explicit claimant. No incomplete indivisible package receives proportional service credit.
+
+The proposed Joint Capacity Authority maintains availability, obligation and reservation records; generating services retain readiness attestation, civil leadership retains public priority, technical authorities retain safety release, campaign commands retain employment and independent assurance retains reproduction. Allocation proceeds through quarantine, guarantee floors, complete service claims and only then discretionary optimization.
+
+### National quantitative result
+
+The companion model expands forty-eight canonical families across ten simultaneous campaigns, producing 480 formation-campaign demand records and 100 serialized operational pool claims. The serialization is a conservation test, not a public-priority policy. Its double-claim unit test places two overlapping claims against one unit: the first receives one and the second zero.
+
+Physical basing follows gross on-duty demand. The campaigns claim 2,011,407 responder places against 1,482,624 inherited effective places, for 73.7-percent coverage and a 528,783-place deficit. Pass 58's net-person operational screen is therefore not an admissible basis for theater support.
+
+After the inherited 25-percent prepositioning assumption, early movement demand is 6,677,140 tonnes against 2,462,931 effective 72-hour tonnes, or 36.6-percent coverage. Air covers 27.5 percent, ocean 30.2 percent and land/rail 32.7 percent under declared mode shares; inland water shows a narrow aggregate surplus that cannot substitute without cargo, route and terminal compatibility. Daily sustainment demand of 173,895 tonnes passes the inherited 501,228-tonne allowance, but public commodities, distribution and reverse flow remain incomplete.
+
+The HCG external claims—2,346 prepared district packages, 483 route detachments, 690 power blocks and 621 water islands—fit inside the current aggregate planning pools. They remain unadmitted because no item has location, travel, release, inspection, covariance or competing non-HCG obligations.
+
+### Credit ownership result
+
+Pass 58 contains 915,209 active non-HCG shared-affiliate credits. Only the 198,197.55-person NUPS common enterprise supplies a quantified source, leaving 717,011.45 active credits unallocated. Pass 59's 519,644 supporting HCG affiliations and 207,858 on-duty screen remain separate and potentially overlapping; they are neither added nor deducted. The legacy 870,400-person HCG credit is superseded.
+
+The $2.268 trillion pre-reserve capital-credit ledger remains a claim register. Most entries have only coarse source ceilings, not item work-breakdown or operational reservations. The $240 billion pre-reserve Civil Rail Mobility rolling-stock credit has no named source ceiling and is unsupported. No capital deduction earns item-level admission.
+
+### Technology and proving consequence
+
+The pass derives a Department-scale technology portfolio: a configuration-controlled capacity graph; offline reservation and denial protocol; mission-aware asset, person, site and claim identities; a damage-aware route and latency engine; covariance and follow-on hazard modeling; a rights-bounded workforce conflict resolver; explainable allocation and appeals; and digital evidence twins tied to configuration and acquisition data rights.
+
+The proving program now requires duplicate-claim denial, two-HCG competition, cross-mode incompatibility, common-base loss, disconnected reservations, licensed-workforce conflict, contractor nonperformance, follow-on catastrophe reserve, regeneration debt and independent reconstruction of every admitted and denied claim.
+
+### Artifact, repository and next boundary
+
+The nine-sheet [Shared Capacity Allocation Ledger](../../models/force/generation/shared-capacity-allocation-ledger.xlsx) contains the decision, controls, ten-pool register, 480-line demand build, 100-claim allocation ledger, campaign results, workforce and capital credit controls, sources and gates, and integrity sheet. Twenty-one integrity checks pass; the saved formula-error scan is empty. Sensitivity expands NUPS workforce and reallocates a campaign's air/ocean shares, then restores both baselines without losing mass or claim conservation. All nine sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `2d5a8b66c76d8f67265199c88583b2c3e1c908c552ac6d940dbb8c17f7577166`.
+
+The Pass 58 national headline remains held. Credits are quarantined rather than silently admitted or deleted. No rendering is created. The next force-model pass should compile complete canonical cargo into item-identified origin, configuration, handling, mode, carrier, node, receiver, deadline, reserve and regeneration records, then rebuild the deployment enterprise around those objects.
