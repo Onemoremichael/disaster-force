@@ -1,6 +1,6 @@
 # Water restoration force engineering
 
-> **Current configuration successor.** The [Pass 69 closed-loop endurance competition](../../force/projection/wrg-fr10-closed-loop-water-endurance.md) carries the [Pass 68 source-family result](../../force/projection/wrg-fr10-assurance-source-family-competition.md) into residual and process-material closure. Carried storage, regeneration and dewatering, quality-segmented service and a circular source cell all close the original no-discharge and no-consumable cases. Only two close both simultaneously, neither survives the modeled power derating, and no configuration is admitted.
+> **Current configuration successor.** The [Pass 70 end-to-end independence study](../../force/projection/wrg-fr10-end-to-end-independence.md) reconnects the [Pass 69 closed-loop endurance result](../../force/projection/wrg-fr10-closed-loop-water-endurance.md) to carrier, receiver, power, quality, product, supplier, crew, depot, control and mobilization boundaries. Two source types inside one support chain pass only four of sixteen service worlds. A three-cell upper comparator passes all sixteen under its declared graph, but all twenty evidence gates remain open and no configuration is admitted.
 
 ## Purpose and finding
 

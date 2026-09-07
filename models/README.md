@@ -23,6 +23,8 @@ The [Assurance-Source Family Competition](force/projection/wrg-fr10-assurance-so
 
 The [Closed-Loop Water Endurance model](force/projection/wrg-fr10-closed-loop-water-endurance.xlsx) converts that portfolio's two common failures into four competing endurance architectures. Carry-and-contain, regeneration/dewatering, quality-segmented service and a circular source cell all close the original fourteen-day residual and thirty-day consumable cases. Only `E2` and `E4` close both denials together; both fail at 75 percent of the inherited 2 MW power allocation. Incremental twenty-four-chain comparators span $46.88–145.0 billion over twenty-five years. Fifty integrity checks pass, four sensitivities react, all strict admissions remain zero and rendering stays blocked.
 
+The [End-to-End Service-Chain Independence model](force/projection/wrg-fr10-end-to-end-independence.xlsx) registers twelve failure domains across source, treatment, carrier, node, power, quality, receiver, process materials, crew, depot, control and mobilization. Source-only, split-deployment and paired-chain architectures pass four, six and eleven of sixteen service worlds. A three-cell upper comparator passes all sixteen and the universal stop, but no architecture is admitted. The declared twenty-five-year range is $283.52–599.76 billion; sixty integrity checks pass, four sensitivities react and twenty evidence gates remain open.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -38,7 +40,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
