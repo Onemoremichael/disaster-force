@@ -2649,3 +2649,45 @@ The twelve-sheet [Canonical Cargo and Transport workbook](../../models/force/pro
 Sensitivity removes the 20-percent reserve, increasing usable capacity from 1,970,344.80 to 2,462,931 tonnes, physical delivery to 2,112,180.99 tonnes and complete-formation coverage from 12.99 to 16.31 percent; restoring the reserve restores every baseline. Removing all mode density floors makes chargeable demand equal the 6,677,140.35-tonne physical total; restoring them returns 7,047,691.42 tonnes. All twelve sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `7fb3be4de0fe5516d94d4fb00ae74afb07cc49ab84dcce52ff3a87ec4efcd281`.
 
 No external site research and no rendering are introduced. Thirteen gates remain open. The next force-model pass should tag, weigh and measure one representative complete formation, then derive rival carrier–node requirement envelopes across modes, origins, damaged routes, crews, receiver commissioning, protected reserve and regeneration.
+
+## Pass 62 — Carrier–node requirements and the 25-year mobility program
+
+### Research question
+
+What gross carrier potential, activation curve, transfer-node release capacity, route performance, protected reserve and industrial program would be required to place 95 percent of the canonical cargo claim inside its 24-, 48- and 72-hour deadlines?
+
+### Rival architecture method
+
+The [carrier–node requirement study](../force/projection/carrier-node-requirements-and-industrial-program.md) imports Pass 61's twelve mode–deadline demand buckets and preserves the 7,047,691.42-tonne chargeable total. For architecture `a`, mode `q` and deadline `d`, required gross 72-hour potential is the 95-percent cumulative demand divided by activation, node release, route survival and the 80-percent capacity share remaining after protected reserve. The mode envelope is the maximum requirement across the three deadlines.
+
+Three rivals face the same target. `P1` scales a slow activation pattern and compensates with inventory. `P2` acquires a purpose-built ready carrier–node force. `P3` distributes origins, preconfigures cargo and targets the strongest activation, handling and route performance. None is an acquisition baseline. Their coefficients are declared technology and organizational hypotheses.
+
+### Capacity and fleet result
+
+`P1` requires 23,077,236.66 tonnes of gross potential, or 9.37 times the inherited screen; 1,119 carrier groups; 156,825 unlike platform or position equivalents; and 367 nodes. `P2` requires 13,007,939.68 tonnes, 652 groups, 100,461 equivalents and 312 nodes. `P3` requires 10,047,685.15 tonnes, 517 groups, 80,382 equivalents and 296 nodes.
+
+The `P3` mode envelopes are 565,039.61 air tonnes, 3,246,072.05 ocean tonnes, 5,748,669.02 land/rail tonnes and 487,904.47 inland-water tonnes. All carrier envelopes bind at 48 hours. Air-node count binds at 24 hours because the earliest 221,999-tonne chargeable claim must cross the transfer surface before the larger later fleet is fully active.
+
+Provisional `P3` group yields translate the envelope into 137 air groups with 1,644 aircraft, 78 ocean groups with 234 hulls, 260 land/rail groups with 78,000 carrier-position equivalents and 42 inland groups with 504 craft. These unlike counts have no valid common engineering sum. They reveal the industrial category, not final quantities or forms.
+
+### Fiscal and readiness result
+
+The three 25-year program screens are $9.693T for `P1`, $6.013T for `P2` and $5.222T for `P3`. The `P3` case contains $4.168T of capital and $1.054T of ramped operations. Its capital includes $1.758T for carrier groups, $393.45B for nodes, $520B for RDT&E, $537.86B for bases and depots, $263.7B for spares and $694.60B for program reserve. Mature annual operations are $116.48B. The five build epochs carry $634.0B, $856.6B, $1.123T, $1.352T and $1.248T.
+
+The original $1T frame covers 10.3 percent of `P1`, 16.6 percent of `P2` and 19.2 percent of `P3`. It is a first tranche under every case, not a complete strategic-mobility program. The carrier-and-node envelope is also not additive to the Pass 58 Department screen because fleet, base, research, common-capacity and operating boundaries overlap.
+
+Activation functions as capital. Lowering only `P3` air activation at 48 hours from 92 to 70 percent increases the lumpy air inventory and raises the 25-year program from $5.222T to $5.966T, a roughly $744B penalty. Removing the 20-percent reserve lowers the program to $4.292T by deleting the follow-on claim rather than improving the force.
+
+### Institutional and technology consequence
+
+Strategic Mobility Command must own activation curves, fleet assignment and gross-potential ledgers. Entry and distribution commands must own transfer surfaces and onward release. Generating services retain complete configuration; receiving authorities admit commissioned service; the Joint Capacity Authority protects reserve and denies conflicts. Transfer nodes become platform-scale acquisition programs, while no-notice activation becomes a key performance parameter.
+
+The pass defines six connected technology competitions: no-notice activation; high-rate mixed-cargo nodes; distributed readiness; shape and interface engineering; damage-aware routing and bounded recomposition; and regeneration. Their output is a measured change in complete positions released by deadline, not a component demonstration.
+
+### Artifact, validation and next boundary
+
+The fourteen-sheet [Carrier–Node Requirement and Program workbook](../../models/force/projection/carrier-node-requirement-and-program-model.xlsx) contains decision, controls, inherited demand, rival architecture cases, capacity envelopes and summary, carrier families and fleet build, node families and build, program cost, 25-year phasing, sources and gates, and integrity. Twenty-seven terminal checks pass and the saved formula-error scan is empty. Independent sensitivity changes reserve, 48-hour air activation and the fiscal ceiling, then restores every baseline.
+
+All fourteen sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `b0fc15b2cfba11907e9c136d5e1366f91bb8c955aab65aecae0f3c9a2c279749`.
+
+No external site research and no rendering are introduced. Fifteen gates remain open. The result does not overturn Pass 61's 13.0-percent complete-formation closure because it contains no serial schedule. The next force-model pass should construct one tagged and measured representative manifest and run its indivisible items through rival carrier, node, route and receiver schedules under seeded loss.
