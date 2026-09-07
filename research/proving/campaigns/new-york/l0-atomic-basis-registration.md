@@ -6,7 +6,7 @@
 
 **Paired model:** [New York `L0` atomic-basis registration](../../../../models/proving/campaigns/new-york/nyc-l0-atomic-basis-registration.xlsx)
 
-**Successor note:** [Pass 53](l0-atomic-moment-cone-audit.md) adds the authoritative under-five margin but rejects the proposed exact moment-calibration objective. Seven zero-point, positive-SE margins cannot be the mean and variance of any nonnegative state distribution. Official covariance remains authoritative in a measurement likelihood.
+**Successor note:** [Pass 53](l0-atomic-moment-cone-audit.md) adds the authoritative under-five margin but rejects the proposed exact moment-calibration objective. Seven zero-point, positive-SE margins cannot be the mean and variance of any nonnegative state distribution. [Pass 54](l0-atomic-posterior-preregistration.md) now freezes official covariance in a measurement likelihood and separates three lawful state-prior cases before execution.
 
 ## Executive judgment
 
