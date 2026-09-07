@@ -6,6 +6,8 @@
 
 **Paired model:** [New York `L0` atomic-basis registration](../../../../models/proving/campaigns/new-york/nyc-l0-atomic-basis-registration.xlsx)
 
+**Successor note:** [Pass 53](l0-atomic-moment-cone-audit.md) adds the authoritative under-five margin but rejects the proposed exact moment-calibration objective. Seven zero-point, positive-SE margins cannot be the mean and variance of any nonnegative state distribution. Official covariance remains authoritative in a measurement likelihood.
+
 ## Executive judgment
 
 Pass 51 established that the official covariance blocks, all registered marginal standard errors and six exact additive identities can coexist. It also showed why that was insufficient: a Gaussian distribution with those linear moments repeatedly left the nonlinear civil-state region. Pass 52 asks the logically prior question that the Gaussian construction had concealed: **what primitive nonnegative objects are allowed to exist, and how must the published margins be derived from them?**
