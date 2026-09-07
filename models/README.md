@@ -43,6 +43,8 @@ The [`PTS-5` Fourth-Access Mechanism Competition](force/projection/pts5-fourth-a
 
 The [`TAFG-1` Tri-Vector Access-Group Configuration](force/projection/tafg1-trivector-access-group-configuration.xlsx) turns the leading pair and robotic utility bridge into one formation. Twelve sheets govern a thirty-two-position manifest, four formation rivals, fifteen behavior worlds plus evidence stop, 1,056 affiliated people, ten ancestry domains, 168-hour reset, program cost, thirty-four evidence gates and thirty-six checks. The reference closes fourteen worlds and costs $1.232T across forty-three groups; changing assigned groups from twenty-two to thirty raises ready groups from forty-three to fifty-nine and the national comparator from $7.231T to $7.502T before exact restoration. No formula errors remain and rendering is blocked.
 
+The [`TAFG-1` Payload, Arsenal and Dispatch Compiler](force/projection/tafg1-payload-arsenal-dispatch-compiler.xlsx) governs four payload-lot families, three custody architectures, loading resources, hour-48 schedules and discrete two-region assurance. `C1` uses 129 national arsenal nodes and closes thirteen of thirteen one-region cuts; `F1-C1` reaches 590 deployed people and a $7.383T national boundary. The prior eight-aircraft VHL option is nominal only, while a ten-aircraft revision survives the mass-loss screen but not loss of its sole mode or site. `F3-C2` is the $8.347T assured upper comparator. Fourteen sheets, forty-two checks, restored 22-to-30-group sensitivity and a zero-error scan reconcile; forty gates remain open and rendering is blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -58,7 +60,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE

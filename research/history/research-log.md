@@ -2829,3 +2829,33 @@ Twenty-two assigned hard-access groups, 1.5 concurrency and 1.3 readiness requir
 The twelve-sheet [companion workbook](../../models/force/projection/tafg1-trivector-access-group-configuration.xlsx) contains the summary, assumptions, four formations, controlled manifest, workforce, sixteen mission worlds, ancestry and compound withholding, reset, program cost, thirty-four evidence gates, thirty-six checks and reading guide. All thirty-six checks pass, the formula-error scan is empty, every sheet is visually reviewed and the Open XML archive validates. Changing assigned groups from twenty-two to thirty raises ready groups from forty-three to fifty-nine and the national comparator from $7.23141195T to $7.50181195T, then restoration returns the baseline exactly. Workbook SHA-256 is `3783fe259aa88364f0a9473ef9c26e65ecbc0844927ab08b043849cbef327f62`.
 
 The pass makes the tri-vector formation boundary, manifest, service-bridge role, workforce system, ten ancestry domains, reset path and concurrency rivals authoritative at `R2`. It falsifies vehicle diversity as independence, a vehicle-only unit of force and any implicit double counting of a deployed group. All quantities and behavior results remain hypotheses; all thirty-four gates are open and strict admission is zero. Pass 80 should compile separately sourced payload lots, arsenals, loading equipment, bases, energy, crews, release authorities and hour-48 dispatch schedules, then insert common-mode loss and run `F2` and `F3` against a discrete second-region timeline. No external-site research or rendering is introduced.
+
+## Pass 80 — `TAFG-1` payload, arsenal and dispatch compiler
+
+### Research question and result
+
+What physical custody, loading, energy, control, release and receiver system makes each `TAFG-1` access vector independently dispatchable by hour 48, and which formation retains two regions after vehicle and mode-or-site loss?
+
+The [`TAFG-1` payload, arsenal and dispatch study](../force/projection/tafg1-payload-arsenal-dispatch-compiler.md) expands the thirty-two-position service cell into four governed lot families and compares three custody architectures. `C0` holds one integrated arsenal per group and closes only eight of thirteen one-region cut worlds. `C1` tri-partition custody holds atmospheric cell `A`, terrain cell `B` and corridor payload `C` at independent arsenals with separate loading systems, energy lineages, controls and technical releases. It closes all thirteen. `C2` duplicates those three custody chains and adds a second receiver echelon, allowing nominal division across two regions.
+
+The deterministic chains reach public-service release at hour 42 for heavy buoyant lift, hour 45 for autonomous terrain, hour 46 for the utility bridge and hour 47 for VHL. These are targets, not readiness evidence: they omit delay distributions, weather holds, queue interference, casualties, reloading and failed receiver acceptance.
+
+### Concurrency correction and force consequence
+
+Pass 80 divides concurrency into nominal, vehicle-loss and mode-or-site-loss claims. The Pass 79 eight-aircraft VHL challenger carries 635 tonnes across 640 tonnes of gross capacity. Losing one evenly loaded aircraft leaves 555.625 tonnes, below the 571.5-tonne ninety-percent screen before missing functions are considered. `F2-C2` is therefore nominal only. A ten-aircraft `F2R-C2` rival loads 720 tonnes and leaves 648 after one loss; it can carry a functional `N+1` hypothesis but still loses region B when the VHL mode or site is removed. Only `F3-C2`, two complete tri-vector groups with two receiver echelons and dual-federated custody, retains two regions under both loss tests. It is an upper comparator, not a selection.
+
+Tri-partition custody adds 102 deployed and 256 affiliated positions per group. `F1-C1` therefore contains 590 deployed people and an estimated 1,312 affiliated positions. Forty-three groups require 129 arsenal nodes. Dual-federated `F3-C2` contains 1,136 deployed and an estimated 2,529 affiliated positions, with 258 nodes across the national force.
+
+### Economy, technology and artifact
+
+The `C1` custody program is $211.7296B over twenty-five years, including nodes, operations, R&D and shared systems. After removing the embedded $60B dispatch allowance once, `F1-C1` reaches a $7.38314155T national boundary. `C2` produces a $7.53493795T nominal-split boundary; the eight- and ten-aircraft VHL cases reach $8.11546995T and $8.20856995T; the assured `F3-C2` upper comparator reaches $8.34663795T.
+
+The technology program now includes robotic strategic arsenals, adaptive and auditable load compilation, offline authorization and configuration identity, high-rate fail-safe physical interfaces, and full-size dispatch ranges that test storage through public-service release and reset. The design rule is common standard, plural custody: interchangeability cannot become monoculture.
+
+The fourteen-sheet [companion workbook](../../models/force/projection/tafg1-payload-arsenal-dispatch-compiler.xlsx) contains the summary, assumptions, payload register, custody chains, loading resources, dispatch schedules, loss worlds, concurrency, workforce, custody cost, program cost, forty evidence gates, forty-two checks and reading guide. All forty-two checks pass, the formula-error scan is empty and every sheet is visually reviewed. Changing assigned groups from twenty-two to thirty raises ready groups from forty-three to fifty-nine, `F1-C1` from $7.38314155T to $7.70069675T and `F3-C2` from $8.34663795T to $8.96874995T before exact restoration. The Open XML archive validates. Workbook SHA-256 is `7ac5ccf651d1ea400da193f8474c2dd1a66b0508bb4d236ec7e96426968b9180`.
+
+### Pass stocktake
+
+The pass makes the complete source-to-release chain, four lot families, tri-partition one-region custody and nested concurrency claims authoritative at `R2`. It falsifies the common hub, eight-aircraft loss assurance and physical payload count as sufficient concurrency. All allocations, schedules, crews, costs, lineages and loss results remain hypotheses; all forty evidence gates are open and strict admission is zero.
+
+Pass 81 should hold the two-region compound requirement fixed and compete full duplication against leaner multi-physics packages: VHL plus utility bridge, VHL plus local conversion, terrain carriage plus corridor projection, and atmospheric carriage plus prepositioned receiver capacity. Each rival must own separately governed payload lots, two receiver and release echelons, meet hour 48, survive a vehicle loss and retain both regions after loss of one mode or site. Rendering remains blocked until this competition establishes stable physical envelopes.
