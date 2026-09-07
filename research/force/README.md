@@ -18,6 +18,8 @@ The [cellular power and thermal study](projection/wrg-fr10-cellular-power-and-th
 
 The [heat-blackout power and thermal service study](projection/heat-blackout-power-and-thermal-service-cell.md) moves from process power to occupied civil terrain. It derives a `PTS-50` group from a 50,000-person, seven-day service contract rather than a megawatt target. A twelve-cell upper comparator closes sixteen declared worlds and the lawful stop with 2,688 deployed people and 7,740 dry tonnes, but its 2,389-MWh energy requirement, building interfaces, human-service rates and twenty-four representative gates remain unproved.
 
+The [`PTS-5` energy and heat-rejection competition](projection/pts5-energy-and-heat-rejection-lineage-competition.md) closes the first part of that wet-energy boundary. It shows that source conversion raises one cell's occupied-site rejection from 2.80 MWth to as much as 5.69 MWth, while a seven-day storage-only configuration requires 2,784 tonnes. No liquid, gas, storage, local-resource, prepared-anchor or strategic firm lineage is universal. The force therefore advances as a common service spine with black-start, rapid-bridge, seven-day and strategic-firm echelons; a mixed provisional `PTS-50` reaches 12,200 dry tonnes and 2,852 deployed people while all twenty-eight gates remain open.
+
 ## The architecture
 
 ```text
