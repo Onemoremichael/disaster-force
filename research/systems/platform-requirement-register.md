@@ -48,7 +48,7 @@ Each primitive must replicate across at least three hazard mission threads befor
 
 ## Service-entry formations and interfaces
 
-Passes 27–31 add the first force-level configuration family. These entries govern what transport, receiver and utility platforms must carry or accept; they are not vehicles themselves.
+Passes 27–31 add the first force-level configuration family. Pass 61 then generalizes its external-interface logic across all forty-eight canonical formations. These entries govern what transport, receiver and utility platforms must carry or accept; they are not vehicles themselves.
 
 | ID | Concept | Status | Primary requirement | Current bound or discriminant | Critical unknown before R3 | State |
 |---|---|---|---|---|---|---|
@@ -66,6 +66,7 @@ Passes 27–31 add the first force-level configuration family. These entries gov
 | SEC-PCC43 | District-configured Independent Service Entry Cell | Admitted problem | Project three `PCC-50`-bearing pods with complete transformational PCC-D1 occupied systems and no prepared receiver | 43,353.22 t/cell; worst N-2 case delivers eight pods by h72 and tenth cargo at h81.52; target ≤36,146.25 t/cell for the air ceiling | reduce complete district mass/volume/labor, increase movement, narrow the contract or combine with an assured receiving lattice | R2+ |
 | SEC-F50 | Full-Substitution Service Entry Cell | Conditional stress case | Replace the larger early service system where useful host infrastructure is absent | 50,456.13 t per cell; only eight pods by hour 72 after both upland cells are lost | scope definition, 6,643-person analogue workforce, food/shelter/energy density and at least 934 t/h net air or 1,201 t/h net offshore throughput | R2+ |
 | KIF | Kernel Interface Families | Admitted requirement | Compile one service pod into air-pallet, ISO, flatrack, rolling, tank, cold and battery positions without losing effect completeness | eight provisional external families and a 106-line manifest | exact geometry, restraint, road legality, hazardous/cold separation, data/energy/fluid interfaces and receiving equipment | R1+ |
+| CCT-10 | Canonical Cargo and Transport Interface | Admitted national compiler; not a bill of material | Preserve complete-package identity across pallet, dry, cold, battery, tank, flatrack, rolling, long, bulk and outsize positions, four modes and three deadlines | 448 formation cargo records and 4,480 campaign claims; 7.048M chargeable t; 25.5% mass delivery; 13.0% complete-formation closure; zero receiver admissions | serial items, measured geometry and restraint, hazard/cold release, origins, carriers and crews, damaged routes, node queues, receiver commissioning, regeneration and rival carrier–node trials | R1/R2 planning arithmetic; thirteen gates open |
 
 The pod is the smallest effect-complete increment. The cell is the smallest independently supported origin-to-effect path. Three pods sharing one cell do not receive three-path assurance credit.
 

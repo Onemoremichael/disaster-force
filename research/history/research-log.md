@@ -2615,3 +2615,37 @@ The proving program now requires duplicate-claim denial, two-HCG competition, cr
 The nine-sheet [Shared Capacity Allocation Ledger](../../models/force/generation/shared-capacity-allocation-ledger.xlsx) contains the decision, controls, ten-pool register, 480-line demand build, 100-claim allocation ledger, campaign results, workforce and capital credit controls, sources and gates, and integrity sheet. Twenty-one integrity checks pass; the saved formula-error scan is empty. Sensitivity expands NUPS workforce and reallocates a campaign's air/ocean shares, then restores both baselines without losing mass or claim conservation. All nine sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `2d5a8b66c76d8f67265199c88583b2c3e1c908c552ac6d940dbb8c17f7577166`.
 
 The Pass 58 national headline remains held. Credits are quarantined rather than silently admitted or deleted. No rendering is created. The next force-model pass should compile complete canonical cargo into item-identified origin, configuration, handling, mode, carrier, node, receiver, deadline, reserve and regeneration records, then rebuild the deployment enterprise around those objects.
+
+## Pass 61 — Canonical cargo and transport closure
+
+### Research question
+
+What must the national movement system represent before a tonne of canonical force can receive deployable-service credit, and what requirement surface should govern purpose-built air, ocean, land/rail, inland-water, node and receiver programs?
+
+### Position-class compiler
+
+The new [canonical cargo and transport study](../force/projection/canonical-cargo-and-transport-closure.md) converts all forty-eight formation families into ten governed external interface classes: palletized command and medical loads, dry intermodal containers, powered cold positions, hazardous battery modules, liquid/process tanks, flatrack plant, rolling machines, long pipe and conductor racks, low-density bulk support and engineered outsize structures. Nine formation profiles allocate the inherited post-preposition mass into 448 nonzero formation-class records. The shares establish a consistent national compiler; they are not bills of material.
+
+The model expands those records across all ten concurrent campaigns to 4,480 class claims and preserves 480 formation-campaign identities. Each claim carries physical mass, whole-position count, occupied cube, deadline, mode-compatibility weights, chargeable demand, delivered physical mass and receiver state. Chargeable demand is the greater of physical mass and occupied volume at the mode's declared minimum density. Formation credit is bounded by the weakest required class rather than average delivered mass.
+
+### Quantitative result
+
+The inherited 25-percent prepositioning credit leaves 6,677,140.35 physical tonnes. Dimensional burden raises the chargeable total to 7,047,691.42 tonnes, an uplift of 370,551.07 tonnes or 5.55 percent. Gross inherited 72-hour capacity remains 2,462,931 tonnes. Protecting 20 percent for a follow-on catastrophe leaves 1,970,344.80 usable tonnes.
+
+Only 1,764,353.09 chargeable tonnes can be assigned through the 24-, 48- and 72-hour buckets. The remaining 205,991.71 usable tonnes are stranded by mode or deadline. Allocation converts to 1,702,425.27 delivered physical tonnes, or 25.50-percent mass coverage. Weakest-class accounting closes 314.46 of 2,420 demanded formation equivalents, or 12.99 percent. Eleven of 480 formation-campaign records pass the 95-percent transport threshold; no receiver is admitted.
+
+The binding buckets are ocean at 48 hours, with 8.76-percent coverage, and land/rail at 48 hours, with 3.102 million chargeable tonnes of demand and 12.20-percent coverage. Late air and inland-water capacity cannot satisfy earlier or geographically incompatible claims. The international `G1` allied-megacity campaign has the lowest complete-formation coverage at 8.76 percent. The inland-flood case reaches the highest at 18.57 percent but still fails forty-seven of forty-eight family claims.
+
+### Institutional and technology consequence
+
+The acquisition unit becomes a carrier–node–receiver system rather than an isolated high-payload vehicle. Strategic Mobility Command must operate purpose-built mode families and their activation curves; entry and distribution commands must own nodes and onward movement; generating services must own complete configuration; receiving commands and civil authorities must admit commissioned service; and the Joint Capacity Authority must preserve reserve and deny conflicts.
+
+The failure surface pulls a technology portfolio: a canonical configuration compiler, smart common cargo positions, autonomous packing and restraint verification, high-rate mixed-cargo handling, shape-changing low-density systems, universal utility adapters, damage-aware multimodal scheduling, mission-aware recomposition, disconnected cargo command and control, and regeneration-aware reverse logistics. Nodes—cold, hazardous-energy, fluid, heavy-handling, long-load and covered distribution—become coequal acquisition programs.
+
+### Artifact, validation and next boundary
+
+The twelve-sheet [Canonical Cargo and Transport workbook](../../models/force/projection/canonical-cargo-and-transport-model.xlsx) contains decision, controls, cargo classes, formation registry, campaign demand, cargo register, cargo claims, mode capacity, formation closure, campaign result, sources and gates, and twenty-two terminal integrity checks. All checks pass and the saved formula-error scan is empty. Independent verification confirms unique 48/480/448/4,480/480 record identities, mass and routing conservation, allocation bounds and complete-formation denial.
+
+Sensitivity removes the 20-percent reserve, increasing usable capacity from 1,970,344.80 to 2,462,931 tonnes, physical delivery to 2,112,180.99 tonnes and complete-formation coverage from 12.99 to 16.31 percent; restoring the reserve restores every baseline. Removing all mode density floors makes chargeable demand equal the 6,677,140.35-tonne physical total; restoring them returns 7,047,691.42 tonnes. All twelve sheets are visually reviewed and the Open XML archive validates. Workbook SHA-256 is `7fb3be4de0fe5516d94d4fb00ae74afb07cc49ab84dcce52ff3a87ec4efcd281`.
+
+No external site research and no rendering are introduced. Thirteen gates remain open. The next force-model pass should tag, weigh and measure one representative complete formation, then derive rival carrier–node requirement envelopes across modes, origins, damaged routes, crews, receiver commissioning, protected reserve and regeneration.
