@@ -24,6 +24,8 @@ The [`PTS-5` deployment-geometry competition](projection/pts5-deployment-geometr
 
 The [`PTS-5` lineage–geometry compatibility compiler](projection/pts5-lineage-geometry-compatibility-compiler.md) joins those coordinates. Thirty source–host pairs produce 960 deterministic results and separate rapid-mobile, prepared, transition, firm and new-host roles without treating pass counts as scores. All five storage-only pairs break current host envelopes. At group scale, a twelve-cell inventory can preserve ten cells after any two mobile-mode losses only if at least nine cells are independently forward; an unprepared receiver requires thirty complete mobile cell-equivalents. The resulting $4.397T–$8.322T program bounds expose the choice between geography and replication. Forty-two gates remain open and rendering stays blocked.
 
+The [`PTS-50` national readiness-topology competition](projection/pts50-national-readiness-topology-competition.md) then makes that geography a force-design variable. Seven rivals range from thirty-package expeditionary replication to concentrated anchors, federated lattices, four-mode hybrids and a newly derived ten-island architecture. The ten-island rival retains ten complete cells after loss of one island and two mobile modes with thirteen packages; the sixteen-package four-mode lattice buys stronger source-and-route resilience. Allocating the rivals across thirty-two receiving geographies produces 1,088 packages, including 607 fixed cells, and a $5.165 trillion base comparator. The pass does not select a national force: those fixed service islands still lack an independence compiler, all thirty evidence gates remain open and rendering stays blocked.
+
 ## The architecture
 
 ```text
