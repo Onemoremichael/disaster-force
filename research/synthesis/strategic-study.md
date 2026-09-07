@@ -50,21 +50,13 @@ Three rules follow:
 
 ## The mature institution
 
-The recommended end state is a zero-based Department of Resilience with three distinct objects.
+The recommended end state is a zero-based Department of Resilience with three distinct objects and five force-design coordinates. The [canonical force architecture](../force/force-architecture.md) now reconciles the institutional and operating layers.
 
 The **Department** governs policy, budgets, civil authority, international employment, acquisition, and public accountability. The **National Resilience Establishment** generates capacity through services, commands, academies, technical colleges, laboratories, ranges, depots, arsenals, bases, suppliers, reserves, standards, and partners. The **Resilience Force** is the certified subset actually ready for employment.
 
-Seven operating services provide durable professional homes:
+Seven operating services—Land Engineering, Air Response, Maritime Response, Infrastructure Restoration, Health Protection, Community Stabilization and Civil Mobility and Continuity—provide durable professional, acquisition and depot homes. They are not the nine civilian-effect portfolios. Effects define what the public receives; formations combine service contributions into an indivisible operating package; commands allocate and employ those formations; and permanent, reserve, state, tribal, auxiliary, industrial and partner components define different mobilization terms. Treating these as separate coordinates prevents an organization chart from substituting for force closure.
 
-- Land Engineering Service;
-- Air Response Service;
-- Maritime Response Service;
-- Infrastructure Restoration Service;
-- Health Protection Service;
-- Community Stabilization Service; and
-- Civil Mobility and Continuity Service.
-
-Geographic commands plan against regional hazard, infrastructure, climate, population, watershed, port, and supply-chain systems. Functional commands control nationally scarce mobility, sustainment, medical regulation, forecasting, campaign assurance, industrial mobilization, and training. Services generate forces; commands employ them. This distinction creates visible responsibility for readiness while preventing each technical service from optimizing a campaign around its own equipment.
+Geographic commands plan against regional hazard, infrastructure, climate, population, watershed, port, and supply-chain systems. Functional commands control nationally scarce mobility, sustainment, medical regulation, forecasting and campaign assurance. Industrial mobilization, education and acquisition institutions generate capacity but do not become incident commands. Services generate forces; joint commands employ them. This distinction creates visible responsibility for readiness while preventing each technical service from optimizing a campaign around its own equipment.
 
 A **Civil Resilience Authority** remains the civil principal. It integrates affected governments, defines acceptable outcomes, protects individual and community rights, and evaluates whether operations improve civilian welfare. Independent safety, environmental, civil-rights, cost, and operational-test authorities remain outside the employment chain. Scale cannot become self-authorization.
 

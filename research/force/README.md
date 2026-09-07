@@ -1,65 +1,67 @@
 # Force design
 
-The Resilience Force is a system for converting a public guarantee into ready, deployable and regenerable service capacity. It has two inseparable halves.
+The Resilience Force converts a public guarantee into ready, deployable and regenerable service capacity. Its canonical architecture is defined in [The Department of Resilience force architecture](force-architecture.md).
 
-The **generating establishment** recruits professions, develops doctrine, acquires complete formations, maintains bases and stocks, certifies readiness and regenerates the force after use. The **employing force** combines those formations across geography and time to protect communities, control hazards, restore lifelines, project service and move people when staying is unsafe.
+The central distinction is between **generation** and **employment**. The National Resilience Establishment recruits professions, develops doctrine, acquires complete formations, maintains bases and stocks, certifies readiness and regenerates the force after use. Joint commands combine those formations across geography and time to protect communities, control hazards, restore lifelines, project service and move people when staying is unsafe.
 
-Neither half is an equipment catalog. The operative object is a complete formation with command, labor, access, sustainment, safety, rights and transfer authority—not a nominal production asset.
+Neither half is an equipment catalog. The operative object is a complete formation with command, labor, access, sustainment, safety, rights, movement, reception and transfer authority.
 
-## The operating chain
+## The architecture
 
 ```text
-GENERATE
-people · formations · stocks · bases · evidence
-    │
-    ▼
-PROJECT ───────────────► PROTECT LOCALLY
-capacity through damage   occupied communities
-    │                           │
-    ├────────► CONTROL ◄────────┤
-    │          hazards          │
-    ▼                           ▼
-RESTORE LIFELINES         SELECTIVE MOVEMENT
-    │                     collection · reception · return
-    └──────────────┬────────────┘
-                   ▼
-          CIVIL TRANSFER & REGENERATION
+PUBLIC GUARANTEE
+population · service · time · duration · damage
+        │
+        ▼
+GENERATING ESTABLISHMENT
+7 services · professions · formations · stocks · bases · evidence
+        │ certifies
+        ▼
+RESILIENCE FORCE
+complete ready formations in available · preparing · committed · regenerating pools
+        │ allocated through joint commands
+        ▼
+CAMPAIGN SYSTEM
+enter → protect/control → restore/substitute → move/receive → transfer
+        │
+        ▼
+VERIFIED CIVIL EFFECT + FORCE REGENERATION
 ```
 
-[Generation](generation/README.md) owns what must exist before the event: services, components, professions, formation families, readiness cycles, commands, bases, depots and the order of battle.
+Five coordinates describe every capability:
 
-[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, theater opening, onward distribution, responder basing, sustainment, reverse flow and regeneration under correlated network loss.
+| Coordinate | Question it answers |
+|---|---|
+| Generating service | Who owns the profession, equipment lifecycle and depot? |
+| Civilian effect | What condition must become true at the point of public use? |
+| Formation | What indivisible package closes that service chain? |
+| Employment command | Who allocates and integrates it across time and geography? |
+| Component | Under what readiness and mobilization terms does it exist? |
 
-[Reception](reception/README.md) treats fixed sites, surviving buildings, utility interfaces, stocks, records, inspection and labor as force capacity. Service does not become complete merely because a mobile module arrives.
+The distinction is binding. Seven services are not nine effect portfolios. A formation is not a platform. A command is not the service that generated its units. A contractor is not ready capacity merely because a contract can be written.
 
-[Mobility](mobility/README.md) owns the distinct civil chain for people who cannot safely remain: household contact, accessible collection, transfer, line haul, destination admission, continuity and return.
+## Four connected operating problems
 
-Population continuity and hazard-control systems cross those operating subsystems. They are engineered in [mission systems](../systems/README.md) and contested jointly in [campaigns](../proving/campaigns/README.md).
+[Generation](generation/README.md) owns everything that must exist before employment: services, components, professions, formation families, readiness cycles, commands, bases, depots and the national order of battle.
 
-## Formation logic
+[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, damaged-theater entry, onward distribution, responder basing, sustainment, reverse flow and regeneration.
 
-A formation is derived from a service deficit, not from a platform. It must declare:
+[Reception](reception/README.md) treats fixed sites, surviving buildings, utility interfaces, stocks, records, inspection and labor as force capacity. A mobile module does not become public service merely because it arrives.
 
-- the population and service bundle it owns;
-- the time to first safe effect and time to full operating state;
-- the duration and degraded conditions it must survive;
-- the indivisible personnel, equipment, stock and interface package;
-- its dependency on prepared local capacity and other echelons;
-- the rotation, maintenance, training and replacement depth behind one deployed unit; and
-- the authority and civil handoff required to end the mission without a service cliff.
+[Mobility](mobility/README.md) owns the distinct person-to-receiver chain when remaining in place is unsafe: household contact, accessible collection, transfer, line haul, destination admission, continuity and return.
 
-The force therefore has neighborhood, district, regional, national and invited international echelons. Smaller echelons create contact, access and immediate continuity. Larger echelons bring deep engineering, utility production, strategic mobility, specialized medicine, campaign sustainment and national regeneration. Scale does not imply that every capability belongs at the top.
+These are not separate fleets. A campaign joins all four. Population-continuity and hazard-control systems are engineered in [mission systems](../systems/README.md) and contested jointly in [campaigns](../proving/campaigns/README.md).
 
-## Current doctrine
+## Current design judgment
 
-The strongest current design judgment is **robust local protection first, selective movement when the building, hazard, medical condition, duration or restoration path makes continued occupancy unsafe**.
+The strongest doctrine is **robust local protection first, selective movement when the building, hazard, medical condition, duration or restoration path makes continued occupancy unsafe**. Complete movement is limited not only by seats and corridors but by household contact, accessible collection, family and caregiver continuity, destination capacity and return.
 
-That doctrine emerged because complete population movement is limited not only by seats or corridors but by household contact, accessible collection, family and caregiver continuity, destination capacity and return. It does not eliminate mobility. It makes mobility one complete service chain inside a wider continuity force.
+The neighborhood seam is provisionally owned by `NCAC-35`: a joint formation that must create disconnected awareness, enter buildings, establish local utilities and communications, protect civil rights, perform accessible collection and connect neighborhoods to regional systems. Its conventional and technology-forward architectures remain unproved.
 
-The resulting neighborhood seam is owned provisionally by `NCAC-35`: a formation that must create disconnected awareness, enter buildings, establish local utilities and communications, protect civil rights, perform accessible collection and connect neighborhoods to regional systems. Its conventional and technology-forward architectures remain unproved.
+Above it, regional and national forces provide the hazard control, heavy engineering, utility production, medical depth, strategic mobility, receiving capacity and campaign sustainment that no locality should be expected to hold. Below it, prepared buildings and districts make national capacity usable without turning every response into mass displacement.
 
-## What this layer can claim
+## Authority boundary
 
-Force papers may define formation structure, readiness, command and employment and may close a bounded campaign on declared inputs. Mission-system papers own component physics. Campaigns own geographic integration. Assurance owns evidence maturity. Programmatics owns the capital, workforce and industrial consequences after the force requirement is explicit.
+Force papers may define organization, formation structure, readiness, command and employment. [Mission systems](../systems/README.md) own component physics and complete technical chains. [Campaigns](../proving/campaigns/README.md) own geographic integration. [Assurance](../proving/assurance/README.md) owns evidence maturity. [Programmatics](../programmatics/README.md) owns capital, workforce and industrial consequence after the force requirement is explicit.
 
-The [supersession map](../history/supersession-map.md) records which earlier force conclusions were displaced and what remains useful from them. The [active frontier](../frontier.md) contains the current experiment and stop conditions so this page can remain a stable statement of force logic.
+The [supersession map](../history/supersession-map.md) records which earlier force conclusions were displaced. The [active frontier](../frontier.md) owns the current experiment and stop conditions so this page can remain a stable map rather than a pass log.

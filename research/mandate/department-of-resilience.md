@@ -1,5 +1,7 @@
 # Institutional architecture: from coordination system to operating force
 
+> **Force-structure successor:** The [Department of Resilience force architecture](../force/force-architecture.md) now supplies the canonical relationship among the Department, National Resilience Establishment and employable Force, and separates services, effects, formations, commands and components. This mandate paper remains authoritative for institutional purpose, civil sovereignty and the decision to create a coequal establishment.
+
 ## Interim judgment
 
 The proposal is not a reform of emergency management. It is the creation of a **second great instrument of American state capacity**, deliberately comparable to national defense in political standing, industrial depth, professional identity, strategic mobility, technological ambition, and sustained public investment.

@@ -1,5 +1,7 @@
 # Force composition: the capabilities, echelons, and people
 
+> **Canonical grammar:** The later [Department force architecture](../force-architecture.md) separates five coordinates that this paper sometimes combines: seven generating services, nine civilian-effect portfolios, joint formations, employment commands and readiness components. This paper remains the detailed inventory of effect requirements, professions and unit-design rules; the portfolios below are not additional services or chains of command.
+
 ## Composition thesis
 
 The Resilience Force should be composed as a **national and globally deployable system of complete mission packages**, not a warehouse of equipment and not a collection of hazard agencies. Each package must contain the people, tools, transport interface, command, data, consumables, maintenance, protection, and endurance needed to deliver a measured civilian service effect.
@@ -10,13 +12,13 @@ It is entirely plausible that quantitative design will produce a mature establis
 
 Hazards still matter: fire behavior differs from flood hydraulics, an earthquake creates different access problems than a hurricane, and contaminated debris differs from ordinary debris. But hazard categories should shape training and equipment variants **inside** a force organized around recurring effects. Otherwise every new hazard creates another silo while the same dependencies—access, power, water, communications, medical care, distribution, and shelter—are rebuilt repeatedly.
 
-The composition problem has five axes:
+The composition problem is carried forward through five axes:
 
-1. **effect portfolio**—what civilian service is restored or substituted;
-2. **operational function**—what work is performed;
-3. **echelon**—how much capacity and command depth is aggregated;
-4. **component**—active, reserve, auxiliary, partner, or contracted; and
-5. **readiness state**—how soon the complete package can deliver a sustainable effect.
+1. **generating service**—who owns the profession and equipment lifecycle;
+2. **effect portfolio**—what civilian condition is restored or substituted;
+3. **formation and echelon**—what indivisible operating package is aggregated;
+4. **employment command**—who allocates and integrates that package; and
+5. **component and readiness state**—under what authority and time terms capacity exists.
 
 No unit label is meaningful without all five.
 
@@ -85,7 +87,7 @@ A self-contained, internationally certified formation designed for host-nation i
 
 ## Nine service-effect portfolios
 
-The portfolios are enduring communities of doctrine, training, acquisition, and professional practice. They are not isolated chains of command. An incident task group draws modules from several portfolios.
+The portfolios are the enduring outcome vocabulary used by requirements, doctrine and campaign assessment. They are not services or isolated chains of command. Cross-service communities may steward their metrics and lessons, but acquisition and professional lifecycle authority remain with the seven generating services. An incident task group draws modules from several services to close one or more portfolios.
 
 ## 1. Civil coordination, safety, and public information
 

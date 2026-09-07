@@ -1,5 +1,7 @@
 # Mature force design: the operational grammar of the Department of Resilience
 
+> **Canonical synthesis:** The later [Department force architecture](../force-architecture.md) reconciles this formation grammar with the seventh Civil Mobility and Continuity Service, the nine civilian-effect portfolios, joint employment commands and the technology-development enterprise. This paper remains the detailed authority for formation records, package types, readiness pools and test stages.
+
 ## Design judgment
 
 The Department of Resilience should not be organized as an enlarged emergency-management agency with unusually large equipment accounts. It should contain a **permanent national operating establishment** that can generate, deploy, sustain, replace, and regenerate complete civilian-service formations across several simultaneous campaigns.
@@ -20,7 +22,7 @@ That is a much larger proposition than coordinating federal assistance. It is th
 
 ## What this pass adds
 
-Earlier passes established the [Department and its operating services](../../mandate/department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../../programmatics/force-and-resource-model.md). Pass 33 subsequently separated person-specific mobility from common-user logistics and made it a seventh professional service. The formation grammar below remains valid with that addition.
+Earlier passes established the [Department and its operating services](../../mandate/department-of-resilience.md), [effect portfolios and force components](force-composition.md), [readiness and geographic posture](readiness-and-force-generation.md), mission modules, and an [initial quantitative envelope](../../programmatics/force-and-resource-model.md). Pass 33 subsequently separated person-specific mobility from common-user logistics and made it a seventh professional service; Pass 56 incorporates its formation families below and fixes the distinction in the canonical architecture.
 
 This pass defines that missing layer:
 
@@ -254,6 +256,22 @@ The Community Stabilization Service should generate:
 | Economic restart group | market assessment; contractor integration; temporary commercial nodes; payment and logistics access | local enterprises and supply channels returned to operation |
 
 This service is not a softer tail added after engineering. It converts technical output into legitimate, accessible, and durable human service.
+
+### Civil Mobility and Continuity Service
+
+The Civil Mobility and Continuity Service should generate the person-specific chain that common-user logistics cannot own:
+
+| Formation family | Complete operational thread | Principal output measure |
+|---|---|---|
+| Household collection group | warning and consent; household contact; accessible pickup; clinical and device continuity; dispatch; short-haul movement | people delivered from true origin to the correct next service with household obligations intact |
+| Continuity transfer-node group | arrival; clinical and accessibility screening; household custody; holding; mode transfer; cleaning; information; onward release | people transferred at declared dwell, safety and continuity standards |
+| Civil road-mobility group | accessible road lift; route interface; en-route support; receiver coordination; fleet energy and maintenance | admitted person-journeys through a complete road pathway |
+| Civil rail-mobility group | accessible trainsets; station interface; boarding; onboard care; destination admission; return | admitted person-journeys through a complete rail pathway |
+| Civil air-mobility group | austere accessible aviation; clinical separation; baggage and device custody; airfield transfer; receiver binding | admitted person-journeys through a complete air pathway |
+| Civil water-mobility group | shallow, coastal and ocean passenger continuity; landing interface; onboard care; port or no-pier transfer | admitted person-journeys through a complete water pathway |
+| Return and durable-continuity group | origin release; benefits and property continuity; reunification; funded return or durable settlement | households reaching a lawful durable disposition without renewed displacement |
+
+This service does not duplicate Strategic Mobility Command. Strategic mobility moves common-user forces and cargo and may supply shared carriers. Civil Mobility and Continuity owns whether a person can be reached, moved accessibly, admitted, kept connected to care and household obligations and returned. Shared capacity receives an explicit supported–supporting decision and can be counted only once.
 
 ## Joint formations that cannot be improvised
 
@@ -496,11 +514,11 @@ The original quantitative workbook yielded approximately 302,000 active and 396,
 
 A coherent mature posture would contain, at minimum:
 
-- six service headquarters and their training, maintenance, safety, and acquisition systems;
+- seven service headquarters and their training, maintenance, safety, and acquisition systems;
 - a joint Resilience Staff;
 - domestic geographic commands derived from network and hazard analysis rather than inherited administrative regions;
 - one Global Resilience Command;
-- functional commands for mobility, sustainment, information and forecast, medical regulation, industrial mobilization, and training/doctrine;
+- operational functional commands for deployment and distribution, civil mobility, sustainment and regeneration, information and forecast, medical regulation, and campaign assurance, plus separate industrial-mobilization and training institutions;
 - standing regional resilience forces with assigned active units and habitual reserve, state, tribal, industrial, and civil partners;
 - nationally held scarce aviation, maritime, medical, utility, and technical formations;
 - community interface detachments, forward stations, regional complexes, strategic mobility bases, depots, arsenals, ship and aviation maintenance, laboratories, and proving grounds; and
