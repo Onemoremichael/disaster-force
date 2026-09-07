@@ -28,6 +28,8 @@ The [`PTS-50` national readiness-topology competition](projection/pts50-national
 
 The [`PTS-5` fixed service-island compiler](projection/pts5-fixed-service-island-independence-compiler.md) supplies that missing layer. It defines the island as a complete source-to-service-to-reset system and competes six internal architectures across twenty-four worlds. The clean-sheet twelve-node civic metabolism fabric is the only complete behavioral comparator, but all evidence admission remains zero. The federation theorem shows that the thirteen-package topology requires ten-way decisive-domain separation; an eleven-island, fourteen-package rival can tolerate six balanced domains. The recompiled geography-specific portfolio reaches $6.099 trillion over twenty-five years. The result makes fixed capacity a standing force system with its own command, workforce, industrial base and proving enterprise rather than inexpensive background infrastructure.
 
+The [`PTS-5` fourth-access competition](projection/pts5-fourth-access-mechanism-competition.md) then replaces the remaining placeholder with eight clean-sheet mechanisms. No single vehicle is universal. A heavy buoyant-lift and autonomous-terrain pair closes thirteen of fifteen worlds, while robotic utility corridors and local-conversion seed forces establish that access can bridge or reproduce service rather than carry all mass. The mature force therefore needs a multi-physics access ecosystem, its own bases and observatories, and a common payload authority. All credit remains zero pending representative trials.
+
 ## The architecture
 
 ```text
