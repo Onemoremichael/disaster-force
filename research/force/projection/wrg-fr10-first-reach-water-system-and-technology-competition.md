@@ -10,6 +10,8 @@ The first reach is not a miniature `WRG-50`. It is the smallest large-scale conf
 
 The companion [first-reach technology competition model](../../../models/force/projection/wrg-fr10-first-reach-technology-competition.xlsx) compares four conveyance architectures, calculates hydraulic and material geometry, constructs a seventeen-line system manifest, exposes transport-position demand, tests failure cases, and derives a declared $82.8–149.0 billion twenty-five-year technology program around a $110.4 billion base. All four rivals remain unselected. Fifteen technical and mission gates remain open, the rendering gate remains blocked, and no configuration receives public-service credit.
 
+**Successor correction.** Pass 65's [degraded-service architecture](wrg-fr10-degraded-service-architecture.md) separates zero trunk inflow from zero accessible service. It shows that a clean charged downstream buffer can bridge a bounded rupture, while an empty, contaminated or disconnected buffer cannot. Its stateful failure model supersedes this paper's scalar degraded-service inference without changing the conveyance-technology competition.
+
 ## Executive judgment
 
 Seven conclusions should govern the next phase of the water force.
