@@ -17,7 +17,7 @@ This is more than file organization. It identifies the decision each workbook is
 
 The complete [model catalog](CATALOG.md) links every workbook to its owning paper, current use, maturity, and supersession status.
 
-The [National Formation Registry](force/generation/national-formation-registry.xlsx) governs force identity and evidence state. The [Canonical Force Allocation](force/generation/canonical-force-allocation-model.xlsx) is its first national quantitative successor: it sizes all forty-eight families, disaggregates the legacy utility line, exposes shared-system credits, reproduces the predecessor baseline and reruns workforce, capital, movement, reception and sustainment screens. Its $15.179T capital and 10.484M affiliated-billet results are planning contradictions, not estimates. The [Household Collection Group model](force/generation/household-collection-group-model.xlsx) then attacks the dominant line from workload upward. It separates a 5,076-person, seven-company mobile origin formation from prepared district and heavy support contracts, showing why mobile mass can fall 71 percent while complete assigned mass and capital do not.
+The [National Formation Registry](force/generation/national-formation-registry.xlsx) governs force identity and evidence state. The [Canonical Force Allocation](force/generation/canonical-force-allocation-model.xlsx) is its first national quantitative successor: it sizes all forty-eight families, disaggregates the legacy utility line, exposes shared-system credits, reproduces the predecessor baseline and reruns workforce, capital, movement, reception and sustainment screens. Its $15.179T capital and 10.484M affiliated-billet results are planning contradictions, not estimates. The [Household Collection Group model](force/generation/household-collection-group-model.xlsx) then attacks the dominant line from workload upward. It separates a 5,076-person, seven-company mobile origin formation from prepared district and heavy support contracts, showing why mobile mass can fall 71 percent while complete assigned mass and capital do not. The [Shared Capacity Allocation Ledger](force/generation/shared-capacity-allocation-ledger.xlsx) then expands all forty-eight families across ten campaigns and enforces conservation against quantified pools. It shows why accounting credits cannot remove 2.011 million gross responders from the basing demand or 6.677 million early tonnes from the movement demand.
 
 ## How to inspect a model
 
@@ -34,8 +34,9 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → DEPLOYMENT ENTERPRISE
-      ↓                    ↓
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → DEPLOYMENT ENTERPRISE
+      ↓                    ↓                    ↑
+                         HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
       ↓
 SERVICE-ENTRY FORCE → INDIVISIBLE POD

@@ -460,7 +460,7 @@ It does not establish:
 - the environmental acceptability of a site or operation; or
 - an `R3` evidence basis for renderings.
 
-All twenty Pass 24 evidence gates remain open. Pass 25 has built the first item-level, time-phased Cascadia dataset because the campaign combines no notice, port and route damage, high deployed mass, thin sustainment margin and correlated entry loss. It traces representative formations from safe-zone origins through candidate path classes, queues, node constraints, self-sustaining bases, ninety-day replenishment, reverse flow and reconstitution. The next step is to replace its design coefficients with asset-level damage covariance, item manifests, discrete-event queues, representative prototypes and multi-week independent trials.
+All twenty Pass 24 evidence gates remain open. Pass 25 built the first item-level, time-phased Cascadia dataset because the campaign combines no notice, port and route damage, high deployed mass, thin sustainment margin and correlated entry loss. Pass 60's [canonical shared-capacity audit](../generation/shared-capacity-allocation-and-claim-denial.md) now exposes the national successor requirement: 6.677 million early tonnes after prepositioning against 2.463 million inherited effective 72-hour tonnes, with air, ocean and land/rail each below one-third aggregate coverage under provisional shares. The next step is a forty-eight-family cargo register with persistent item and complete-package identity, origin, dimensions, hazardous class, handling, mode compatibility, node and receiver needs, service deadline, protected reserve and regeneration; only then can asset-level damage covariance, discrete-event queues, prototypes and multi-week trials replace the design coefficients.
 
 ## Conclusion
 

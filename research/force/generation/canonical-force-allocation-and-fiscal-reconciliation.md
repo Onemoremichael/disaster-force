@@ -313,11 +313,11 @@ Pass 59 completes the first configuration of `CM-HCG`. `HCG-35B` separates a sev
 
 ### 9.2 Build a shared-capacity allocation ledger
 
-Every carrier, base, depot, utility anchor, information service, licensed crew and prepared receiver claimed by more than one family needs a common identity, readiness state and time-phased allocation. The successor must deny capacity to the second claimant when the first has consumed it. Correlated loss must propagate across every dependent formation.
+Pass 60's [shared-capacity allocation and claim-denial study](shared-capacity-allocation-and-claim-denial.md) completes the first conservation kernel. It expands the forty-eight families across ten campaigns, denies claims after quantified pools are consumed and separates operational burden from fiscal ownership. The result corrects basing to 2.011 million gross simultaneous responders, exposes 36.6-percent early-movement coverage and finds 717,011 active non-HCG shared-affiliate credits without a quantified source. It does not yet admit the credits because asset identity, location, time, configuration and authority remain absent.
 
 ### 9.3 Rebuild deployment around canonical cargo
 
-The [National Resilience Deployment and Distribution Enterprise](../projection/joint-deployment-and-distribution-enterprise.md) should be rerun with the forty-eight-family item manifests. It must distinguish prepositioned fixed capacity, urgent air cargo, heavy sealift, land and rail closure, inland-water access, cargo compatibility, nodes, queues, responder bases, daily sustainment and reverse flow.
+The [National Resilience Deployment and Distribution Enterprise](../projection/joint-deployment-and-distribution-enterprise.md) should now be rerun with forty-eight-family item manifests. It must distinguish prepositioned fixed capacity, urgent air cargo, heavy sealift, land and rail closure, inland-water access, cargo compatibility, nodes, queues, responder bases, daily sustainment and reverse flow.
 
 ### 9.4 Replace package counts with service-deficit curves
 

@@ -398,7 +398,9 @@ This pass establishes:
 
 It does not establish observed work rates, occupation supply, fixed-site availability, support travel times, full bills of material, equipment geometry, independent cost, shared inventory sufficiency, common-mode readiness or metropolitan replication.
 
-The next force-generation pass should build the **canonical shared-capacity allocation ledger**. It should give common identities to prepared districts, route detachments, utility blocks, licensed crews, carriers, bases, information services and sustainment packages; assign them across all forty-eight families and ten campaigns; and make a second claim fail when the first has consumed the capacity. Only then should the canonical national workforce, capital and operating totals be revised.
+Pass 60's [shared-capacity allocation and claim-denial study](shared-capacity-allocation-and-claim-denial.md) builds the first national conservation kernel. It expands all forty-eight families across ten campaigns, serializes the HCG support claims and makes the second claim fail when the first consumes a quantified pool. The aggregate HCG district, route, power and water planning pools pass, but no item has a location, travel time, release, hazard covariance or competing non-HCG obligation. The credits therefore remain unadmitted.
+
+The next force-generation move is an item-identified cargo and source register: complete package identities, origins, configuration, handling, mode compatibility, deadlines, receiving prerequisites, protected reserve and regeneration. Only after that allocation can the canonical national workforce, capital and operating totals be revised.
 
 The design remains deliberately more ambitious than preserving present institutions. It assumes that the United States can create a permanent civil-terrain profession, a maintained national building interface, purpose-built household-access and collection systems, governed offline civil records, and a joint allocation apparatus with the same seriousness applied to military force generation.
 
