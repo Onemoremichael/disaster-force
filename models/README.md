@@ -31,6 +31,8 @@ The [Heat-Blackout Power and Thermal Service model](force/projection/heat-blacko
 
 The [`PTS-5` Energy and Heat-Rejection Lineage Competition](force/projection/pts5-energy-and-heat-rejection-lineage-competition.xlsx) replaces those generic cells with six complete source and sink hypotheses. Liquid, gas, storage-only, local-resource, prepared-anchor and strategic firm systems pass sixteen, fifteen, fifteen, eleven, thirteen and thirteen of eighteen deterministic worlds. Source waste raises occupied-site rejection to 2.96–5.69 MWth; storage-only requires a 2,784-tonne cell. A mixed program account revises `PTS-50` to 12,200 dry tonnes, 2,852 people and a $3.543 trillion national comparator. Eleven sheets, four restored input perturbations, thirty-nine checks and a zero-error scan reconcile; twenty-eight gates remain open and rendering stays blocked.
 
+The [`PTS-5` Deployment Geometry Competition](force/projection/pts5-deployment-geometry-competition.xlsx) holds one rapid-bridge service payload constant while its carrier system changes. Thirty-two module positions, 580 dry tonnes, 54.8 wet tonnes and 2,630 cubic metres are carried through road, rail, shallow-water, prepared-anchor and tri-modal rivals. They pass seventeen, fourteen, eighteen, twenty and seventeen of twenty-three worlds, with transported-system mass from 471 to 1,505 tonnes. The geometry-host enterprise contributes $976.8 billion over twenty-five years and revises the national comparator to $4.693 trillion. Twelve sheets, five restored sensitivities, fifty checks and a zero-error scan reconcile; thirty-four gates remain open and rendering stays blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -46,7 +48,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
