@@ -2217,3 +2217,37 @@ The root prospectus, research architecture, active frontier, New York dossier, s
 ### Next decision
 
 Target engine `v3` must compare an ensemble-level constrained moment-reconciliation method with a latent atomic-cell model. Each rival must preserve every current gate and produce an impossibility or minimum-conflict surface when published centers, variances and hard identities cannot coexist. Donor fitting, synthetic state, building assignment, architecture outcomes, formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
+
+## Pass 51 — New York `L0` moment-reconciliation engine
+
+### Research question
+
+Can the official within-table covariance blocks, all registered marginal standard errors and the exact additive identities coexist—and, if they can, does the resulting linear stochastic model produce valid civil states without distribution-changing repair?
+
+### Method
+
+Registration `DF-NYC-L0-PR51-MOMENT-RECONCILIATION-v3A` retains the official inputs, twelve catchments, thirty-eight metrics, deterministic nested Latin-hypercube design, `K=125–1,000` ladder, thirty-three hard constraints and every existing admission threshold. It replaces the directed structural hierarchy with an alternating factor-space reconciliation.
+
+For each of three disclosed starting completions, one projection places the factor loadings in the nullspace of the six exact identities. A second restores every complete official variance-replicate Gram matrix and every RSS-only marginal standard-error norm. Iteration continues to a relative identity residual of `1 × 10^-10`. Starting structures affect only unidentified cross-table covariance; they cannot alter official within-table covariance.
+
+### Linear feasibility finding
+
+All three cases converge in fifty-six iterations. Identity residuals are `7.60–9.49 × 10^-11`; VRE Gram relative errors are below `2.5 × 10^-15`; RSS norm error is `4.44 × 10^-16`; and maximum official-correlation change is below `4.3 × 10^-15`. The converged cases remain materially different where covariance is unidentified, with pairwise correlation RMS differences of `0.0357–0.0813` and a maximum individual difference of `0.8467`.
+
+Across the 36,000 candidate targets, all prior interior spread-calibration failures disappear. Worst standard-deviation ratios are `0.838`, `0.870` and `0.885`, inside the registered `0.75–1.25` interval. This proves that the housing-unit spread inflation in Pass 50 was caused by the directed hierarchy, not forced by an incompatibility between official covariance and the exact additive identities.
+
+### Nonlinear boundary finding
+
+The reconciled Gaussian laws do not live on the civil feasible region. Depending on completion, `5,248–5,293` of 12,000 raw rows contain a negative cell and `5,902–5,993` violate at least one subset inequality. Integer projection repairs every final row, but near a nonnegative or subset boundary it can move only one way. Median mean standardized repair rises to `0.0167–0.0184`; two candidates cross the registered screen-distance rule.
+
+That asymmetry shifts population centers. The zero, shared and concordant starts have eight, five and one center-calibration failures respectively, with worst absolute biases of `0.592`, `0.553` and `0.520` input standard errors. The least-failing case cannot be selected after observation. At `K=1,000`, selected-quantile changes are `0.006348`, `0.007619` and `0.009174`, each above the `0.0050` limit. No ensemble is admitted.
+
+### Artifact and institutional consequence
+
+The twenty-one-sheet workbook exposes source authority, the factor-space method, completion starts, exact covariance restoration, reconciliation history, path dependence, preprojection boundary violations, convergence, calibration, projection diagnostics, deliberate contradictions, target integrity, 3,000 focal candidates and cryptographic commitments to all 36,000 rows. All formula-backed controls pass, the formula-error scan is empty, rendered sheets pass visual inspection and the Open XML archive validates. Workbook SHA-256 is `46a203402135428721bf6352fa5f794fd14114165f24e7bd489dc7ef4dba7320`.
+
+The result adds a permanent institutional requirement: a Department of Resilience needs a Civil State Authority able to govern statistical semantics, covariance provenance, feasible-support models, protected local reconciliation, privacy and independent reproduction. A linearly calibrated operating picture that becomes coherent only through one-sided repair can mis-size cooling, water, medical power, contact, access, movement and reception formations.
+
+### Next decision
+
+Moment engine `v3A` remains a linear-feasibility benchmark but is rejected as target authority. The next admissible pass is a registered latent atomic-cell engine `v3B` that generates nonnegative primitive states and derives aggregate margins, preserves official covariance authority, bounds unidentified dependence and reports a minimum-conflict or impossibility surface. Donor fitting, synthetic records, building assignment, architecture outcomes, formal `L0`, all `NCAC` evidence gates and all renderings remain closed.
