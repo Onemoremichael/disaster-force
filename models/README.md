@@ -21,6 +21,8 @@ The [National Formation Registry](force/generation/national-formation-registry.x
 
 The [Assurance-Source Family Competition](force/projection/wrg-fr10-assurance-source-family-competition.xlsx) replaces generic provenance with four complete source chains. Coastal, groundwater, inland-treatment and sealed-transfer families pass two, four, one and nine of twelve worlds; the national quartet covers ten and retains two eligible sources in six. The mixed twenty-four-chain comparator is $208.75 billion over twenty-five years. Thirty-five integrity checks pass, four sensitivities react, all strict admissions remain zero and rendering stays blocked.
 
+The [Closed-Loop Water Endurance model](force/projection/wrg-fr10-closed-loop-water-endurance.xlsx) converts that portfolio's two common failures into four competing endurance architectures. Carry-and-contain, regeneration/dewatering, quality-segmented service and a circular source cell all close the original fourteen-day residual and thirty-day consumable cases. Only `E2` and `E4` close both denials together; both fail at 75 percent of the inherited 2 MW power allocation. Incremental twenty-four-chain comparators span $46.88–145.0 billion over twenty-five years. Fifty integrity checks pass, four sensitivities react, all strict admissions remain zero and rendering stays blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.

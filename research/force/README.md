@@ -10,6 +10,8 @@ The [National Formation Registry](generation/national-formation-registry.md) is 
 
 The [assurance-source family competition](projection/wrg-fr10-assurance-source-family-competition.md) now turns that independent-provenance requirement into four formations. It gives the nuclear coastal carrier a bounded strategic role, makes prepared aquifers part of force readiness, exposes residual and feed limits in inland treatment, and prices sealed water as wet logistics. A mixed twenty-four-chain force carries a declared $208.75 billion program comparator, but its entire portfolio still fails two theaters and remains unadmitted.
 
+The [closed-loop water endurance competition](projection/wrg-fr10-closed-loop-water-endurance.md) resolves those two failures into rival mass, process and service architectures. Every concept can close the original fourteen-day residual and thirty-day consumable cases. Only regeneration/dewatering and the circular source cell close both at once, and both fail the 75-percent-power world. The force consequence is a permanent Water Endurance Squadron with residual-custody, process-materials, connection-control and power-thermal elements, pending representative proof.
+
 ## The architecture
 
 ```text
@@ -48,7 +50,7 @@ The distinction is binding. Seven services are not nine effect portfolios. A for
 
 [Generation](generation/README.md) owns everything that must exist before employment: services, components, professions, formation families, readiness cycles, commands, bases, depots and the national order of battle.
 
-[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, damaged-theater entry, onward distribution, responder basing, sustainment, reverse flow and regeneration. Its canonical compiler reaches one formation-level serial register; the first-reach studies now convert one invalid source line into rival material, packing, machine, schedule, failure, receiver, federation, assurance and industrial requirements. Measured articles, serialized residual and consumable subsystems, verified source independence, carrier routes and complete second-event missions remain the next proof boundary.
+[Projection](projection/README.md) owns the origin-to-effect path for mobile capacity: strategic movement, damaged-theater entry, onward distribution, responder basing, sustainment, reverse flow and regeneration. Its canonical compiler reaches one formation-level serial register; the first-reach studies now convert one invalid source line into rival material, packing, machine, schedule, failure, receiver, federation, assurance, source-family, endurance and industrial requirements. Measured articles, serialized residual and process-material subsystems, verified source independence, protected power, carrier routes and complete second-event missions remain the next proof boundary.
 
 [Reception](reception/README.md) treats fixed sites, surviving buildings, utility interfaces, stocks, records, inspection and labor as force capacity. A mobile module does not become public service merely because it arrives.
 

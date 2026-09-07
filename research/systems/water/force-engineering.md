@@ -1,6 +1,6 @@
 # Water restoration force engineering
 
-> **Current configuration successor.** The [Pass 68 assurance-source competition](../../force/projection/wrg-fr10-assurance-source-family-competition.md) confirms this paper's no-universal-machine judgment at receiver scale. Nuclear coastal, protected-groundwater, variable-feed inland and sealed-transfer chains close different theater conditions; no one family spans source validity, access, residual, weather and endurance. The four-family portfolio still fails a no-discharge mission and a thirty-day no-consumable mission, and no configuration is admitted.
+> **Current configuration successor.** The [Pass 69 closed-loop endurance competition](../../force/projection/wrg-fr10-closed-loop-water-endurance.md) carries the [Pass 68 source-family result](../../force/projection/wrg-fr10-assurance-source-family-competition.md) into residual and process-material closure. Carried storage, regeneration and dewatering, quality-segmented service and a circular source cell all close the original no-discharge and no-consumable cases. Only two close both simultaneously, neither survives the modeled power derating, and no configuration is admitted.
 
 ## Purpose and finding
 

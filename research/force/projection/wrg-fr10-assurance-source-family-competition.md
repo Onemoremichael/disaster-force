@@ -2,6 +2,8 @@
 
 ## Assurance-source families for coastal, inland and sealed service
 
+> **Successor correction.** The [closed-loop water endurance competition](wrg-fr10-closed-loop-water-endurance.md) takes the two portfolio-wide failures below as its starting conditions. It finds four ways to close each original case, but only two close both simultaneously and both expose a new power limit. The source-family result remains current; the successor owns the endurance response.
+
 Pass 67 established the rule for unknown-agent water service: a negative field screen cannot qualify a held source. Safe continuity requires a second physical provenance whose source, process, power, consumables, residual path, quality release and custody remain defensible. That paper represented the alternate provenance as a half-demand capacity. It did not yet say what the source was.
 
 Pass 68 resolves that abstraction. It asks:
