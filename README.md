@@ -1,30 +1,22 @@
 # Disaster Force
 
-## Designing resilience as a coequal instrument of national power
+## A Department of Resilience as a coequal instrument of national power
 
-> What would the United States build if preserving and restoring civilian life-support after catastrophe were treated with the same seriousness as projecting military force?
+The United States knows how to build power that can cross oceans, survive hostile conditions and sustain organized action for months. It has not built the civil equivalent: a permanent institution whose purpose is to keep populations alive, control catastrophic hazards, restore the systems of ordinary life and leave communities more capable than it found them.
 
-This repository develops a first-principles answer. Its subject is not a larger disaster-response agency, a better grant program, or a fleet assembled from retired military equipment. It is a new cabinet-level **Department of Resilience**: an institution able to anticipate catastrophic failure, keep civilian systems alive, enter damaged regions, control hazards, restore essential services, move and receive people when staying is unsafe, and regenerate its own capacity for the next campaign.
+This project asks what that institution would become if it were designed from first principles and funded at defense scale. It is not a proposal to enlarge today’s emergency-management system or repurpose retired military equipment. It assumes a cabinet-level **Department of Resilience**, an enduring **National Resilience Establishment**, and a purpose-built **Resilience Force** supported by its own research, acquisition, industrial, training, basing and reserve systems.
 
-The thought experiment assumes sustained national authorization and investment at defense-like scale. Existing agencies, professions, laws, and assets are treated as evidence and possible transition material; they do not define the mature design. The central question is what must exist if the country makes a real public guarantee under a permanently harsher operating environment.
+The premise is simple. A permanently harsher environment changes the meaning of national power. The state that can deliver water, power, cooling, medical care, communications, mobility and civil continuity through catastrophe possesses a strategic capability: it protects its own society, stabilizes partners by invitation, creates a new industrial economy and makes democratic competence visible.
 
-## The proposition
+## The design rule
 
-The United States has built an extraordinary apparatus for generating military power: services, commands, bases, logistics networks, laboratories, acquisition institutions, industrial primes, reserves, doctrine, education, testing, and a durable political economy. Disaster response has no civil equivalent. It remains comparatively episodic, fragmented, dependent on intact markets and local systems, and measured too often by money obligated or assets dispatched rather than the human condition achieved.
-
-Resilience power would invert that arrangement. Its unit of account would be:
+The unit of account is not an agency, vehicle or quantity of aid. It is:
 
 > **a defined population receiving a defined bundle of safe service by a stated time, for a stated duration, under stated damage.**
 
-That demand record forces completeness. A desalination plant without intake, energy, residual control, pipe, pressure, storage, testing, distribution, and operators is not water service. A hospital ship without patient regulation, transport, utilities, workforce, supply, referral, and discharge is not a health system. A vehicle seat without household contact, accessible collection, lawful custody, destination admission, and funded return is not civil mobility.
+Everything is derived backward from that condition. A desalination plant is not water service until intake, power, residual control, conveyance, pressure, storage, testing, distribution, labor and public access close as one chain. A hospital ship is not a health system until patient regulation, transport, utilities, workforce, supply, referral and discharge also close. A seat on a bus is not civil mobility until a household can be contacted, reached, moved accessibly, admitted to a named safe destination and supported through return.
 
-The force is therefore derived backward from a verified civilian effect. Platforms matter, but only as components of an effect-complete chain.
-
-## A new kind of state capacity
-
-The mature design separates three related objects. The **Department of Resilience** owns policy, authority, budgets, standards, acquisition, and public accountability. The **National Resilience Establishment** creates enduring capacity through operating services, regional and functional commands, academies, laboratories, proving grounds, bases, depots, arsenals, reserves, and suppliers. The **Resilience Force** is the certified subset ready to operate.
-
-Together they form a second high-capacity instrument of national power: civil in purpose, technologically ambitious, usable domestically and by invitation abroad, and measured by survival, continuity, restoration, and lawful transfer rather than coercion.
+This is why the force cannot be organized as a catalog of floods, fires, earthquakes and storms. Hazards differ, but the damaged civilian dependencies converge. The mature design combines prepared local continuity, hazard control, utility restoration, projected service capacity, selective movement and receiving capacity. It keeps deep hazard expertise while building formations around complete effects.
 
 ```text
 PUBLIC GUARANTEE
@@ -32,46 +24,66 @@ population · service · time · duration · damage
         │
         ▼
 DEPARTMENT OF RESILIENCE
-authority · rights · standards · appropriations · accountability
+authority · rights · standards · budgets · accountability
         │
         ▼
 NATIONAL RESILIENCE ESTABLISHMENT
-professions · formations · bases · science · industry
+services · commands · bases · academies · laboratories · industry
         │
         ▼
-PROTECT ── CONTROL ── RESTORE ── PROJECT ── MOVE & RECEIVE
+RESILIENCE FORCE
+protect locally · control hazards · restore lifelines · project service
+move and receive · transfer · regenerate · learn
         │
         ▼
 VERIFIED CIVILIAN EFFECT
-        │
-        ▼
-TRANSFER · REGENERATE · LEARN
 ```
 
-This architecture is deliberately more ambitious than preserving today’s organization chart. It implies new operating services, a territorial continuity layer, unified commands, a civil resilience authority, a national proving network, a dedicated acquisition system, and an industrial base capable of serially producing civil-effect systems from first principles.
+The three institutional layers are intentionally distinct. The Department owns the public guarantee and the legal, fiscal and rights architecture. The Establishment creates enduring capacity through professions, commands, laboratories, proving grounds, depots, arsenals, suppliers and reserves. The Force is the certified subset ready to operate. Confusing those layers produces either an agency without mass or a fleet without durable state capacity.
 
-## The force is not a catalog of hazards
+## The force taking shape
 
-Fire, flood, drought, earthquake, storm, heat, infrastructure failure, and conflict create different operating conditions, but they repeatedly converge on the same human dependencies: water, power, thermal safety, health, food, sanitation, communications, mobility, shelter, and civil continuity. The mature force would retain deep hazard expertise while organizing its deployable power around those complete service chains.
+The research increasingly points to a system distributed across echelons rather than a single national response fleet. Buildings and neighborhoods carry prepared interfaces, stocks and continuity capacity. Territorial formations maintain household contact, building access, local utility islands and selective movement. Regional commands control hazard, restore networks and connect damaged places to national mass. National services provide the maritime, aviation, heavy-engineering, medical, logistics, communications and utility capabilities that local systems cannot economically hold. Receiving geography is prepared in advance so movement ends in actual service rather than displacement.
 
-Its doctrine is becoming equally clear. **Robust local protection comes first; selective movement follows when the building, hazard, medical condition, duration, or restoration path makes staying unsafe.** This is not retreat from force projection. It is a more demanding account of what must already exist in place, what must move through damage, and how national capacity reaches a person in an apartment, nursing facility, rural settlement, island, or cut-off district.
+The neighborhood seam has become the decisive design problem. National fleets fail if the force cannot know who needs help without becoming a surveillance system, enter a dark building, maintain water and medical power, preserve households and care relationships, or move a person through the last block to a verified destination. The proposed `NCAC-35` formation makes this seam an owned mission. Its conventional `A2` and technology-forward `S3` forms remain rival hypotheses, not procurement baselines.
 
-That last distance—the neighborhood seam—has become the project’s most important current problem. The proposed `NCAC-35` formation must know who needs help without becoming a surveillance system, enter buildings, establish local utilities and communications, preserve household and care relationships, move only those who must move, and connect local service to regional and national systems. Its conventional and technology-forward architectures remain unproved.
+Technology is part of the institution, not decoration around it. The Department would turn repeated mission failure into long-horizon programs for rapid utility corridors, autonomous construction, high-rate no-pier logistics, grid-forming mobile power, megaflow water control, high-cycle fire aviation, climate-safe occupied districts, disconnected civil-state systems and purpose-built maritime water, energy and medical platforms. It would fund rival prototypes, representative test ranges, production learning and new technical professions. Novelty earns a place only when it changes a decisive mission parameter and survives the complete service chain.
 
-## Innovation is part of the force
+That demand would create a civil industrial base with the scale and continuity now associated with defense: shipyards, aircraft and vehicle lines, modular utilities, robotics, construction systems, medical production, communications, materials, maintenance, technical education and allied supply networks. The economic opportunity follows from the force design; it does not substitute for it.
 
-The Department is not limited to technology available at its founding. Like a demanding military customer, it would turn repeated mission failure into long-horizon research programs, rival prototypes, dedicated test infrastructure, production learning, and new technical professions.
+## The work is organized as a proof
 
-The opportunity extends from rapid utility corridors, high-rate no-pier logistics, autonomous construction, megaflow water control, grid-forming mobile power, high-cycle fire aviation, and climate-safe occupied districts to offline civil-state systems, machine-readable safety cases, and purpose-built maritime water, energy, medical, and support platforms. Novelty receives no credit merely for being impressive: it must change a decisive mission parameter and survive representative full-system trials.
+The repository is not arranged by the order in which ideas were discovered. It follows one causal argument:
 
-At maturity, that innovation system would support a new industrial economy spanning shipbuilding, aviation, heavy equipment, modular utilities, robotics, construction, medical systems, communications, materials, maintenance, and technical education. Stable procurement, open interfaces, public reference designs, second sources, allied co-development, and export finance would turn resilience capacity into both domestic insurance and strategic presence.
+```text
+MANDATE → FORCE → MISSION SYSTEMS → PROVING → SYNTHESIS
+                  ↘ PROGRAMMATICS ↗
 
-## How the research works
+HISTORY preserves revisions; it does not govern the current design.
+```
 
-This is a connected design inquiry, not a collection of concept notes. The [research architecture](research/README.md) traces claims from public obligation through force design and mission engineering to geographic campaigns, independent proving, programmatics, and synthesis. The [integrated strategic study](research/synthesis/strategic-study.md) states the strongest judgment currently warranted. The [active frontier](research/frontier.md) records the one live edge of the argument and the conditions that prevent premature closure.
+[Mandate](research/mandate/README.md) defines the public obligation. [Force](research/force/README.md) derives the people, formations, readiness and geography that must exist before impact. [Mission systems](research/systems/README.md) close the physical and operational chains. [Proving](research/proving/README.md) tries to break them in real places and representative trials. [Programmatics](research/programmatics/README.md) carries only surviving requirements into workforce, industry and cost. [Synthesis](research/synthesis/README.md) states the judgment currently warranted. The complete logic and authority boundaries are explained in the [research architecture](research/README.md).
 
-Quantitative workbooks are stored in a model tree that now mirrors the research structure. The [model library](models/README.md) explains how to inspect them; the [model catalog](models/CATALOG.md) records every workbook, its decision, maturity, and relationship to the written analysis. Chronology and superseded conclusions live separately in [research history](research/history/README.md), so discovery order does not govern the present design.
+Quantitative models mirror that structure under [`models/`](models/README.md). A workbook owns arithmetic, sensitivity and integrity controls; its paper owns interpretation, limitations and consequence. The [catalog](models/CATALOG.md) is exhaustive, while the research narrative remains selective. Earlier work is never allowed to become current merely because it appears first in the git history; amendments and superseded conclusions are isolated in [history](research/history/README.md).
 
-The models are executable arguments, not validated systems. Most major configurations remain at first-order engineering maturity, and no major platform has closed representative full-mission evidence. The active New York campaign remains sealed before architecture outcomes while its population, building, dependence, custody, and reproduction controls are built.
+## The live frontier
 
-Renderings remain deferred. Form should follow a sufficiently closed understanding of mass, energy, flow, heat, structure, crew, maintenance, safety, waste, degraded operation, and public use—not lead it.
+The current proof campaign moves the neighborhood formation from Gulf Coast flood conditions into a seven-day New York heat–blackout. The geometry is antagonistic by design: roads may remain visible while elevators, domestic-water pumps, cooling, medical equipment, communications and civil records fail together inside buildings.
+
+The campaign has deliberately produced no architecture result. Official geography, a 12,000-world experimental surface, demographic and building inputs, a household-preserving compiler specification and a PUMS donor-support audit are registered. The first coherent target engine then failed its own ceiling: all 36,000 candidate vectors satisfy the hard integer identities, but none of the three uncertainty structures stabilizes in the selected tails at `K=1,000`. Donor fitting and every downstream outcome remain sealed.
+
+That negative result is progress. It shows that drawing related published totals separately and asking an optimizer to repair them can preserve average populations while moving the rare states that determine life safety. The next engine must generate civil state in structural coordinates—totals, complements and simplex shares—so coherence exists before projection. The [active frontier](research/frontier.md) records this decision and the next admissible work. The [New York campaign dossier](research/proving/campaigns/new-york/README.md) holds the full ordered evidence chain.
+
+## Reading the study
+
+The shortest route to the thesis is [first principles](research/mandate/first-principles.md) → [Department of Resilience](research/mandate/department-of-resilience.md) → [integrated strategic study](research/synthesis/strategic-study.md).
+
+The shortest route to the operating design is [mature force design](research/force/generation/mature-force-design.md) → [force composition](research/force/generation/force-composition.md) → [mission systems](research/systems/README.md) → [joint force allocation](research/force/generation/joint-force-allocation-and-order-of-battle.md).
+
+The shortest route to the research edge is [active frontier](research/frontier.md) → [New York campaign](research/proving/campaigns/new-york/README.md) → [assurance](research/proving/assurance/README.md).
+
+## Evidence boundary
+
+The models are executable arguments, not validated systems. Most configurations remain at first-order engineering maturity. No major platform has closed representative full-mission evidence, and no architecture has earned procurement status.
+
+Renderings remain deferred. Form should follow a sufficiently closed understanding of mass, energy, flow, heat, structure, crew, maintenance, safety, waste, degraded operation and public use—not lead it.
