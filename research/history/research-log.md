@@ -2445,3 +2445,39 @@ A five-epoch build moves from constitutional and proving capacity in years 0–5
 The root README now presents the force as a matrix and routes the live statistical campaign to the frontier rather than reproducing its pass history. The force landing page becomes a stable operating-system map. The generation landing page presents one causal sequence—requirement, architecture, configuration, readiness and allocation—rather than a file list. Research and synthesis routes point first to the canonical force architecture. Successor notes preserve the authority boundaries of the Department, composition and mature-force papers without erasing their detail.
 
 No quantitative workbook or rendering is created. The next concrete architecture work is a governed formation registry, followed by a mission-failure-to-technology portfolio and a single Department-wide capital, operating, workforce and industrial work breakdown. Renderings remain blocked until representative configurations close.
+
+## Pass 57 — National Formation Registry
+
+### Research question
+
+What complete formation families follow from the canonical Department architecture, how do they reconcile with the current thirty-four-line quantitative order of battle, and which evidence gaps should govern the next force-design and technology investments?
+
+### Inventory reconciliation
+
+The new [National Formation Registry](../force/generation/national-formation-registry.md) identifies forty-eight canonical family hypotheses: six permanently joint families; five Land Engineering; six Air Response; six Maritime Response; six Infrastructure Restoration; six Health Protection; six Community Stabilization; and seven Civil Mobility and Continuity. Permanently joint families are counted because they require enduring cadres, doctrine, equipment and readiness, not because they form an eighth service.
+
+Only thirty-three canonical families have distinct lines in the Pass 23 model. Fifteen are missing: Resilience Information; Maritime Production; Water Restoration; Power Restoration; Grid Bridge; Theater Hospital; Patient Movement; Economic Restart; and all seven Civil Mobility and Continuity families. Pass 23 still contains thirty-four rows because `I-UPG`, the Utility Projection Group, is a legacy aggregate that combines water, power and grid-bridge demand.
+
+The registry retains `I-UPG` as a lineage record with a controlled retirement condition. It may disappear only after the three canonical children receive campaign quantities, component shares, workforce and work-breakdown allocations that reconcile without duplication. The `$12.049T` capital and `3.95M` affiliated-billet scale screens remain unchanged in this pass.
+
+### Service-contract and maturity audit
+
+Every record is scored against the ten fields established in Pass 56: supported population or function; effect at safe use; time bands; damage envelope; organic package; supporting dependencies; movement and reception; sustainment and waste; authority and transfer; and regeneration. A field receives zero when absent, one when bounded architecturally or analytically and two when a configuration-level record exists. The score measures research presence, not capability validity; even twenty points would still require representative independent evidence.
+
+Canonical-family completeness averages 52 percent. Thirty-one of forty-nine total records lack even a bounded formation-specific damage envelope. More importantly, none has configuration-grade evidence for dependencies, sustainment and waste, authority and transfer or regeneration. No record is fully configured.
+
+The maturity distribution is one `R1`, thirty-eight `R1/R2` records including the legacy aggregate, two `R2`, eight `R2+` and zero `R3`. The eight `R2+` configuration proxies are Flood and Hydraulic Control, Ground Fire and Landscape, Maritime Production, Water Restoration, Power Restoration, Population Support, Household Collection and Continuity Transfer Nodes. Each remains a proxy whose open relational and field-performance gates prevent formation certification.
+
+### Force and technology consequence
+
+The registry maps all forty-nine records to six mission threads: nine enter a broken theater, six reach occupied civil terrain, four control an active hazard, six produce and distribute lifelines, fifteen preserve care and human continuity, and nine sustain, transfer and regenerate. Candidate high-rate lift, no-pier systems, vertical-access robotics, persistent fire aviation, megaflow pumping, rapid utility corridors, maritime water-energy systems, modular clinical care and autonomous depots are therefore evaluated as rival ways to change binding formation coefficients—not as predetermined platform programs.
+
+The next balanced configuration cohort contains one heavy technical formation (`I-WRG`), one mobility formation (`CM-CTN`), one care formation (`H-MAC`), one community formation (`C-PSG`) and one theater-support formation (`J-TOC`). This prevents the research program from declaring force maturity after configuring only spectacular physical systems.
+
+### Workbook and repository result
+
+The eight-sheet workbook contains a decision summary, forty-nine-record registry, ten-field contract detail, dependency map, technology pull, service/effect/field gap analysis, internal authority ledger and terminal integrity checks. Fourteen formula-backed checks pass. All eight sheets were rendered and visually reviewed, the formula-error scan is empty and the Open XML archive validates. Workbook SHA-256 is `e1ed1418f8782ad095b9a7dbd96129bc51ab49a3afee240c2381efac76a42a1f`.
+
+The root, force and generation reading paths now place the registry between architecture and allocation. The model library and catalog identify it as the force-model control surface. The strategic study incorporates the inventory and relational evidence gaps; the supersession map preserves Pass 23 as the current fiscal and concurrency screen without treating its thirty-four lines as the complete mature inventory.
+
+No rendering is created. The next force-model pass must reconstruct joint allocation around the registry, add the fifteen missing canonical lines, disaggregate `I-UPG`, count shared capacity once and rerun movement, reception, sustainment, workforce and fiscal contradictions.
