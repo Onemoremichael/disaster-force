@@ -1,5 +1,7 @@
 # Water restoration force engineering
 
+> **Current configuration successor.** The [Pass 68 assurance-source competition](../../force/projection/wrg-fr10-assurance-source-family-competition.md) confirms this paper's no-universal-machine judgment at receiver scale. Nuclear coastal, protected-groundwater, variable-feed inland and sealed-transfer chains close different theater conditions; no one family spans source validity, access, residual, weather and endurance. The four-family portfolio still fails a no-discharge mission and a thirty-day no-consumable mission, and no configuration is admitted.
+
 ## Purpose and finding
 
 This pass asks what the Department of Resilience must own if it promises to restore safe water as an assured public service rather than deliver bottles, loan a purifier, or count production at a plant fence. It closes a reference architecture for the **Regional Water Works** (`W-2`) and **Rapid Water Grid** (`W-4`) far enough to define the machinery, formations, interfaces, and remaining tests.

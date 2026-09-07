@@ -2,6 +2,8 @@
 
 ## A safe water-release architecture for unknown-agent conditions
 
+> **Successor correction — Pass 68.** The [assurance-source family competition](wrg-fr10-assurance-source-family-competition.md) replaces this paper's generic half-demand provenance with four complete source logics: a nuclear coastal carrier, protected-groundwater group, variable-feed inland group and sealed-reference transfer lattice. No family is universal. The four-family portfolio serves ten of twelve declared theaters and retains two eligible sources in six; residual-denied and thirty-day no-consumable worlds remain open. All strict admissions remain zero and rendering remains blocked.
+
 Pass 66 converted a receiver-wide failure into a controlled federation problem. Three independently releasable half-demand service islands passed eight of ten declared receiver worlds. A four-island mesh with an alternate half-demand source passed nine. Every architecture still stopped when a national unknown-contaminant order removed civil issue authority. That result was intentionally safe and operationally incomplete.
 
 Pass 67 asks the question on the other side of that stop:

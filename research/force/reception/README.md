@@ -8,6 +8,8 @@ This layer explains what must already exist at destinations and how surviving ca
 
 The projection layer's [federated first-reach water architecture](../projection/wrg-fr10-federated-receiver-architecture.md) now resolves one receiver at mission-system scale. It shows that several physical sites remain one receiver when terminal, power, quality or source dependencies can stop them together. Its minimum local federation uses independently releasable service islands with separate distribution, branches, black start, quality workcells, storage and accessible catchments. The successor [unknown-agent assurance architecture](../projection/wrg-fr10-unknown-agent-water-assurance.md) then makes lawful release part of receiving capacity: field nondetection cannot clear a held source, while prequalified independent provenance and sealed reserve can preserve bounded service. Every boundary remains untested, so no receiver is admitted.
 
+The [assurance-source family competition](../projection/wrg-fr10-assurance-source-family-competition.md) makes the fixed destination contract source-specific. Coastal carriers need offshore landing corridors; groundwater groups need characterized wellfields; inland plants need raw-water and residual interfaces; sealed transfer needs sanitary multimode terminals. A prepared receiver is therefore a portfolio of source interfaces, not one universal pipe stub.
+
 That failure now hands the population-movement problem to the separate [civil mobility and continuity subsystem](../mobility/README.md). Its first reference force replaces the corridor multiplier with observed network gates, purpose-built fleets and nodes, protected cohorts, route restoration and distributional assurance.
 
 The architecture competition remains among:
