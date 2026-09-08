@@ -1,6 +1,6 @@
 # Active research frontier
 
-**Decision state:** 7 September 2026
+**Decision state:** 8 September 2026
 
 **Purpose:** one repository-wide statement of what is believed, what is sealed and what must be learned next
 
@@ -19,7 +19,7 @@ The strongest revision to the original concept is the importance of the neighbor
 
 The conventional `A2` reference and technology-forward `S3` rival remain hypotheses. Neither is an acquisition baseline; neither has earned a rendering.
 
-A second live boundary now governs national force projection. [CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) converts the 200 open ESK-40V gates into an executable fourteen-year proving campaign. [MESA-1](force/projection/mesa1-measurement-and-destructive-evidence-architecture.md) now defines the shadow formation required to observe it. The selected three-plane behavior separates embedded control, independent mechanism evidence and civil-effect witness. Ordinary logs fail the terrain time and soil-pressure uncertainty screens; provisional MESA-1 allocations pass both. Destructive custody corrects the development fleet to 496 tiles and total inventory to 6,172. Every physical gate remains open; production and rendering remain blocked.
+A second live boundary now governs national force projection. [CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) converts the 200 open ESK-40V gates into an executable fourteen-year proving campaign. [MESA-1](force/projection/mesa1-measurement-and-destructive-evidence-architecture.md) defines the shadow formation required to observe it; [MESA-1R](force/projection/mesa1r-representative-evidence-hardware-and-hazard-envelope.md) now makes that formation physical. Seven-day autonomy drives 110 kg and 135 kg article cassettes, 1.2 t and 2.6 t carrier nodes and a 2.8 t civil receiver station. The terrain node raises the instrumented carrier to about 723.786 t and consumes enough pressure margin to disqualify the earlier MESA-1 uncertainty allocation. A 4,560-cell skin and independent geometry target 0.129 kPa U95, but all hardware, equivalence and heat-rejection claims remain open. The next admissible work is a supplier-neutral architecture competition and serial P01–P08 prototype protocol; production and all rendering remain blocked.
 
 ## The live proof chain
 

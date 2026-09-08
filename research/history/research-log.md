@@ -3195,3 +3195,31 @@ Eight blinded defects, four boundary probes, four compound-environment injuries 
 The sixteen-sheet companion workbook contains 320 terminal controls. All controls pass, the formula-error scan returns zero matches, every sheet is rendered and visually inspected and the Open XML package validates. Workbook SHA-256 is `50edf69071e5f92eb10f5cd0ba807253a0804c74eca3aec3a1e4599a02b086a9`. The two weaker measurement alternatives intentionally fail their competition screens. Every physical claim remains `OPEN`; production is `HOLD`; rendering is `BLOCKED`.
 
 The next admissible work is representative MESA-1 hardware and hazard-envelope testing for one air tile, one terrain tile, one carrier truth node and one receiver truth station. No platform form is authorized.
+
+## Pass 92 — `MESA-1R` representative evidence hardware and hazard envelope
+
+### Research question
+
+What physical mass, volume, energy, storage, timing, terrain-contact and industrial burden must the MESA-1 shadow formation carry before it can claim to test a representative tile, carrier or civil receiver?
+
+### Architecture decision
+
+The generic Pass 91 hardware placeholders are rejected. The selected planning references are a `110 kg` atmospheric tile cassette, `135 kg` terrain tile cassette, `1.2 t` atmospheric carrier truth node, `2.6 t` terrain carrier truth node and `2.8 t` separate civil receiver station. All five contain their own sensing, acquisition, evidence compute, diverse clocks, immutable storage, energy, isolation and environmental protection. They carry the full `168 h` evidence interval without mission power or network survival.
+
+The tile cassettes remain inside the smallest `550 kg` certified family allowance. Carrier nodes create distinct instrumented configurations and therefore require instrumented, matched mass-and-heat emulator and bare removal-paired trials before production inference.
+
+### Governing physical correction
+
+The atmospheric carrier rises from `1,468.322 t` to approximately `1,469.301 t` when the truth-node increment and gross feedback are included. The terrain carrier rises from `720.957 t` to `723.786 t`. Its modeled pressure becomes `34.3836 kPa`, leaving `0.3664 kPa` below the evidence threshold and permitting only about `0.1832 kPa` of expanded uncertainty under the half-margin rule.
+
+That test-mass correction disqualifies the earlier `0.2209 kPa` MESA-1 allocation. The successor pressure system uses `4,560` cells and `18,240` channels across `285 m²`, producing `3.648 MB/s` and a `1.14 t` sensing skin. Independent optical, subsurface and geotechnical witnesses yield a provisional `0.0646 kPa` combined standard allocation and `0.1292 kPa` U95. This is a design target, not measured performance.
+
+### Program and fiscal consequence
+
+Eight campaigns contain `68` trials, `64` evidence gates and USD `6.8B` of work: independent power and storage; tile cassettes; atmospheric carrier node; terrain carrier and skin; civil receiver; denied time; removal and no-crutch trials; and a frozen complete mission. The subportfolio is nested inside the existing USD `24B` F01 metrology family. Mode-specific cassette and carrier-node lines replace generic allocations without changing F01 or the USD `1.050T` proving portfolio.
+
+### Verification and next boundary
+
+The companion workbook contains seventeen sheets and `342` terminal controls. Every control passes, the final formula-error scan finds zero matches, all sheets were rendered and visually reviewed, and the XLSX container validates. SHA-256 is `2789e0685deff08e4ded6ebefb85e3b7e2f3545b1650ee6e6be093e8fab96b60`.
+
+Every physical hardware, uncertainty, independence, heat-rejection and removal claim remains `OPEN`. Production is `HOLD`; rendering is `BLOCKED`. The next admissible work is a supplier-neutral architecture competition and serial prototype protocol for P01–P08.
