@@ -3337,3 +3337,35 @@ The companion workbook contains eighteen sheets and 1,839 deterministic controls
 The next admissible force-generation study is the common AIMC program-office operating system and complete technical-data package. It should specify requirement custody, root ancestry, artifact-based earned value, serial configuration, rights instruments, capacity contracts, cost uncertainty, evidence admission, failure replacement and the transactions among the seven separated authorities.
 
 A later pass should design no-notice Department-wide industrial-mobilization exercises. Rendering remains deferred.
+
+## Pass 97 — AIMC common program-office operating system and technical-data constitution
+
+### Research question and decisive result
+
+What common operating system lets an institution pursue radical, high-consequence civil technology at Department scale without allowing schedule, expenditure, builder enthusiasm or emergency urgency to substitute for physical truth?
+
+The pass makes an authority-bearing physical artifact attached to a serial configuration—not a review or date—the unit of program control. A valid transaction requires mission effect, configuration, evidence, rights, custody, receiving burden, cost and lawful release authority to converge. Calendar progress earns zero capital.
+
+Ten sequential artifacts run from the civil effect charter through independent reproduction, pilot-process qualification, production release and no-notice mobilization activation. The complete USD 15.179T force-capital envelope is allocated across those physical learning states. Every baseline artifact remains unaccepted, unsigned and ineligible; the report creates an authority constitution rather than exercising one.
+
+### Office and authority consequence
+
+The generic sixty-four-office placeholder from Pass 96 is refined into forty-eight Family Program Offices and sixteen cross-portfolio Technical Integration Offices. Each family office owns four overlapping increments. Each integration office spans twelve programs and polices coupled interfaces that no family can close alone. The network retains the established 128,000-person boundary.
+
+Seven separated institutions govern civil guarantee, requirements, building, independent evidence and data, receiving suitability, cost and capacity, and production release. AIMC has strong positive power to create technical and industrial options but cannot accept its own evidence. The Production Release Board integrates valid findings but cannot manufacture a missing one by vote.
+
+### Data, configuration and failure consequence
+
+Every one of 576 technical roots receives a twenty-eight-class Complete Technical Data Package covering mission, damage worlds, architecture, interfaces, full product and process definition, software, calibration, test uncertainty, serial identity, deviations, suppliers, alternates, production, readiness, logistics, maintenance, human factors, cyber behavior, residuals, rights and independent reproduction. The model contains 16,128 logical root–class obligations; submitted, accepted and rights-delivered counts remain zero.
+
+Seven baselines—effect, requirements, architecture, build, trial, production and mobilization—create 1,344 versioned records. Ten change classes propagate causal consequences into affected baselines. Twelve failure triggers stop or replace technical entitlement while preserving articles, data, deviations, raw evidence and causal memory. A failed program no longer needs to survive for its accepted learning to retain public value.
+
+### Artifact and validation
+
+The seventeen-sheet companion workbook contains sixty-four offices, 192 programs, 576 roots, 1,920 artifact transactions, 1,344 baselines, twenty-eight data classes, ten change classes, twelve replacement triggers, twenty-four decision gates and 6,302 deterministic controls. All controls pass in the restored baseline; the formula-error scan finds zero cells; every sheet is rendered and visually reviewed; and the Open XML archive validates.
+
+Four adversarial tests pass. An accepted but unsigned artifact releases zero capital. Adding the valid signature releases exactly the selected $3.088148099B tranche. A signed second artifact cannot jump an open first artifact. Raising the declared CTDP requirement from twenty-eight to twenty-nine classes creates exactly 577 failures—one global control and all 576 root controls—before restoration.
+
+Workbook SHA-256 is `899a83d66bc388c736f166421804fc6d913015fea13e9a885068c4763e070ca7`.
+
+The next admissible force-generation study is a national industrial-mobilization exercise constitution: no-notice activation, supplier and process-domain cuts, workforce muster, material release, utility interruption, transport, receiver throughput, accepted yield, sustained service, regeneration and immutable after-action custody. Rendering remains deferred pending representative geometry and coupled physical evidence.

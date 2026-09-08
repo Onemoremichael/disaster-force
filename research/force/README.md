@@ -46,6 +46,8 @@ The [`DCP-2R` common carrier and mission compiler](projection/dcp2r-common-carri
 
 [CSAC-1](projection/csac1-compound-service-article-and-range-campaign.md) supplies the proving institution for the physical force reference. [MESA-1](projection/mesa1-measurement-and-destructive-evidence-architecture.md) through [MESA-1E](projection/mesa1e-family-procurement-and-source-selection-experiment.md) specify independent evidence hardware, supplier-neutral architectures, build-release controls and durable rival roots. The [Acquisition and Industrial Mobilization Command](generation/department-resilience-acquisition-and-industrial-mobilization-command.md) now becomes the generation institution that repeats that pattern across forty-eight families. It owns technical possibility, public design and test infrastructure, rights, production options and industrial activation; it does not own the meaning or grading of success.
 
+The [AIMC common program-office operating system](generation/aimc-common-program-office-operating-system-and-technical-data-constitution.md) makes that boundary executable. The family—not a preferred platform—is the durable acquisition object; ten physical artifacts earn capital only when configuration, accepted root data, prior-chain closure and the proper authority converge. Forty-eight family offices preserve longitudinal learning while sixteen integration offices police coupled interfaces across the force.
+
 ## The architecture
 
 ```text
