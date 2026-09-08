@@ -48,6 +48,8 @@ The [`DCP-2R` common carrier and mission compiler](projection/dcp2r-common-carri
 
 The [AIMC common program-office operating system](generation/aimc-common-program-office-operating-system-and-technical-data-constitution.md) makes that boundary executable. The family—not a preferred platform—is the durable acquisition object; ten physical artifacts earn capital only when configuration, accepted root data, prior-chain closure and the proper authority converge. Forty-eight family offices preserve longitudinal learning while sixteen integration offices police coupled interfaces across the force.
 
+The [national industrial-mobilization exercise constitution](generation/national-industrial-mobilization-exercise-constitution.md) defines the next state transition. Each family-specific mission service lot must remain conserved from a sealed cold-start order through workforce, facility, supplier, production, acceptance, transport, receiving, commissioned service and regeneration. An annual 896-node sample turns the 4,256-node industrial topology into an exercised force rather than a contract register. M04 closes in planning, M05 exposes twenty-two family gaps and M06 defeats every declared line; no physical admission is granted.
+
 ## The architecture
 
 ```text
