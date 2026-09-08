@@ -3013,3 +3013,35 @@ The sixteen-sheet [companion workbook](../../models/force/projection/dcp2-terrai
 The pass makes the fail-open interface grammar, `I3` receiver behavior, fixed-point energy method, `E2` energy reference, `C5` contact reference, revised `SAT-170R` mass/power/clock/reset, force quantities and fiscal boundaries authoritative at `R2`. It supersedes the Pass 84 sixty-tonne energy line, 332-tonne tare, 502-tonne rated gross, 155-square-metre governing footprint, 31.77-kPa governing pressure and 32-MW installed reference. It does not admit a receiver, energy system, contact system, carrier, production rate, cost or readiness claim. Every evidence gate remains open.
 
 Pass 86 should spatially configure `SAT-170R` internally: tankage, generator sectors, heat rejection, pod sweep, bridge stowage, payload access, center of gravity, crew stations, escape, fire separation, recovery hardpoints and field-removal volumes must close together. It should then apply the same complete-system energy and distributed-contact treatment to `GCH-340`. Controlled requirements renderings remain blocked until those coupled terms stabilize.
+
+## Pass 86 — `SAT-170R` internal architecture and coupled closure
+
+### Research question and architecture result
+
+Can the Pass 85 terrain carrier's energy, contact, bridge, payload, crew, heat-rejection, removal and receiver claims occupy one internal arrangement without weakening the 800-kilometre route or the two-mode public-service guarantee?
+
+The [`SAT-170R` internal-architecture study](../force/projection/sat170r-internal-architecture-and-coupled-closure.md) shows that the implied geometry does not survive. A twenty-three-metre rigid payload body produces about 2.80 metres of chord sagitta in the registered twenty-five-metre turn, pushing the 9.5-metre body to a 12.30-metre swept-width control failure. The selected `P4` behavior reference divides the carrier into four 11.5-metre rigid bodies connected by three active joints. Two center bodies carry four payload positions each; mirrored fore and aft bodies contain four separate energy citadels; six-seat and four-seat refuges occupy distinct two-metre buffers.
+
+The route kit also changes. A twenty-metre clear gap requires twenty-five metres of physical bridge after 2.5 metres of bearing at each end. Five five-metre modules provide the required length only before a loss. Six must travel so that one unavailable module still leaves five. After two module losses the terrain crossing claim fails explicitly.
+
+### Coupled physics, mission and institutional consequence
+
+Bridge structure now joins energy in the rated-gross fixed point. The bridge feedback coefficient is 0.0462051 tonne per tonne gross; the reserve-adjusted energy coefficient is 0.1585317; their sum is 0.2047368, leaving a positive 0.7952632 denominator. The complete configuration is 547.185 tonnes tare and 717.185 tonnes rated gross. The energy system is 187.347 tonnes, including 132.347 tonnes of mission consumable, and provides 667.031 MWh onboard. Four nine-megawatt citadels retain 27 MW after one sector loss against a 24.55-MW route maximum.
+
+`TAP-285` spreads load over twelve pods. With one pod unavailable, 1.15 dynamic amplification and 1.10 imbalance, compounded pressure is 34.07 kPa against the 35-kPa screen. Thirty-four mass packets reconcile six station reactions to gross; the worst local dynamic pod demand is 83.91 tonnes against the provisional 85-tonne rating. All four registered payload blocks remain within cube, deck and balance limits and retain bilateral unload access.
+
+Terrain civil public service moves to relative hour 43.57 and absolute hour 49.57, later than the atmospheric hour 47.92 path and therefore governing complete `DCP-2` service with 4.43 hours of margin. The bridge path governs reset at hour 166. The correction adds sixty deployed people, 144 affiliated positions and a sixteen-person minimum watch above Pass 85, revising `DCP-2` to 700 deployed, 1,557 affiliated and a minimum watch of 226. The wider terrain industrial ecosystem reaches 118,000 workers.
+
+### Technology, fiscal boundary and assurance
+
+The 219-vehicle baseline now uses five integration lines, four energy-citadel lineages, three pod lineages, three bridge lineages and seven compound ranges. The $530B technology portfolio funds eighteen rival campaigns across cellular energy, high-temperature conversion, containment, heat rejection, power electronics, adaptive contact, load control, soil sensing, braking, ultra-high-load bridging, autonomous placement, articulated structure, bilateral access, crew survival, field recovery, configuration authority and full-vehicle proof. It is contained within R&D and proving rather than added twice.
+
+The terrain architecture program rises from $1.33874524T to $1.58204456T. With the unchanged non-terrain remainder and federated-receiver increment, `DCP-2` reaches $2.97981535T and the national boundary $10.36295690T. At thirty groups, 296 vehicles are required; the terrain program reaches $1.88056928T, `DCP-2` $3.41160775T and the national boundary $11.11230450T. The seventy-seven-article production gap remains visible.
+
+### Artifact, validation and next boundary
+
+The eighteen-sheet [companion workbook](../../models/force/projection/sat170r-internal-architecture-and-coupled-closure.xlsx) contains the summary, assumptions, four-way package competition, spatial zones, coupled mass and balance, thirty-four mass packets, contact and turn, energy and thermal, bridge and route, payload and crew, casualty worlds, receiver and clock, reset and workforce, production and cost, technology program, 140 evidence gates, 190 terminal checks and reading guide. All 190 checks pass, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML archive validates. Workbook SHA-256 is `7f7e528faaa25823dbd8f6dc2a2c02deb9379247ba4ddcfb8558c76ed46eb4a6`. No external-site research or exterior rendering is introduced.
+
+The pass makes the four-body topology, three joints, mirrored four-citadel energy arrangement, dual refuges, six-module bridge reserve, joint mass method, revised mass/contact/clock/reset/workforce and fiscal boundaries authoritative at `R2`. It does not admit structure, bridge material, pod mechanics, energy performance, fire containment, heat rejection, egress, control, reliability, rate, cost or readiness. All 140 evidence gates remain open and strict credit is zero.
+
+Pass 87 should apply equal-depth complete-system closure to `GCH-340`: energy, heat rejection, lifting cells, ballast and partial-unload transients, landing contact, mooring, structure, crew refuge, payload access, field removal and spatial casualties must close together. Only then should both carriers be compared on a common physical basis or controlled exterior requirements renderings be reconsidered.
