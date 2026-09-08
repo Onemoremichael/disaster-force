@@ -3079,3 +3079,39 @@ The nineteen-sheet [companion workbook](../../models/force/projection/gch340-com
 The pass makes the twenty-four-cell, six-train, six-bus, twelve-pod, sixteen-foot, two-keel and two-refuge grammar; coupled fuel method; cold-dense support transition; revised mass, energy, contact, clock, reset, workforce and fiscal boundaries authoritative at `R2`. It does not admit a membrane, structure, conversion train, hydrogen system, aerodynamic coefficient, heat exchanger, contact system, control law, carrier, rate, cost or readiness claim. All 150 evidence gates remain open and strict credit is zero.
 
 The next force pass should compare `GCH-340R` and `SAT-170R` through one common carrier and representative mission compiler, with payload, origins, receivers, public effect and denial worlds held constant. Requirements diagrams may follow representative subsystem geometry; exterior concept art remains blocked.
+
+## Pass 88 — `DCP-2R` common carrier and mission compiler
+
+### Research question and decisive result
+
+What force and payload grammar preserve one complete 635-tonne public-service effect after loss of an atmospheric carrier or terrain carrier and one additional payload casualty, while holding receiver, public release, mission time and mode independence constant?
+
+The [`DCP-2R` common carrier and mission study](../force/projection/dcp2r-common-carrier-and-mission-compiler.md) separates two ideas that had previously been conflated. The current `DCP-2` remains a valid single-cut lower bound: after loss of an entire access mode, its other mode can still deliver one exact service cell. It is not a compound-assurance formation. Adding a third air carrier and fifth terrain carrier while preserving exact specialized payload blocks increases surviving mass to 635 tonnes but still loses decisive service families. Vehicle reserve is not functional reserve.
+
+Six architectures face twenty-four non-substitutable gates. Current exact-block `DCP-2` closes thirteen; extra carriers with unchanged blocks and an adaptive kernel without spare carriers each close fifteen; a conditional utility bridge closes thirteen. Only full exact-cell duplication and `P4 DCP-2R` close all twenty-four. Full duplication remains the upper control.
+
+### Adaptive service kernel and formation
+
+`P4` codes the civil effect across an `ESK-40` adaptive physical kernel. Forty 15.875-tonne multifunction tiles are divided evenly among energy, water/residual, treatment/clinical, distribution/material and command/communications families. Each tile supplies a declared 14.285714 service units. Eight tiles per family are fielded; after one additional tile loss, seven retain the hundred-unit family floor.
+
+The architecture is physically redundant rather than dependent on digital parity. Air and terrain tiles share service semantics, custody states and mechanical/service connectors, but their implementations, control kernels, suppliers, qualification authorities and depots remain separate. Each of three `GCH-340R` carriers receives four tiles from every family—twenty tiles and 317.5 tonnes. Any two retain the complete forty-tile kernel. Each of five `SAT-170R` carriers receives two tiles from every family—ten tiles and 158.75 tonnes. Any four retain the same kernel. All three air survivor pairs and all five terrain survivor quartets close the family vector.
+
+### Mission, receiver and casualty boundary
+
+Air civil release remains at absolute hour 47.9167 and terrain at hour 49.5694. Deterministic stress allowances of 4.5 and 3.5 hours remain inside the hour-54 public-effect boundary. The common receiver expands to three separated atmospheric zones in a 520-by-460-metre envelope and five terrain positions in a 220-by-140-metre envelope; the two receiver systems remain five kilometres apart and independently releasable.
+
+Twenty-eight declared inside worlds combine carrier cuts, one further tile loss, origin or receiver cuts, network denial and GNSS denial. Every world passes. Four harder probes—including both-mode loss and multi-tile compound loss—are explicitly labeled `BOUND` rather than counted as assured performance. Twelve ancestry domains prevent shared service language from becoming a common decisive implementation.
+
+### Force, workforce, technology and fiscal boundary
+
+The national production requirement rises from 337 baseline `DCP-2` articles to 439 selected articles: 169 atmospheric and 270 terrain. Exact full duplication would require 646. The selected formation uses 906 deployed people, 2,031 affiliated positions and a 284-person minimum watch.
+
+The current $3.7773011T `DCP-2` program remains the lower-bound comparator. Air reinforcement, terrain reinforcement, receiver expansion and the adaptive-kernel/independence program add $1.16349609T, producing a $4.94079719T `DCP-2R` boundary and a $12.32393874T national boundary. Full duplication reaches $6.00387624T, so the adaptive reference preserves $1.06307905T only if its multifunction coefficients and independence prove real. A $775B technology and proving portfolio is nested inside the increments rather than added twice. It funds rival tile physics, common connectors, contained-failure mechanisms, offline compilation, receiver machinery, destructive casualty ranges and complete missions.
+
+### Artifact, validation and next boundary
+
+The twenty-sheet [companion workbook](../../models/force/projection/dcp2r-common-carrier-and-mission-compiler.xlsx) contains the summary, assumptions, service constitution, tile grammar, complete air and terrain quorum enumerations, architecture competition, mission state machine, delay budget, challenge lattice, receiver geometry, ancestry firewall, crew and authority, reset and fleet, workforce, program cost, technology portfolio, 160 evidence gates, 230 controls and reading guide. All 230 controls pass, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML archive validates. Workbook SHA-256 is `a58780361e8596493c01f1810cc89b9b2d78e4d06aafe19a6d5ce9524402abe9`. No external-site research or exterior rendering is introduced.
+
+The pass makes the single-cut-versus-compound distinction, `ESK-40` behavior grammar, three-air/five-terrain quorums, common mission and receiver boundary, fleet, workforce, technology and fiscal accounts authoritative at `R2`. It does not admit a tile coefficient, family implementation, connector, containment system, ancestry partition, receiver, carrier loading, production rate, cost or readiness claim. All 160 evidence gates remain open and strict evidence credit is zero.
+
+Pass 89 should physically configure the five tile families in both independent mode lineages: dry and wet mass, process inventory, containment, heat rejection, connectors, bilateral service access, handling, custody, field removal and contained-failure geometry must close at 15.875 tonnes per tile. One ten-tile terrain load and one twenty-tile air load should then face destructive carrier, tile, network and receiver casualties. If any family cannot retain its coefficient, the project must reopen tile mass, carrier count or the compound guarantee. Exterior rendering remains blocked until those dimensions stabilize.
