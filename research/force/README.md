@@ -38,6 +38,8 @@ The [`TAFG-1` second-region formation competition](projection/tafg1-second-regio
 
 The [`DCP-2` physical configuration](projection/tafg1-dcp2-physical-configuration.md) makes that rival a serialized requirement. Four exact 145-tonne dry blocks plus segregated wet packs load two `HBL-340` and four `ATUT-170` payload envelopes while preserving separate origin nodes, interfaces, receiver zones, crews and release. The prior carrier labels are superseded because they left only 0.8 percent spare capacity. The configured program rises to $933.2764B; the remaining $30.22B comparison with full duplication is quarantined until both are configured to equal depth. Sixty gates remain open and rendering is blocked.
 
+The [`HBL-340` architecture competition](projection/hbl340-architecture-competition.md) opens the atmospheric requirement into complete lift, transfer, energy, receiver, reset and industrial systems. Only a deliberately underbuoyant ground-coupled hybrid closes the declared universal behavior screen: static lift carries about 71 percent of gross mass, aerodynamic lift closes cruise and distributed ground contact closes unload without receiver ballast. The 112-article architecture program reaches $932.25745B and raises `DCP-2` to $1.51723385T. It remains an unadmitted research reference with seventy open gates; the terrain carrier must now receive the same physical competition.
+
 ## The architecture
 
 ```text

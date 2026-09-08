@@ -2917,3 +2917,31 @@ The nineteen-sheet [companion workbook](../../models/force/projection/tafg1-dcp2
 The pass makes the position register, nested load grammar, superseding payload ratings, independent physical chains, configured cost and evidence burden authoritative at `R2`. It does not admit structure, propulsion, range, weather, terrain performance, gross vehicle weight, production quantity or exterior geometry. All sixty gates remain open and strict credit is zero.
 
 Pass 83 should compete physical `HBL-340` architectures under one payload and mission envelope, including tare mass, lift, structure, propulsion, energy, range, weather, mooring, transfer, emergency recovery, maintenance, base demand, cost, production and representative tests. The `ATUT-170` architecture competition should follow. Rendering remains blocked until those competitions establish stable exterior envelopes.
+
+## Pass 83 — `HBL-340` architecture competition
+
+### Research question and architecture result
+
+Which complete physical architecture can carry the inherited 340-tonne payload over 4,000 kilometres, preserve the hour-42 public-service path and unload at a 420-by-420-metre, sixty-kilopascal receiver without prepared anchors, external ballast or intact heavy infrastructure?
+
+The [`HBL-340` architecture competition](../force/projection/hbl340-architecture-competition.md) tests four clean-sheet rivals. The decisive state is unloading, not buoyant cruise. `H1` retains a 123.36-tonne universal transition gap after 280 tonnes of internal authority. `H3` retains 324.72 tonnes, and `H4` retains 331.256 tonnes unless the receiver supplies 340 tonnes of external ballast. Each closes declared gross lift and energy arithmetic; none closes the universal receiver and weather screen.
+
+`H2 GCH-340` is retained as the sole provisional universal behavior reference. It is deliberately underbuoyant while loaded: an 850,000-cubic-metre envelope supplies 711.28 tonnes of hot-high static lift against a 1,003-tonne gross departure mass, and the vehicle supplies the remaining 291.72 tonnes aerodynamically in cruise. On landing, sixty square metres of distributed contact carries the same deficit at 47.696 kPa, below the declared sixty-kilopascal bearing floor. After unloading, static lift exceeds the 663-tonne empty mass by 48.28 tonnes; sixty tonnes of internal authority closes the transition.
+
+### Power, reset and industrial consequence
+
+The equivalent prolate reference is 305.94 metres long and 72.84 metres in diameter. It is not exterior geometry. At 240 kilometres per hour, the declared model requires 38.785 MW of parasite power, 20.383 MW of aerodynamic-lift power and eight MW of hotel load. Cruise power is 67.168 MW. The 4,000-kilometre mission plus placement consumes 1,219.473 MWh before reserve against 1,575 MWh onboard. Twelve propulsion pods supply 144 MW; one-pod-out power is 132 MW against an eighty-megawatt maximum demand.
+
+Five parallel reset workstreams close inside 168 hours. Structure, envelope and lift-cell work governs at 142 hours. The architecture adds forty-two deployed people, ninety-two affiliated positions and sixteen minimum-watch positions, revising `DCP-2` to 528 deployed, 1,157 affiliated and 174 minimum watch.
+
+Forty-three ready atmospheric pairs require eighty-six operational vehicles, eighteen reserve vehicles and eight development or test articles. The 112-aircraft program uses two final integration lines, two structural lineages, three propulsion suppliers, two energy lineages and two landing-system lineages. Peak direct employment is 24,000 and the wider ecosystem reaches 65,000. Eleven technology campaigns carry $215 billion of declared research and proving.
+
+The selected architecture account is $932.25745B. Adding the $584.9764B non-HBL remainder raises `DCP-2` to $1.51723385T and the national boundary to $8.9003754T. Raising assigned hard-access groups from twenty-two to thirty increases ready packages to fifty-nine, required production articles to 150, `DCP-2` to $1.74034825T and the national boundary to $9.441045T; restoration returns every baseline exactly. The fixed 112-article production schedule does not close the stressed inventory, exposing an additional integration-line or rate decision rather than hiding it inside cost.
+
+### Artifact, validation and next boundary
+
+The nineteen-sheet [companion workbook](../../models/force/projection/hbl340-architecture-competition.xlsx) contains the summary, assumptions, four architecture declarations, mass and lift, geometry, power and energy, transfer, weather, receiver and base, mission clock, resilience, concurrent reset, workforce, production, program cost, technology, seventy evidence gates, one hundred checks and reading guide. All one hundred checks pass, the formula-error scan returns zero matches, the 22-to-30-group sensitivity restores exactly, every sheet is visually reviewed and the Open XML archive validates. Workbook SHA-256 is `7a0856c16235ed03093e074d962ba61283e67dfe6e278c037b62fe2755a8be0a`. No external-site research or rendering is introduced.
+
+The pass makes the offload-transition contradiction, four-rival competition, ground-coupled hybrid research reference, 112-article industrial object, revised cost and evidence burden authoritative at `R2`. It does not admit a vehicle, certify a hull shape or stabilize structure, power, propulsion, landing, weather, reliability or production performance. All seventy gates remain open and strict credit is zero.
+
+Pass 84 should compete `ATUT-170` physical architectures under the same discipline: gross and transported mass, payload deck, ground pressure, traction, articulation, debris and saturated-terrain mobility, slope, water crossing, autonomous route preparation, self-recovery, convoy control, energy, maintenance, base demand, workforce, production and representative proof. Only then should `DCP-2` be reconciled at equal physical depth or exterior requirements renderings be reconsidered.

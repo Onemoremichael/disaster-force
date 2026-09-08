@@ -49,6 +49,8 @@ The [`TAFG-1` Second-Region Formation Competition](force/projection/tafg1-second
 
 The [`DCP-2` Physical Configuration](force/projection/tafg1-dcp2-physical-configuration.xlsx) expands both complete cells into sixty-four governed dry-position instances and eight wet packs. Four exact 145-tonne dry blocks create a nested two-`HBL-340`/four-`ATUT-170` load grammar. Nineteen sheets close mass, cube, deck, calculated payload balance, separate bases and receiver zones, dispatch, duty cycle, nineteen permitted loss worlds, 168-hour reset and a $933.2764B configured program. Eighty checks pass, the 22-to-30-group sensitivity restores exactly and the formula-error scan is empty. Sixty evidence gates remain open and rendering is blocked.
 
+The [`HBL-340` Architecture Competition](force/projection/hbl340-architecture-competition.xlsx) competes four clean-sheet atmospheric carriers against common lift, geometry, energy, transfer, weather, receiver, clock and reset requirements. A ground-coupled hybrid is the only universal behavior reference: it uses 711.28 tonnes of static lift, 291.72 tonnes of aerodynamic lift, 47.7-kPa distributed ground contact and sixty tonnes of internal buoyancy authority. Nineteen sheets govern a 112-article production system, $932.25745B architecture account, eleven technology campaigns, seventy evidence gates and one hundred checks. The 22-to-30-group sensitivity restores exactly, the formula-error scan is empty, and rendering remains blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -64,7 +66,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH → SECOND-REGION FORMATION → DCP-2 PHYSICAL CONFIGURATION
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH → SECOND-REGION FORMATION → DCP-2 PHYSICAL CONFIGURATION → HBL-340 ARCHITECTURE COMPETITION
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
