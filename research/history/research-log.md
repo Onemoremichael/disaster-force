@@ -3405,3 +3405,37 @@ Every control passes in the restored baseline; the formula-error scan matches ze
 All observed gross output, accepted evidence, admitted lots and family admission remain zero. Workbook SHA-256 is `50eb1cf4fc125704b79b8c387fadffd6c62b09b848711a63e0cb779d207c37ea`.
 
 No external-site research and no rendering are introduced. The next force-generation boundary is to convert the twenty-two M05 gaps into family-specific industrial and technology redesign portfolios, then construct the first complete no-notice family exercise package with a frozen pre-state, sealed injects, safety envelope, receiver agreement, consumed articles, causal after action and regeneration test.
+
+## Pass 99 — Family industrial-resilience redesign and technology portfolio
+
+### Question
+
+What industrial force, public infrastructure and technology program would close the twenty-two M05 family gaps identified by the national mobilization exercise without converting a planning model into false readiness credit?
+
+### Research correction
+
+Pass 98 correctly identified twenty-two gaps but produced them through one common weakest-stage factor. That result could locate failure but could not decide what to build. Pass 99 replaces the scalar symptom with family-specific dependency hypotheses across process, utilities, tooling, materials, labor, movement, receiving and regeneration.
+
+Each gap family now receives two unlike industrial architectures, not two nominal suppliers on one hidden root. Eight reusable patterns cover distributed process lattices, islanded utility/process twins, receiver-native completion meshes, regional multimodal fleet arsenals, hot cellular service reserves, circular material/regeneration networks, transferable tooling/metrology kernels and sovereign/allied dual-root licenses. A separately visible complete-chain cellular layer closes the residual weakest stage to the 1.10 M05 design floor. Removing the governing F36 layer reopens that family's gap and one audit control, confirming that the result cannot pass on upstream surplus alone.
+
+Protected reserve is also corrected. M05 required supply includes service demand plus a twenty-percent protected reserve; the 1.10 floor is applied above that combined obligation. The ledger then subtracts first-wave issue before judging reserve adequacy. M06 requires 1.25 base-family service demand, twenty-five-percent reserve and two lost industrial domains. It remains outside the current design.
+
+### Program design
+
+Twenty-four mission-led technology campaigns attack industrial autonomy, transferable process truth, alternative materials, custody-preserving movement, receiver sovereignty, credential continuity, allied roots and two-domain-loss closure. Every campaign carries a decisive trial and a stop condition. A complementary 128-site public network comprises 48 islandable production-utility nodes, 16 portable process-foundry campuses, 24 receiver-completion arsenals, 12 mobile metrology depots, 8 multimodal custody yards, 8 workforce-continuity centers, 6 material-substitution laboratories and 6 circular remanufacture centers.
+
+The twenty-five-year capital design is USD 1.8T: USD 1.08T for family redesign, USD 150B for technology, USD 220B for public facilities, USD 50B for standards and execution data, and USD 300B in program reserve. It is cross-classified inside the existing USD 5.25T AIMC enterprise allocation and creates no new force-capital boundary. Mature annual operations are USD 138.8B inside AIMC's USD 310B design: USD 64.8B family readiness and rotation, USD 6B facilities, USD 3B standards, USD 3B allied transfer and USD 62B for the Pass 98 national exercise.
+
+### Planning result and evidence boundary
+
+All twenty-two gap families reach at least 1.10 in the M05 stage compiler. Joined to twenty-six continuing families, the design closes 48 of 48 in M05 planning. It closes 0 of 48 in M06. All physical evidence and admission remain zero, and all thirty decision gates retain zero credit.
+
+The workbook contains nineteen sheets, 264 family-stage build records, 96 reserve records, 24 technology campaigns, 128 facility sites, 30 gates and 2,123 deterministic controls. All 2,123 pass after export and no formula-error values are found. Sensitivity tests behave causally: a 1.20 M05 floor propagates to every family; removal of F36's governing replication layer reopens the gap; a generic evidence-input change creates no physical credit; and reducing M06 demand changes the frontier before restoration returns the baseline. The final workbook is 221,222 bytes with SHA-256 `cff2dd839694e5f012abeda3dd93e4afe3e683765e9f34cb25d363688bca5339`.
+
+### Files and routing
+
+- `research/force/generation/family-industrial-resilience-redesign-and-technology-portfolio.md`
+- `models/force/generation/family-industrial-resilience-redesign-compiler.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement and supersession routes updated
+
+No external-site research and no rendering are introduced. F36 rapid water trunkline is selected as the first complete-chain article because it crosses material, tooling, robotics, transport, receiving, public-health commissioning and regeneration without presupposing exterior vehicle form. The next pass should write its ten-kilometre range constitution, internal process and logistics section, frozen pre-state, sealed losses, receiver agreement, measurement plan, environmental restoration and protected replacement article. Rendering remains blocked.
