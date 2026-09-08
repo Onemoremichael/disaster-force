@@ -92,6 +92,8 @@ The [F36 rapid water trunkline range and first-article constitution](force/gener
 
 The [F36 sector and rupture-article build-release standard](force/generation/f36-supplier-neutral-sector-and-rupture-article-build-release-standard.md) freezes the first representative hardware campaign without choosing a vendor mechanism. It controls 196 units in sixty-six lots, two paired one-kilometre reach classes, 120 m destructive cells, 536 independent reach channels, sixteen technical-data classes and eleven separate authorities. Nine content gates pass in planning. Construction and every physical claim remain open, and rendering remains blocked.
 
+The [F36 closure-kernel and full-bore damage-cell protocol](force/generation/f36-closure-kernel-and-full-bore-damage-cell-protocol.md) supplies the executable experiment. Each root's twenty-four closure articles separate process-window coverage, known-defect calibration, blind physical and configuration faults, and clean blind controls. Two public damage cells execute twenty-six full-bore injuries against a conserved 360-minute repair-and-release ledger, rapid sanitary assays, independent instrumentation, sealed truth and preregistered teardown. The small diverse bank cannot establish production reliability; a later frozen configuration requires a new reliability lot. Protocol drafting is authorized, while construction, physical admission and rendering remain held.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.

@@ -422,7 +422,7 @@ This standard converts the F36 question from “what should the pipeline look li
 
 ### Next experiment
 
-The next pass should freeze the **closure-kernel and full-bore damage-cell protocols** at executable test-step resolution. It should specify physical fixtures, fixture neutrality, process-window sampling, pressure/transient waveforms, blind defect insertion, contaminated-breach surrogates, water-release assay timing, exact clock segmentation, forensic teardown, statistical acceptance and the minimum measured internal sections that could later support a requirements diagram. Exterior rendering remains blocked.
+The [F36 closure-kernel and full-bore damage-cell protocol](f36-closure-kernel-and-full-bore-damage-cell-protocol.md) now freezes this experiment at executable test-step resolution. It specifies public fixtures and neutrality, process-window sampling, pressure and transient waveforms, blind defects, contamination surrogates, sanitary-release timing, conserved clock segments, teardown, statistical claim limits and the minimum measured internal sections. The remaining boundary is fixture commissioning and first-run data constitution. Exterior rendering remains blocked.
 
 ## Authority and limitations
 
