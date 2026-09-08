@@ -56,6 +56,8 @@ The [F36 rapid water trunkline range and first-article constitution](generation/
 
 The [F36 supplier-neutral sector and rupture-article build-release standard](generation/f36-supplier-neutral-sector-and-rupture-article-build-release-standard.md) turns that complete mission into a controlled first hardware campaign. Sixty-six lots separate 196 material, pressure, closure, sector, destructive, reproduction and custody units across two build roots and one challenge root. Common service, hazard, evidence, custody and rights rules preserve comparability while material and process choices remain root-specific. Package drafting is authorized; construction, acceptance, mission credit, production and rendering are not.
 
+The [F36 closure-kernel and full-bore damage-cell protocol](generation/f36-closure-kernel-and-full-bore-damage-cell-protocol.md) turns that bank into falsifiable work. A closure now includes preparation, alignment, formation, independent inspection, reject/rework, serialization, power, tools and evidence. Twenty-six full-bore injuries end only after proof, flush, rapid assay, configuration closure and receiver release inside a conserved six-hour clock. Blind defects and opened sections test whether nondestructive decisions match truth. Twelve content gates pass in planning, but fixtures, articles, sanitary admission, production and form remain unproved.
+
 ## The architecture
 
 ```text
