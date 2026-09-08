@@ -40,6 +40,8 @@ The [`DCP-2` physical configuration](projection/tafg1-dcp2-physical-configuratio
 
 The [`HBL-340` architecture competition](projection/hbl340-architecture-competition.md) first identifies unloading—not buoyant cruise—as the atmospheric carrier’s governing problem. Later equal-depth work overturns that 1,003-tonne reference. The [`GCH-340R` complete-system closure](projection/gch340-complete-system-and-transient-closure.md) integrates twenty-four lift cells, coupled mission energy, hydrogen-to-water support conversion, sixteen contact feet, no-anchor gust control, payload order, dual crew refuges and field recovery in one 1,461.415-tonne behavior reference. Cold-dense unloading now governs. Its 118-article program reaches $1.730T; all 150 evidence gates remain open and exterior concept art remains blocked.
 
+The [`DCP-2R` common carrier and mission compiler](projection/dcp2r-common-carrier-and-mission-compiler.md) holds the public effect constant and asks what survives a carrier loss plus one additional payload casualty. Extra vehicles carrying the old exact specialized blocks still fail. The provisional answer is an adaptive `ESK-40` kernel: forty 15.875-tonne multifunction tiles in five independently implemented service families, balanced across three air carriers or five terrain carriers. Any air pair or terrain quartet retains the full effect after the additional tile loss. The 439-article, $4.941T reference passes twenty-eight declared inside worlds, carries 160 open gates and authorizes no rendering.
+
 ## The architecture
 
 ```text
