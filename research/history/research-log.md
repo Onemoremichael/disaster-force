@@ -3277,3 +3277,27 @@ Package drafting is authorized. Rival serial construction waits for requirements
 The companion workbook contains seventeen sheets and 4,109 deterministic controls. Every control passes, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML package validates. Workbook SHA-256 is d6cecf4f683c7ec4a5975411256546799c30a0b2bc00e72b8b9d3c159cc70861.
 
 The next admissible work is a family-specific procurement data package and source-selection experiment: freeze solicitation inputs, identify genuinely different technical roots, reserve government standards and facilities, partition awards, tie payment to accepted physical artifacts and establish independent reproduction before serial construction. Rendering remains deferred.
+
+## Pass 95 — MESA-1E family procurement and source-selection experiment
+
+### Research question and decisive result
+
+How should the Department procure eleven clean-sheet evidence families so that technological ambition, mechanism diversity, public evidence and industrial independence survive the first award?
+
+The pass makes a falsifiable learning path—not a platform promise—the unit of acquisition. Thirty-three fictional technical roots compete across eleven families. Two roots per family reserve provisional build paths; a third receives a protected challenge contract to attack one declared blocking gate without a waiver or serial authority. Twelve hard gates precede six weighted merit dimensions. A high innovation score cannot compensate for missing endurance, reverse-energy isolation, custody, ancestry, rights, facilities or executable schedule.
+
+### Portfolio and institutional consequence
+
+The model contains 132 solicitation requirements, 396 hard-gate records, 198 merit judgments, twenty-two provisional build paths, eleven challenge paths, eleven independent root pairs and 264 technical-rights records. Six integrator archetypes are capped at four build paths; tightening the ceiling to three creates four portfolio failures and four corresponding audit failures before the baseline is restored.
+
+Competition survives award through sixty-six root-specific lots containing 254 articles, fifteen government-furnished evidence standards, eight public facility families, twenty-two decisive long-lead reservations and 165 artifact-based milestones. Rights include bills of material and process, firmware, ownership, calibration genealogy, teardown, reproduction, interface and evidence-data access. Payment remains held until physical artifacts are accepted.
+
+### Fiscal and authority boundary
+
+Family and challenge contracts receive USD 3.42 billion. Government standards, facilities, destructive evidence, independent reproduction, custody, acquisition workforce and reserve receive USD 3.38 billion. The nine-year total remains USD 6.8 billion, and the month-102 complete-evidence boundary remains in force. All vendors, roots, merit scores, costs and capacities are planning constructs; every evidence, construction, payment, production and rendering authority remains open, held or blocked.
+
+### Artifact, validation and next boundary
+
+The companion workbook contains nineteen sheets and 4,983 deterministic controls. Every control passes in the restored baseline, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML package validates. Workbook SHA-256 is `e80a14356a47a05ab4934842d365ace7591f63f4f86cab4fec74b09d57adac7c`.
+
+The next admissible force study is a Department-wide Acquisition and Industrial Mobilization Command: family program offices, public metrology, destructive-test commands, article arsenals, technical-data authorities, industrial sensing, pilot lines, challenge offices, allied source compacts and an independent acquisition evidence board. Rendering remains deferred until representative physical geometry exists.
