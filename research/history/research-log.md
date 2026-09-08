@@ -3439,3 +3439,45 @@ The workbook contains nineteen sheets, 264 family-stage build records, 96 reserv
 - root, research, force, generation, frontier, catalog, platform-requirement and supersession routes updated
 
 No external-site research and no rendering are introduced. F36 rapid water trunkline is selected as the first complete-chain article because it crosses material, tooling, robotics, transport, receiving, public-health commissioning and regeneration without presupposing exterior vehicle form. The next pass should write its ten-kilometre range constitution, internal process and logistics section, frozen pre-state, sealed losses, receiver agreement, measurement plan, environmental restoration and protected replacement article. Rendering remains blocked.
+
+## Pass 100 — F36 rapid water trunkline range and first-article constitution
+
+### Question
+
+What exactly must the Department build, carry, operate, break and regenerate for F36 to count as a ten-kilometre rapid water trunkline under no-notice industrial, route, grid, data, receiver and equipment loss?
+
+### Research correction
+
+Pass 99 correctly chose F36 as the first complete-chain article but still described it largely through receiver-held pipe, joint kits, route robotics and a transferable joining/test kernel. That brief did not decide whether ten kilometres meant corridor reach or total pipe, did not close a route-loss state, did not bound range support, and did not distinguish spare conduit from a complete post-service reserve.
+
+Pass 100 changes the unit of account. F36 is a ten-kilometre **service corridor** containing two physically separated, independently isolable half-demand mains. The system therefore installs twenty pipe-kilometres and carries four additional pipe-kilometres in protected reserve. Each 0.35 m route carries 5,000 m³/day; together they deliver 10,000 m³/day to the 200,000-person reference at 50 L/person/day. The modeled velocity is 0.601 m/s, total head 29.48 m and installed hydraulic power 0.067 MW after margin. A 10,000 m³ receiver buffer holds full service for twenty-four hours through the six-hour rupture-repair target; one surviving route supplies fifty percent thereafter.
+
+The no-crutch constitution assigns production or preparation equipment, route and crossing systems, local power, controls, sanitary release, receiver adapters and buffer, operators, repair, evidence hardware, technical data and complete-system reserve to the article. The range supplies representative conditions, civil authority, safety and independent witnesses. It may not lend decisive power, machines, joining tools, operators, controls, laboratory release or receiver equipment.
+
+### Architecture and program result
+
+Three unlike roots remain in competition: `R1` factory-formed 24 m sanitary sections with self-indexing cassettes and automated joining; `R2` dense feedstock with redundant mobile continuous-forge cells; and `R3` a protected fold-flat structural-ribbon challenge. The first two are build roots and the third is a challenge root. Supplier names do not prove diversity. Roots must separate utility islands, process ancestry, executable baselines, task-level workforce, logistics paths and decisive receiver hardware.
+
+The model requires 9.5–14 t/h of accepted conduit production and 4.5–5.5 km/workfront-day of placement across eight representative civil sectors. Those are aggressive technology requirements, not observed rates. Baseline first service is 105.41 h for `R1`, 102.37 h for `R2` and 105.61 h for `R3`, all under the frozen 120 h threshold. Complete dry cargo is 1,782.85 t, 1,838.12 t and 1,518.37 t respectively; modeled crews are 372, 416 and 382. The destructive exercise draws the most depleted immediate reserve component to sixty percent of its floor. Accepted remanufacture or new production restores every component in 600, 660 and 540 h respectively against a 720 h deadline.
+
+The eight-sector corridor includes open staging, dense urban street, saturated weak soil, sustained grade, road/rail crossings, water/debris crossing, controlled exclusion terrain and receiver approach. Forty-eight root-route-sector work packages bind material availability, access, predecessor completion and workfront rate. Eleven common scenario worlds cover baseline, no notice, original-factory denial, grid denial, corridor loss, joining-cell loss, network/laboratory loss, sanitary challenge, receiver mismatch, full-bore rupture and second-lot regeneration.
+
+The USD 38.684B capital and USD 2.321B annual readiness allocations decompose the existing Pass 99 F36 family line. They are not added to AIMC. Capital funds the executable baseline, two build roots, challenge root, dual-route range, mission sets and reserve, independent metrology, regeneration, workforce and program reserve.
+
+### Evidence and validation
+
+Thirty-two claim families govern admission. All remain open and all strict admissions remain held. Passing planning arithmetic does not populate physical evidence, and changing a global evidence flag creates no claim-level acceptance. Rendering authority remains zero.
+
+The companion workbook contains twenty-one sheets, three architecture roots, forty-eight workfront records, thirty-nine cargo records, thirty-two evidence records, thirty-three scenario records, twenty-four regeneration records, thirty-one decision gates and 1,785 deterministic controls. All controls pass in the restored baseline; the saved-workbook formula scan is empty; all twenty-one sheets are rendered, with the long audit rendered in three views, and the key summary, material, route and gate sheets are visually inspected.
+
+Six disposable sensitivities behave causally and are restored: a 0.20 m diameter fails the velocity gate; a 116 h source release fails all root time gates; adding 24 h to `R1` transport lag fails only that root's first-service gate; a global evidence flag alone admits nothing; removing the `R1` conduit-regeneration output fails the regeneration gate; and changing one capital share fails the nesting gate.
+
+The final workbook is 168,615 bytes with SHA-256 `9ec052682b97d51edd34b804d3e628ab96f97d7443d0e0da05611d4b84fb230e`.
+
+### Files and routing
+
+- `research/force/generation/f36-rapid-water-trunkline-range-and-article-constitution.md`
+- `models/force/generation/f36-rapid-water-trunkline-range-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement and supersession routes updated
+
+No external-site research and no rendering are introduced. The next force-generation pass should release supplier-neutral build packages for representative full-diameter route sectors and the full-bore repair article. Those packages must freeze material classes, closure envelopes, instruments, article quantities, custody, destructive states, acceptance authorities and data rights for two build roots and one challenge root. Exterior and internal concept art remain blocked until representative sections and accepted coupled evidence exist.

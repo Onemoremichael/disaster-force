@@ -52,6 +52,8 @@ The [national industrial-mobilization exercise constitution](generation/national
 
 The [family industrial-resilience redesign and technology portfolio](generation/family-industrial-resilience-redesign-and-technology-portfolio.md) turns those M05 gaps into physical program hypotheses rather than one generic capacity increment. Each failed family combines two unlike industrial architectures with a visible residual replication layer and a complete-chain first article. Twenty-four mission-led technology campaigns, 128 public process and custody sites, post-service protected reserve, USD 1.8T of capital cross-classified inside AIMC and USD 138.8B of mature annual operations create the first force-wide redesign portfolio. All forty-eight families close M05 only in planning; none closes M06 and none receives physical admission.
 
+The [F36 rapid water trunkline range and first-article constitution](generation/f36-rapid-water-trunkline-range-and-article-constitution.md) now resolves the first of those article hypotheses into a complete no-crutch mission. A ten-kilometre corridor contains two half-demand routes, twenty installed pipe-kilometres, four reserve pipe-kilometres, local industrial process, route work, power, sanitary custody, a 10,000 m³ receiver buffer, destructive repair and regeneration. Three unlike roots close the modeled 120-hour clock with complete cargo and crew accounted, but thirty-two evidence families remain open and all strict admission remains zero.
+
 ## The architecture
 
 ```text
