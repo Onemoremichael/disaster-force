@@ -254,7 +254,7 @@ First, the twenty-two M05 gaps are no longer one residual category. Each has a n
 
 It also supersedes one inference from Pass 98. The earlier 48/26/0 result remains valid as a scalar planning screen, but the twenty-two M05 failures should no longer be described as one weakest-stage class. They are family-specific dependency programs. Their common arithmetic symptom does not imply a common remedy.
 
-The next admissible work is the F36 rapid water trunkline range and article constitution. It should determine the service requirement and internal physical section before selecting a carrier or producing exterior art. In parallel, the Department needs a dependency-discovery protocol capable of proving that nominally unlike roots do not share utilities, process assets, tooling, software, labor, ownership or receiving infrastructure.
+Pass 100 supplies the required [F36 rapid water trunkline range and first-article constitution](f36-rapid-water-trunkline-range-and-article-constitution.md). It defines the service corridor, paired-route hydraulic section, complete cargo, no-crutch boundary, three industrial roots, representative range, failure injects and regeneration contract. The next admissible work is now the supplier-neutral build-release package for representative full-diameter route sectors and the full-bore repair article. That package must prove whether nominally unlike roots actually separate utilities, process assets, tooling, software, labor, ownership and receiving infrastructure.
 
 The governing frontier is now sharper:
 
