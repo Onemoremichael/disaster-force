@@ -84,7 +84,7 @@ The [`DCP-2R` common carrier and mission compiler](force/projection/dcp2r-common
 
 [Synthesis](synthesis/README.md) states the strongest integrated judgment that the lower layers permit. It cannot overrule the paper, workbook, campaign or assurance record that owns a claim. [History](history/README.md) preserves the discovery sequence, amendments and displaced conclusions so chronology does not masquerade as authority.
 
-[CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) now creates the physical institution required to test the national service reference. It separates 240 protected qualification tiles from 240 mission and attrition tiles, assigns 200 gates to eleven facility families and four paired environmental range classes, and registers 200 full missions. Its permanent Service Systems Proving Command is the bridge between clean-sheet technology ambition and credible public evidence. Production, readiness credit and exterior rendering remain blocked.
+[CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) creates the physical institution required to test the national service reference. [MESA-1](force/projection/mesa1-measurement-and-destructive-evidence-architecture.md) now supplies its independent shadow formation: separate control, mechanism-evidence and civil-effect planes; eighty channel-domain records; uncertainty budgets; destructive custody; and sovereign metrology. Registered attrition corrects the development fleet to 496 tiles. The permanent Service Systems Proving Command is the bridge between clean-sheet technology ambition and credible public evidence. Production, readiness credit and rendering remain blocked.
 
 ## The present proof attempt
 

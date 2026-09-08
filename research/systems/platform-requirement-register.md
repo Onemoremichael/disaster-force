@@ -215,4 +215,6 @@ The immediate gate is `L0` synthetic-population and building-state assurance, se
 
 10. **Compound-service proving:** execute CSAC-1 through 480 separately governed development tiles, eleven facility families, four paired environmental range classes and 200 registered full missions. The terrain hour-53.569 service clock is the first falsification target. Production and exterior rendering remain blocked until independent second-lot G8 evidence closes.
 
+11. **Independent measurement formation:** execute MESA-1 through three physically separated evidence planes, eighty channel-domain records, local-first custody, registered uncertainty and eighteen destructive-attrition tiles per mode. The corrected development inventory is 496 tiles and total inventory is 6,172. Embedded logs and generic foot arrays cannot admit the terrain claims; pressure-skin, physical-event and civil-release witnesses must first close representative trials.
+
 The visualization brief for each concept must include cutaways or operating diagrams showing connectors, payload flow, crew, power, waste, maintenance and surrounding formation. Exterior beauty views alone would repeat the platform-first error this research is designed to avoid.

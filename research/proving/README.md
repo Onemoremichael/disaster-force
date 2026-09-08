@@ -1,6 +1,6 @@
 # Proving
 
-The current force-scale proving reference is [CSAC-1](../force/projection/csac1-compound-service-article-and-range-campaign.md). It creates a permanent Service Systems Proving Command, 480 development tiles, eleven facility families, four paired environmental range classes and 200 registered missions. Its evidence constitution separates builder, operator, evidence and civil authority; no report, simulation or contractor acceptance closes a physical gate.
+The current force-scale proving reference joins [CSAC-1](../force/projection/csac1-compound-service-article-and-range-campaign.md) to [MESA-1](../force/projection/mesa1-measurement-and-destructive-evidence-architecture.md). CSAC-1 creates the permanent command, campaigns and ranges. MESA-1 specifies the physically independent measurement formation, corrects the development fleet to 496 tiles, and makes time, soil pressure, custody, network denial and civil release measurable without turning the range into hidden mission support.
 
 Proving combines geographic falsification, technology maturation and research assurance. Keeping those functions together prevents a clean laboratory result from bypassing the campaign failure it was meant to solve, or a persuasive simulation from outrunning its evidence.
 
