@@ -42,6 +42,8 @@ The [`HBL-340` architecture competition](projection/hbl340-architecture-competit
 
 The [`DCP-2R` common carrier and mission compiler](projection/dcp2r-common-carrier-and-mission-compiler.md) holds the public effect constant and asks what survives a carrier loss plus one additional payload casualty. Extra vehicles carrying the old exact specialized blocks still fail. The provisional answer is an adaptive `ESK-40` kernel: forty 15.875-tonne multifunction tiles in five independently implemented service families, balanced across three air carriers or five terrain carriers. Any air pair or terrain quartet retains the full effect after the additional tile loss. The 439-article, $4.941T reference passes twenty-eight declared inside worlds, carries 160 open gates and authorizes no rendering.
 
+[`ESK-40V` physical tile and carrier-interface closure](projection/esk40v-physical-tile-and-carrier-interface-closure.md) makes that kernel answer to the inherited subsystem burden. Natural certified masses range from 13.750 tonnes for thermal service to 22.375 tonnes for energy while the five-family set remains 79.375 tonnes. The casualty proof survives, but the carriers need twenty and ten compact saddles rather than eighteen and nine inherited positions. After coupled mass, energy, soil, clock and reset feedback, the terrain path retains only twenty-six minutes to the service deadline. The $6.261T development reference is $256.921B above exact-cell duplication in its first generation; its strategic case rests on modular learning, adaptation, export and 207 avoided carrier articles. All 200 gates remain open.
+
 ## The architecture
 
 ```text
