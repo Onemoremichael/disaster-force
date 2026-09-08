@@ -72,11 +72,12 @@ At the national edge, the current force-design reference contains:
 | Hard access | `TAFG-1` | atmospheric carriage, terrain carriage and utility bridging are distinct strategic actions |
 | Two-region assurance | `DCP-2` | two separately governed 635-tonne service cells survive loss of one access physics family |
 | Atmospheric carrier | `GCH-340` | a 340-tonne carrier can solve the dangerous payload-offload transition without external ballast |
-| Terrain carrier | `SAT-170` | a 170-tonne carrier can cross 800 km of damaged land, weak soil, obstacles and flood approach as one mission |
+| Terrain carrier | `SAT-170R` | a 170-tonne payload carrier can close energy, damaged-soil contact, route opening and public-service release as one coupled mission |
+| Terrain–air interface | federated twin receivers | both cells can reach lawful public service without a shared pre-release loader, energy system, authority or maintenance chain |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
-The latest [ATUT-170 architecture competition](research/force/projection/atut170-architecture-competition.md) illustrates the method. A tracked carrier, load-walking carrier and amphibious cushion crawler each excel in one terrain regime and fail the complete mission. The provisional `SAT-170` reference treats the vehicle as an infrastructure system: twelve driven terrain pods, active articulation, variable contact, a self-laid 25-metre bridge-and-mat kit, route robots, offline convoy control and cooperative recovery all sit inside its mass, energy, workforce, reset and cost boundary. The declared 219-vehicle architecture program reaches $882.83 billion over twenty-five years. Its one hundred evidence gates remain open.
+The latest [terrain–air interface and subsystem competition](research/force/projection/dcp2-terrain-air-interface-and-atut-subsystem-competition.md) illustrates the method’s willingness to overturn an attractive preliminary design. The Pass 84 terrain carrier’s sixty-tonne energy allowance and 155-square-metre footprint fail once energy mass, route demand, dynamic contact, load imbalance and pod loss are solved together. The revised `SAT-170R` grows to 648.45 tonnes rated gross, a 176.45-tonne complete energy system and 255 square metres of deployable contact. More importantly, the apparent “common interface” becomes two independently governed receivers that federate only after each cell reaches public release. The 219-vehicle terrain program and receiver correction reach $1.5095 trillion; all 120 evidence gates remain open.
 
 That scale is intentional. The project asks what changes when rescue, stabilization and environmental control receive the same seriousness normally reserved for force projection: clean-sheet machines, competing industrial teams, national test ranges, decades of procurement, deep reserves, supplier plurality and technology programs allowed to pursue capabilities that do not yet exist.
 
@@ -131,12 +132,13 @@ Every pass ends with a stocktake: what became authoritative, what was falsified,
 
 ## Current research boundary
 
-The force-design frontier has now produced provisional physical references for both strategic carriers in `DCP-2`:
+The force-design frontier has now joined both strategic carriers into one provisional two-mode mission:
 
 - `GCH-340`, a ground-coupled hybrid atmospheric carrier whose governing problem is unloading 340 tonnes without becoming dangerously buoyant;
-- `SAT-170`, a segmented adaptive terrain carrier whose governing problem is maintaining ground pressure, traction, route opening, recovery and service time across several terrain regimes.
+- `SAT-170R`, a segmented adaptive terrain carrier whose governing problem is complete-system energy mass and deformable-soil contact after damage; and
+- federated twin receivers, which give the two cells common service meaning without a common pre-release machine.
 
-The next force pass must reconcile them at the terrain–air interface: payload transfer, receiver zones, energy exchange, route handoff, maintenance, ancestry separation and two-mode mission schedules. The `SAT-170` energy plant and deformable-soil contact system remain the leading feasibility risks.
+The next force pass must spatially configure `SAT-170R`: fuel containment, generators, heat rejection, pod travel, bridge stowage, payload access, crew escape, firefighting and field-removal volumes must close one internal arrangement. The `GCH-340` energy and landing systems then require the same complete-system depth. Exterior requirements renderings remain blocked until those terms stop moving.
 
 A separate empirical campaign is developing a lawful New York heat–blackout population-state engine behind an architecture firewall. Its preregistered statistical gate must be resolved before protected outcomes can inform architecture. The [active frontier](research/frontier.md) owns both stop conditions and the next admissible work.
 
@@ -152,7 +154,7 @@ For the operating design:
 
 For the hard-access proof:
 
-[Projection chain](research/force/projection/README.md) → [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) → [`HBL-340` competition](research/force/projection/hbl340-architecture-competition.md) → [`ATUT-170` competition](research/force/projection/atut170-architecture-competition.md)
+[Projection chain](research/force/projection/README.md) → [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) → [`HBL-340` competition](research/force/projection/hbl340-architecture-competition.md) → [`ATUT-170` competition](research/force/projection/atut170-architecture-competition.md) → [terrain–air interface and subsystem competition](research/force/projection/dcp2-terrain-air-interface-and-atut-subsystem-competition.md)
 
 For evidence and falsification:
 
