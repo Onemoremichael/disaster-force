@@ -3481,3 +3481,33 @@ The final workbook is 168,615 bytes with SHA-256 `9ec052682b97d51edd34b804d3e628
 - root, research, force, generation, frontier, catalog, platform-requirement and supersession routes updated
 
 No external-site research and no rendering are introduced. The next force-generation pass should release supplier-neutral build packages for representative full-diameter route sectors and the full-bore repair article. Those packages must freeze material classes, closure envelopes, instruments, article quantities, custody, destructive states, acceptance authorities and data rights for two build roots and one challenge root. Exterior and internal concept art remain blocked until representative sections and accepted coupled evidence exist.
+
+## Pass 101 — F36 supplier-neutral sector and rupture-article build release
+
+**Date:** 8 September 2026
+
+**Question:** What supplier-neutral package is sufficient to release comparable full-diameter sector and catastrophic-repair articles for two build roots and one protected challenge root without prescribing an incumbent material, joint or exterior form?
+
+**Primary artifact:** [F36 supplier-neutral sector and rupture-article build-release standard](../force/generation/f36-supplier-neutral-sector-and-rupture-article-build-release-standard.md)
+
+**Companion model:** [F36 supplier-neutral sector and rupture-article build release](../../models/force/generation/f36-supplier-neutral-sector-and-rupture-article-build-release.xlsx)
+
+Pass 101 resolves supplier neutrality as a constitutional division rather than a common parts list. All three roots inherit the same public service, `F36-350` flow and pressure class, route and damage worlds, sanitary release law, instrument burden, evidence objects, custody, authorities and reproduction rights. They remain free to use different materials, layer stacks, forming processes, wall geometry, closures, restraint, deployment machines and repair forms. The standard therefore preserves comparable questions without making the familiar sectional root the hidden definition of success.
+
+The article bank contains seven classes across sixty-six separately controlled lots and 196 serial units. `R1` and `R2` each receive sixty-three units; `R3` receives seventy because fold, crease, multilayer and bonded-repair uncertainty requires additional material, pressure and destructive specimens. The challenge root receives more protected learning capacity but no waiver: its second paired-sector unit remains conditional on the same material, closure and evidence entry decisions.
+
+Two one-kilometre reach classes concentrate the full corridor's decisive mechanisms. `SA-1` places both routes through saturated weak soil, controlled settlement, a two-metre support void, sustained grade and a high-rate lane. `SA-2` places both routes through road and rail protection, a water/debris crossing, a controlled exclusion zone and the receiver approach. Four route-kilometres are installed per build root. Separate 120 m full-bore damage cells carry clean transection, jagged crush, puncture and axial tear, closure pullout, contaminated breach, pressure-bound settlement and two sealed combinations. The model plans twenty-six destructive runs across the three roots.
+
+The common service envelope sets prospective research targets of 0.0962 m² minimum service flow area, 0.70 MPa maximum allowable working pressure, 0.85 MPa surge, 1.05 MPa proof, −0.085 MPa vacuum, 50,000 pressure cycles, 200 kN system restraint, 300 mm differential settlement, 20 kN puncture and 5 kJ debris impact. These are build-release targets, not adopted codes or physical findings. Sanitary acceptance remains conjunctive with structure and configuration: blind pre/post samples, declared analytes, cleaning and exposure histories, calibration and receiver release must close on the same serial article.
+
+The independent measurement plan assigns 268 channels to one paired reach and 536 to the two-reach campaign, with registered pressure, flow, geometry, strain, ground, crossing, acoustic, water-quality, process, energy, time and custody uncertainties. Twelve evidence objects and eleven two-party custody transitions prevent a successful summary from replacing local originals or a destroyed article from disappearing before forensic comparison. Sixteen technical-data classes preserve teardown, inspection, repair, limited-purpose manufacture, second-team reproduction, public interface and evidence-data rights below the prime.
+
+Eleven authorities keep requirements, building, safety, materials, water release, metrology, receiver consent, configuration, evidence, cost and production separate. The resulting ladder distinguishes package completion, build release, article acceptance, campaign admission and production/form authority. Nine package gates close at planning level. Constituted approval, construction, payment, serial acceptance, campaign evidence, cold reproduction, production and rendering remain held.
+
+The first-article phase lasts forty-two months. Its USD 8.120B capital cross-classification is 20.99 percent of the Pass 100 USD 38.684B family allocation, and USD 0.446B of annual article-bank, range, metrology, destructive-test, reproduction and cadre support remains inside the inherited USD 2.321B annual readiness line. Neither figure adds to AIMC or represents a vendor quote.
+
+The companion workbook contains twenty sheets. Thirty terminal controls pass and the final formula-error scan is empty. Six disposable sensitivities behave causally and are restored: increasing the tranche without changing its uses fails the fiscal and package gates; authority approval alone releases construction but no physical claim; article acceptance alone leaves campaign admission open; a production flag without reproduction remains held; removing one challenge-sector unit reduces the bank to 195 and fails the package gate; and a rendering flag without the production chain remains blocked. Every sheet is rendered and visually inspected.
+
+The final workbook is 62,427 bytes with SHA-256 `f6c521c9e5c3a61ec02473920e26139151f9f569306db2e7101e71d5671333d6`.
+
+No external-site research and no rendering are introduced. The next force-generation pass should specify the closure-kernel and full-bore damage-cell protocols at executable test-step resolution: public fixtures and fixture neutrality, process-window sampling, pressure/transient waveforms, blind defect insertion, contaminated-breach surrogates, water-release timing, conserved repair-clock segments, forensic teardown, statistical acceptance and the measured internal sections that may eventually support a requirements diagram. Exterior form remains blocked.

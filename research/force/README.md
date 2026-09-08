@@ -54,6 +54,8 @@ The [family industrial-resilience redesign and technology portfolio](generation/
 
 The [F36 rapid water trunkline range and first-article constitution](generation/f36-rapid-water-trunkline-range-and-article-constitution.md) now resolves the first of those article hypotheses into a complete no-crutch mission. A ten-kilometre corridor contains two half-demand routes, twenty installed pipe-kilometres, four reserve pipe-kilometres, local industrial process, route work, power, sanitary custody, a 10,000 m³ receiver buffer, destructive repair and regeneration. Three unlike roots close the modeled 120-hour clock with complete cargo and crew accounted, but thirty-two evidence families remain open and all strict admission remains zero.
 
+The [F36 supplier-neutral sector and rupture-article build-release standard](generation/f36-supplier-neutral-sector-and-rupture-article-build-release-standard.md) turns that complete mission into a controlled first hardware campaign. Sixty-six lots separate 196 material, pressure, closure, sector, destructive, reproduction and custody units across two build roots and one challenge root. Common service, hazard, evidence, custody and rights rules preserve comparability while material and process choices remain root-specific. Package drafting is authorized; construction, acceptance, mission credit, production and rendering are not.
+
 ## The architecture
 
 ```text

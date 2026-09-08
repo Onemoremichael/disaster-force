@@ -90,6 +90,8 @@ The [AIMC common program-office operating system](force/generation/aimc-common-p
 
 The [F36 rapid water trunkline range and first-article constitution](force/generation/f36-rapid-water-trunkline-range-and-article-constitution.md) supplies the first complete family article. It defines a ten-kilometre service corridor as two half-demand mains, twenty installed and four protected-reserve pipe-kilometres, article-owned production, route work, power, sanitary release, a 10,000 m³ receiver buffer, repair and regeneration. Three unlike roots meet the declared 120-hour clock in planning, but every physical claim remains open. The result advances supplier-neutral build-package design; it grants no readiness, production or rendering authority.
 
+The [F36 sector and rupture-article build-release standard](force/generation/f36-supplier-neutral-sector-and-rupture-article-build-release-standard.md) freezes the first representative hardware campaign without choosing a vendor mechanism. It controls 196 units in sixty-six lots, two paired one-kilometre reach classes, 120 m destructive cells, 536 independent reach channels, sixteen technical-data classes and eleven separate authorities. Nine content gates pass in planning. Construction and every physical claim remain open, and rendering remains blocked.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.
