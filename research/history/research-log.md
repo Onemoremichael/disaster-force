@@ -3369,3 +3369,39 @@ Four adversarial tests pass. An accepted but unsigned artifact releases zero cap
 Workbook SHA-256 is `899a83d66bc388c736f166421804fc6d913015fea13e9a885068c4763e070ca7`.
 
 The next admissible force-generation study is a national industrial-mobilization exercise constitution: no-notice activation, supplier and process-domain cuts, workforce muster, material release, utility interruption, transport, receiver throughput, accepted yield, sustained service, regeneration and immutable after-action custody. Rendering remains deferred pending representative geometry and coupled physical evidence.
+
+## Pass 98 — National industrial-mobilization exercise constitution
+
+### Research question and decisive result
+
+What must the Department physically prove before a contracted national industrial base can be called mobilizable under surprise, compound infrastructure loss and follow-on demand?
+
+The pass rejects “factory surge” as the unit of readiness. Mobilization becomes a timed, configuration-specific state transition from a frozen cold state to independently accepted public service and then back to regenerated readiness. Each of the forty-eight force families receives a mission service lot, receiver criterion, response deadline, planning margin and readiness tier. Lot counts remain comparable only inside a family; national readiness is the conjunction of all required family results rather than a portfolio average.
+
+Twelve conserved stages bind alert authentication, workforce muster, facility utility and safe start, material/tooling/instrument release, supplier and process activation, conforming production, independent acceptance, loadout and custody, strategic transport, receiving admission, commissioned public service and regeneration. At every stage, admitted lots are the minimum of required, certified and prior-stage admitted lots when time and evidence gates both close. A lost lot cannot reappear downstream, gross production cannot substitute for conforming output, and delivery cannot substitute for commissioned effect.
+
+### Damage worlds, sampling and cadence
+
+Six registered worlds range from a 10-percent authentication probe to a 1.25-demand follow-on catastrophe after two industrial-domain losses. The deterministic planning screen closes all forty-eight families in the ten-campaign M04 world, twenty-six high-readiness lines in M05 after grid and transport-region loss, and none in M06. These results identify redesign demand; they are not physical readiness credit.
+
+The 4,256-node industrial topology is divided among sixteen integrator ecosystems, ninety-six technical-root firms, 480 process firms, 2,400 certified production nodes, 1,200 regional service suppliers and sixty-four allied lead firms. An 896-node unique annual sample gives every class complete nominal coverage within five years. Repeated use of one showcase facility cannot create node coverage.
+
+Seven nested event classes include 192 alert and custody probes, forty-eight technical-root restarts, twenty-four pilot-line activations, twelve full family chains, four regional compound campaigns and one national ten-campaign exercise per year, plus one two-domain-loss capstone per five-year cycle. Twenty sealed inject classes attack order, time, workforce, utilities, material, tooling, supplier ancestry, yield, software, metrology, evidence, transport, receiver consent, interface, follow-on reserve and safety.
+
+### Evidence, authority and economics
+
+Twenty-four evidence-package classes preserve order, frozen pre-state, people, facility, material, tool, software, process, output, metrology, custody, transport, receiver, public effect, residual, sustainment and regeneration records. Evidence acceptance without physical output earns zero; physical output without accepted evidence also earns zero. The after-action unit is a causal finding attached to a serial, responsible root, reopened baseline and retest—not a narrative lesson.
+
+The hazardous activation environment reveals an eighth required authority. The Independent Safety and Environmental Authority may stop any exposure and require a safe state; it cannot convert the stop into mission success. This refines rather than discards the seven-authority acquisition constitution in Pass 97.
+
+The exercise program receives a USD 62B annual design allocation—USD 1.55T over twenty-five years, or twenty percent of the mature USD 310B AIMC annual operating design. The allocation is nested, not additive. It funds activation obligations, consumed and scrapped articles, transport and commissioning, independent evidence, workforce backfill, islanded facility operation, custody, allied activation and safety reserve. Paying a firm to activate does not purchase a passing result.
+
+### Artifact and validation
+
+The seventeen-sheet companion workbook contains forty-eight family records, 288 family-world planning results, 576 active stage records, six industrial node classes, seven event classes, twenty injects, twenty-four evidence packages, eight authorities, nine financial workstreams, forty-eight family after-action rows, twenty-four decision gates and 2,123 deterministic controls.
+
+Every control passes in the restored baseline; the formula-error scan matches zero cells; all twenty-three rendered sheet views are visually inspected; and the Open XML archive validates. Four sensitivities behave exactly as required: accepted evidence without output admits zero; one complete twelve-lot chain admits its family; an eleven-lot strategic-transport constraint propagates eleven lots to the final stage and denies admission; and M06 yields zero planning-adequate families.
+
+All observed gross output, accepted evidence, admitted lots and family admission remain zero. Workbook SHA-256 is `50eb1cf4fc125704b79b8c387fadffd6c62b09b848711a63e0cb779d207c37ea`.
+
+No external-site research and no rendering are introduced. The next force-generation boundary is to convert the twenty-two M05 gaps into family-specific industrial and technology redesign portfolios, then construct the first complete no-notice family exercise package with a frozen pre-state, sealed injects, safety envelope, receiver agreement, consumed articles, causal after action and regeneration test.
