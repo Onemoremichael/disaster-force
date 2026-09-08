@@ -421,7 +421,7 @@ The central burden has moved from concept enumeration to industrial ancestry and
 
 ### Next experiment
 
-The next pass should create the supplier-neutral build-release package for two representative full-diameter route sectors and the full-bore repair article. It should freeze material classes, closure envelopes, instrumentation, article quantities, custody, destructive states, acceptance authorities and data rights. That package should be sufficient for two build roots and one challenge root to produce comparable physical evidence without prescribing a vendor solution.
+Pass 101 now supplies the supplier-neutral build-release package for two representative full-diameter route sectors and the full-bore repair article. It freezes material and closure envelopes, instruments, article quantities, custody, destructive states, authorities, data rights, schedule and nested cost while preserving two build roots and one protected challenge root. The next pass should convert its closure-kernel and damage-cell classes into executable protocols: physical fixtures, pressure and transient waveforms, blind defects, contaminated-breach surrogates, assay timing, conserved clock segments, teardown and statistical acceptance. No exterior form is authorized.
 
 ## 15. Authority and limitations
 
