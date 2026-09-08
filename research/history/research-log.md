@@ -3301,3 +3301,39 @@ Family and challenge contracts receive USD 3.42 billion. Government standards, f
 The companion workbook contains nineteen sheets and 4,983 deterministic controls. Every control passes in the restored baseline, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML package validates. Workbook SHA-256 is `e80a14356a47a05ab4934842d365ace7591f63f4f86cab4fec74b09d57adac7c`.
 
 The next admissible force study is a Department-wide Acquisition and Industrial Mobilization Command: family program offices, public metrology, destructive-test commands, article arsenals, technical-data authorities, industrial sensing, pilot lines, challenge offices, allied source compacts and an independent acquisition evidence board. Rendering remains deferred until representative physical geometry exists.
+
+## Pass 96 — Department of Resilience Acquisition and Industrial Mobilization Command
+
+### Research question and decisive result
+
+What mature institution could repeatedly create, test, reproduce, manufacture and mobilize the forty-eight-family Resilience Force without preserving current agencies, depending on the industrial base that happens to exist or allowing the builder to certify its own success?
+
+The pass defines AIMC as the Department's sovereign builder, industrial mobilizer and public technical commons. It is not a larger purchasing office. It manages 192 overlapping major programs—four increments for each of forty-eight families—through 384 build roots and 192 protected challenge roots. The unit of acquisition is a falsifiable learning path with a reproducible production path.
+
+### Constitutional and technological consequence
+
+AIMC is strong in means and limited in judgment. Civil guarantee, requirements, construction, operational suitability, independent evidence, cost and production release remain separate authorities. This division permits high-consequence ambition without self-certification.
+
+Twelve technology frontiers contain ninety-six mission-failure programs and twenty-four cross-frontier grand tests. They may pursue new nuclear-energy systems, water separations, aerospace access, riverine machines, terrain robotics, biological production, environmental control, materials, autonomy, deployable manufacturing, public interfaces and portable metrology. A radical root receives protected access to a decisive experiment, not a waiver or serial entitlement.
+
+### Public technical commons and industrial topology
+
+The modeled public estate contains 136 nodes: twelve sovereign design arsenals, twenty-four pilot-production campuses, thirty-two proving ranges, twelve destructive and forensic campuses, eight material reserves, six test foundries, sixteen regional integration arsenals, four high-hazard energy and nuclear sites, twelve data and custody centers and ten training campuses. Their USD 2.3T capital is nested across the sovereign design/test and pilot-production/foundry workstreams.
+
+The industrial topology contains sixteen primary system-integrator ecosystems, ninety-six technical-root firms, 480 subsystem/process firms, 2,400 certified production nodes, 1,200 regional service suppliers and sixty-four allied lead firms: 4,256 nodes and 3.24 million affiliates. Six readiness contracts buy design retention, warm engineering, pilot capacity, surge materials, hot reserve and no-notice activation. Mobilization is treated as exercised people, tools, materials, process, transport, acceptance and receiving—not inventory.
+
+Every one of 576 roots receives eight required rights, producing 4,608 records for materials, process/facility identity, firmware, ownership, calibration, teardown, second-team reproduction and perpetual interface/evidence data.
+
+### Fiscal and authority boundary
+
+The twenty-five-year AIMC enterprise allocation is USD 5.25T inside the established USD 15.179T force-capital boundary, leaving USD 9.929T for force production and fielding. Workstreams fund USD 1.35T in sovereign design/test infrastructure, USD 0.95T in pilot production/foundries, USD 0.75T in science/challenge programs, USD 0.80T in rival prototyping/replication, USD 0.60T in industrial mobilization/material reserves, USD 0.25T in standards/data/configuration, USD 0.15T in workforce/schools, USD 0.10T in allied production/export and USD 0.30T in reserve. Mature annual operations are designed at USD 310B; direct AIMC workforce is 542,000, both nested in prior force boundaries.
+
+All figures are planning allocations rather than prices, forecasts or evidence of existing capacity. Twenty-four decision gates remain open or held. Production and rendering remain blocked.
+
+### Artifact, validation and next boundary
+
+The companion workbook contains eighteen sheets and 1,839 deterministic controls. Every control passes in the restored baseline, the formula-error scan matches zero cells, every sheet is rendered and visually reviewed, and the Open XML package validates. Increasing concurrent increments from four to five without expanding the dependent registers creates six expected failures before restoration. Workbook SHA-256 is 3ab58258530eced82c45aa7a6cc5c2987953fa71838a1b1880716afaa42c2cd0.
+
+The next admissible force-generation study is the common AIMC program-office operating system and complete technical-data package. It should specify requirement custody, root ancestry, artifact-based earned value, serial configuration, rights instruments, capacity contracts, cost uncertainty, evidence admission, failure replacement and the transactions among the seven separated authorities.
+
+A later pass should design no-notice Department-wide industrial-mobilization exercises. Rendering remains deferred.
