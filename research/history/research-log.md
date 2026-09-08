@@ -3581,3 +3581,33 @@ The companion workbook contains twenty-two sheets and fifty-five terminal contro
 The final workbook is 68,094 bytes with SHA-256 `475ef0cfc5481bb6259d0b4f0c02203dd8956f9949e2ad9307846e3f0284108a`.
 
 No external-site research and no rendering are introduced. The next force-generation pass should define the F36 range-complex throughput and regeneration architecture: closure bays, damage cells, metrology cycles, cleanout, water laboratories, forensic lines, data replay, blind shops, crews, spares and reset stocks sized against stochastic invalid runs and common-cause loss while preserving the thirty-month protocol.
+
+## Pass 104 — F36 range-complex throughput and regeneration architecture
+
+**Date:** 8 September 2026
+
+**Question:** What complete public proving institution can execute the registered F36 campaign at P90 tempo, regenerate every decisive lane and preserve the thirty-month deadline after one whole campus is lost?
+
+**Primary artifact:** [F36 range-complex throughput and regeneration architecture](../force/generation/f36-range-complex-throughput-and-regeneration-architecture.md)
+
+**Companion model:** [F36 range-complex throughput and regeneration architecture](../../models/force/generation/f36-range-complex-throughput-and-regeneration-architecture.xlsx)
+
+Pass 104 changes the unit of throughput from a fixture start to one terminal admitted decision packet. A bay remains occupied through configuration acceptance, installation, measured stimulus, safe removal, quarantine, reference return and post-event bracket. A damage cell remains occupied through injury, sanitary recovery, evidence transfer, decontamination, utility reset, cassette replacement and reference closure. Scheduler optimism cannot create readiness.
+
+Prospective invalid rates of fifteen percent for closure events and twenty percent for damage events are modeled with negative-binomial moments and a transparent normal P90 approximation. Seventy-two closure credits produce 84.71 expected attempts and a P90 planning load of ninety. Twenty-six damage credits produce 32.50 expected attempts and a P90 load of thirty-seven. With complete eight- and fourteen-day station cycles, these become 720 bay-days and 518 cell-days.
+
+Three closure bays and three damage cells are mathematical minimums if all survive and perform at the assumed availability. Four of each can finish after one cell is lost but exceed the mature seventy-percent residual-utilization ceiling and remain exposed to co-location. The recommended estate therefore contains six closure bays and six damage cells across three complete and unlike campuses, two of each per campus. Loss of one campus leaves four bays and four cells, with P90 residual utilizations of 62.1 and 54.5 percent.
+
+Supporting services are separately sized because fixture count is not their demand driver. The campaign produces 365 forensic line-days, 6,600 sanitary-assay panels, 254 metrology brackets, 2,392 independent replay hours and thirty blind events. The mature plan provides three forensic lines, six water laboratories, six traveling metrology detachments, six evidence-replay cells and three blind/configuration shops. Twelve common-cause families define required separation across power, water, controls, time, evidence, lifting, assay, waste, workforce, transport, cyber and regional hazard.
+
+Regenerative capacity is explicit. The stock floor includes twenty-four closure positions, eighteen closure instrument packs, twelve root adapters, sixty registered injury cassettes, eighteen damage sensor/actuator packs, twelve contamination modules, twelve traveling calibration packages, twenty-four protected challenge lots and eighteen evidence-media sets. Eight return-to-known-state clocks govern article, instrument, adapter, damage-cassette, contamination, calibration, challenge-lot and evidence-media regeneration. None counts until it returns to a controlled state.
+
+The standing institution requires 1,230 direct public personnel and 1,850 qualified industrial affiliates. Its cross-classified range-complex view is USD 4.480B capital and USD 0.398B/year, nested inside the Pass 101 first-article boundary. Annual support consumes most of the parent annual envelope, exposing the proving force as a labor, maintenance, custody and readiness institution rather than a one-time construction project.
+
+Twenty-two release gates separate seventeen planning packages from construction approval, campus commissioning, service-lane commissioning, complete-campus-loss rehearsal and first-wave admission. The planning package closes. No campus or lane exists, no rehearsal has passed and no campaign work is admitted. Production, internal form and exterior rendering remain blocked by the parent F36 evidence chain.
+
+The companion workbook contains twenty-two sheets and fifty-nine independent terminal controls. Its saved-workbook formula scan and terminal audit contain zero failures. Ten disposable sensitivities behave causally and are restored: higher invalidity or lower availability breaks capacity; incomplete campuses and capital or annual mismatches revoke planning; construction approval alone cannot commission later states; downstream physical counts cannot bypass an absent predecessor; and rendering authority alone remains blocked. Every sheet is rendered and visually inspected.
+
+The final workbook is 58,901 bytes with SHA-256 `69222352eb299fe4759464786ab85c215972829bcb479883c40a5ebb3bef1ea3`.
+
+No external-site research and no rendering are introduced. The next force-generation pass should define the F36 first campaign wave and lost-campus rehearsal constitution: freeze the first ninety days of closure, damage, reference, blank, forensic and replay tokens; assign shift and authority rosters; inject campus loss during an active event; conserve article, sample, waste, evidence and blind truth through transfer; and specify the decision that permits the residual campaign to continue.
