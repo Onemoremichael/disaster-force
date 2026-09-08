@@ -84,6 +84,8 @@ The [`DCP-2R` common carrier and mission compiler](research/force/projection/dcp
 
 That scale is intentional. The project asks what changes when rescue, stabilization and environmental control receive the same seriousness normally reserved for force projection: clean-sheet machines, competing industrial teams, national test ranges, decades of procurement, deep reserves, supplier plurality and technology programs allowed to pursue capabilities that do not yet exist.
 
+The current proving pass converts those open obligations into a physical institution. [CSAC-1](research/force/projection/csac1-compound-service-article-and-range-campaign.md) corrects the development fleet from 240 to 480 tiles so qualification articles are not consumed as mission evidence; assigns all twenty-five campaigns and 200 gates to an eight-stage evidence constitution; and creates four paired air/terrain range classes, eleven facility families and 200 registered full missions. A permanent Service Systems Proving Command would employ 24,000 direct personnel inside a 60,000-position affiliated ecosystem. Its USD 1.050T portfolio is already nested in the ESK-40V program. The earliest production decision is year fourteen, every physical gate remains open and exterior rendering remains blocked.
+
 ## Innovation is a mission instrument
 
 The Department would not wait for commercial markets to produce every required system. Like a military department, it would turn recurring mission failure into long-horizon technology competitions.

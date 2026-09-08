@@ -44,6 +44,8 @@ The [`DCP-2R` common carrier and mission compiler](projection/dcp2r-common-carri
 
 [`ESK-40V` physical tile and carrier-interface closure](projection/esk40v-physical-tile-and-carrier-interface-closure.md) makes that kernel answer to the inherited subsystem burden. Natural certified masses range from 13.750 tonnes for thermal service to 22.375 tonnes for energy while the five-family set remains 79.375 tonnes. The casualty proof survives, but the carriers need twenty and ten compact saddles rather than eighteen and nine inherited positions. After coupled mass, energy, soil, clock and reset feedback, the terrain path retains only twenty-six minutes to the service deadline. The $6.261T development reference is $256.921B above exact-cell duplication in its first generation; its strategic case rests on modular learning, adaptation, export and 207 avoided carrier articles. All 200 gates remain open.
 
+[CSAC-1](projection/csac1-compound-service-article-and-range-campaign.md) now supplies the proving institution for the physical force reference. Its 480 development tiles prevent qualification evidence from being consumed as mission capacity. Twenty-five campaigns, 200 gates, eleven facility families, four paired environmental range classes and 200 registered missions define the path from burden contract to independent second-lot reproduction. The Service Systems Proving Command is therefore part of force generation, not an external audit office.
+
 ## The architecture
 
 ```text

@@ -19,6 +19,8 @@ The strongest revision to the original concept is the importance of the neighbor
 
 The conventional `A2` reference and technology-forward `S3` rival remain hypotheses. Neither is an acquisition baseline; neither has earned a rendering.
 
+A second live boundary now governs national force projection. [CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) converts the 200 open ESK-40V evidence gates into an executable fourteen-year proving campaign. It corrects the development fleet from 240 to 480 tiles by separating qualification and mission evidence, selects four paired environmental range classes and creates a permanent Service Systems Proving Command. The terrain formation's modeled hour-53.569 service time leaves only 0.181 hours inside the campaign guardband and is therefore the first physical architecture to falsify. Every gate remains open; production and exterior rendering remain blocked.
+
 ## The live proof chain
 
 The [New York vertical heat-blackout campaign](proving/campaigns/new-york/README.md) is the active attempt to falsify both `NCAC-35` architectures in a different city, hazard mechanism and built form from [Harris County](proving/campaigns/harris-county/README.md).

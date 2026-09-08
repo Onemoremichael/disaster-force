@@ -12,6 +12,8 @@ That rule has repeatedly overturned the attractive answer. Fractional cargo did 
 
 ## Current answer
 
+The current answer is now a proving architecture rather than a vehicle selection. [CSAC-1](csac1-compound-service-article-and-range-campaign.md) establishes a permanent Service Systems Proving Command, separates the protected 240-tile qualification bank from a 240-tile full-mission bank, and assigns the resulting 480 development articles to twenty-five campaigns, 200 gates and four paired environmental range classes. Two hundred registered missions test admitted claims, truthful safe stops and blinded defects. Production remains on hold through independent second-lot replication, no earlier than program year fourteen.
+
 The present research reference is a two-mode DCP-2R formation built around a variable-mass adaptive service kernel:
 
 | Layer | Atmospheric path | Terrain path | Common civil result |
@@ -23,7 +25,7 @@ The present research reference is a two-mode DCP-2R formation built around a var
 | Stressed public release | hour 52.917 | hour 53.569 | both remain inside hour 54 under declared allowances |
 | Reset | hour 163 | hour 167 | both remain inside hour 168 |
 
-The current paper is [ESK-40V: physical tile and carrier-interface closure](esk40v-physical-tile-and-carrier-interface-closure.md). It replaces Pass 88's artificial equal-mass tiles with natural certified family masses:
+The current physical reference is [ESK-40V: physical tile and carrier-interface closure](esk40v-physical-tile-and-carrier-interface-closure.md). It replaces Pass 88's artificial equal-mass tiles with natural certified family masses:
 
     E energy                         22.375 t
     W water and residual control     14.500 t
@@ -104,7 +106,7 @@ A physical correction must propagate through vehicle, formation, mission clock, 
 
 For the current argument:
 
-[Fixed service-island independence](pts5-fixed-service-island-independence-compiler.md) -> [TAFG-1 configuration](tafg1-trivector-access-group-configuration.md) -> [second-region competition](tafg1-second-region-formation-competition.md) -> [DCP-2 configuration](tafg1-dcp2-physical-configuration.md) -> [SAT-170R](sat170r-internal-architecture-and-coupled-closure.md) -> [GCH-340R](gch340-complete-system-and-transient-closure.md) -> [DCP-2R](dcp2r-common-carrier-and-mission-compiler.md) -> [ESK-40V](esk40v-physical-tile-and-carrier-interface-closure.md)
+[Fixed service-island independence](pts5-fixed-service-island-independence-compiler.md) -> [TAFG-1 configuration](tafg1-trivector-access-group-configuration.md) -> [second-region competition](tafg1-second-region-formation-competition.md) -> [DCP-2 configuration](tafg1-dcp2-physical-configuration.md) -> [SAT-170R](sat170r-internal-architecture-and-coupled-closure.md) -> [GCH-340R](gch340-complete-system-and-transient-closure.md) -> [DCP-2R](dcp2r-common-carrier-and-mission-compiler.md) -> [ESK-40V](esk40v-physical-tile-and-carrier-interface-closure.md) -> [CSAC-1](csac1-compound-service-article-and-range-campaign.md)
 
 For water as the first full service-chain proof:
 
@@ -116,7 +118,7 @@ For program scale:
 
 ## Active decision boundaries
 
-The next projection pass must be allowed to overturn the reference. It should specify representative EA/WA/TA/DA/CA and ET/WT/TT/DT/CT articles, build structural saddle installations, assign the 200 evidence gates to facilities and independent authorities, and measure whether the twenty-six-minute terrain clock margin survives a complete damaged-receiver mission.
+The next projection pass must execute the measurement architecture beneath CSAC-1. It should specify instrumentation channels, independent measurement paths, time synchronization, destructive-article burn, range observation boundaries, bottom-up facility quantities and uncertainty budgets for terrain service time and dynamic soil pressure. The first physical objective is to determine whether the 0.181-hour terrain margin to the campaign guardband survives a complete damaged-receiver mission.
 
 The following claims remain prohibited:
 

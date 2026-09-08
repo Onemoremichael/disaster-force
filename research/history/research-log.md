@@ -3151,3 +3151,21 @@ The fourteen-sheet [companion workbook](../../models/force/projection/esk40v-phy
 The pass makes the variable-mass five-family grammar, provisional service coefficients, twenty- and ten-saddle requirement, coupled carrier corrections, revised clock and reset margins, 5,916-tile inventory, workforce, industrial and fiscal boundaries authoritative at `R2`. It does not admit any family technology, saddle, carrier modification, receiver, output coefficient, independence, production rate, cost or readiness claim. All 200 gates remain open and strict evidence credit is zero.
 
 Pass 90 should turn the 200-gate register into an article-and-facility campaign: specify one representative article per family-lineage, assign tests to independent ranges and authorities, define instrumentation and destructive sequences, and couple saddle structural articles to a complete unprepared-receiver mission. The 0.431-hour terrain clock margin, 1-hour terrain reset margin and sub-tier ancestry partitions are the highest-power falsification targets. Exterior renderings remain blocked; internal requirements diagrams may begin only when representative tile geometry exists.
+
+## Pass 90 — CSAC-1 compound service article and range campaign
+
+Pass 90 turns the prior gate inventory into a sovereign proving institution. Its first finding is a correction: 240 family-lineage qualification tiles cannot also equip repeated, destructive, contaminated and blinded formation missions. The protected qualification bank remains 240; two air formations add 120 mission tiles, two terrain formations add 100 and attrition/quarantine adds 20. Development inventory becomes 480 and total inventory 6,156.
+
+The selected campaign architecture creates a Service Systems Proving Command inside the National Resilience Proving Network. Builders, operators, evidence authorities and civil release authorities remain separate; ancestry and rights authorities cut across them. Twenty-five campaigns follow eight ordered stages from burden contract through coupons, family article, simultaneous set, carrier, unprepared receiver, casualty mission and independent second-lot reset.
+
+Eleven facility families include public metrology and ancestry, five service-domain laboratories, air and terrain structural complexes, four paired compound-service mission ranges, reset/quarantine depots and plural pilot lines. The paired ranges reproduce humid-salt, arid-dust, cold-freeze and weak-soil/flood/urban-debris classes without selecting real sites. At 180 operating days per year, ten days per mission and a four-year window, gross capacity is 288 missions.
+
+The mission register contains 200 events: 176 admitted-claim repetitions, eight boundary probes and sixteen blinded defects across air and terrain. Repetition is coverage, not a reliability estimate. Boundary missions reward truthful safe stop rather than behavior beyond evidence.
+
+The campaign introduces guardbands below the absolute requirements. Terrain stressed service at hour 53.569 leaves only 0.181 hours inside the 53.75-hour evidence threshold and is the first falsification target. Terrain reset leaves 0.5 hours to the evidence threshold and soil pressure 0.501 kilopascals.
+
+The permanent proving service contains 24,000 direct people, 60,000 affiliated positions and a 5,800-person minimum watch. The USD 1.050T allocation is the technology portfolio already nested inside Pass 89, divided among facilities, articles, workforce, missions, independent evidence, pilot production and reserve. It is not a new national authorization.
+
+The fourteen-sheet workbook contains 368 deterministic controls and a zero-match formula-error scan. Every sheet is rendered and visually reviewed. All model controls pass, while all 200 physical gates remain open, mission evidence credit remains zero and production remains on hold until independent reproduction no earlier than year fourteen. Exterior rendering remains blocked.
+
+The next pass should specify instrumentation channels, data rates, independent measurement paths, destructive-article burn, range observation boundaries, bottom-up facility quantities and uncertainty budgets for the terrain clock and dynamic-soil claim.

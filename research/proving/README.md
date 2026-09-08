@@ -1,5 +1,7 @@
 # Proving
 
+The current force-scale proving reference is [CSAC-1](../force/projection/csac1-compound-service-article-and-range-campaign.md). It creates a permanent Service Systems Proving Command, 480 development tiles, eleven facility families, four paired environmental range classes and 200 registered missions. Its evidence constitution separates builder, operator, evidence and civil authority; no report, simulation or contractor acceptance closes a physical gate.
+
 Proving combines geographic falsification, technology maturation and research assurance. Keeping those functions together prevents a clean laboratory result from bypassing the campaign failure it was meant to solve, or a persuasive simulation from outrunning its evidence.
 
 ```text
