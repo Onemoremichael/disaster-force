@@ -71,13 +71,13 @@ At the national edge, the current force-design reference contains:
 | Receiving geography | federated service islands | several sites are genuinely independent rather than multiple outlets of one fragile system |
 | Hard access | `TAFG-1` | atmospheric carriage, terrain carriage and utility bridging are distinct strategic actions |
 | Two-region assurance | `DCP-2` | two separately governed 635-tonne service cells survive loss of one access physics family |
-| Atmospheric carrier | `GCH-340` | a 340-tonne carrier can solve the dangerous payload-offload transition without external ballast |
+| Atmospheric carrier | `GCH-340R` | a 340-tonne carrier can govern lift, mass, heat, ground reaction and payload release through a cold-dense unload without receiver ballast |
 | Terrain carrier | `SAT-170R` | a 170-tonne payload carrier can close energy, damaged-soil contact, route opening and public-service release as one coupled mission |
 | Terrain–air interface | federated twin receivers | both cells can reach lawful public service without a shared pre-release loader, energy system, authority or maintenance chain |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
-The latest [`SAT-170R` internal-architecture closure](research/force/projection/sat170r-internal-architecture-and-coupled-closure.md) illustrates the method’s willingness to overturn an attractive preliminary design twice. Pass 85 had already replaced a sixty-tonne energy allowance and 155-square-metre footprint. Pass 86 then proves that its implied twenty-three-metre rigid payload spine cannot turn inside the registered route envelope and that five bridge modules cannot preserve bearing length after one loss. The provisional successor uses four 11.5-metre rigid bodies, three active joints, four energy citadels, two crew refuges, six bridge modules and 285 square metres of deployable contact. Energy and bridge mass are solved in one fixed point, producing 717.185 tonnes rated gross and 667.031 megawatt-hours onboard. The 219-vehicle terrain program reaches $1.582T; all 140 evidence gates remain open.
+The latest [`GCH-340R` complete-system closure](research/force/projection/gch340-complete-system-and-transient-closure.md) illustrates the method’s willingness to let physical depth overturn an attractive vehicle. The earlier 1,003-tonne atmospheric carrier omitted enough structure, containment, energy, contact, thermal and life-safety mass to misidentify its governing transition. The corrected behavior reference is a 1,461.415-tonne cellular lifting body with twenty-four lift cells, six conversion trains, twelve propulsion pods, sixteen contact feet and 2,185.075 megawatt-hours onboard. Its worst unloading state is cold-dense air: converting 8.981 tonnes of lift hydrogen into 80.827 tonnes of contained water retains 120 tonnes of ground reaction without receiver ballast. The 118-article atmospheric program reaches $1.730T; all 150 evidence gates remain open.
 
 That scale is intentional. The project asks what changes when rescue, stabilization and environmental control receive the same seriousness normally reserved for force projection: clean-sheet machines, competing industrial teams, national test ranges, decades of procurement, deep reserves, supplier plurality and technology programs allowed to pursue capabilities that do not yet exist.
 
@@ -134,11 +134,11 @@ Every pass ends with a stocktake: what became authoritative, what was falsified,
 
 The force-design frontier has now joined both strategic carriers into one provisional two-mode mission:
 
-- `GCH-340`, a ground-coupled hybrid atmospheric carrier whose governing problem is unloading 340 tonnes without becoming dangerously buoyant;
+- `GCH-340R`, a cellular ground-coupled atmospheric carrier whose governing problem is controlling cold-dense support while 340 tonnes are unloaded;
 - `SAT-170R`, a segmented adaptive terrain carrier whose governing problem is complete-system energy mass and deformable-soil contact after damage; and
 - federated twin receivers, which give the two cells common service meaning without a common pre-release machine.
 
-`SAT-170R` now has a provisional internal arrangement: four rigid bodies, mirrored energy citadels, split cargo deck, dual refuges, split-keel bridge stowage and defined removal directions. The next force pass must bring `GCH-340` to the same depth by coupling energy, heat rejection, lift control, landing contact, mooring, partial unload, structure, crew survival and spatial casualty behavior. Exterior requirements renderings remain blocked until both carriers can be compared on a common physical basis.
+Both carriers now have provisional complete-system arrangements. `SAT-170R` uses four rigid bodies, mirrored energy citadels, dual refuges, split-keel bridge stowage and 285 square metres of contact. `GCH-340R` uses six lift bays, six energy and conversion lanes, two cargo keels, dual refuges, 160 square metres of contact and explicit lift-gas-to-water conversion. The next force pass must compare them through one representative mission compiler, preserving common payload, receivers, public effect and denial worlds while exposing shared industrial and operational failures. Exterior concept art remains blocked until representative subsystem geometry replaces the current coefficients.
 
 A separate empirical campaign is developing a lawful New York heat–blackout population-state engine behind an architecture firewall. Its preregistered statistical gate must be resolved before protected outcomes can inform architecture. The [active frontier](research/frontier.md) owns both stop conditions and the next admissible work.
 
@@ -154,7 +154,7 @@ For the operating design:
 
 For the hard-access proof:
 
-[Projection chain](research/force/projection/README.md) → [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) → [`HBL-340` competition](research/force/projection/hbl340-architecture-competition.md) → [`ATUT-170` competition](research/force/projection/atut170-architecture-competition.md) → [terrain–air interface and subsystem competition](research/force/projection/dcp2-terrain-air-interface-and-atut-subsystem-competition.md) → [`SAT-170R` internal architecture](research/force/projection/sat170r-internal-architecture-and-coupled-closure.md)
+[Projection chain](research/force/projection/README.md) → [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) → [`HBL-340` competition](research/force/projection/hbl340-architecture-competition.md) → [`ATUT-170` competition](research/force/projection/atut170-architecture-competition.md) → [terrain–air interface and subsystem competition](research/force/projection/dcp2-terrain-air-interface-and-atut-subsystem-competition.md) → [`SAT-170R` internal architecture](research/force/projection/sat170r-internal-architecture-and-coupled-closure.md) → [`GCH-340R` complete-system closure](research/force/projection/gch340-complete-system-and-transient-closure.md)
 
 For evidence and falsification:
 
