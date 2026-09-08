@@ -3169,3 +3169,29 @@ The permanent proving service contains 24,000 direct people, 60,000 affiliated p
 The fourteen-sheet workbook contains 368 deterministic controls and a zero-match formula-error scan. Every sheet is rendered and visually reviewed. All model controls pass, while all 200 physical gates remain open, mission evidence credit remains zero and production remains on hold until independent reproduction no earlier than year fourteen. Exterior rendering remains blocked.
 
 The next pass should specify instrumentation channels, data rates, independent measurement paths, destructive-article burn, range observation boundaries, bottom-up facility quantities and uncertainty budgets for the terrain clock and dynamic-soil claim.
+
+## Pass 91 — `MESA-1` measurement and destructive-evidence architecture
+
+### Research question and decisive result
+
+What physical, institutional and industrial measurement system can independently falsify a complete resilience-service mission without becoming a hidden source of mission power, control, communications or favorable interpretation?
+
+The pass selects a three-plane behavior architecture: `P0` embedded control, `P1` independent mechanism evidence and `P2` civil-effect witness. The independent planes have separate power, diverse clocks, local write-once capture and distinct custody, and they are physically prohibited from actuating mission hardware. Eighteen no-crutch failure insertions deny evidence credit if range support, live builder access, common software, common time, network availability or measurement hardware improves the service result.
+
+### Governing physical results
+
+The terrain service model retains only `0.1805556 h` against the evidence threshold. Embedded logs allocate `0.51964 h` of expanded uncertainty and a generic independent logger `0.16292 h`; both fail the rule that uncertainty may consume no more than half the margin. Physical event witnesses, separate assay and civil-release records, and diverse time roots reduce the provisional MESA-1 allocation to `0.06650 h`.
+
+The terrain pressure model retains only `0.5007945 kPa`. Control telemetry allocates `1.7321 kPa` expanded uncertainty and independent foot loads `0.5762 kPa`. A distributed pressure skin, optical contact reconstruction and geotechnical witness grid allocate `0.2209 kPa`, the only architecture to discriminate the registered margin.
+
+### Article, data and fiscal consequence
+
+Eight blinded defects, four boundary probes, four compound-environment injuries and two forensic removals require eighteen attrition tiles per mode. Development inventory rises from 480 to 496 tiles and total inventory from 6,156 to 6,172. Eighty channel-domain records produce approximately `159.60 TB` per air mission and `201.47 TB` per terrain mission; the canonical retained campaign evidence is `16.67 PB` after registered retention and three-copy custody.
+
+`F01` becomes a USD `24B` sovereign metrology architecture inside the existing USD `350B` facility program. Forty-nine facility line items reconcile to that limit. The complete technology portfolio remains USD `1.050T`; the article increment must be absorbed or reopen the development allocation when quoted.
+
+### Artifact, validation and next boundary
+
+The sixteen-sheet companion workbook contains 320 terminal controls. All controls pass, the formula-error scan returns zero matches, every sheet is rendered and visually inspected and the Open XML package validates. Workbook SHA-256 is `50edf69071e5f92eb10f5cd0ba807253a0804c74eca3aec3a1e4599a02b086a9`. The two weaker measurement alternatives intentionally fail their competition screens. Every physical claim remains `OPEN`; production is `HOLD`; rendering is `BLOCKED`.
+
+The next admissible work is representative MESA-1 hardware and hazard-envelope testing for one air tile, one terrain tile, one carrier truth node and one receiver truth station. No platform form is authorized.

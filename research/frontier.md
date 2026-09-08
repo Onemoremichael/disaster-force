@@ -19,7 +19,7 @@ The strongest revision to the original concept is the importance of the neighbor
 
 The conventional `A2` reference and technology-forward `S3` rival remain hypotheses. Neither is an acquisition baseline; neither has earned a rendering.
 
-A second live boundary now governs national force projection. [CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) converts the 200 open ESK-40V evidence gates into an executable fourteen-year proving campaign. It corrects the development fleet from 240 to 480 tiles by separating qualification and mission evidence, selects four paired environmental range classes and creates a permanent Service Systems Proving Command. The terrain formation's modeled hour-53.569 service time leaves only 0.181 hours inside the campaign guardband and is therefore the first physical architecture to falsify. Every gate remains open; production and exterior rendering remain blocked.
+A second live boundary now governs national force projection. [CSAC-1](force/projection/csac1-compound-service-article-and-range-campaign.md) converts the 200 open ESK-40V gates into an executable fourteen-year proving campaign. [MESA-1](force/projection/mesa1-measurement-and-destructive-evidence-architecture.md) now defines the shadow formation required to observe it. The selected three-plane behavior separates embedded control, independent mechanism evidence and civil-effect witness. Ordinary logs fail the terrain time and soil-pressure uncertainty screens; provisional MESA-1 allocations pass both. Destructive custody corrects the development fleet to 496 tiles and total inventory to 6,172. Every physical gate remains open; production and rendering remain blocked.
 
 ## The live proof chain
 

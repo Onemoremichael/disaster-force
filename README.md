@@ -75,6 +75,7 @@ At the national edge, the current force-design reference contains:
 | Atmospheric carrier | `GCH-340R` | a 340-tonne carrier can govern lift, mass, heat, ground reaction and payload release through a cold-dense unload without receiver ballast |
 | Terrain carrier | `SAT-170R` | a 170-tonne payload carrier can close energy, damaged-soil contact, route opening and public-service release as one coupled mission |
 | Terrain–air interface | federated twin receivers | both cells can reach lawful public service without a shared pre-release loader, energy system, authority or maintenance chain |
+| Independent evidence | `MESA-1` | a physically separate shadow formation can falsify mechanism, boundary effect and civil release without becoming hidden mission support |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
@@ -84,7 +85,7 @@ The [`DCP-2R` common carrier and mission compiler](research/force/projection/dcp
 
 That scale is intentional. The project asks what changes when rescue, stabilization and environmental control receive the same seriousness normally reserved for force projection: clean-sheet machines, competing industrial teams, national test ranges, decades of procurement, deep reserves, supplier plurality and technology programs allowed to pursue capabilities that do not yet exist.
 
-The current proving pass converts those open obligations into a physical institution. [CSAC-1](research/force/projection/csac1-compound-service-article-and-range-campaign.md) corrects the development fleet from 240 to 480 tiles so qualification articles are not consumed as mission evidence; assigns all twenty-five campaigns and 200 gates to an eight-stage evidence constitution; and creates four paired air/terrain range classes, eleven facility families and 200 registered full missions. A permanent Service Systems Proving Command would employ 24,000 direct personnel inside a 60,000-position affiliated ecosystem. Its USD 1.050T portfolio is already nested in the ESK-40V program. The earliest production decision is year fourteen, every physical gate remains open and exterior rendering remains blocked.
+The current proving pass now specifies the measurement force beneath that institution. [CSAC-1](research/force/projection/csac1-compound-service-article-and-range-campaign.md) creates the campaigns, ranges and Service Systems Proving Command. [MESA-1](research/force/projection/mesa1-measurement-and-destructive-evidence-architecture.md) adds separate embedded-control, independent-mechanism and civil-effect planes; eighty channel-domain records; time and dynamic-soil uncertainty budgets; destructive-article custody; and a USD 24B sovereign metrology stack inside the existing USD 350B facility program. Registered attrition corrects development inventory from 480 to 496 tiles and total inventory from 6,156 to 6,172. The USD 1.050T portfolio is unchanged, every physical gate remains open, production is on hold and renderings remain blocked.
 
 ## Innovation is a mission instrument
 
