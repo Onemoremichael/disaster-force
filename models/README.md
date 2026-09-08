@@ -45,6 +45,8 @@ The [`TAFG-1` Tri-Vector Access-Group Configuration](force/projection/tafg1-triv
 
 The [`TAFG-1` Payload, Arsenal and Dispatch Compiler](force/projection/tafg1-payload-arsenal-dispatch-compiler.xlsx) governs four payload-lot families, three custody architectures, loading resources, hour-48 schedules and discrete two-region assurance. `C1` uses 129 national arsenal nodes and closes thirteen of thirteen one-region cuts; `F1-C1` reaches 590 deployed people and a $7.383T national boundary. The prior eight-aircraft VHL option is nominal only, while a ten-aircraft revision survives the mass-loss screen but not loss of its sole mode or site. `F3-C2` is the $8.347T assured upper comparator. Fourteen sheets, forty-two checks, restored 22-to-30-group sensitivity and a zero-error scan reconcile; forty gates remain open and rendering is blocked.
 
+The [`TAFG-1` Second-Region Formation Competition](force/projection/tafg1-second-region-formation-competition.xlsx) competes seven universal and conditional packages across unprepared, vehicle-loss, whole-mode, timing, receiver and cost tests. `DCP-2` attains the declared 1,270-tonne universal lower bound with two liftships, four terrain vehicles and 486 additional deployed people. Its $770.6333B program saves $192.8631B against exact full duplication; terrain plus utility bridge is the $572.3871B conditional floor, and two VHL lattices fail common-mode loss. Fifteen sheets, fifty-two checks, restored 22-to-30-group sensitivity and a zero-error scan reconcile; forty-four gates remain open and rendering is blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -60,7 +62,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH → SECOND-REGION FORMATION
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE
