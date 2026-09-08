@@ -34,6 +34,8 @@ The [`TAFG-1` tri-vector access group](projection/tafg1-trivector-access-group-c
 
 The [`TAFG-1` payload, arsenal and dispatch compiler](projection/tafg1-payload-arsenal-dispatch-compiler.md) turns that warning into force structure. Its reference separates atmospheric, terrain and corridor custody across three arsenals with independent loaders, energy, controls and release, adds 102 deployed custody positions per group and closes every declared one-region cut. It also divides second-region claims into nominal, vehicle-loss and mode-or-site-loss assurance. The prior eight-aircraft VHL option is nominal only; two complete groups remain the expensive assured upper comparator until a leaner multi-physics rival closes the same compound loss requirement.
 
+The [`TAFG-1` second-region formation competition](projection/tafg1-second-region-formation-competition.md) supplies that rival. Universal unprepared assurance imposes a registered two-cell, 1,270-tonne lower bound after whole-mode loss. `DCP-2` attains it through separately governed atmospheric and terrain carriage with six vehicles and 486 additional deployed people, reducing the forty-three-package program by $192.8631B against full duplication. Bridge, local-conversion and prepared-cell formations retain strategic value under explicit receiver conditions; two VHL lattices demonstrate that vehicle count cannot substitute for physics diversity. No formation is admitted and all forty-four gates remain open.
+
 ## The architecture
 
 ```text

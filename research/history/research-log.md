@@ -2859,3 +2859,35 @@ The fourteen-sheet [companion workbook](../../models/force/projection/tafg1-payl
 The pass makes the complete source-to-release chain, four lot families, tri-partition one-region custody and nested concurrency claims authoritative at `R2`. It falsifies the common hub, eight-aircraft loss assurance and physical payload count as sufficient concurrency. All allocations, schedules, crews, costs, lineages and loss results remain hypotheses; all forty evidence gates are open and strict admission is zero.
 
 Pass 81 should hold the two-region compound requirement fixed and compete full duplication against leaner multi-physics packages: VHL plus utility bridge, VHL plus local conversion, terrain carriage plus corridor projection, and atmospheric carriage plus prepositioned receiver capacity. Each rival must own separately governed payload lots, two receiver and release echelons, meet hour 48, survive a vehicle loss and retain both regions after loss of one mode or site. Rendering remains blocked until this competition establishes stable physical envelopes.
+
+## Pass 81 — `TAFG-1` second-region formation competition
+
+### Research question and assurance classes
+
+What is the least declared package that preserves public service in a second simultaneous hard-access region after one vehicle loss and the loss of an entire access mode or operating site, and when may a leaner receiver-dependent package receive a narrower assurance claim?
+
+The [`TAFG-1` second-region study](../force/projection/tafg1-second-region-formation-competition.md) holds the Pass 80 one-region `F1-C1` base and exact `F3-C2` full-duplication control fixed. Region B activates at absolute hour 6 and receives its own forty-eight-hour clock, creating an hour-54 deadline. Universal unprepared assurance grants no standoff utility source, qualified local matter or prepared receiver cell. Conditional assurance admits one such resource only when its identity, capacity, route, authority and survival are independently established.
+
+### Lower bound and formation result
+
+One complete source-independent physical service cell remains 635 tonnes at dispatch. In the universal unprepared case, loss of one entire physics family requires a second complete cell in a separately losable mode. The registered lower bound is therefore two cells, or 1,270 tonnes. This is a result inside the declared cell and loss grammar, not a proof over all possible future mechanisms.
+
+Seven packages face common nominal, vehicle-loss, whole-mode, timing, interface and receiver tests. The `S1` `DCP-2` dual-carriage detachment attains the lower bound with two `HBL-320` liftships, four `ATUT-160` terrain vehicles, separate custody and release, 486 incremental deployed people and an estimated 1,065 incremental affiliated positions. `S0` full duplication also passes and remains the upper control. VHL plus utility bridge, VHL plus local conversion, terrain plus utility bridge, and atmosphere plus a prepared cell pass only under their registered receiver condition. Two ten-aircraft VHL lattices fail because complete atmospheric-mode loss removes both.
+
+The operational doctrine is a portfolio. `DCP-2` is the universal research reference. Conditional packages remain strategic capacity whose public claim is narrower, and their assignment requires an authoritative receiver-state compiler. Vehicle multiplicity cannot substitute for physics diversity.
+
+### Economy, industry and technology consequence
+
+Across forty-three ready packages, `DCP-2` requires 86 liftships, 172 terrain vehicles, 86 custody nodes and 43 receiver echelons. Its declared package program is $770.6333B and the national boundary is $8.15377485T, saving $192.8631B or 20.0 percent against the exact $963.4964B full-duplication increment. Terrain plus utility bridge establishes a $572.3871B conditional floor. Two VHL lattices cost $1.399947T and still fail whole-mode loss.
+
+The technology campaign is organized around broken service-chain terms: reduce complete-cell mass; prove heavy buoyant lift in weather and populated damaged terrain; create autonomous low-ground-pressure infrastructure mobility; make robotic utility corridors carry sectional water, power, thermal and communications service; make local conversion rapid and certifiable; build an offline-capable receiver-state graph; and run full-scale compound-loss trials from arsenal release through public use and reset. Clean-sheet innovation is encouraged, but novelty earns no assurance credit without representative closure.
+
+### Artifact, validation and next boundary
+
+The fifteen-sheet [companion workbook](../../models/force/projection/tafg1-second-region-formation-competition.xlsx) contains the executive result, assumptions, effect paths, seven rival packages, ten receiver cases, seventy long-form loss results, universal and conditional assurance, the second-region dispatch clock, workforce, industrial quantities, program costs, technology campaigns, forty-four evidence gates, fifty-two checks and reading guide.
+
+All fifty-two checks pass and the formula-error scan returns zero matches. Changing assigned hard-access groups from twenty-two to thirty raises ready groups from forty-three to fifty-nine, `DCP-2` from $8.15377485T to $8.71937965T and full duplication from $8.34663795T to $8.96874995T; restoration returns all baselines exactly. Every rendered sheet is visually reviewed and the Open XML archive validates. Workbook SHA-256 is `f3e447994136cc2faa2da4235bf9b2e456f2a6ee97f6c9ee22fa6651ace82135`. No external-site research is introduced.
+
+The pass makes the universal-versus-conditional distinction, registered two-cell lower bound, seven rivals and `DCP-2` research reference authoritative at `R2`. It supersedes full duplication as the sole assured research reference while retaining it as the exact upper control. All masses, schedules, organizations, workforce, costs and behavior results remain hypotheses; all forty-four gates are open and strict admission is zero.
+
+Pass 82 should allocate all thirty-two payload positions across the atmospheric and terrain cells; assign them vehicle by vehicle; close mass, cube, center of mass, restraint, loading and unloading; separate bases, arsenals, energy and technical release; compile crew duty cycles; run two-receiver schedules under vehicle and mode loss; and carry both cells through recovery and reset. Rendering remains blocked unless that physical configuration produces stable envelopes.
