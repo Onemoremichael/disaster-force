@@ -50,6 +50,8 @@ The [AIMC common program-office operating system](generation/aimc-common-program
 
 The [national industrial-mobilization exercise constitution](generation/national-industrial-mobilization-exercise-constitution.md) defines the next state transition. Each family-specific mission service lot must remain conserved from a sealed cold-start order through workforce, facility, supplier, production, acceptance, transport, receiving, commissioned service and regeneration. An annual 896-node sample turns the 4,256-node industrial topology into an exercised force rather than a contract register. M04 closes in planning, M05 exposes twenty-two family gaps and M06 defeats every declared line; no physical admission is granted.
 
+The [family industrial-resilience redesign and technology portfolio](generation/family-industrial-resilience-redesign-and-technology-portfolio.md) turns those M05 gaps into physical program hypotheses rather than one generic capacity increment. Each failed family combines two unlike industrial architectures with a visible residual replication layer and a complete-chain first article. Twenty-four mission-led technology campaigns, 128 public process and custody sites, post-service protected reserve, USD 1.8T of capital cross-classified inside AIMC and USD 138.8B of mature annual operations create the first force-wide redesign portfolio. All forty-eight families close M05 only in planning; none closes M06 and none receives physical admission.
+
 ## The architecture
 
 ```text
