@@ -3251,3 +3251,29 @@ The fifteen-sheet companion workbook contains 1,183 deterministic controls. Ever
 The pass makes the competition constitution, eleven prototype baselines, protected article banks, interface law, sixty-eight-trial register, component-ancestry firewall and USD 6.8B two-way cost matrix authoritative at the current planning maturity. It admits no physical performance, vendor, production quantity, cost forecast or geometry.
 
 Pass 94 should write article-level build-release and acceptance packages: mass properties, access, heat, ancestry prohibitions, calibration standards, reverse-energy teardown, hazard exposures, custody formats and blinded swap protocols. Rival serial construction can follow those packages. Rendering remains blocked.
+
+## Pass 94 — MESA-1D prototype build-release and acceptance standard
+
+### Research question and decisive result
+
+What institutional and physical package must exist between supplier-neutral architecture selection and the first credible serial-article trial?
+
+The pass finds that the seventy-eight-month MESA-1C trial sequence omitted a preceding build-release interval. Requirements and authority freeze, rival detailed design, engineering articles and qualification-lot release require twenty-four months before P01 can begin. The earliest complete independent-second-lot P08 result therefore moves to calendar month 102. The correction rephases but does not enlarge the USD 6.8 billion subportfolio.
+
+### Build, evidence and industrial constitution
+
+Eleven family baselines are decomposed into five technical functions consuming 85 percent of each mass, volume, power and heat envelope. Ten percent remains explicit integration reserve and five percent remains growth reserve. Each family receives fourteen controlled build-package records and twelve co-governing acceptance decisions. Eight hazard worlds per family produce eighty-eight exposure records; six challenges across twelve interfaces produce seventy-two physical one-way tests.
+
+Twenty-three calibration chains bind field checks to traveling standards and mandatory pre/post exposure comparison. Twelve decisive critical supplier chains each require eight disclosures or rights, creating ninety-six sub-tier records for bills of material and process, firmware ancestry, ownership, calibration genealogy, destructive teardown, second-team reproduction and perpetual interface/data access. Corporate plurality without decisive technical plurality receives no independence credit.
+
+### Articles, facilities and fiscal consequence
+
+Engineering, qualification/destructive and campaign/protected stocks are separated into thirty-three lots containing 254 articles with an indicative article-bank cost of USD 1.764 billion. Eight facility families are loaded over nine program years with nonnegative planning reserve. The nine-year workstream phase reconciles to USD 6.8 billion and remains nested inside F01's USD 24 billion and the USD 1.050 trillion proving portfolio.
+
+Package drafting is authorized. Rival serial construction waits for requirements and authority separation. Every acceptance, hazard, interface, release and physical-evidence state remains open; credit is zero; production is held; rendering is blocked through accepted P08.
+
+### Artifact, validation and next boundary
+
+The companion workbook contains seventeen sheets and 4,109 deterministic controls. Every control passes, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed, and the Open XML package validates. Workbook SHA-256 is d6cecf4f683c7ec4a5975411256546799c30a0b2bc00e72b8b9d3c159cc70861.
+
+The next admissible work is a family-specific procurement data package and source-selection experiment: freeze solicitation inputs, identify genuinely different technical roots, reserve government standards and facilities, partition awards, tie payment to accepted physical artifacts and establish independent reproduction before serial construction. Rendering remains deferred.
