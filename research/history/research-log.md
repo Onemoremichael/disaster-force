@@ -3045,3 +3045,37 @@ The eighteen-sheet [companion workbook](../../models/force/projection/sat170r-in
 The pass makes the four-body topology, three joints, mirrored four-citadel energy arrangement, dual refuges, six-module bridge reserve, joint mass method, revised mass/contact/clock/reset/workforce and fiscal boundaries authoritative at `R2`. It does not admit structure, bridge material, pod mechanics, energy performance, fire containment, heat rejection, egress, control, reliability, rate, cost or readiness. All 140 evidence gates remain open and strict credit is zero.
 
 Pass 87 should apply equal-depth complete-system closure to `GCH-340`: energy, heat rejection, lifting cells, ballast and partial-unload transients, landing contact, mooring, structure, crew refuge, payload access, field removal and spatial casualties must close together. Only then should both carriers be compared on a common physical basis or controlled exterior requirements renderings be reconsidered.
+
+## Pass 87 — `GCH-340R` complete-system and transient closure
+
+### Research question and architecture result
+
+Can the Pass 83 atmospheric carrier's lift cells, complete energy and tankage, heat rejection, variable support, landing contact, no-anchor mooring, payload order, crew survival and recovery occupy one vehicle without weakening the 4,000-kilometre route or the two-mode public-service guarantee?
+
+The [`GCH-340R` complete-system study](../force/projection/gch340-complete-system-and-transient-closure.md) shows that the 1,003-tonne predecessor does not survive. Structure, containment, propulsion, protected distribution, thermal control, contact, lift-gas conversion, crew refuge and recovery produce 918 tonnes of fixed non-fuel mass before mission-fuel tankage. Solving fuel mass against the dynamic lift and power it creates produces a 1,461.415-tonne rated departure gross, 131.236 tonnes of mission fuel, 72.180 tonnes of tankage and 2,185.075 MWh of deliverable onboard energy.
+
+Four complete arrangements face twenty-two hard gates. Helium compression fails mass, stationary heat, mooring and reset. An aerodynamic-dominant body fails slow flight, one-cell loss, energy and the clock. Fixed service ballast fails the coupled energy, removal and reset accounts. Only `C4`, a cellular hydrogen-conversion hybrid, closes all declared behaviors. It contains twenty-four lift cells in six longitudinal bays, six conversion trains, six energy buses, twelve vector pods, sixteen contact feet, two cargo keels and two eight-person refuges. Selection is a behavior judgment; every representative gate remains open.
+
+### Coupled transient, mission and institutional consequence
+
+The complete mass account reverses the offload problem. Hot-high static lift is 862.600 tonnes and an empty-arrival carrier retains 150.546 tonnes of ground reaction. Cold-dense static lift is 1,078.250 tonnes, creating 65.104 tonnes of uncontrolled upward force after cargo removal. Retaining a 120-tonne ground reaction requires 185.104 tonnes of support change.
+
+The provisional architecture converts selected hydrogen lift gas with atmospheric oxygen into contained water. One tonne of hydrogen changes effective support by 20.611 tonnes and produces nine tonnes of water. A full cold-dense unload converts 8.981 tonnes and creates 80.827 tonnes of contained water. Five of six trains retain nine tonnes per hour of conversion rate and complete the endpoint in 0.998 hour, inside the 1.25-hour transfer clock. The conversion also produces 149.530 MWh of electrical output, offsetting most placement energy while remaining a heat and public-exhaust burden.
+
+Sixteen feet provide 160 square metres of contact. With landing dynamics, imbalance and one foot lost, pressure is 40.583 kPa against the 60-kPa screen and local foot load is 41.369 tonnes against a provisional forty-five-tonne rating. A forty-metre-per-second broadside gust creates 5.631 MN of factored demand. N-2 vector thrust plus minimum controlled friction provides 5.955 MN, leaving 0.325 MN. These margins are behavior screens, not measured safety cases.
+
+The air path reaches civil public service at relative hour 41.917—five minutes inside its boundary—and absolute hour 47.917. Terrain remains the complete `DCP-2` governor at absolute hour 49.57 with 4.43 hours to the hour-54 boundary. Structure, envelope and lift-cell work govern reset at hour 162. The complete atmospheric specialty group replaces the shallow Pass 83 allowance, revising `DCP-2` to 758 deployed people, 1,699 affiliated positions and a 244-person minimum watch.
+
+### Technology, fiscal boundary and assurance
+
+The baseline produces eighty-six operational vehicles, eighteen reserves and fourteen development or destructive-test articles—118 total—through three integration lines at a peak rate of eight per year. The complete atmospheric comparator is $1.7297432T, $797.48575B above the superseded account. Adding the unchanged terrain and receiver accounts produces a $3.7773011T `DCP-2`; the present national boundary becomes $11.16044265T.
+
+An eighteen-campaign, $600B nested portfolio funds rival cellular structures, membrane systems, lift-gas conversion, mission hydrogen, propulsion, hull interaction, slow-flight control, thermal and exhaust systems, contact, robotic unloading, compound-weather protection, crew refuge, recovery, digital certification, proving ranges, complete missions, hydrogen infrastructure and an independent non-hydrogen energy rival. The first decisive object is a full four-cell lift bay joined to one conversion train and destroyed through cold-dense unload, one-train, one-foot and two-pod losses.
+
+### Artifact, validation and next boundary
+
+The nineteen-sheet [companion workbook](../../models/force/projection/gch340-complete-system-and-transient-closure.xlsx) contains the decision summary, assumptions, four-way complete-system competition, lift-cell geometry, coupled mass and energy, propulsion, heat rejection, a five-state unload transient, landing contact, no-anchor mooring, payload and balance, crew casualties, receiver and clock, reset and workforce, production and cost, technology program, 150 evidence gates, 210 terminal controls and reading guide. All 210 controls pass, the formula-error scan returns zero matches, every sheet is rendered and visually inspected, and the Open XML archive validates. Workbook SHA-256 is `80b52fbf99a1c2bc5bac28b0d82572e8f1b378a4d8e0a0e4a790f0b841a33d68`. No external-site research or exterior rendering is introduced.
+
+The pass makes the twenty-four-cell, six-train, six-bus, twelve-pod, sixteen-foot, two-keel and two-refuge grammar; coupled fuel method; cold-dense support transition; revised mass, energy, contact, clock, reset, workforce and fiscal boundaries authoritative at `R2`. It does not admit a membrane, structure, conversion train, hydrogen system, aerodynamic coefficient, heat exchanger, contact system, control law, carrier, rate, cost or readiness claim. All 150 evidence gates remain open and strict credit is zero.
+
+The next force pass should compare `GCH-340R` and `SAT-170R` through one common carrier and representative mission compiler, with payload, origins, receivers, public effect and denial worlds held constant. Requirements diagrams may follow representative subsystem geometry; exterior concept art remains blocked.
