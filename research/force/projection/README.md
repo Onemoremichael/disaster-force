@@ -12,7 +12,7 @@ That rule has repeatedly overturned the attractive answer. Fractional cargo did 
 
 ## Current answer
 
-The current answer is now a proving and measurement architecture rather than a vehicle selection. [CSAC-1](csac1-compound-service-article-and-range-campaign.md) establishes the permanent Service Systems Proving Command, campaigns and ranges. [MESA-1](mesa1-measurement-and-destructive-evidence-architecture.md) adds a three-plane shadow formation; [MESA-1R](mesa1r-representative-evidence-hardware-and-hazard-envelope.md) makes its independent planes physical. The selected planning articles are 110 kg and 135 kg tile cassettes, 1.2 t and 2.6 t carrier nodes and a separate 2.8 t receiver station, all with seven-day independent energy and local storage. The terrain node raises the instrumented carrier to 723.786 t and 34.384 kPa, so the earlier uncertainty allocation no longer passes; a 4,560-cell pressure skin targets 0.129 kPa U95 against a 0.183 kPa limit. Production remains on hold through independent second-lot replication, no earlier than program year fourteen.
+The current answer is now a proving and measurement architecture rather than a vehicle selection. [CSAC-1](csac1-compound-service-article-and-range-campaign.md) establishes the permanent Service Systems Proving Command, campaigns and ranges. [MESA-1](mesa1-measurement-and-destructive-evidence-architecture.md) adds a three-plane shadow formation; [MESA-1R](mesa1r-representative-evidence-hardware-and-hazard-envelope.md) makes its independent planes physical. [MESA-1C](mesa1c-supplier-neutral-architecture-and-trial-constitution.md) competes thirty-three concepts across eleven subsystems and selects eleven prototype baselines only after ten non-substitutable gates. It protects reference, destructive and quarantine stocks; fixes twelve physically one-way interfaces; registers sixty-eight trials and sixty-four co-governing gates; and tests independence at the component-ancestry level. Production remains on hold through independent second-lot replication, no earlier than program year fourteen.
 
 The present research reference is a two-mode DCP-2R formation built around a variable-mass adaptive service kernel:
 
@@ -106,7 +106,7 @@ A physical correction must propagate through vehicle, formation, mission clock, 
 
 For the current argument:
 
-[Fixed service-island independence](pts5-fixed-service-island-independence-compiler.md) -> [TAFG-1 configuration](tafg1-trivector-access-group-configuration.md) -> [second-region competition](tafg1-second-region-formation-competition.md) -> [DCP-2 configuration](tafg1-dcp2-physical-configuration.md) -> [SAT-170R](sat170r-internal-architecture-and-coupled-closure.md) -> [GCH-340R](gch340-complete-system-and-transient-closure.md) -> [DCP-2R](dcp2r-common-carrier-and-mission-compiler.md) -> [ESK-40V](esk40v-physical-tile-and-carrier-interface-closure.md) -> [CSAC-1](csac1-compound-service-article-and-range-campaign.md) -> [MESA-1](mesa1-measurement-and-destructive-evidence-architecture.md) -> [MESA-1R](mesa1r-representative-evidence-hardware-and-hazard-envelope.md)
+[Fixed service-island independence](pts5-fixed-service-island-independence-compiler.md) -> [TAFG-1 configuration](tafg1-trivector-access-group-configuration.md) -> [second-region competition](tafg1-second-region-formation-competition.md) -> [DCP-2 configuration](tafg1-dcp2-physical-configuration.md) -> [SAT-170R](sat170r-internal-architecture-and-coupled-closure.md) -> [GCH-340R](gch340-complete-system-and-transient-closure.md) -> [DCP-2R](dcp2r-common-carrier-and-mission-compiler.md) -> [ESK-40V](esk40v-physical-tile-and-carrier-interface-closure.md) -> [CSAC-1](csac1-compound-service-article-and-range-campaign.md) -> [MESA-1](mesa1-measurement-and-destructive-evidence-architecture.md) -> [MESA-1R](mesa1r-representative-evidence-hardware-and-hazard-envelope.md) -> [MESA-1C](mesa1c-supplier-neutral-architecture-and-trial-constitution.md)
 
 For water as the first full service-chain proof:
 
@@ -118,7 +118,7 @@ For program scale:
 
 ## Active decision boundaries
 
-The next projection pass must compete supplier-neutral architectures for the five MESA-1R node classes, pressure skin and one-way interfaces; freeze serial prototype configurations; and write the P01–P08 execution protocol. Its first physical objective is to determine whether seven-day autonomy, denied-time custody, outward heat rejection, removal equivalence and the revised 0.129-kPa soil U95 survive representative hardware. No interior or exterior form is authorized before P08 closes measured mass, volume, access, heat and hazard envelopes.
+The next projection pass must convert the eleven MESA-1C prototype baselines into build-release and acceptance packages: mass properties, access, heat, ancestry prohibitions, calibration, reverse-energy teardown, hazard exposures, custody formats and blinded instrumented/emulated/bare swaps. Rival teams may then build serial articles for P01–P08. No interior or exterior form is authorized before representative weigh-in, scanning, calorimetry and removal equivalence close the measured envelope.
 
 The following claims remain prohibited:
 

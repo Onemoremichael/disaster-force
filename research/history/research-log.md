@@ -3223,3 +3223,31 @@ Eight campaigns contain `68` trials, `64` evidence gates and USD `6.8B` of work:
 The companion workbook contains seventeen sheets and `342` terminal controls. Every control passes, the final formula-error scan finds zero matches, all sheets were rendered and visually reviewed, and the XLSX container validates. SHA-256 is `2789e0685deff08e4ded6ebefb85e3b7e2f3545b1650ee6e6be093e8fab96b60`.
 
 Every physical hardware, uncertainty, independence, heat-rejection and removal claim remains `OPEN`. Production is `HOLD`; rendering is `BLOCKED`. The next admissible work is a supplier-neutral architecture competition and serial prototype protocol for P01–P08.
+
+## Pass 93 — `MESA-1C` supplier-neutral architecture and trial constitution
+
+### Research question and decisive result
+
+What competing physical architectures, serial controls, article stocks, trial sequences and industrial-independence rules can turn the Pass 92 MESA-1R envelopes into an executable prototype program without allowing test equipment, network access, provider custody or corporate labels to manufacture evidence?
+
+The pass selects eleven prototype baselines from thirty-three candidates across article cassettes, carrier nodes, civil receiver, pressure skin, passive interface, independent energy, denied time, immutable storage and a burden-equivalent emulator. Ten hard gates determine admission before reliability, failure isolation, maintainability, integration and innovation are scored. Fourteen candidates are admissible and eleven are selected. A single missing hard gate rejects a candidate regardless of its weighted score.
+
+### Architecture and industrial consequence
+
+The selected chain uses zonal vaults for air articles and carriers, pod-local acquisition for terrain, three separately faulted civil-receiver modules, a dual-physics terrain skin with optical boundary reconstruction, physically inspectable passive interfaces, primary endurance energy plus an isolated event buffer, two atomic roots plus a quartz witness, dual cross-hashed immutable stores and passive mass/center-of-gravity/heat/impedance emulators.
+
+Twelve interface classes carry zero useful energy, return data, actuation authority and mission contribution. Evidence loss may stop credit but cannot alter the mission. The industrial register treats the decisive component, process, firmware or calibration root as the unit of independence. Twelve critical chains require two or three rival teams with zero shared decisive ancestry; different prime-contractor names are insufficient.
+
+### Trial and fiscal constitution
+
+Protected reference, destructive and quarantine stocks are separated from deployable campaign articles. The eleven-family bank retains nonnegative simultaneous margin and carries an indicative USD 1.764B article cost. Eight campaigns register sixty-eight trials and sixty-four co-governing configuration, energy, data, time, mechanism, civil-effect, no-crutch and replication gates over seventy-eight months. One failed gate yields zero campaign credit.
+
+The USD 6.8B campaign and workstream matrices reconcile and remain nested inside the existing USD 24B F01 family. No line is a quote or appropriation forecast. All trial and evidence records remain open, credit is zero, production is held and rendering is blocked pending representative weigh-in, scan, calorimetry, hazard exposure and instrumented/emulated/bare equivalence.
+
+### Artifact, validation and next boundary
+
+The fifteen-sheet companion workbook contains 1,183 deterministic controls. Every control passes, the formula-error scan returns zero matches, every sheet is rendered and visually reviewed and the Open XML archive validates. Workbook SHA-256 is `dc19d98c61bcad5c12a60ed36588403e2022ebefe1afb3c7795d0439fbe8b775`.
+
+The pass makes the competition constitution, eleven prototype baselines, protected article banks, interface law, sixty-eight-trial register, component-ancestry firewall and USD 6.8B two-way cost matrix authoritative at the current planning maturity. It admits no physical performance, vendor, production quantity, cost forecast or geometry.
+
+Pass 94 should write article-level build-release and acceptance packages: mass properties, access, heat, ancestry prohibitions, calibration standards, reverse-energy teardown, hazard exposures, custody formats and blinded swap protocols. Rival serial construction can follow those packages. Rendering remains blocked.
