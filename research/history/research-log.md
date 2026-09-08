@@ -2945,3 +2945,37 @@ The nineteen-sheet [companion workbook](../../models/force/projection/hbl340-arc
 The pass makes the offload-transition contradiction, four-rival competition, ground-coupled hybrid research reference, 112-article industrial object, revised cost and evidence burden authoritative at `R2`. It does not admit a vehicle, certify a hull shape or stabilize structure, power, propulsion, landing, weather, reliability or production performance. All seventy gates remain open and strict credit is zero.
 
 Pass 84 should compete `ATUT-170` physical architectures under the same discipline: gross and transported mass, payload deck, ground pressure, traction, articulation, debris and saturated-terrain mobility, slope, water crossing, autonomous route preparation, self-recovery, convoy control, energy, maintenance, base demand, workforce, production and representative proof. Only then should `DCP-2` be reconciled at equal physical depth or exterior requirements renderings be reconsidered.
+
+## Pass 84 — `ATUT-170` architecture competition and repository synthesis
+
+### Research question and architecture result
+
+Which complete physical architecture can carry the inherited 170-tonne payload across an 800-kilometre damaged-land route, preserve the hour-45 public-service path, traverse weak soil, grade, cross-slope, debris, bridge loss and floodwater, unload at a temporary receiver, recover after representative damage and return to certified service inside 168 hours?
+
+The [`ATUT-170` architecture competition](../force/projection/atut170-architecture-competition.md) holds one 158.75-tonne assigned service load and common route, receiver and reset boundaries across four rivals. `T1` distributed tracks fail saturated-ground pressure, turn, step, gap, water and clock. `T2` load walking passes pressure, stability and recovery pull but fails strategic distance, gap and water. `T3` amphibious cushion mobility passes pressure, water and time but fails traction, grade, side slope, debris, width, turn and recovery. Only `T4 SAT-170` closes all seven compound behavior screens.
+
+The provisional reference is a segmented adaptive terrain carrier, not a scaled heavy truck. Its 332-tonne tare includes twelve driven terrain pods, active articulation, variable contact, a 25-metre bridge-and-mat kit, route robots, offline convoy control and cooperative recovery. Rated gross is 502 tonnes; assigned mission gross is 490.75 tonnes. A 155-square-metre contact system produces 31.77 kPa at rated gross. The declared route takes 23.38 hours; origin release and receiver build place public service at relative hour 39.38 with 5.62 hours of margin. The concurrent reset path is 148 hours.
+
+### Energy, force and industrial consequence
+
+The leading feasibility risk is explicit. The route requires 421.36 MWh before reserve, while the reference assigns 600 MWh to a sixty-tonne energy system. Ten kWh/kg at the deliverable system boundary is not a conventional battery assumption and is not automatically closed by a familiar generator after fuel, conversion, thermal and safety mass are counted. The architecture therefore advances only as a technology target. Failure of the energy campaign propagates into gross mass, pressure, traction, structure, route time and cost.
+
+The architecture adds sixty-four deployed people, 144 affiliated positions and twenty minimum-watch positions, revising configured `DCP-2` to 592 deployed, 1,301 affiliated and 194 minimum watch. Forty-three ready packages require 172 operational vehicles, thirty-five reserve vehicles and twelve development or test articles. The 219-article production system uses three integration lines, three mobility-pod lineages, three traction suppliers, two energy lineages, two bridge lineages and four compound ranges. Peak direct employment is 28,000 and the wider ecosystem reaches 80,000.
+
+Thirteen technology campaigns carry $260B across low-pressure mobility, distributed traction, articulation, soil sensing, robotic bridging, route robotics, wading, high-specific-energy power, recovery, offline convoy control, payload handling, production certification and full-chain proving.
+
+### Fiscal reconciliation and stress test
+
+The selected architecture account is $882.82694B over twenty-five years. Removing the Pass 83 $290.25B generic `ATUT` account and inserting the complete program raises `DCP-2` from $1.51723385T to $2.10981079T. The dynamic one-region national boundary becomes $9.49295234T, an increase of $592.57694B.
+
+Raising assigned hard-access groups from twenty-two to thirty increases ready packages from forty-three to fifty-nine, operational vehicles from 172 to 236, reserve vehicles from thirty-five to forty-eight and total articles from 219 to 296. The selected program rises to $1.06751022T, `DCP-2` to $2.40960847T and the national boundary to $10.11030522T. Restoration returns all baseline values exactly. The fixed production ramp still contains 219 articles, exposing a seventy-seven-vehicle capacity gap rather than silently inventing more lines or rate.
+
+### Artifact, repository architecture and next boundary
+
+The twenty-sheet [companion workbook](../../models/force/projection/atut170-architecture-competition.xlsx) contains the summary, assumptions, architecture declarations, mass and payload, geometry and stability, ground pressure, traction and power, route and clock, obstacles and water, recovery, receiver and unload, resilience, reset, workforce, production, program cost, technology, one hundred evidence gates, one hundred checks and reading guide. All checks pass, the formula-error scan returns zero matches, the stress-and-restore test closes, every sheet is rendered and visually inspected, and the Open XML archive validates. Workbook SHA-256 is `5f9f1b5b3f1b4d7dee88740debefa55b7298e3dde673b8b4a0aa4793d089274c`. No external-site research or rendering is introduced.
+
+The top-level README is restructured around the thesis, institutional layers, present force design, research method, repository logic and active boundary. Its former pass-by-pass platform inventory is removed from the entry point; detailed derivation remains in subsystem indexes, the model catalog and history. This makes the repository navigable as an argument rather than as a chronology.
+
+The pass makes the seven-screen method, four rivals, `SAT-170` behavior reference, mass and route arithmetic, 219-article industrial object, $882.82694B architecture account, revised national boundary and $260B technology portfolio authoritative at `R2`. It does not admit a carrier, validate deformable-soil mobility, close the energy plant, authorize production or stabilize exterior geometry. All one hundred evidence gates remain open and strict credit is zero.
+
+Pass 85 should reconcile `GCH-340` and `SAT-170` at the common terrain–air interface: payload transfer states, receiver geometry, energy exchange, route handoff, maintenance, ancestry separation, crew authority and two-mode schedules. It should compete the `SAT-170` energy plant and contact system one level deeper. Controlled requirements renderings should be reconsidered only if those terms stop moving.
