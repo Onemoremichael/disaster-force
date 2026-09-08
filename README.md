@@ -2,118 +2,164 @@
 
 ## A Department of Resilience as a coequal instrument of national power
 
-The United States knows how to build power that can cross oceans, survive hostile conditions and sustain organized action for months. It has not built the civil equivalent: a permanent institution whose purpose is to keep populations alive, control catastrophic hazards, restore the systems of ordinary life and leave communities more capable than it found them.
+The United States has built an extraordinary ability to project organized force across distance, survive hostile conditions and sustain operations for months. It has never built the civil equivalent: a permanent institution designed to keep populations alive, control catastrophic hazards, restore the systems of ordinary life and leave communities more capable than it found them.
 
-This project asks what that institution would become if it were designed from first principles and funded at defense scale. It is not a proposal to enlarge today’s emergency-management system or repurpose retired military equipment. It assumes a cabinet-level **Department of Resilience**, an enduring **National Resilience Establishment**, and a purpose-built **Resilience Force** supported by its own research, acquisition, industrial, training, basing and reserve systems.
+This project asks what that institution would become if it were designed from first principles and funded at defense scale.
 
-The premise is simple. A permanently harsher environment changes the meaning of national power. The state that can deliver water, power, cooling, medical care, communications, mobility and civil continuity through catastrophe possesses a strategic capability: it protects its own society, stabilizes partners by invitation, creates a new industrial economy and makes democratic competence visible.
+It does not enlarge the existing emergency-management system. It does not place a humanitarian office beside a much larger military establishment. It does not begin with retired ships, converted aircraft or the agencies that happen to exist today. It assumes a cabinet-level **Department of Resilience**, an enduring **National Resilience Establishment**, and a purpose-built **Resilience Force** with its own operating services, commands, academies, laboratories, acquisition system, shipyards, aircraft and vehicle lines, utility arsenals, bases, reserves and proving grounds.
+
+The premise is that a harsher environment changes the meaning of national power. A state that can deliver safe water, power, cooling, medical care, communications, mobility and civil continuity through catastrophe possesses a strategic capability. It protects its own population, stabilizes partners by invitation, creates a major industrial economy and makes democratic competence visible.
 
 ## The design rule
 
-The unit of account is not an agency, vehicle or quantity of aid. It is:
+The unit of account is not an agency, platform or tonne of aid. It is:
 
 > **a defined population receiving a defined bundle of safe service by a stated time, for a stated duration, under stated damage.**
 
-Everything is derived backward from that condition. A desalination plant is not water service until intake, power, residual control, conveyance, pressure, storage, testing, distribution, labor and public access close as one chain. A hospital ship is not a health system until patient regulation, transport, utilities, workforce, supply, referral and discharge also close. A seat on a bus is not civil mobility until a household can be contacted, reached, moved accessibly, admitted to a named safe destination and supported through return.
+Everything is derived backward from that condition.
 
-This is why the force cannot be organized as a catalog of floods, fires, earthquakes and storms. Hazards differ, but the damaged civilian dependencies converge. The mature design combines prepared local continuity, hazard control, utility restoration, projected service capacity, selective movement and receiving capacity. It keeps deep hazard expertise while building formations around complete effects.
+A desalination carrier is not water service until intake, energy, treatment, residual control, conveyance, storage, testing, distribution, workforce and public access close as one chain. A hospital ship is not a health system until patient regulation, transport, utilities, clinical labor, supply, referral and discharge close. A seat on a bus is not civil mobility until a household can be contacted, reached accessibly, admitted to a verified destination and supported through return.
+
+This rule prevents the project from becoming a catalog of impressive machines. Platforms matter when they close a public-service chain that otherwise fails.
+
+## The institution
+
+The mature design has three deliberately separate layers.
 
 ```text
-PUBLIC GUARANTEE
-population · service · time · duration · damage
-        │
-        ▼
 DEPARTMENT OF RESILIENCE
-authority · rights · standards · budgets · accountability
-        │
-        ▼
+public guarantee · rights · standards · budgets · accountability
+                         │
+                         ▼
 NATIONAL RESILIENCE ESTABLISHMENT
-services · commands · bases · academies · laboratories · industry
-        │
-        ▼
+services · commands · schools · laboratories · industry · bases · reserves
+                         │
+                         ▼
 RESILIENCE FORCE
-protect locally · control hazards · restore lifelines · project service
-move and receive · transfer · regenerate · learn
-        │
-        ▼
+the certified people, formations and systems ready to operate
+                         │
+                         ▼
 VERIFIED CIVILIAN EFFECT
+population · service · time · duration · damage
 ```
 
-The three institutional layers are intentionally distinct. The Department owns the public guarantee and the legal, fiscal and rights architecture. The Establishment creates enduring capacity through professions, commands, laboratories, proving grounds, depots, arsenals, suppliers and reserves. The Force is the certified subset ready to operate. Confusing those layers produces either an agency without mass or a fleet without durable state capacity.
+The Department owns the public obligation and legal-fiscal architecture. The Establishment creates durable capacity through professions, research, acquisition, production, training, basing and regeneration. The Force is the subset certified for operations. Collapsing these layers produces either an agency without mass or a fleet without durable state capacity.
+
+The operating force is a matrix rather than a single national response fleet:
+
+- operating services generate professions and readiness;
+- effect portfolios define what civilians receive;
+- joint formations combine complete service chains;
+- geographic and functional commands allocate them;
+- permanent, reserve, state, tribal, auxiliary, industrial and partner components supply different kinds of depth;
+- prepared buildings, districts, receivers and utility interfaces allow projected capacity to become local service.
+
+The canonical grammar is in the [force architecture](research/force/force-architecture.md). The institutional argument begins with the [Department of Resilience](research/mandate/department-of-resilience.md).
 
 ## The force taking shape
 
-The research increasingly points to a matrix rather than a single national response fleet. Seven operating services generate professional capacity; nine effect portfolios define what civilians receive; joint formations close service chains; geographic and functional commands allocate them; and permanent, reserve, state, tribal, auxiliary, industrial and partner components create different forms of depth. These are different design coordinates, not competing organization charts. The [force architecture](research/force/force-architecture.md) supplies the canonical grammar; the [National Formation Registry](research/force/generation/national-formation-registry.md) governs forty-eight family hypotheses; the [canonical allocation](research/force/generation/canonical-force-allocation-and-fiscal-reconciliation.md) propagates them into concurrency, workforce, capital and entry contradictions; the [canonical cargo study](research/force/projection/canonical-cargo-and-transport-closure.md) converts those formations into whole external positions; the [carrier–node program](research/force/projection/carrier-node-requirements-and-industrial-program.md) derives the first rival strategic-mobility force and industrial envelopes from that common burden; the [`WRG-50` serial compiler](research/force/projection/wrg50-serial-manifest-and-configuration-admission.md) begins the harder transition from aggregate tonnes to controlled equipment, carrier positions, nodes and receivers; the [first-reach water competition](research/force/projection/wrg-fr10-first-reach-water-system-and-technology-competition.md) turns the first physical contradiction into four rival complete-system acquisition programs; the [degraded-service architecture](research/force/projection/wrg-fr10-degraded-service-architecture.md) makes storage state, route separation, bypass time and receiver failure part of the force design; and the [federated receiver architecture](research/force/projection/wrg-fr10-federated-receiver-architecture.md) establishes that several sites become independent service islands only when distribution, branch, power, quality, source, access and authority boundaries survive separately.
+The research has moved from aspiration to a demanding physical and institutional hypothesis.
 
-Buildings and neighborhoods carry prepared interfaces, stocks and continuity capacity. Territorial formations maintain household contact, building access, local utility islands and selective movement. Regional commands control hazards, restore networks and connect damaged places to national mass. National services provide the maritime, aviation, heavy-engineering, medical, logistics, communications and utility capabilities that local systems cannot economically hold. Receiving geography is prepared in advance so movement ends in actual service rather than displacement.
+At the local edge, neighborhood continuity formations maintain household contact, building access, water and medical power, accessible collection and lawful handoff. Regional commands control hazards, restore networks and connect damaged places to national mass. National services provide the maritime, atmospheric, terrain, heavy-engineering, medical, logistics, communications and utility capacity that local systems cannot economically hold. Prepared receiving geography ensures that movement ends in service rather than displacement.
 
-The [unknown-agent water-assurance architecture](research/force/projection/wrg-fr10-unknown-agent-water-assurance.md) now closes the doctrine behind the receiver's last common stop. It rejects field nondetection as universal evidence and treats assured provenance, sealed reserve and lawful local release as acquired capacity. A half-demand assured source plus a twenty-four-hour reserve maintains safe service in ten of twelve declared worlds; a second continuous provenance reaches eleven. The final world remains an intentional universal stop, every architecture remains unadmitted, and rendering remains blocked.
+At the national edge, the current force-design reference contains:
 
-The [assurance-source family competition](research/force/projection/wrg-fr10-assurance-source-family-competition.md) then asks what those independent provenances physically are. It finds no universal water machine: a nuclear coastal carrier, protected-groundwater group, variable-feed inland group and sealed-reference transfer lattice close different geographies. Together they serve ten of twelve declared theaters and preserve two sources in only six. The result turns residual custody, thirty-day consumables and sanitary wet logistics into major force programs rather than support footnotes.
+| Layer | Current research object | What it is trying to prove |
+|---|---|---|
+| Civic continuity | `NCAC-35` and Household Collection Groups | people can be found, reached, protected and lawfully moved through the last block |
+| Utility service | Water Service Cells and `PTS-50` | safe water, power and cooling persist through source, route, receiver and control failures |
+| Receiving geography | federated service islands | several sites are genuinely independent rather than multiple outlets of one fragile system |
+| Hard access | `TAFG-1` | atmospheric carriage, terrain carriage and utility bridging are distinct strategic actions |
+| Two-region assurance | `DCP-2` | two separately governed 635-tonne service cells survive loss of one access physics family |
+| Atmospheric carrier | `GCH-340` | a 340-tonne carrier can solve the dangerous payload-offload transition without external ballast |
+| Terrain carrier | `SAT-170` | a 170-tonne carrier can cross 800 km of damaged land, weak soil, obstacles and flood approach as one mission |
 
-The [closed-loop water endurance competition](research/force/projection/wrg-fr10-closed-loop-water-endurance.md) now attacks the two failures that defeat that whole source portfolio. Carry-and-contain, regeneration and dewatering, quality-segmented service and a clean-sheet circular source cell all close the original fourteen-day residual and thirty-day consumable cases. Only two close both denials simultaneously, and both then fail when the inherited power block is derated by 25 percent. The force therefore needs permanent residual-custody, process-materials, product-class and power-thermal formations; no architecture is selected and rendering remains blocked.
+These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
-The [end-to-end independence study](research/force/projection/wrg-fr10-end-to-end-independence.md) then tests whether those sources remain separate all the way from mobilization to public issue and reset. Source diversity alone preserves the safe-service floor in four of sixteen service worlds; split deployment reaches six; paired operating chains reach eleven but still share process-material, depot and base failures. A three-cell force with distinct carrier, node, power, quality, receiver, lot, crew, depot, control and base domains reaches all sixteen under the declared graph and still preserves the universal stop. It is an upper proving comparator, not a selected design: all twenty gates remain open, strict admission is zero and rendering remains blocked.
+The latest [ATUT-170 architecture competition](research/force/projection/atut170-architecture-competition.md) illustrates the method. A tracked carrier, load-walking carrier and amphibious cushion crawler each excel in one terrain regime and fail the complete mission. The provisional `SAT-170` reference treats the vehicle as an infrastructure system: twelve driven terrain pods, active articulation, variable contact, a self-laid 25-metre bridge-and-mat kit, route robots, offline convoy control and cooperative recovery all sit inside its mass, energy, workforce, reset and cost boundary. The declared 219-vehicle architecture program reaches $882.83 billion over twenty-five years. Its one hundred evidence gates remain open.
 
-The [cellular power and thermal study](research/force/projection/wrg-fr10-cellular-power-and-thermal-independence.md) replaces that upper comparator's three abstract power cells. A common plant, separate engine islands and hybrid black-start cells pass seven, ten and twelve of sixteen service worlds but qualify no complete cell. Only a multi-vector architecture with `N+1` dispatchable and thermal trains, local storage, independent energy lineages, offline control and fail-open exchange qualifies all three. It raises the formation to 11,250 dry tonnes and the twenty-five-year comparator to $796.88 billion. Its wet energy burden and twenty representative gates remain open, so it advances only to competition and rendering stays blocked.
+That scale is intentional. The project asks what changes when rescue, stabilization and environmental control receive the same seriousness normally reserved for force projection: clean-sheet machines, competing industrial teams, national test ranges, decades of procurement, deep reserves, supplier plurality and technology programs allowed to pursue capabilities that do not yet exist.
 
-The [heat-blackout power and thermal service study](research/force/projection/heat-blackout-power-and-thermal-service-cell.md) then applies that logic to an occupied 50,000-person district without reading protected New York outcomes. It derives 14.22 MWe of continuous electricity, 19.65 MWth of useful cooling, 2,389 MWh over seven days and 1,280 building-connection crew-hours from thermal, medical, water, vertical, communications and transfer services. Facility and central-refuge systems pass no complete worlds; a building mesh passes four. A twelve-cell `PTS-50` upper comparator passes all sixteen and the lawful stop. The [energy-lineage successor](research/force/projection/pts5-energy-and-heat-rejection-lineage-competition.md) then replaces its generic cells with six complete source and heat-rejection competitors. No lineage is universal: storage-only requires a 2,784-tonne cell, receiver-side rejection spans 2.96–5.69 MWth, and a mixed provisional group reaches 12,200 dry tonnes, 2,852 people and a $3.543 trillion national twenty-five-year comparator. The [deployment-geometry successor](research/force/projection/pts5-deployment-geometry-competition.md) holds one rapid-bridge payload constant and shows what the carrier changes: road, rail, shallow-water, prepared-anchor and tri-modal designs pass 17, 14, 18, 20 and 17 of 23 worlds while transported-system mass spans 471–1,505 tonnes. Its national comparator reaches $4.693 trillion after adding the geometry enterprise. Thirty-four gates remain open, so no architecture, carrier or rendering is admitted.
+## Innovation is a mission instrument
 
-The [`PTS-5` lineage–geometry compiler](research/force/projection/pts5-lineage-geometry-compatibility-compiler.md) now crosses all six source lineages with all five hosts. The thirty pairs produce 960 results across thirty-two integrated worlds and separate rapid-mobile, prepared, transition, firm-source and new-host roles. Every storage-only pairing breaks the current carrier envelopes. More important, the group proof shows that a twelve-cell `PTS-50` cannot preserve ten complete cells at an unprepared receiver after any two of road, rail and water fail: it needs thirty complete mobile cell-equivalents, or at least nine independently available forward cells to stay within twelve packages. Declared twenty-five-year boundaries span $4.397T for that prepared lower bound to $8.322T for full mobile replication. All forty-two gates remain open and rendering remains blocked.
+The Department would not wait for commercial markets to produce every required system. Like a military department, it would turn recurring mission failure into long-horizon technology competitions.
 
-The [national readiness-topology competition](research/force/projection/pts50-national-readiness-topology-competition.md) turns that lower bound into seven rival national force structures and allocates them across thirty-two receiving geographies. The most compact universal rival is not the concentrated prepared anchor anticipated in Pass 75. It is a thirteen-package federation of ten autonomous one-cell service islands plus one road, rail and water cell: after one island and two mobile modes fail, ten complete cells remain. A sixteen-package, four-mode lattice survives seventeen of eighteen compound worlds and buys greater independence from fixed infrastructure, but costs about $907 billion more over twenty-five years. The geographically differentiated national comparator contains 1,088 packages, including 607 fixed cells, and spans $4.153T–$6.936T around a $5.165T base. Neither result is selected: all thirty representative gates remain open, the independence of the fixed service islands is still unproved, and rendering remains blocked.
+Candidate fields include high-specific-energy mobile power; nuclear and non-nuclear water-energy carriers; rapid utility corridors; autonomous construction and route opening; variable-footprint heavy mobility; no-pier maritime logistics; high-rate fire aviation; grid-forming power; megaflow water control; heat rejection for occupied districts; sealed provenance and unknown-agent assurance; distributed sensing; offline civil command systems; and production methods for very large but modular civil machines.
 
-The [`PTS-5` fixed service-island compiler](research/force/projection/pts5-fixed-service-island-independence-compiler.md) opens that hidden acquisition object. A service island is not a hardened plant: it is a complete civic metabolism boundary spanning source, final heat destination, water, waste, corridors, controls, occupied interfaces, workforce, authority, supply, mobile exchange and reset. Of six rivals, only a twelve-node clean-sheet fabric closes all twenty-four declared behavior worlds, and it remains unadmitted. More importantly, the Pass 76 thirteen-package result requires ten-way separation across decisive ancestry domains; five domains retain only nine cells after a correlated fixed loss and two mobile-mode losses. An eleven-island, fourteen-package rival closes the same floor with six partitions. Independence therefore has a measurable alternative cost: about $944 million per extra partition per group under the declared coefficients. Recompiling the selected national portfolio around the complete island raises its base boundary to $6.099T. Thirty-four gates remain open and rendering stays blocked.
+Novelty is not rewarded for its own sake. A technology earns a place only when it changes a decisive mission coefficient and survives the whole service chain. The project therefore couples ambition to disqualifying tests, rival architectures, representative failure insertion and explicit stop rules.
 
-The [`PTS-5` fourth-access competition](research/force/projection/pts5-fourth-access-mechanism-competition.md) then tests eight clean-sheet ways to cross total legacy surface denial. No single mechanism closes more than eight of fifteen behavior worlds. Heavy buoyant lift plus autonomous terrain trains closes thirteen, but still fails the utility-gap and simultaneous-second-region cases. The larger conclusion is that access has three actions: carry the complete 635-tonne cell, bridge service from a surviving source, or convert qualified local material into service. A forty-three-set research pair produces an $848B selective program and a $6.848T whole-force boundary. All current credit remains zero; rendering stays blocked until full configuration.
+That demand would create a civil industrial base with the continuity now associated with defense: shipyards, aircraft and vehicle lines, utility manufacturing, robotics, construction systems, medical production, communications, materials, depots, technical education and allied supply networks. The economic and export opportunity follows from the force design; it does not substitute for it.
 
-The [`TAFG-1` tri-vector configuration](research/force/projection/tafg1-trivector-access-group-configuration.md) turns that loose portfolio into one formation: two heavy buoyant liftships carry a complete cell, four autonomous terrain vehicles carry an independent second cell, and four robotic corridor projectors bridge service from a surviving source. The 1,670-tonne, 488-person group closes fourteen of fifteen behavior worlds; a second simultaneous region still requires an eight-aircraft heavy-VTOL squadron or another complete group. Forty-three ready groups produce a $1.232T successor program and a $7.231T whole-force boundary. Ten ancestry domains expose shared payload custody as the new common stop; all thirty-four evidence gates remain open and rendering remains blocked.
+## How the repository is organized
 
-The [`TAFG-1` payload, arsenal and dispatch compiler](research/force/projection/tafg1-payload-arsenal-dispatch-compiler.md) makes that hidden dependency part of the force. A common hub closes only eight of thirteen one-region cut worlds; tri-partition custody separates three arsenal, loader, energy, control and release chains and closes all thirteen. It also corrects the concurrency claim: eight heavy-VTOL aircraft can serve a second region nominally, but one aircraft loss leaves only 555.625 of 635 tonnes. Ten aircraft can clear the mass-loss screen but still fail loss of their sole mode or site. Two complete tri-vector groups under dual-federated custody are the assured upper comparator, not a selection. The one-region reference reaches $7.383T and the two-region upper comparator $8.347T at the national boundary; all forty gates remain open and renderings remain blocked.
-
-The [`TAFG-1` second-region formation competition](research/force/projection/tafg1-second-region-formation-competition.md) now derives what the second-region guarantee actually costs. At an unprepared receiver, surviving whole-mode loss requires two separately governed 635-tonne physical cells. A six-vehicle atmospheric-and-terrain `DCP-2` detachment attains that registered 1,270-tonne lower bound with 486 additional deployed people and a $770.6333B forty-three-package program—$192.8631B below full duplication. Bridge, local-conversion and prepared-cell rivals remain valuable conditional formations; two VHL lattices show why vehicle multiplicity is not physics diversity. No formation or rendering is admitted.
-
-The [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) now assigns both complete cells position by position. Four exact 145-tonne dry blocks create a common nested load grammar, but atmospheric and terrain cells retain separate custody, interfaces, bases, crews, receiver zones and release. The former `HBL-320` and `ATUT-160` labels leave only 0.8 percent spare capacity and are superseded by `HBL-340` and `ATUT-170` payload requirements. The configured forty-three-package program rises to $933.2764B and leaves only a quarantined $30.22B gap to the not-like-depth full-duplication control. All sixty evidence gates remain open; carrier architectures and renderings remain blocked.
-
-The [`HBL-340` architecture competition](research/force/projection/hbl340-architecture-competition.md) now demonstrates why the atmospheric carrier is not simply a very large airship. A fully buoyant vehicle becomes dangerously light when 340 tonnes of payload leave; three rivals retain 123–331 tonnes of universal transition gap or require an entire external-ballast chain. The provisional `GCH-340` reference instead remains deliberately underbuoyant while loaded, closes cruise with aerodynamic lift and places the deficit into weak ground through a distributed contact system. The declared 1,003-tonne, 850,000-cubic-metre vehicle requires 144 MW of segmented power, a 1.575-GWh energy system, a 142-hour reset path and a 112-article industrial program worth $932.25745B. It is a behavior reference, not an admitted design: seventy gates remain open, strict credit is zero and rendering remains blocked.
-
-The neighborhood seam has become the decisive design problem. National fleets fail if the force cannot know who needs help without becoming a surveillance system, enter a dark building, maintain water and medical power, preserve households and care relationships, or move a person through the last block to a verified destination. `NCAC-35` defines that complete service system. The [Household Collection Group](research/force/generation/household-collection-group-formation-design.md) supplies its deployable origin formation: seven `HCC-5` companies own household verification, vertical continuity, accessible collection and lawful handoff while prepared districts and heavy route, power and water capacity remain binding external contracts. The [shared-capacity study](research/force/generation/shared-capacity-allocation-and-claim-denial.md) makes that split enforceable. The cargo compiler exposes the mobility consequence: the inherited screen delivers 25.5 percent of physical mass but only 13.0 percent of complete formation equivalents, and every receiver remains unquantified. Pass 62 then shows that meeting a common 95-percent deadline target would require 10.048–23.077 million tonnes of gross 72-hour carrier potential and a provisional $5.222–9.693 trillion carrier-and-node program, depending on activation and network architecture. Pass 63 tests one flagship water formation inside that envelope. Sixteen source lines expand to 690 planning objects; a 120-tonne surface target fits 686 after density floors and still admits zero for dispatch or reception because configuration, route, node and receiver evidence is absent. Pass 64 answers the pipe-volume failure with a complete ten-kilometre first-reach mission. Four sectional, reeled, field-extruded and fold-flat rivals produce 78–152-hour declared line schedules, yet all remain denied because pressure, potable, degraded-service, receiver and regeneration evidence is absent. Pass 65 then distinguishes zero trunk flow from zero public service: a charged downstream buffer can bridge bounded loss, but the baseline treatment train has no surplus to charge it while meeting equal demand. Four storage-and-route topologies pass one, four, four and six of seven declared worlds; all remain unadmitted, and the leader still fails a receiver-wide hold. Pass 66 moves through that boundary: three genuinely independent half-demand service islands pass eight of ten declared receiver worlds, while a four-island mesh with a second half-demand source provenance passes nine. Pass 67 then distinguishes nondetection from assurance. Central confirmation safely passes two of twelve worlds; a field-negative shortcut passes three but creates seven unsafe-issue worlds; qualified provenance and sealed reserve reach ten; and a second continuous provenance reaches eleven while retaining the universal safe stop. All strict admissions remain zero and rendering remains blocked. These are controlled research requirements, not procurement quantities. They establish that readiness, packaging, transfer infrastructure and prepared receivers are capital assets. A tonne moved is not yet civil power.
-
-Technology is part of the institution, not decoration around it. The Department would turn repeated mission failure into long-horizon competitions across six coupled mission threads: entering a broken theater, reaching occupied civil terrain, controlling an active hazard, producing and distributing lifelines, preserving care and human continuity, and sustaining and regenerating the force. Rapid utility corridors, autonomous construction, high-rate no-pier logistics, grid-forming power, megaflow water control, persistent fire aviation and purpose-built maritime water–energy platforms are candidate capability families inside those threads—not predetermined answers. Novelty earns a place only when it changes a decisive mission coefficient and survives the complete service chain.
-
-That demand would create a civil industrial base with the scale and continuity now associated with defense: shipyards, aircraft and vehicle lines, modular utilities, robotics, construction systems, medical production, communications, materials, maintenance, technical education and allied supply networks. The economic opportunity follows from the force design; it does not substitute for it.
-
-## The work is organized as a proof
-
-The repository is not arranged by the order in which ideas were discovered. It follows one causal argument:
+The repository follows the causal argument, not the order in which ideas were discovered.
 
 ```text
-MANDATE → FORCE → MISSION SYSTEMS → PROVING → SYNTHESIS
-                  ↘ PROGRAMMATICS ↗
+research/
+├── mandate/        public obligation, first principles and institutional design
+├── force/          formations, readiness, geography and force projection
+├── systems/        hazard and lifeline systems that deliver civilian effects
+├── proving/        evidence rules, campaigns, ranges and attempts to break the design
+├── programmatics/  workforce, industry, acquisition and fiscal boundaries
+├── synthesis/      current strategic judgment
+└── history/        supersession, pass findings and the research record
 
-HISTORY preserves revisions; it does not govern the current design.
+models/
+├── force/          executable formation, mobility and projection models
+├── systems/        executable hazard and lifeline models
+└── CATALOG.md      exhaustive artifact register
 ```
 
-[Mandate](research/mandate/README.md) defines the public obligation. [Force](research/force/README.md) derives the people, formations, readiness and geography that must exist before impact. [Mission systems](research/systems/README.md) close the physical and operational chains. [Proving](research/proving/README.md) tries to break them in real places and representative trials. [Programmatics](research/programmatics/README.md) carries only surviving requirements into workforce, industry and cost. [Synthesis](research/synthesis/README.md) states the judgment currently warranted. The complete logic and authority boundaries are explained in the [research architecture](research/README.md).
+Each research paper owns interpretation, limitations and consequence. Each workbook owns arithmetic, sensitivity and integrity checks. The [model catalog](models/CATALOG.md) is exhaustive. The top-level narrative is intentionally selective; detailed pass history belongs in [research history](research/history/README.md), and the long physical derivation belongs in the [force-projection chain](research/force/projection/README.md).
 
-Every pass ends with a stocktake rather than a victory statement: what became authoritative, what the comparison falsified, what remains provisional, where the burden moved, and which next test has the greatest power to change the force. This keeps ambition coupled to discipline. Novel systems are welcome when they remove a declared mission failure; scale, cost or technical novelty alone cannot admit them.
+This separation is important. Discovery order is not authority. A conclusion does not remain current because it appears early in git history, and a newer model does not silently overwrite the reason an earlier one failed. The [supersession map](research/history/supersession-map.md) preserves that lineage.
 
-Quantitative models mirror that structure under [`models/`](models/README.md). A workbook owns arithmetic, sensitivity and integrity controls; its paper owns interpretation, limitations and consequence. The [catalog](models/CATALOG.md) is exhaustive, while the research narrative remains selective. Earlier work is never allowed to become current merely because it appears first in the git history; amendments and superseded conclusions are isolated in [history](research/history/README.md).
+## The research method
 
-## The live frontier
+The project treats the repository as an accumulating proof.
 
-The current proof campaign moves the neighborhood formation from Gulf Coast flood conditions into a seven-day New York heat–blackout, where roads may remain visible while elevators, water pumps, cooling, medical equipment, communications and civil records fail inside occupied buildings. It has deliberately produced no architecture result. The first three population-state engines were rejected; a lawful atomic posterior was then preregistered. Its first architecture-blind preflight stopped before a single posterior transition because the registered covariance gate did not impose a comparable statistical test across Gaussian and heavy-tailed cases. A corrected `v3C0A` gate is frozen but has not been rerun. The [active frontier](research/frontier.md) owns the exact evidence, stop condition and next admissible work; the [New York campaign dossier](research/proving/campaigns/new-york/README.md) preserves the ordered chain.
+1. Register the public effect and failure world before choosing a platform.
+2. Derive mass, flow, power, heat, time, labor, access and authority backward from that effect.
+3. Compete complete architectures under identical requirements.
+4. Use hard gates for non-substitutable failures; do not hide them in weighted scores.
+5. Separate behavior under assumptions from current evidence and strict admission.
+6. Propagate a physical correction into formation, workforce, industry and cost.
+7. Stress the result, restore the baseline and record what changed.
+8. Carry unresolved contradictions forward as the next research boundary.
 
-## Reading the study
+Every pass ends with a stocktake: what became authoritative, what was falsified, where the burden moved, what remains provisional and which next test has the greatest power to change the force.
 
-The shortest route to the thesis is [first principles](research/mandate/first-principles.md) → [Department of Resilience](research/mandate/department-of-resilience.md) → [integrated strategic study](research/synthesis/strategic-study.md).
+## Current research boundary
 
-The shortest route to the operating design is [force architecture](research/force/force-architecture.md) → [formation registry](research/force/generation/national-formation-registry.md) → [canonical allocation](research/force/generation/canonical-force-allocation-and-fiscal-reconciliation.md) → [Household Collection Group](research/force/generation/household-collection-group-formation-design.md) → [shared-capacity allocation](research/force/generation/shared-capacity-allocation-and-claim-denial.md) → [canonical cargo and transport closure](research/force/projection/canonical-cargo-and-transport-closure.md) → [carrier–node requirements and industrial program](research/force/projection/carrier-node-requirements-and-industrial-program.md) → [`WRG-50` serial configuration admission](research/force/projection/wrg50-serial-manifest-and-configuration-admission.md) → [first-reach water competition](research/force/projection/wrg-fr10-first-reach-water-system-and-technology-competition.md) → [degraded-service architecture](research/force/projection/wrg-fr10-degraded-service-architecture.md) → [federated receiver architecture](research/force/projection/wrg-fr10-federated-receiver-architecture.md) → [unknown-agent water assurance](research/force/projection/wrg-fr10-unknown-agent-water-assurance.md) → [assurance-source families](research/force/projection/wrg-fr10-assurance-source-family-competition.md) → [closed-loop water endurance](research/force/projection/wrg-fr10-closed-loop-water-endurance.md) → [end-to-end independence](research/force/projection/wrg-fr10-end-to-end-independence.md) → [cellular power and thermal independence](research/force/projection/wrg-fr10-cellular-power-and-thermal-independence.md) → [heat-blackout power and thermal service](research/force/projection/heat-blackout-power-and-thermal-service-cell.md) → [energy and heat-rejection lineages](research/force/projection/pts5-energy-and-heat-rejection-lineage-competition.md) → [deployment geometries](research/force/projection/pts5-deployment-geometry-competition.md) → [lineage–geometry compiler](research/force/projection/pts5-lineage-geometry-compatibility-compiler.md) → [national readiness topologies](research/force/projection/pts50-national-readiness-topology-competition.md) → [mission systems](research/systems/README.md).
+The force-design frontier has now produced provisional physical references for both strategic carriers in `DCP-2`:
 
-The shortest route to the research edge is [active frontier](research/frontier.md) → [New York campaign](research/proving/campaigns/new-york/README.md) → [assurance](research/proving/assurance/README.md).
+- `GCH-340`, a ground-coupled hybrid atmospheric carrier whose governing problem is unloading 340 tonnes without becoming dangerously buoyant;
+- `SAT-170`, a segmented adaptive terrain carrier whose governing problem is maintaining ground pressure, traction, route opening, recovery and service time across several terrain regimes.
 
-## Evidence boundary
+The next force pass must reconcile them at the terrain–air interface: payload transfer, receiver zones, energy exchange, route handoff, maintenance, ancestry separation and two-mode mission schedules. The `SAT-170` energy plant and deformable-soil contact system remain the leading feasibility risks.
+
+A separate empirical campaign is developing a lawful New York heat–blackout population-state engine behind an architecture firewall. Its preregistered statistical gate must be resolved before protected outcomes can inform architecture. The [active frontier](research/frontier.md) owns both stop conditions and the next admissible work.
+
+## Reading paths
+
+For the thesis:
+
+[First principles](research/mandate/first-principles.md) → [Department of Resilience](research/mandate/department-of-resilience.md) → [integrated strategic study](research/synthesis/strategic-study.md)
+
+For the operating design:
+
+[Force architecture](research/force/force-architecture.md) → [mature force design](research/force/generation/mature-force-design.md) → [national formation registry](research/force/generation/national-formation-registry.md) → [canonical allocation](research/force/generation/canonical-force-allocation-and-fiscal-reconciliation.md)
+
+For the hard-access proof:
+
+[Projection chain](research/force/projection/README.md) → [`DCP-2` physical configuration](research/force/projection/tafg1-dcp2-physical-configuration.md) → [`HBL-340` competition](research/force/projection/hbl340-architecture-competition.md) → [`ATUT-170` competition](research/force/projection/atut170-architecture-competition.md)
+
+For evidence and falsification:
+
+[Proving doctrine](research/proving/README.md) → [assurance](research/proving/assurance/README.md) → [active frontier](research/frontier.md)
+
+## Evidence and rendering boundary
 
 The models are executable arguments, not validated systems. Most configurations remain at first-order engineering maturity. No major platform has closed representative full-mission evidence, and no architecture has earned procurement status.
 
-Renderings remain deferred. Form should follow a sufficiently closed understanding of mass, energy, flow, heat, structure, crew, maintenance, safety, waste, degraded operation and public use—not lead it.
+Renderings remain deferred. Form should follow a sufficiently closed understanding of mass, energy, flow, heat, structure, ground interaction, crew, maintenance, safety, waste, degraded operation and public use—not lead it.
