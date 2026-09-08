@@ -47,6 +47,8 @@ The [`TAFG-1` Payload, Arsenal and Dispatch Compiler](force/projection/tafg1-pay
 
 The [`TAFG-1` Second-Region Formation Competition](force/projection/tafg1-second-region-formation-competition.xlsx) competes seven universal and conditional packages across unprepared, vehicle-loss, whole-mode, timing, receiver and cost tests. `DCP-2` attains the declared 1,270-tonne universal lower bound with two liftships, four terrain vehicles and 486 additional deployed people. Its $770.6333B program saves $192.8631B against exact full duplication; terrain plus utility bridge is the $572.3871B conditional floor, and two VHL lattices fail common-mode loss. Fifteen sheets, fifty-two checks, restored 22-to-30-group sensitivity and a zero-error scan reconcile; forty-four gates remain open and rendering is blocked.
 
+The [`DCP-2` Physical Configuration](force/projection/tafg1-dcp2-physical-configuration.xlsx) expands both complete cells into sixty-four governed dry-position instances and eight wet packs. Four exact 145-tonne dry blocks create a nested two-`HBL-340`/four-`ATUT-170` load grammar. Nineteen sheets close mass, cube, deck, calculated payload balance, separate bases and receiver zones, dispatch, duty cycle, nineteen permitted loss worlds, 168-hour reset and a $933.2764B configured program. Eighty checks pass, the 22-to-30-group sensitivity restores exactly and the formula-error scan is empty. Sixty evidence gates remain open and rendering is blocked.
+
 ## How to inspect a model
 
 Begin on the `Executive`, `Read Me`, or control sheet. Identify the service promise and the decision the model owns before examining the top-line result. Then distinguish four kinds of information inside the workbook: source-backed observations, declared design assumptions, calculated quantities, and evidence gates.
@@ -62,7 +64,7 @@ Later models often break or supersede one conclusion while preserving the earlie
 ```text
 DEPARTMENT SCALE
       ↓
-FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH → SECOND-REGION FORMATION
+FORMATION REGISTRY → FORCE ALLOCATION → SHARED-CAPACITY LEDGER → CANONICAL CARGO → CARRIER–NODE ENTERPRISE → WRG-50 SERIAL ADMISSION → FIRST-REACH COMPETITION → DEGRADED-SERVICE ARCHITECTURE → FEDERATED RECEIVERS → UNKNOWN-AGENT ASSURANCE → ASSURANCE-SOURCE FAMILIES → CLOSED-LOOP ENDURANCE → END-TO-END INDEPENDENCE → CELLULAR POWER-THERMAL INDEPENDENCE → OCCUPIED-BUILDING SERVICE → ENERGY AND HEAT-REJECTION LINEAGES → DEPLOYMENT GEOMETRIES → LINEAGE–GEOMETRY COMPILER → NATIONAL READINESS TOPOLOGY → FIXED-ISLAND INDEPENDENCE → FOURTH-ACCESS COMPETITION → TAFG-1 CONFIGURATION → PAYLOAD-ARSENAL DISPATCH → SECOND-REGION FORMATION → DCP-2 PHYSICAL CONFIGURATION
       ↓                    ↓                    ↑
                          HCG-35B ───────────────┘
 CASCADIA CLOSURE → COVARIANCE FAILURE

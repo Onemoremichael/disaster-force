@@ -36,6 +36,8 @@ The [`TAFG-1` payload, arsenal and dispatch compiler](projection/tafg1-payload-a
 
 The [`TAFG-1` second-region formation competition](projection/tafg1-second-region-formation-competition.md) supplies that rival. Universal unprepared assurance imposes a registered two-cell, 1,270-tonne lower bound after whole-mode loss. `DCP-2` attains it through separately governed atmospheric and terrain carriage with six vehicles and 486 additional deployed people, reducing the forty-three-package program by $192.8631B against full duplication. Bridge, local-conversion and prepared-cell formations retain strategic value under explicit receiver conditions; two VHL lattices demonstrate that vehicle count cannot substitute for physics diversity. No formation is admitted and all forty-four gates remain open.
 
+The [`DCP-2` physical configuration](projection/tafg1-dcp2-physical-configuration.md) makes that rival a serialized requirement. Four exact 145-tonne dry blocks plus segregated wet packs load two `HBL-340` and four `ATUT-170` payload envelopes while preserving separate origin nodes, interfaces, receiver zones, crews and release. The prior carrier labels are superseded because they left only 0.8 percent spare capacity. The configured program rises to $933.2764B; the remaining $30.22B comparison with full duplication is quarantined until both are configured to equal depth. Sixty gates remain open and rendering is blocked.
+
 ## The architecture
 
 ```text
