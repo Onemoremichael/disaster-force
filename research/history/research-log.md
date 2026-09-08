@@ -3545,3 +3545,39 @@ The companion workbook contains twenty-one sheets and forty-one independent term
 The final workbook is 69,247 bytes with SHA-256 `23e12ce70210a6324370b38cbf8dffb300e973a2843edd2ba537e7b43d9680a2`.
 
 No external-site research and no rendering are introduced. The next force-generation pass should specify fixture commissioning and first-run data constitution: physical reference artifacts, calibration transfer, commanded-versus-measured waveform tolerances, run randomization, digital schemas, time synchronization, blank and positive-control recovery, invalid-run logic, decision-packet assembly and authority choreography for the first closure and damage events. Internal sections remain evidence-gated and exterior form remains blocked.
+
+## Pass 103 — F36 fixture commissioning and first-run data constitution
+
+**Date:** 8 September 2026
+
+**Question:** What must a public F36 range prove about its own references, mounted measurements, clocks, evidence custody and decision process before it may judge a technical root, and what exact record constitutes the first closure and damage events?
+
+**Primary artifact:** [F36 fixture commissioning and first-run data constitution](../force/generation/f36-fixture-commissioning-and-first-run-data-constitution.md)
+
+**Companion model:** [F36 fixture commissioning and first-run data constitution](../../models/force/generation/f36-fixture-commissioning-and-first-run-data-constitution.xlsx)
+
+Pass 103 changes commissioning from instrument calibration into measurement-system proof. The commissioned object begins with registered truth and ends with two independent deterministic replays of a frozen decision. A public fixture must impose and observe the common service world without supplying root-specific alignment, preparation, curing, inspection, repair or process logic that the deployed article requires.
+
+Twenty-four durable reference artifacts occupy eight classes: four pressure/transient, three flow/volume, three geometry, three known-leak, three axial-load/restraint, three time/data, four water/challenge and one configuration/blind-truth artifact. They populate a four-tier public chain from national primary cells through traveling transfers and fixture working references to mounted run instruments. No tier certifies itself, and post-run reference checks close the measurement bracket.
+
+The uncertainty constitution caps the fixture at twenty percent of the allowable decision budget. One-sided acceptance requires the measured value plus expanded uncertainty to remain entirely on the safe side of an upper limit, or the corresponding lower-limit rule. Results crossing the guard band are `INDETERMINATE`. Commands never substitute for measured article pressure, and an over-test cannot silently substitute for the prescribed event because it may change the mechanism.
+
+Three clocks separately serve the evidence, witness and builder authorities. The research targets relative timestamp uncertainty no greater than 100 microseconds, ten-millisecond event boundaries and no more than 0.1-second accumulated error over six hours. Network denial is a native design state. Clock disagreement beyond the bound makes the affected claim uncreditable rather than reconstructing official time after the fact.
+
+The append-only evidence fabric freezes twenty-eight event fields and fourteen record classes. The evidence and witness authorities each retain a locally complete original during the event. The closure fixture produces 195,080 native samples per second and each damage cell 284,000. One hundred instrumented hours per closure article produce 2.809 TB after eight-byte samples, 2.5 envelope/metadata overhead and two originals; seventy-two articles produce 202.259 TB. Twenty-six six-hour damage runs produce 6.380 TB. A thirty-percent derivative, video and index margin produces a complete campaign estate of 271.230 TB.
+
+Thirty-two commissioning events test the mounted systems: sixteen pressure, leak, geometry, load, time and denial events for the closure fixture, plus eight blank, recovery, contamination, time-denial and injury-geometry events for each damage cell. Every known truth must be classified correctly with complete evidence and agreeing replay. Cell B cannot inherit Cell A's mounted commissioning.
+
+Ten invalid-run rules distinguish a valid article failure from an indeterminate decision and a test that cannot answer its registered question. Safety stops may remain valid service failures. Modular salvage requires preregistered causal isolation and can never create complete mission credit. Ten blank/recovery controls separately expose contamination, poor recovery and carryover.
+
+Each event produces eighteen decision objects and traverses eighteen authority transitions. Requirements, configuration, metrology, water, safety, blind truth, custody, time, execution, acceptance, evidence sealing, receiver release, forensics and final admission remain separate powers. Emergency safety authority may stop any event and may not award credit.
+
+`FR-C-001` is a declared nominal clean closure selected through a sealed root-balanced draw after all closure commissioning passes. `FR-D-001` is the disclosed clean-transection case selected only from roots with an admitted closure prerequisite. Each event proves one complete evidence cycle and does not qualify its root.
+
+The eighteen-month phase cross-classifies USD 0.420B of capital and USD 0.086B/year inside Pass 102. It funds reference artifacts, transfer metrology, denial-tolerant clocks and data, blank/challenge systems, reset plant, cyber assurance and independent decision laboratories. These are public truth assets rather than vendor conveniences.
+
+The companion workbook contains twenty-two sheets and fifty-five terminal controls. The final formula-error scan and terminal audit contain zero failures. Ten disposable sensitivities behave causally and are restored: capital or annual mismatch, a removed registry record or changed data rate revokes drafting; authority approval alone releases only manufacture; count-only reference, commissioning or first-event entries cannot bypass detailed records or predecessor gates; and a rendering flag alone remains powerless. Every sheet is rendered and visually inspected.
+
+The final workbook is 68,094 bytes with SHA-256 `475ef0cfc5481bb6259d0b4f0c02203dd8956f9949e2ad9307846e3f0284108a`.
+
+No external-site research and no rendering are introduced. The next force-generation pass should define the F36 range-complex throughput and regeneration architecture: closure bays, damage cells, metrology cycles, cleanout, water laboratories, forensic lines, data replay, blind shops, crews, spares and reset stocks sized against stochastic invalid runs and common-cause loss while preserving the thirty-month protocol.

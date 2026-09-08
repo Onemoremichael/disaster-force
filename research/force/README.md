@@ -58,6 +58,8 @@ The [F36 supplier-neutral sector and rupture-article build-release standard](gen
 
 The [F36 closure-kernel and full-bore damage-cell protocol](generation/f36-closure-kernel-and-full-bore-damage-cell-protocol.md) turns that bank into falsifiable work. A closure now includes preparation, alignment, formation, independent inspection, reject/rework, serialization, power, tools and evidence. Twenty-six full-bore injuries end only after proof, flush, rapid assay, configuration closure and receiver release inside a conserved six-hour clock. Blind defects and opened sections test whether nondestructive decisions match truth. Twelve content gates pass in planning, but fixtures, articles, sanitary admission, production and form remain unproved.
 
+The [F36 fixture commissioning and first-run data constitution](generation/f36-fixture-commissioning-and-first-run-data-constitution.md) adds the truth infrastructure beneath that protocol. Twenty-four physical references, thirty-two commissioning events, four calibration tiers, guard-banded decisions, three clocks, two independent originals and separated evidence authorities must work as one causal chain before a supplier article earns credit. Approximately 271 TB preserves the full campaign without summary substitution. The first two credit-bearing events prove an evidence cycle only; the next unresolved object is the range complex that can execute and regenerate this campaign at tempo.
+
 ## The architecture
 
 ```text
