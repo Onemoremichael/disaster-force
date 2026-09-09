@@ -98,6 +98,8 @@ The [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation co
 
 The [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.md) constitutes method as `RHM-1`. Ten method families instantiate 180 procedures, with `RC-1-BA` compiled through its full fifty-one-event assignment. Initial-state realization, dual calibration, sampling, signed commands, independent abort channels, missing-data law, uncertainty and an event-to-pair-to-root-to-candidate estimator now exist before observation. All 380 physical gates remain open; unresolved effects remain blank, and production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution](generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.md) constitutes the other source path as `RFA-1`. Passive gravity, cellular closed-loop and robotic recovery systems compete across two unlike builders, six public rigs, forty-eight articles and 306 events. Water application is measured beside source capture, thermal protection, vault demand and environmental release. Twenty functions and 480 channels feed the same public event-to-candidate inference hierarchy without importing Root B's physical assumptions. All 1,124 physical gates remain open; production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text

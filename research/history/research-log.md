@@ -4232,3 +4232,39 @@ The thirty-four-sheet workbook recalculates with zero formula errors. All 924 te
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 123 should create `RFA-1`, a Root A drainage, pool-fire, firewater, contaminated-runoff and recovery method constitution. It should define coupled mass, heat and water states; public test articles; failure insertion; robotic reconnaissance; environmental retention; responder access; evidence and recovery without copying Root B's fluid assumptions. Exterior form remains blocked.
+
+## Pass 123 — F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution
+
+**Date:** 9 September 2026
+
+**Question.** What unlike technology architectures, public articles, methods, challenge population, measurement system, intervention law, causal estimator, recovery sequence, institution and fiscal commitment are required to discover a Root A system that terminates liquid release, bounds fire, preserves neighboring sources and prevents suppression activity from exporting the event into uncontrolled runoff?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution](../force/generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution](../../models/force/generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.xlsx)
+
+Pass 123 creates `RFA-1` and rejects drainage as plumbing and firewater as an unqualified benefit. Three unlike complete-chain candidates enter without selection. `AF-1` uses a fixed passive gravity cascade with separately graded source and water paths. `AF-2` uses distributed underdeck capture cartridges and closed-loop impingement cooling. `AF-3` uses deployable refractory grade, autonomous clearing, robotic skimming and modular runoff fractionation after fixed terrain is damaged.
+
+Each candidate receives two unlike builders. Six roots each receive two hydraulic articles, two fire articles, one destructive witness, one recovery article, one regeneration spare and one public calibration reference: forty-eight root-native articles. Six public rigs are distributed across three proving campuses.
+
+The exact 306-event population contains 72 development, 192 paired, 24 destructive, 12 reset and six cross-site reconstruction events. The paired block forms ninety-six matched control/challenge pairs across six roots, two operational sites and eight challenges. The challenges cover adverse grade, half drain area, half-full sump, debris, bounded pool fire, firewater capacity shock, partial barrier with wind and compound energy/network/time denial.
+
+The inherited 2,000 kg planning source occupies 2.500 m³ and contains 85.176 GJ. The 25 m² pool screen produces approximately 58.559 MW heat release and 20.495 MW radiant power. Its simple 1.6 kW/m² point-source distance is approximately 31.927 m; the 100 m² full-rack area screen reaches approximately 63.855 m. These calculations size the research problem without claiming flame, shielding or siting performance.
+
+All candidates retain positive calculated source-flow margin under a compound fifty-percent area and twenty-five-percent head reduction. The bulk orifice result does not qualify unsteady flow, debris, vapor, thermal distortion or fire. Firewater screens reveal the sharper contradiction. `AF-1` retains 36 m³ after fifteen minutes, leaving 4 m³ in the inherited 40 m³ vault, then exceeds capacity by 8 m³ at twenty minutes. `AF-2` retains 7.2 m³ after thirty minutes through an assumed 85-percent recirculated fraction. `AF-3` retains 21.6 m³ through forty-percent recirculation. Their theoretical transferred-heat screens are approximately 14.788, 9.859 and 7.394 MW; none proves extinction.
+
+Ten method families progress from geometry and water-only hydraulics through surrogate, debris, water segregation, quarter source, controlled fire, full source, destructive compound failure and recovery/reconstruction. Ten intervention families include passive diversion, isolation, local agent, closed-loop cooling, robotic high-flux cooling, autonomous clearing, skimming, fractionation, remote barriers and public terminal isolation.
+
+Twenty measurement functions allocate 480 channels. Twenty features separate terminal time, source capture, neighbor transfer, pool growth, fire, radiation, drainage, vault use, source–water mixing, uncontrolled product, recovery, responder exposure, intervention, timing, mass closure and evidence. Valid events form matched pairs; two sites form a builder root; two unlike builders form a candidate. Twelve missing-data rules prohibit decisive imputation.
+
+The forty-two-month institution requires 462 positions, USD 1.080B capital and USD 178M/year. Registered overlap is USD 320M/110M per year, leaving USD 760M/68M per year net-new gross requirement. `BRD-9R` becomes USD 2.195B/372M per year and exceeds the inherited CISA boundary by USD 1.235B/112M per year. `BRD-9U` becomes USD 2.713B/493M per year. Gross program exposure is USD 1.703B.
+
+The thirty-six-sheet workbook recalculates with zero formula errors. All 1,678 terminal audits pass. Fifty-three disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed; long floating-point display was corrected and overflow states were made visually explicit. The final workbook is 260,968 bytes with SHA-256 `2e1847eb8a2fa6aba0d24894b9124064102947a956e7196c1224c2d3b0d5fe0f`. All 521 planning gates pass, 1,124 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 124 should create `RFP-1`, the candidate-neutral full-scale Root A fire/hydraulic rig physical specification. It should define replaceable terrain fields, source dispensers, separate source and water paths, igniters, thermal boundaries, drains, sumps, vaults, environmental containment, robot corridors, casualty recovery, protected metrology and site geometry without selecting a candidate. Exterior form remains blocked.
