@@ -70,6 +70,8 @@ The [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification]
 
 The [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution](f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.md) supplies that execution system as `RHE-1`. It conserves the 306-event denominator across ten stages, fixes ninety-six matched pairs and creates fifty-five dormant replacement tokens for invalid attempts. Valid adverse results cannot be erased. Every event shares a clock from `T-72 h` freeze through day-seven disposition, with twenty-four readiness holds, sixteen abort rules, eight safe-state actions, eight recovery states and separate validity and outcome boards. The next pass must turn stage families into method cards and causal estimators; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.md) supplies that method system as `RHM-1`. Ten method families own source, medium, initial state, dwell and evidence; eighteen common phases create 180 clocked procedures. One fifty-one-event root compiles fully, while twenty features flow only through accepted event, matched-pair, site, root and unlike-builder dispositions. Twelve missing-data rules prohibit decisive imputation, and twelve amendment classes preserve prior evidence. The next pass should establish Root A drainage, pool-fire, firewater, runoff and recovery method; exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |

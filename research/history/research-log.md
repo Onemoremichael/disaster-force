@@ -4198,3 +4198,37 @@ The thirty-two-sheet workbook recalculates with zero formula errors. All 1,393 t
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 122 should create method-card and causal-estimator detail for the ten stages, including one end-to-end worked root, allowed tolerances, dwell, sampling, operator and automatic commands, missing-data logic, uncertainty propagation, recovery-entry criteria and one invalid-attempt replacement. Root A drainage, pool-fire, firewater and recovery protocols remain a parallel open obligation. Exterior form remains blocked.
+
+## Pass 122 — F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution
+
+**Date:** 9 September 2026
+
+**Question.** What public method system is required to turn the `RHE-1` event register into comparable, causally interpretable and independently reconstructable evidence without allowing a candidate, builder, site, schedule authority or post-result analyst to redefine the experiment?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](../force/generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](../../models/force/generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.xlsx)
+
+Pass 122 creates `RHM-1` and treats method as sovereign public infrastructure. Ten method families cover empty mechanical, hydrostatic, dry nitrogen, inert two-phase surrogate, cold soak, quarter-source paired, full-source paired, destructive, recovery/reset and cross-site reconstruction work. Each instantiates eighteen phases from `T-72 h` configuration freeze through day-seven disposition, producing 180 clocked procedures.
+
+One `RC-1-BA` root compiles through all fifty-one of its inherited events: twelve development, thirty-two paired, four destructive, two reset and one cross-site reconstruction. Fifty-one event cards resolve each event to its method, procedure, command, abort, recovery and evidence objects without asserting execution.
+
+Twenty-four registered tolerances define nominal value, allowed deviation, dwell and decision class for `Q01–Q04` and `F05–F08`. Thirty-six calibration objects give every one of eighteen measurement functions primary and independent witness chains. Thirty sampling records distinguish identity/control, pre-method state and post-method residual. Sixteen command transactions bind issuer, time, evidence and predetermined failure response. Sixteen abort channels bind observation, threshold, vote, debounce, final element and authority. Eight safe-state actions remain independent of candidate control.
+
+Twenty decision features separate mission, safety, diagnostic and validity quantities. Accepted event observations feed sixteen matched-pair estimators signed challenge minus control. Two operational-site contrasts feed each builder-root effect while preserving site spread. Two unlike-builder roots feed each candidate effect while preserving builder spread. No weighted composite compensates for a failed conjunctive limit, and no pair, root or candidate effect appears until every required lower-level disposition is accepted. Blank therefore means unresolved; zero remains available only as an observed numeric result.
+
+Twelve missing-data rules prohibit decisive imputation. Twenty uncertainty chains require physical acceptance. Ten validity rules determine whether the registered proposition was tested, while twelve outcome classes determine candidate performance only after validity. Eight ordered recovery-entry states make elapsed time insufficient for entry. Eight evidence objects permit outside-site reconstruction. Twelve amendment classes preserve prior versions and require full affected-set reprocessing when an estimator changes.
+
+A synthetic training example shows a 7.2-microsecond clock defect exceeding the 5-microsecond ceiling. The original remains visible, no candidate outcome is issued, one reserve token may be consumed and the replacement receives a new identity. The example is training-only and creates no physical acceptance or campaign credit.
+
+The thirty-month institution uses 286 positions. Gross capital is USD 150M and annual support USD 96M/year, creating USD 390M exposure. Registered overlap is USD 118M/76M per year, leaving USD 32M/20M per year net-new gross requirement. The CISA increment is USD 20M/14M per year and shared-technology increment USD 12M/6M per year. `BRD-8R` becomes USD 1.435B/304M per year, exceeding the inherited CISA boundary by USD 475M/44M per year. `BRD-8U` becomes USD 1.953B/425M per year.
+
+The thirty-four-sheet workbook recalculates with zero formula errors. All 924 terminal audits pass. Fifty-one disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed; one semantic display defect was corrected so unresolved causal effects remain blank instead of appearing as measured zeros. The final workbook is 161,643 bytes with SHA-256 `cc3c6e4e84850239471610f59599916aefe92d25f46675526883bddacafb06d0`. All 511 planning gates pass, 380 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 123 should create `RFA-1`, a Root A drainage, pool-fire, firewater, contaminated-runoff and recovery method constitution. It should define coupled mass, heat and water states; public test articles; failure insertion; robotic reconnaissance; environmental retention; responder access; evidence and recovery without copying Root B's fluid assumptions. Exterior form remains blocked.

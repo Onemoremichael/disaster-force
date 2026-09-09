@@ -96,6 +96,8 @@ The [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification]
 
 The [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution](generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.md) constitutes execution as `RHE-1`. Six roots now cross ten stages in an immutable 306-event register. Ninety-six matched pairs, a fifty-five-attempt invalidation reserve, one public clock, independent holds, aborts, recovery states, reset ceilings and outside-site evidence reconstruction separate scientific validity from candidate outcome. The institution requires 518 positions and forty-two months. All 742 physical gates remain open; architecture selection, production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](generation/f36-cisa40-sa6-root-b-method-card-and-causal-estimator-constitution.md) constitutes method as `RHM-1`. Ten method families instantiate 180 procedures, with `RC-1-BA` compiled through its full fifty-one-event assignment. Initial-state realization, dual calibration, sampling, signed commands, independent abort channels, missing-data law, uncertainty and an event-to-pair-to-root-to-candidate estimator now exist before observation. All 380 physical gates remain open; unresolved effects remain blank, and production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
