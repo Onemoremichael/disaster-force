@@ -3639,3 +3639,31 @@ Eighteen planning-content gates pass. Rehearsal approval, named rosters, physica
 The final workbook is 81,135 bytes with SHA-256 `f157aaddbf9f2e89945aebd29a6d2bef4a4fd95316c5f2b81e7c7ff60465871a`.
 
 No external-site research and no vehicle rendering are introduced. The next force-generation pass should preregister the observed-throughput estimator and residual-campaign admission rule: preserve cause classes, reconstruct station and support-service distributions, test common-cause dependence and decide whether the remaining fifty-four closure and twenty damage credits can continue with, enlarge or redesign the three-campus force.
+
+## Pass 106 — F36 observed-throughput update and residual-campaign admission constitution
+
+**Date:** 8 September 2026
+
+**Primary artifact:** [F36 observed-throughput update and residual-campaign admission constitution](../force/generation/f36-observed-throughput-update-and-residual-campaign-admission-constitution.md)
+
+**Companion model:** [F36 observed-throughput update and residual-campaign admission constitution](../../models/force/generation/f36-observed-throughput-update-and-residual-campaign-admission-constitution.xlsx)
+
+Pass 106 freezes how the Department may learn from the first F36 wave before any live result is visible. Every started event retains a permanent identity and one terminal disposition. Ordinary terminal exposure can update intrinsic range invalidity. Article failures remain technical results; forced intervention updates conditional consequence only; safety stops and indeterminate packets require separate authority; open packets remain unresolved. The cutoff, cause board and estimator custodian are separated. A right-censored event can never be promoted into a short completed cycle.
+
+The update replaces Pass 104's normal attempt approximation with an exact beta-negative-binomial posterior predictive recurrence. Twenty effective prior attempts preserve the inherited assumptions as `Beta(3,17)` for closure invalidity and `Beta(4,16)` for damage invalidity. The synthetic method vector contains eighteen ordinary credited closure events, six ordinary credited damage events and four forced-denial invalids. The intervention records contribute zero trials and failures to intrinsic frequency. The conformance posteriors are `Beta(3,35)` and `Beta(4,22)`, requiring sixty-four attempts for fifty-four remaining closure credits and twenty-eight attempts for twenty remaining damage credits at P90.
+
+Only complete, uncensored histories enter time limits. Closure and damage planning cycles become 8.542 and 15.211 days; packet limits become 6.556 and 8.844 days. At-risk service records produce lower planning availability of 65.9 and 60.7 percent for surviving closure bays and damage cells. The residual compiler creates ninety-two immutable reservations: fifty-four closure and twenty damage primaries plus ten and eight contingencies. Four closure bays operate in four-event waves; three damage cells operate in three-event waves while `DC-C2` remains protected. Maximum WIP is four and three. Three-root primary counts remain 18/18/18 closure and 6/6/8 damage. The last packets close by days 300.5 and 340.4, within day-425 and day-365 horizons.
+
+The synthetic conformance result preserves the six-bay/six-cell architecture. It does not admit a live update or residual campaign. Closure demand is 546.689 bay-days against 882.085 productive capacity, or 62.0 percent; damage demand is 425.915 cell-days against 665.127 productive capacity, or 64.0 percent. All seven support services remain below the seventy-percent planning ceiling. A complete-chain damage-cell increment remains a conditional branch: USD 0.480B capital plus USD 0.0945B support over twenty-seven months produces a USD 1.470B residual outlay, but the synthetic case does not trigger it. Base remaining support is USD 0.8955B.
+
+The pass exposes a larger distinction between denial tolerance and physical regeneration. The nine campus-local Pass 104 capital lines total USD 4.020B, so one complete campus represents about USD 1.340B. The entire national reset/modular reserve and controlled program reserve total only USD 0.460B. Even assigning all of it to one destroyed campus covers 34.3 percent and leaves USD 0.880B exposed. Pass 105 proved only a denial-rehearsal design. The 180-day physical-regeneration claim remains unproved and unfunded.
+
+The companion workbook contains sixteen sheets and seventy-three terminal audits. All audits pass after export, the saved-workbook formula-error scan is empty and all sheets are visually reviewed. Eleven disposable sensitivities behave causally: forced-denial relabeling, missing completeness, censored-time contamination, intrinsic invalidity, reduced productive time, interval overlap, root drift and support-basis change fail their intended gates; cutoff-only, downstream-authority-only and requalification-only shortcuts remain blocked. The final workbook is 105,220 bytes with SHA-256 `af52787f7d6d61a06fb999337afd50d64684418d02fa3aa372ea01c343521ed4`.
+
+**Repository integration**
+
+- `research/force/generation/f36-observed-throughput-update-and-residual-campaign-admission-constitution.md`
+- `models/force/generation/f36-observed-throughput-update-and-residual-campaign-admission-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement and research-log routes updated
+
+No external-site research and no vehicle rendering are introduced. The next force-generation pass should define an F36 campus-regeneration capital and industrial exercise constitution: distinguish recoverable denial, modular loss and complete physical destruction; assign reserves to explicit states; configure every campus service as a regenerable system; create unlike industrial build paths; and test cold reconstruction within 180 days without borrowing the lost campus's workforce, technical data, utilities or acceptance authority.
