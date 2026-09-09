@@ -3788,3 +3788,31 @@ The companion workbook contains seventeen sheets, fifty-two release gates and se
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. The next pass should produce a build-release drawing constitution for `CISA-40`: root-specific support and anchor coordinates, lift-node geometry, ballast and center-of-gravity maps, hydraulic collar sections, valve/sample/waste topology, one-line electrical and grounding diagrams, protection coordination, evidence-power separation, access and exclusion volumes, fixture reactions, process travelers and terminal teardown maps. Every drawing must identify a stimulus, quantity, tolerance, sensor, invalid state, hazard boundary or custody object; none may exist merely to suggest exterior form.
+
+## Pass 111 — F36 `CISA-40` internal build-release and measurement drawing constitution
+
+**Question:** What internal coordinate, load-path, service, measurement, manufacturing-record and release system must exist before either `CISA-40` root may cut material, without turning a qualification article into a production-vehicle concept?
+
+**Primary artifact:** [F36 `CISA-40` internal build-release and measurement drawing constitution](../force/generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.md)
+
+**Companion model:** [F36 `CISA-40` internal build-release and measurement drawing constitution](../../models/force/generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.xlsx)
+
+Pass 111 creates `BRD-1`, the internal Build-Release Definition for the first coupled article. The transport frame is `X = 0–12.0 m`, `Y = ±1.8 m`, `Z = 0–3.8 m`. Eight support centers occupy four longitudinal stations at `X = 1.0, 4.3, 7.7 and 11.0 m`, each at `Y = ±1.0 m`. Every 1.6 m² face has 400 mm leveling travel, a 150 kN jack boundary and a separate 0–200 kN reaction channel. The 1.50-g, one-support-out result remains 70.923 kPa against the 75 kPa weak-ground limit.
+
+The pass resolves a physical inconsistency rather than hiding it. The inherited five-metre anchor line cannot exist inside the 3.6 m transport width. Four article-owned outriggers therefore have transport roots at `Y = ±1.6 m` and deployed centers at `Y = ±2.5 m`, preserving the 156.757 kN combined-anchor result. Four lift nodes at `(2, ±1.35, 2.8)` and `(10, ±1.35, 2.8) m` retain a 196 kN working boundary and 200 kN proof target; the challenged node is 142.785 kN.
+
+Root A is provisionally a welded high-strength-steel orthogonal frame with pinned outriggers, an article-owned strand-jack portal, replaceable mechanical collars, rotating generation and LFP storage. Root B is provisionally a continuous-fiber thermoplastic shell-grid with post-tensioned ties, telescoping composite anchor struts, synchronized lifting crawlers, bonded-clamp collars, different rotating conversion and structural zinc-halogen storage. Both dry ledgers close at 32.000 tonnes. Their calculated dry centers of gravity are `(5.758, −0.019, 1.294) m` and `(5.809, +0.033, 1.308) m`; common service and ballast produce 40-tonne operating states at `(5.899, −0.015, 1.189) m` and `(5.940, +0.026, 1.201) m`. These are planning outputs, not observations.
+
+Each hydraulic path now contains a 12 m article section and a separately attributable 12 m receiver return. The two 0.35 m paths therefore total 48 m and 4.6181 m³, with a 13.8544 m³ three-volume flush and 101.022 kN proof-pressure end force. There is no credited common manifold. The electrical definition uses two 480Y/277 V sections, a normally open tie, a separately protected 0.60 MW critical bus, a 2.5 MVA transformer, a 13.8 kV public feeder and a 30 kWh evidence battery that cannot substitute for service power. Root-specific fault hypotheses remain provisional.
+
+The package registers forty-eight controlled drawing sheets, fifty-two root build records, twenty-four independent drawing checks and eighteen hazard boundaries. Thirteen measurement planes retain separate article and receiver routes, clocks, evidence power and two originals. Three receiver worlds and public fixture limits make hidden stabilization invalid. The program spans eighteen months, 192 people, USD 0.318B capital and USD 0.084B/year; these values remain inside Pass 110 `CISA-1`.
+
+The companion workbook contains twenty-two sheets, fifty-six sequential release gates and ninety-five terminal audits. All audits pass, the saved-workbook formula-error scan is empty and every rendered sheet is visually reviewed. Twenty-four disposable sensitivity cases reject narrowed transport width, mass or CG mismatch, weak support definition, anchor or lift capacity, hydraulic geometry, under-flush, electrical insufficiency, evidence-power loss, missing measurement/hazard/drawing/build/check objects, schedule or finance mismatch and summary-only authority. Manually raising summary counters cannot bypass root source packages, material and process evidence, independent reproduction or the article board.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.md`
+- `models/force/generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. The next pass should assign root-specific member and panel sections, joints, fasteners, bondlines, collar seals, valves, conductors, conversion and storage envelopes, heat and exhaust routes, material allowables, process coupons, nondestructive methods, mass uncertainty and complete tolerance stacks. Internal diagrams remain evidence and interface drawings; exterior form remains blocked.

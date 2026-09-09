@@ -74,6 +74,8 @@ The [F36 physical module and interface qualification constitution](generation/f3
 
 The [F36 coupled utility module and receiver-spine physical specification](generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.md) converts the first fifty-eight `MQP-1` articles into a common service envelope without dictating a common implementation. A 40-tonne `CISA-40` reference article must survive weak-ground support, anchor, lift and settlement states while operating paired F36-350 loops, sanitary custody and a 1.5 MW island with local black start. Three receiver worlds, thirteen measurement planes, sixteen sequences and sixteen root-balanced faults make the claim observable. The thirty-six-month subprogram remains planning-only; root evidence, `CRC-E01`, production and exterior rendering stay held.
 
+The [F36 `CISA-40` internal build-release and measurement drawing constitution](generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.md) converts that envelope into a builder-checkable `BRD-1` package. It fixes coordinates, deployable anchors, lift and support nodes, attributable hydraulic returns, power one-line, protection challenges, evidence separation, access, hazards, receiver fixtures and terminal records. Two unlike roots remain physically and industrially distinct. Thirty-eight planning gates close; all eighteen source-evidence gates remain open or blocked, so no drawing count can create physical or production authority.
+
 ## The architecture
 
 ```text
