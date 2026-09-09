@@ -110,6 +110,8 @@ The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](generatio
 
 The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) makes source escalation a separately governed force function as `RAS-1`. Quarter mass does not guarantee quarter peak: 500 kg at the 25 m² casualty bound retains the 58.5585 MW screen. The 144-credit campaign conserves source, intervention water, safeing energy, causal time and evidence through unlike roots, denial and outside-site replay. All physical and downstream authority remains open or blocked; exterior rendering remains held.
 
+The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitution](generation/f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) makes the first low-source event issuable in design as `RAE-1`. It replaces a physically misleading turn-down of the 150 mm route with a government-owned 40 mm reference article, then binds forty-eight events to 5,050 serialized acceptance records. The constitution grants no route, method, candidate or exterior-form authority. A physical reference-article and safeing proof campaign is next.
+
 ## The architecture
 
 ```text

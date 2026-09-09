@@ -84,6 +84,8 @@ The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](f36-cisa4
 
 The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) supplies that case as `RAS-1`. Two source-bearing methods cross two unlike roots, six public rigs and six source-entry classes. The 144-credit design retains a 25 m² casualty-area bound for the 500 kg source, closes source and water separately, gives twelve final control elements thirty-six independent safeing paths and requires twenty-four outside-site casualty replays. The next pass should compile executable as-built article, containment-cell, source-lot, safeing and first-event dossiers. Exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitution](f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) supplies those dossiers as `RAE-1`. The inherited 150 mm route holds approximately 169.646 kg over 12 m and cannot honestly represent a 100 kg source event. Six public `REA-100` articles therefore use 40 mm inserts as explicit low-source controls with no inference to the full route. Forty-eight valid events resolve into 5,050 physical acceptance records. Planning is coherent; every physical record and eight downstream releases remain open or blocked. The next pass should build and prove the reference article, its measurements and unlike safeing paths before any source event. Exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |
