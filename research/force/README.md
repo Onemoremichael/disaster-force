@@ -76,6 +76,8 @@ The [F36 coupled utility module and receiver-spine physical specification](gener
 
 The [F36 `CISA-40` internal build-release and measurement drawing constitution](generation/f36-cisa40-internal-build-release-and-measurement-drawing-constitution.md) converts that envelope into a builder-checkable `BRD-1` package. It fixes coordinates, deployable anchors, lift and support nodes, attributable hydraulic returns, power one-line, protection challenges, evidence separation, access, hazards, receiver fixtures and terminal records. Two unlike roots remain physically and industrially distinct. Thirty-eight planning gates close; all eighteen source-evidence gates remain open or blocked, so no drawing count can create physical or production authority.
 
+The [F36 `CISA-40` root build package and tolerance-stack constitution](generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.md) adds the first manufacturing hypotheses. It corrects dry mass and mission energy, sizes unlike root members, pipes, collars, valves, buses and thermal systems, registers twenty-four joint families, and carries sixteen worst-case tolerance chains per root into explicit measurement ownership. Its process-evidence minimum is ninety-six coupons, sixty-four NDE lots, twenty-four destructive witnesses and sixty-four key as-built characteristics per root. All observations remain zero; `BPT-1` authorizes build-package planning only.
+
 ## The architecture
 
 ```text

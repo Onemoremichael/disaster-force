@@ -3816,3 +3816,47 @@ The companion workbook contains twenty-two sheets, fifty-six sequential release 
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. The next pass should assign root-specific member and panel sections, joints, fasteners, bondlines, collar seals, valves, conductors, conversion and storage envelopes, heat and exhaust routes, material allowables, process coupons, nondestructive methods, mass uncertainty and complete tolerance stacks. Internal diagrams remain evidence and interface drawings; exterior form remains blocked.
+
+## Pass 112 — F36 `CISA-40` root build package and tolerance-stack constitution
+
+**Date:** 9 September 2026
+
+**Question:** Can two industrially independent roots turn the common `CISA-40` coordinate and service grammar into coherent member, joint, utility, energy, process and tolerance hypotheses without hiding mass, fuel, manufacturing uncertainty or missing physical evidence?
+
+**Primary artifact:** [F36 `CISA-40` root build package and tolerance-stack constitution](../force/generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.md)
+
+**Companion model:** [F36 `CISA-40` root build package and tolerance-stack constitution](../../models/force/generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.xlsx)
+
+Pass 112 creates `BPT-1`, the first manufacturing-level challenge package under `BRD-1`. It preserves the 12.0 × 3.6 × 3.8 m envelope, support, deployed-anchor, lift, hydraulic, electrical, receiver and evidence boundaries. It does not select a production vehicle or create exterior form.
+
+The pass first corrects two predecessor abstractions. An unallocated reserve is not physical mass and cannot be placed at an invented center of gravity. Both roots now target 30.900 tonnes of named dry hardware and preserve a separate 1.100-tonne manufactured-mass allowance to the 32.000-tonne boundary. Root A's classified worst-case uncertainty is 0.800 tonnes with 0.282-tonne RSS; Root B's is 0.860 tonnes with 0.293-tonne RSS. Root B must remove 0.800 tonnes from its earlier physical ledger to obtain equal allowance, chiefly through support, handling, hydraulic and structural-storage targets. The remaining worst-case allowances are only 0.300 and 0.240 tonnes.
+
+The previous 1.400-tonne generic fuel line is also rejected as an eight-hour energy state. `BPT-1` creates three explicit 40-tonne configurations. The structural-proof state combines 30.900 tonnes dry, 4.000 tonnes service inventory and 5.100 tonnes inert or trim ballast. Root A's energy state uses 2.600 tonnes nonfuel service, 3.200 tonnes liquid fuel and 3.300 tonnes ballast. At 11.83 MWh/t, 38 percent conversion and 0.450 MWh deliverable storage it produces 14.835 MWh, or 9.890 hours at 1.5 MW. Root B carries 4.400 tonnes of DME and 2.100 tonnes ballast; at 7.92 MWh/t, 42 percent and the same deliverable storage it produces 15.086 MWh, or 10.057 hours. These margins remain design hypotheses for degradation, auxiliaries and ambient effects.
+
+Root A receives paired 250 × 150 × 10 mm lower steel chords, 200 × 120 × 8 mm upper chords, 168.3 × 10 mm circular diagonals, four reaction frames, 300 × 250 × 16 mm outrigger boxes, paired 30 mm lift clevis plates and 80 mm pins. Its corrected 8.000-tonne structural subledger preserves 1.432 tonnes of lower chords and 0.916 tonnes of upper chords while tightening reaction frames, diagonals, support boxes, anchor arms, lift hardware, decks and joining allocations. Root B uses 320 × 180 × 10 mm and 260 × 140 × 8 mm equivalent CF-PAEK boxes, consolidated diaphragms, metallic receiver nodes, post-tensioned carbon ties, 360 × 220 × 12 mm outriggers and 75 mm titanium lift pins within a 6.500-tonne structure.
+
+A conservative 40-tonne, 1.50-g, 10 m simple-span screen produces 58.840 kN/m, 735.499 kN·m maximum moment and 319.782 kN factored chord demand. The truss-equivalent Root A and Root B predictions are 1.162 and 1.533 mm midspan deflection. Lower-member material ratios are 14.9 and 9.0 before joint, buckling, fatigue and environmental knockdowns. Outrigger screens produce 190.3 MPa in Root A and 0.001718 strain in Root B, corresponding to planning ratios of 3.30 and 2.04. The pass explicitly denies qualification from these simplified margins.
+
+Root A uses 350 mm ID, 10 mm wall super-duplex pipe; twenty-four attributable metres weigh 2.131 tonnes and reach 18.375 MPa nominal hoop stress at 1.05 MPa proof. Its collar uses sixteen M20 10.9 bolts, keyed axial transfer, dual EPDM barriers and a segmental annular valve. Root B uses 350 mm ID, 8 mm continuous thermoplastic composite pipe; twenty-four metres of pipe wall weigh 0.346 tonnes and reach 22.969 MPa. Its conical bonded-clamp collar carries 250 kN through 0.138 m² nominal bond area at 1.812 MPa mean shear, with separately replaceable barriers and a rolling-diaphragm valve. Pressure strength earns no sanitary credit.
+
+At 480 V and 0.9 power factor the common service requires 2.005, 3.007 and 4.009 kA. Root A uses four 100 × 10 mm copper laminations per phase; Root B uses six 120 × 8 mm aluminum laminations. Six-metre, three-phase conductor masses are 0.645 and 0.280 tonnes. Root A retains an 8 kA prospective first-cycle fault hypothesis; Root B remains converter-limited near 4.410 kA. Protection, evidence power, neutral and ground stay separately attributable.
+
+Root A's 38-percent conversion produces 2.447 MW source waste heat at 1.5 MW output. A 2.8 MW boundary uses eight 8 m² panels and 79.60 kg/s reference airflow. Root B produces 2.071 MW waste heat; a 2.4 MW boundary uses eight 7 m² panels and 68.23 kg/s. Six coupled technology programs follow: mass-state-aware energy cells, self-sensing load nodes, structural electrochemical storage, full-bore sanitary collars and valves, evidence-native protection, and deployable high-flux thermal surfaces.
+
+Sixteen tolerance chains per root now govern support coplanarity and position, deployed anchor position and pin axis, lift nodes, collar center and normal, pipe restraint, seal compression, valve deadleg, bus and cable clearance, evidence separation, service aisle and thermal deployment. All thirty-two close under worst-case planning arithmetic. Root A collar angle, both service aisles, anchor coaxiality and Root B seal compression have the least clearance and receive priority. RSS is diagnostic only and cannot rescue a failed worst-case safety or public-interface boundary.
+
+The process constitution registers twenty-four unlike joint families, ninety-six representative coupons, sixty-four NDE lots and twenty-four frozen destructive witnesses. Each root must define sixty-four key as-built characteristics with instrument, calibration, raw result, uncertainty and public-datum transform. Root A emphasizes heat, weld, distortion, coating and bolt ancestry; Root B emphasizes tape, insert, consolidation, bondline, porosity, preload and damage maps. A clean NDE image without known-defect capability earns no absence claim.
+
+The fourteen-month program uses 164 people: fifty-four public staff and fifty-five per root. It draws USD 0.212B capital and USD 0.061B/year from the remaining Pass 111 envelope, leaving USD 0.106B capital and USD 0.023B/year. The fourteen-month operating draw is USD 0.07117B. These are nested research allocations.
+
+The companion workbook contains eighteen sheets, sixty-six sequential release gates and 110 terminal audits. All audits pass after final export; the saved-workbook formula-error scan is empty and every sheet is rendered and visually reviewed. Twenty-six disposable sensitivities reject altered physical mass, allowance, fuel, efficiency, load, chord separation, material allowable, pipe wall, collar proof, power factor, thermal capacity, tolerance, evidence population, schedule and finance. A final rendering-authority switch cannot bypass the preceding physical gate chain. Forty-four planning gates close; all twenty-two physical and downstream gates remain open or blocked.
+
+The final workbook is 68,953 bytes with SHA-256 `11fdd2c60839dcb09988500f5e60676344d512a5ba566042b59be2e4d95cf424`.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.md`
+- `models/force/generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. The next pass should create root-native construction travelers, material splits, known-defect standards, inspection hold points, full-scale node, collar, bus and thermal articles, nonconformance branches, frozen destructive cuts and machine-reproducible evidence schemas. It should also develop the energy–ballast cell as a coupled subarticle. Permitted visuals remain sections, joints, tolerance loops, process-state maps, fixtures and evidence routes.
