@@ -112,6 +112,8 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 
 The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitution](generation/f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) makes the first low-source event issuable in design as `RAE-1`. It replaces a physically misleading turn-down of the 150 mm route with a government-owned 40 mm reference article, then binds forty-eight events to 5,050 serialized acceptance records. The constitution grants no route, method, candidate or exterior-form authority. A physical reference-article and safeing proof campaign is next.
 
+The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) establishes that campaign as `RAP-1`. An eighteen-unit bank separates operational, twin-defect, calibration and destructive work while two unlike build lineages preserve manufacturing disagreement. Its 15,252 physical records join construction, safeing, inert-fluid custody, metrology, denial and outside-origin replay. The next object is the build-release definition for both lineages; source entry and exterior form remain unavailable.
+
 ## The architecture
 
 ```text
