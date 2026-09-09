@@ -94,6 +94,8 @@ The [F36 `CISA-40` `SA6` Root B two-phase relief and deployable-retention techno
 
 The [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification](generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.md) constitutes that instrument as `RHP-1`. Six complete public rigs establish a common 2,000 kg source state, sixteen-zone thermal boundary, public flange, route-gallery structure, receiver pad, evidence frame and independent safety system while preserving all candidate-specific downstream geometry. The estate contains eighteen 80 m route bays, 144 replaceable segments, fifty-four known restrictions and ninety-six calibrated plane positions. Its central rule is physical neutrality: no common downstream plenum, receiver or terminal device may preselect the competition. Rig execution, source escalation, candidate selection, production and exterior rendering remain unavailable.
 
+The [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution](generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.md) constitutes execution as `RHE-1`. Six roots now cross ten stages in an immutable 306-event register. Ninety-six matched pairs, a fifty-five-attempt invalidation reserve, one public clock, independent holds, aborts, recovery states, reset ceilings and outside-site evidence reconstruction separate scientific validity from candidate outcome. The institution requires 518 positions and forty-two months. All 742 physical gates remain open; architecture selection, production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text

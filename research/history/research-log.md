@@ -4166,3 +4166,35 @@ The twenty-seven-sheet workbook recalculates with zero formula errors. All 971 t
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 121 should create `RHE-1`, the exact rig-execution and source-escalation constitution: event cards for empty, hydrostatic, dry, inert two-phase surrogate, cold-soak, quarter-source, full-source, destructive, recovery and cross-site replication work; named abort logic; calibration holds; event invalidity; post-abort classification; recovery state; and evidence packet release. Root A drainage, pool-fire, firewater and recovery protocols remain a parallel obligation. Exterior form remains blocked.
+
+## Pass 121 — F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution
+
+**Date:** 9 September 2026
+
+**Question.** What exact event population, initial-condition system, public clock, hold authority, abort logic, evidence requirement, validity rule, recovery state, reserve policy, site allocation, operating establishment, schedule and fiscal commitment are required to convert `RHP-1` from a designed facility into an independent public learning institution?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution](../force/generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root B transient-rig execution and source-escalation constitution](../../models/force/generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.xlsx)
+
+Pass 121 creates `RHE-1` and conserves the inherited 306-event denominator exactly. Seventy-two development events qualify six candidate–builder roots through empty mechanical, hydrostatic, dry nitrogen, inert two-phase surrogate and cold-soak work. Ninety-six quarter-source and ninety-six full-source events form ninety-six matched control/challenge pairs across three candidates, two unlike builders, two operational sites and eight challenges. Twenty-four destructive events cover powered isolation refusal, controlled route breach, receiver or terminal loss and compound heat/energy/time denial. Twelve serialized reset events prove recovery at both operational sites. Six outside-site reconstructions require every root to be adjudicable after origin-site loss.
+
+Fifty-five dormant reserve tokens are derived from prospective stage invalidity rates. They add 413 rig-days and 53 tonnes of source to the 2,202 rig-days and 288 tonnes in the base population. A valid adverse candidate outcome cannot consume reserve and cannot be replaced. An invalid attempt remains in the record and a separately identified replacement may consume one token.
+
+Every event follows one public clock from `T-72 h` configuration freeze through `T+72 h` packet freeze and day-seven disposition. Twenty-four readiness holds, sixteen hard abort rules and eight safe-state actions separate pre-event readiness from immediate protection. Ten validity rules and twelve candidate-outcome classes prevent safety intervention, evidence failure, site failure and candidate failure from collapsing into one label. Eight ordered recovery states, candidate-specific 72/96/84-hour reset ceilings and twelve site-root reset records make restoration a measured result.
+
+Eighteen measurement functions allocate 504 channels. Six mass-accounting terms combine to approximately 2.19 kg one-sigma and 4.38 kg expanded at `k=2`, below the inherited 5 kg limit. The evidence-volume screen is approximately 0.419 TB per base event and 128.3 TB across the 306-event population before reserve attempts. Two native originals and the cross-site reconstruction requirement preserve adjudication outside the origin campus.
+
+Six rigs over forty-two months at a 62 percent ready-rig fraction provide approximately 4,756 ready rig-days, placing base-plus-reserve use near 55 percent. The institution requires 518 operating positions: 96 campaign operations, 62 source and chemistry, 48 physics and models, 72 instrumentation and data, 64 safety and rescue, 60 candidate integration, 48 recovery and forensics, 34 authority and adjudication, and 34 logistics and facilities.
+
+The design allocation is USD 360M capital and USD 196M/year, producing USD 1.046B of forty-two-month exposure. After USD 320M/160M per year of registered overlap, the net-new gross requirement is USD 40M/36M per year. The net-new CISA share is USD 25M/24M per year and the net-new shared-technology share USD 15M/12M per year. `BRD-7R` becomes USD 1.403B/284M per year, exceeding the inherited CISA parent boundary by USD 443M capital and USD 24M/year. `BRD-7U` becomes USD 1.921B/405M per year.
+
+The thirty-two-sheet workbook recalculates with zero formula errors. All 1,393 terminal observers pass. Fifty-three disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed. The final workbook is 213,158 bytes with SHA-256 `db35a58c2f8c0826f96fc51382c589bea0d831d0e4a35464676ca51116534dc4`. It contains 618 passing planning gates, 742 open physical gates and nine blocked downstream authorities.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-root-b-transient-rig-execution-and-source-escalation-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 122 should create method-card and causal-estimator detail for the ten stages, including one end-to-end worked root, allowed tolerances, dwell, sampling, operator and automatic commands, missing-data logic, uncertainty propagation, recovery-entry criteria and one invalid-attempt replacement. Root A drainage, pool-fire, firewater and recovery protocols remain a parallel open obligation. Exterior form remains blocked.
