@@ -90,6 +90,8 @@ The [F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containm
 
 The [F36 `CISA-40` `SA6` internal cell and source-boundary design constitution](generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.md) makes the receiving topology obey that source law. `SBD-1` gives every pod a dedicated isolation, route, drain or knockout, receiver, holder or recovery destination, last-resort disposition, safety path and native record. Sixteen complete routes, 176 no-common-path checks, sixty-four internal drawings, thirty-two interfaces and forty-eight paired propagation events replace the shared-lane shortcut. The planning arithmetic now supports full-rack retention, but `C2` authority remains blocked. The next governing research question is Root B flashing, choking, receiver dynamics and deployable gas retention.
 
+The [F36 `CISA-40` `SA6` Root B two-phase relief and deployable-retention technology program](generation/f36-cisa40-sa6-root-b-two-phase-relief-and-deployable-retention-technology-program.md) turns that question into `RHT-1`. The inherited 500 mm route fails its cold half-area screen, so three complete architectures compete across two unlike builders, two sibling sites and a destructive path. Forty-eight articles and 306 registered events preserve direct capture, staged condensation and hybrid measured-disposition options until physical evidence can discriminate. The next governing object is the common full-scale transient rig, not a chosen platform or exterior form.
+
 ## The architecture
 
 ```text
