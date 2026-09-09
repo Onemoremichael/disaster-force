@@ -3611,3 +3611,31 @@ The companion workbook contains twenty-two sheets and fifty-nine independent ter
 The final workbook is 58,901 bytes with SHA-256 `69222352eb299fe4759464786ab85c215972829bcb479883c40a5ebb3bef1ea3`.
 
 No external-site research and no rendering are introduced. The next force-generation pass should define the F36 first campaign wave and lost-campus rehearsal constitution: freeze the first ninety days of closure, damage, reference, blank, forensic and replay tokens; assign shift and authority rosters; inject campus loss during an active event; conserve article, sample, waste, evidence and blind truth through transfer; and specify the decision that permits the residual campaign to continue.
+
+## Pass 105 — F36 first campaign wave and complete-campus-loss rehearsal constitution
+
+**Date:** 8 September 2026
+
+**Question:** Can the first root-balanced F36 wave preserve causal evidence, protected capacity and a terminal schedule when one complete range campus disappears during active closure and damage work?
+
+**Primary artifact:** [F36 first campaign wave and complete-campus-loss rehearsal constitution](../force/generation/f36-first-campaign-wave-and-complete-campus-loss-rehearsal-constitution.md)
+
+**Companion model:** [F36 first campaign wave and complete-campus-loss rehearsal constitution](../../models/force/generation/f36-first-campaign-wave-and-complete-campus-loss-rehearsal-constitution.xlsx)
+
+Pass 105 changes the unit of rehearsal from a generic campus outage to a frozen population of named event tokens. Eighteen closure credits give each of the three roots one declared nominal, declared process-edge, known-defect, blind physical-defect, blind configuration-defect and clean blind-control event. Six damage credits give each root one disclosed `D01` transection and one sealed permitted combination. At the inherited fifteen- and twenty-percent invalidity assumptions, the first wave protects P90 reservations of twenty-four closure and ten damage slots.
+
+The denial occurs on day 38 while `CW-C014`, `CW-C015`, `CW-D005` and `CW-D006` are active at `NRC-B`. The campus disappears as an island: 410 people, four stations, laboratories, metrology, forensic, replay and blind services, stores, local originals and access no longer count. The four tokens remain permanent evidence and become modeled range-invalid; two closure and two damage replacements start under fresh identities on day 42. No event pauses and resumes under its old token.
+
+`CW-C010` is the sharper continuity test. Its physical closure cycle ends on day 35, its sealed forensic package reaches `FL-A` on day 36 and one locally complete original already exists outside `NRC-B`. The packet does not become terminal until day 41. It may receive modeled credit only if two surviving replay implementations, the transferred physical package, the outside original, the blind-truth authority and the acceptance rule can complete the decision without consulting the denied campus.
+
+Hard WIP ceilings hold the national system to four closure and three damage events. Packet queues remain at or below four and three. Every one of ninety daily control rows passes; all twelve station lanes remain non-overlapping. Under the maximum reserved wave, closure capacity is 295.12 productive bay-days against 192 demanded, or 65.1 percent utilization. Damage capacity is 227.5 productive cell-days against 140 demanded, or 61.5 percent. Forensics, sanitary assay, metrology, replay and blind-truth work all remain below the inherited seventy-percent ceiling.
+
+The loss law preserves unavailable objects as custody obligations. Active articles, damage cassettes, samples, water/waste ledgers, original sets, blind manifests and the `CW-C010` evidence package reconcile across safe hold, outside custody and fresh replacement draw with zero unexplained balance. Fourteen separate authorities prevent emergency command from simultaneously classifying cause, unblinding, rewriting the schedule and awarding credit. The residual schedule counts 820 surviving public personnel; the 1,850 qualified affiliates do not inherit public authority.
+
+The modeled path reaches eighteen closure and six damage credits by day 64. Four closure and two damage contingency tokens preserve the full P90 option through day 83, leaving seven days for integrated review. The ninety-day operating draw is USD 0.098137B, exactly ninety days of the standing USD 0.398B annual support; no new capital line is created.
+
+Eighteen planning-content gates pass. Rehearsal approval, named rosters, physical articles, commissioned lanes, live seed, execution, observed conservation, residual performance and terminal credit remain held. Production, form and rendering remain blocked by the parent F36 chain. The workbook contains seventeen sheets and seventy-one independent terminal controls with zero formula or audit failures. Ten hostile sensitivities reject capacity overloads, earlier loss, a missing token, station overlap, conservation, roster and finance mismatches, approval-only shortcuts and unsupported downstream claims. Every sheet was rendered and visually inspected; the workbook archive passed integrity and worksheet-error scans.
+
+The final workbook is 81,135 bytes with SHA-256 `f157aaddbf9f2e89945aebd29a6d2bef4a4fd95316c5f2b81e7c7ff60465871a`.
+
+No external-site research and no vehicle rendering are introduced. The next force-generation pass should preregister the observed-throughput estimator and residual-campaign admission rule: preserve cause classes, reconstruct station and support-service distributions, test common-cause dependence and decide whether the remaining fifty-four closure and twenty damage credits can continue with, enlarge or redesign the three-campus force.
