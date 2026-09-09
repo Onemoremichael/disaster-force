@@ -148,6 +148,8 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 
 The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitution](force/generation/f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) creates `RAE-1`. Its first-principles result is that 100 kg cannot fill the 169.646 kg static hold-up of the inherited 150 mm route. A six-article public `REA-100` system therefore uses a 40 mm insert to create a measurable low-source control without claiming full-route similarity. Forty-eight events compile into 5,050 linked physical records; every physical state remains open. The next research object is the build and safeing proof campaign for the reference article, not exterior form.
 
+The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](force/generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) creates `RAP-1`. Eighteen article units preserve operational, defect, calibration and destructive evidence across two unlike build lineages. The campaign defines 3,348 safeing-path trials, 192 inert-fluid route trials, 5,184 calibration records, 144 denials, 120 non-origin reconstructions and 15,252 physical gates. Planning is complete; all physical evidence remains open. Lineage-specific construction drawings and controlled build release are next.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.
