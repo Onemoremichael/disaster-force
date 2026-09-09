@@ -4006,3 +4006,51 @@ Ninety-six planning gates pass: seventy-two body packages, twelve root–family 
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 117 should follow the governing source: a Root A liquid-fuel and Root B DME maximum-credible-release and source-preserving containment constitution. It should define passive compartmentation and penetrations; pool, flash, vapor and gas source terms; relief, vent, dispersion, ignition, blast, fragment and radiation cases; independently powered detection and isolation; water and firefighting-media interactions; liquid capture versus gas management; mass and line-inventory reconciliation; rescue and entry criteria; commissioning scale and sacrificial media; and evidence survival. Internal containment sections, flow diagrams, one-lines and sensor maps may follow the safety case. Exterior form remains blocked.
+
+## Pass 117 — F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containment constitution
+
+**Date:** 9 September 2026
+
+**Question:** What source-state law, unlike liquid-fuel and DME consequence cases, passive containment, public cell architecture, fault campaign, instrumentation, recovery system and independent authority must exist before one two-tonne `SA6` compartment may be called the maximum credible release?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containment constitution](../force/generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containment constitution](../../models/force/generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.xlsx)
+
+Pass 117 creates `MCR-1` and reverses the remaining source assumption. Pass 116 distinguished installed source from maximum credible release but then used one two-tonne compartment as the planning MCR. Four compartments and eight tonnes remain on one rack. Until the barriers between them have survived the initiating heat, pressure, fragment, drainage, relief and support conditions, the whole rack is the defensible unconfined upper bound. A two-tonne MCR is therefore an earned conclusion, not a declared input.
+
+Three governed source states replace the single planning source. `C0` contains no hazardous medium and carries cold commissioning. `C1` admits one live two-tonne compartment only while all adjacent compartments remain inert and independently verified. `C2` admits four live compartments only after all passive propagation claims, separate `C2` authority and the physical full-rack source record close. `C2` remains prohibited. A successful `C1` event cannot silently authorize it.
+
+The roots receive unlike consequence cases. Root A uses a declared 42.588 MJ/kg liquid fuel at 800 kg/m³: `C1` contains 85.176 GJ in 2.500 m³ and `C2` contains 340.704 GJ in 10.000 m³. Root B uses DME at 28.512 MJ/kg, 668 kg/m³ and 0.530 m³/kg reference gas volume: `C1` contains 57.024 GJ, 2.994 m³ liquid and 1,060 m³ reference gas; `C2` contains 228.096 GJ, 11.976 m³ liquid and 4,240 m³ gas. A 1.5 thermal allowance produces 1,590 and 6,360 m³ retention design quantities.
+
+The arithmetic falsifies conventional ventilation as the full DME boundary. A 12 m³/s emergency system dilutes only about 0.171 kg/s to the declared 0.75-volume-percent target. A one-compartment release over 120 seconds needs approximately 1,168.944 m³/s of dilution air. Ventilation remains a seepage, purge and post-event control. Full-compartment safety requires passive outdoor routing, pressure recovery, remote retention, exclusion and measured last-resort disposition.
+
+Liquid and firewater capacity also separate. The five-times-source rule requires 12.5 m³ for Root A `C1`, 14.970 m³ for Root B `C1`, 50.0 m³ for Root A `C2` and 59.880 m³ for Root B `C2`. The inherited 40 m³ allowance supports the `C1` cases but not `C2`. Each operational lane therefore receives 120 m³ of separately credited firewater retention; the same volume cannot count once as source capture and again as firewater.
+
+One 2,000 m³ gas holder carries the Root B `C1` design quantity with approximately 410 m³ reserve. It cannot carry the 6,360 m³ `C2` quantity and is short by 4,360 m³. Root B also receives 5,344 kg of pressure-receiver capacity per lane as a planning recovery path, not yet an accepted recovered-source claim.
+
+Simple consequence screens define the next measurement domain without claiming validated prediction. Root A and Root B `C1` point-source thermal distances to 1.6 kW/m² are 31.927 and 28.068 m. At five-percent TNT-energy participation, their one-psi scaled distances are 120.711 and 105.599 m. Root A and Root B `C2` values increase to 191.617 and 167.628 m. Ten-percent `C2` cases reach 241.421 and 211.198 m. Operational cells begin with 200 m exclusion domains; the consequence cell begins at 250 m. Siting, higher-fidelity analysis and physical evidence remain absent.
+
+The public institution now has three cells. `MC-B1` at `PTC-B/LN-11` and `MC-C1` at `PTC-C/LN-12` are complete root-capable, source-preserving lane cells. Each has a 12.5 m³ liquid sump, 120 m³ firewater retention, 2,000 m³ gas holder, pressure recovery, independent safety energy, a 200 m exclusion domain and control from at least 250 m. `MC-A1` at `PTC-A` is an off-lane destructive consequence cell with a 40 m³ sump, 200 m³ firewater retention, replaceable thermal/fragment/congestion inserts, a 250 m domain and remote control from at least 300 m. It carries no credited gas holder and earns no source-recovery claim.
+
+Twenty-four passive propagation-denial claims govern the two-tonne MCR: independent source boundary, no common fuel manifold, directional relief without common return, segregated drainage/knockout, thermal-escalation barrier, and fragment shadow with independent support, each for two roots and two operational sites. Every claim needs a design package, protocol, physical execution, accepted result and authority record.
+
+Twenty-four root-specific hazard-world cards cover seal seep, transfer-line severance, full-compartment loss, adjacent-source exposure, restricted relief, immediate and delayed ignition, safety-power loss, primary-retention loss, suppression-media intrusion, detection/clock disagreement and evidence blackout/recovery. They compile into forty-eight inserted faults, twenty-four clean controls and eight cross-site replays: eighty evidence objects.
+
+Eighteen measurement functions cover compartment mass, liquid and gas flow, vessel state, interstitial state, unlike gas detection, oxygen, heat flux, flame, dynamic pressure, structure, sump, gas holder, weather, safety energy and time. Four root–site safety cases separate 0.10 s trip, 2.00 s gas detection, 0.25 s vote, 2/5 s isolation, 10 s passive routing, 30/120 s terminal source, 30 s evidence seal and 1,800/3,600 s minimum human entry. Four recovery packages require two originals, eighteen packet fields and no more than five kilograms of unexplained discrepancy.
+
+The control hierarchy is explicit: human safety, prevent propagation, preserve direct evidence, recover material, protect infrastructure, preserve schedule. Source retention never delays a necessary safe-state action. Controlled burn, flare or other last-resort destruction remains measured disposition, not recovered source and not disappearance.
+
+The thirty-month sequence uses 216 positions from the inherited 448-person campaign establishment. It creates no new total headcount but makes the safety formation visible across operations, independent authority, fire/hazmat, instrumentation, evidence, recovery, structures, controls, rescue/medical, separate root teams, logistics and regeneration.
+
+`MCR-1` requires USD 260M capital and USD 25M/year. Thirty months of support is USD 62.5M, producing USD 322.5M total exposure. The net-new `CISA` capital is revised to USD 462M and annual support to USD 73M when `RSP-1` and a protected USD 34M/4M remainder are included. Adding inherited `BRD-1` creates `BRD-3R` at USD 780M capital and USD 157M/year. The uncredited physical-use view is USD 908M/198M. Both remain inside `CISA-1`, leaving USD 180M/103M under the reconciled view.
+
+The twenty-one-sheet workbook recalculates with zero formula errors. All 573 terminal audits pass. Thirty disposable sensitivity tests respond and restore. Every sheet and the terminal rows of the long registers were visually reviewed. The final workbook is 102,256 bytes with SHA-256 `034277819ec73b59c7bd9531b04de114f27e1bdd0188f575611d7223830ae9ba`. Seventy-two planning gates pass, 119 physical gates remain open and seven downstream gates remain blocked. Accepted physical-source count remains zero.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 118 should create the internal `SA6` cell and source-boundary design at measurement-plane resolution: sections, compartment/interstitial geometry, root-specific process diagrams, no-common-path proof, directional relief and retention, segregated drainage, safety-energy one-lines, sensor coordinates, consequence-domain plans, robotic rescue and exact propagation protocols. The gas holder should reopen as a technology campaign. Exterior form remains blocked.

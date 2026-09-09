@@ -86,6 +86,8 @@ The [F36 `CISA-40` public test complex and phase-zero commissioning constitution
 
 The [F36 `CISA-40` reference-article and phase-zero source-package constitution](generation/f36-cisa40-reference-article-and-phase-zero-source-package-constitution.md) makes the commissioning source a force-owned configuration. `RSP-1` pairs seventy-two root-native bodies with 288 truth modules, twenty-four independent insertion kits, sixty family event cards and an exact 120-event root-and-site mirror. It gives each body a terminal retained, destructive-witness or quarantine role and limits uses by role. Thirty-six physical gates require complete native packets rather than administrative summaries. The source-term comparison makes the `SA6` two-tonne liquid-fuel/DME credible release the next safety-case driver. Planning remains inside the existing fiscal boundary; no physical article, campaign entry, production decision or exterior form is admitted.
 
+The [F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containment constitution](generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.md) rejects that two-tonne source as a self-proving MCR. `MCR-1` keeps the full eight-tonne rack as the upper analysis source until six passive propagation functions are physically accepted for both roots at both operational sites. Two source-preserving cells and one consequence cell carry twenty-four root-world cards, eighty safety events, eighteen instrument functions, root-specific safe-state timing and governed source recovery. Seventy-two planning gates pass; 119 physical gates remain open and `C2`, the campaign, production and exterior form remain blocked.
+
 ## The architecture
 
 ```text
