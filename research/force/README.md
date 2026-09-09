@@ -92,6 +92,8 @@ The [F36 `CISA-40` `SA6` internal cell and source-boundary design constitution](
 
 The [F36 `CISA-40` `SA6` Root B two-phase relief and deployable-retention technology program](generation/f36-cisa40-sa6-root-b-two-phase-relief-and-deployable-retention-technology-program.md) turns that question into `RHT-1`. The inherited 500 mm route fails its cold half-area screen, so three complete architectures compete across two unlike builders, two sibling sites and a destructive path. Forty-eight articles and 306 registered events preserve direct capture, staged condensation and hybrid measured-disposition options until physical evidence can discriminate. The next governing object is the common full-scale transient rig, not a chosen platform or exterior form.
 
+The [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification](generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.md) constitutes that instrument as `RHP-1`. Six complete public rigs establish a common 2,000 kg source state, sixteen-zone thermal boundary, public flange, route-gallery structure, receiver pad, evidence frame and independent safety system while preserving all candidate-specific downstream geometry. The estate contains eighteen 80 m route bays, 144 replaceable segments, fifty-four known restrictions and ninety-six calibrated plane positions. Its central rule is physical neutrality: no common downstream plenum, receiver or terminal device may preselect the competition. Rig execution, source escalation, candidate selection, production and exterior rendering remain unavailable.
+
 ## The architecture
 
 ```text

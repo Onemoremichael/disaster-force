@@ -4126,3 +4126,43 @@ The twenty-three-sheet workbook recalculates with zero formula errors. All 910 t
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 120 should create `RHP-1`, the common full-scale Root B route, nozzle, receiver and transient-rig physical specification. The rig must accept one-, two- and three-path candidates without embedding one candidate's assumptions, reproduce known restrictions and wrong-side pressure, resolve phase and pressure dynamics at all sixteen planes, preserve independent safety and evidence, and define the exact `C0/C0S/C1Q/C1` release sequence. Root A drainage, pool-fire, firewater and recovery protocols remain a parallel open obligation. Exterior form remains blocked.
+
+## Pass 120 — F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification
+
+**Date:** 9 September 2026
+
+**Question.** What publicly owned source plant, thermal boundary, candidate interface, route gallery, receiver field, measurement system, safety system, recovery system, site geometry, workforce, schedule and fiscal commitment are required to produce comparable full-scale transient evidence for all three `RHT-1` candidates without selecting one through the test apparatus?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification](../force/generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root B full-scale transient-rig physical specification](../../models/force/generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.xlsx)
+
+Pass 120 creates `RHP-1` and makes candidate neutrality a physical property of the test plant. Six public rigs—two at each of `PTC-A`, `PTC-B` and `PTC-C`—share source state, thermal command, datum, clock, evidence, challenge identity, safety hierarchy and structural interfaces. The public boundary stops at a 0.90 m flange. Candidate-specific nozzle cassettes, route topologies, receivers and terminal systems remain separate, and no common downstream plenum is permitted.
+
+Each rig uses a 2,000 kg source-vessel basis with a 1.50 m internal diameter, 1.76 m cylindrical tangent length and paired 2:1 ellipsoidal heads. Gross volume is approximately 3.994 m³; declared liquid occupies approximately 2.994 m³, leaving approximately 1.000 m³ of initial vapor space. A 3.0 MPa design, 4.5 MPa proof and 243–373 K planning envelope produces a 22.46 mm thin-wall screen and approximately 26.96 mm after declared allowances. The outfitted vessel screen is approximately 4.33 tonnes and the operating assembly approximately 7.83 tonnes. These are facility-sizing hypotheses, not code calculations or build release.
+
+Sixteen independently metered 0.5 MW thermal zones provide 8 MW per rig and 48 MW across the federation. Three 80 m route bays per rig contain eight replaceable 10 m segments and twenty-one support stations. The resulting eighteen bays, 144 segments and fifty-four open, one-half and two-thirds restriction cassettes allow all three candidate path systems to be installed without hidden geometry changes.
+
+Candidate aggregate path areas are approximately 0.2827 m² for one 0.60 m `RC-1` path, 0.3181 m² for two 0.45 m `RC-2` paths and 0.2886 m² for three 0.35 m `RC-3` paths. Their public-flange open-area ratios are approximately 44.4, 50.0 and 45.4 percent. Candidate route volumes are approximately 22.62, 25.45 and 23.09 m³. Eighteen serialized nozzle cassettes preserve candidate-specific contraction and branch behavior.
+
+Six common receiver pads accept up to 60 tonnes of candidate equipment and establish 1.2 MN vertical, 1.2 MN axial and 1.5 MN-m overturning interface bases. Candidate-specific liquid-equivalent receiver volumes at 80 percent fill are approximately 4.68, 12.16 and 10.00 m³. Backpressure limits remain candidate-specific beneath a 0.30 MPa public ceiling.
+
+Direct facility area is approximately 1.125 hectares per rig and 6.75 hectares across six rigs. Six non-overlapping 250 m planning exclusion circles require at least 117.81 hectares before terrain, access and consequence analysis. The figure exposes site scale without asserting a final safety boundary.
+
+The inherited eighteen measurement functions preserve 504 channels and approximately 288.736 MB/s. The 300-second full-rate interval, six-hour one-percent tail, two native originals and 1.35 custody factor produce approximately 402.267 GB per event and 160.022 TB for the 306-event campaign with reserve. Sixteen planes per rig create ninety-six separately calibrated physical plane objects.
+
+The one-sigma mass allocations are 0.70, 0.80, 0.80, 1.00, 1.18 and 0.80 kg across initial source, vessel residual, route, receiver, holder or condensate, and destroyed material or products. Root-sum-square combination is approximately 2.19 kg and expansion at \(k=2\) is approximately 4.38 kg against the inherited 5 kg limit. Physical calibration and event closure remain open.
+
+Each rig has a passive mechanical or thermal safeing path, analog hardwired direct-current path and diverse programmable path with local stored energy. No pair may share a final element. Six rig-specific rescue and recovery packages remain separate physical acceptance objects. The source ladder begins with empty mechanical, hydrostatic, dry nitrogen, inert two-phase surrogate and cold-soak stages; 500 kg quarter-source, 2,000 kg full-source, destructive and independent-replication stages remain blocked by separate authority.
+
+The program uses 372 mission positions over thirty months. Gross capital is USD 410M and annual support USD 72M/year. After USD 300M/48M per year of `RHT-1` overlap, gross net addition is USD 110M/24M per year. Corrected CISA net addition is USD 80M/14M per year and shared technology net addition is USD 30M/10M per year. `BRD-6R` becomes USD 1.378B/260M per year, exceeding the inherited CISA capital boundary by USD 418M and exactly consuming its annual boundary. `BRD-6U` becomes USD 1.881B/369M per year. Thirty-month program exposure is USD 590M.
+
+The twenty-seven-sheet workbook recalculates with zero formula errors. All 971 terminal observers pass. Forty-nine disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed. The final workbook is 149,779 bytes with SHA-256 `79d95593b49b36dc3472b3cafcacae5051c0371734916e4e17f798908f2b1ffa`. Four hundred twenty planning gates pass, 522 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.md`
+- `models/force/generation/f36-cisa40-sa6-root-b-full-scale-transient-rig-physical-specification.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 121 should create `RHE-1`, the exact rig-execution and source-escalation constitution: event cards for empty, hydrostatic, dry, inert two-phase surrogate, cold-soak, quarter-source, full-source, destructive, recovery and cross-site replication work; named abort logic; calibration holds; event invalidity; post-abort classification; recovery state; and evidence packet release. Root A drainage, pool-fire, firewater and recovery protocols remain a parallel obligation. Exterior form remains blocked.
