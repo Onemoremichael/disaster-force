@@ -80,6 +80,8 @@ The [F36 `CISA-40` root build package and tolerance-stack constitution](generati
 
 The [F36 `CISA-40` construction-release and evidence-traveler constitution](generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.md) makes the factory operation itself a controlled public object. `CRET-1` assigns forty-four root-native state transitions, twenty-eight holds, thirty-two conserved material splits, seventy-two known-defect standards, twelve full-scale subarticles, thirty-six event fields, twelve independent reconstructions and sixty destructive cuts. Four `EBC-1650` cassettes per root pair fuel consumption with separately contained process-water mass so the operating configuration remains a measured state. Forty-eight planning gates pass; twenty physical gates remain open and four downstream gates remain blocked.
 
+The [F36 `CISA-40` full-scale subarticle and controlled-defect execution campaign](generation/f36-cisa40-full-scale-subarticle-and-controlled-defect-execution-campaign.md) turns those twelve designs into a credible physical population. `SDEC-1` assigns sixty-four serial specimens, 40,520 prescribed events, six fixture-identification programs, twelve safe-state cells and twenty-four separately admitted defect cells. Each defect cell uses twenty-nine objects in each of four truth strata; repeat acquisitions estimate operator, instrument and access effects without creating new independent trials. The thirty-month, 448-person campaign exposes a USD 0.414B capital and USD 0.095B/year shortfall against the inherited remainder, so execution is held pending a `BRD-2` baseline decision. Production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
