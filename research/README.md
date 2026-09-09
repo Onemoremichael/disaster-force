@@ -144,6 +144,8 @@ The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](f
 
 The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) creates `RAW-1`. Five methods must recover two unlike physical truths across every rig and class, detect blinded defects, remain decidable after loss of a decisive chain and replay outside the origin campus. The 360-credit population is protected by 120 public truth articles and seventy-five independently released reserve tokens. `BRD-13R` becomes USD 2.395B/446M per year. Quarter-source work and exterior form remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](force/generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) creates `RAS-1`. A 500 kg event retains the 58.5585 MW casualty-area peak screen unless occupied area is physically constrained. Two methods, two unlike roots, six rigs and six classes produce 144 required valid credits; source and intervention water receive separate mass, ancestry, sample and authority chains. Twelve final elements, thirty-six safeing paths, twenty-nine reserve tokens and twenty-four outside-site replays define the first source-bearing campaign. All physical results and eight downstream decisions remain open or blocked. Executable article, cell and event dossiers are next; exterior form remains blocked.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.

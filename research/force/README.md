@@ -108,6 +108,8 @@ The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](g
 
 The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) makes truth recovery itself a public force capability as `RAW-1`. Five nonenergetic methods cross two unlike truth roots, six rigs and six adversarial trial classes. Blinded faults, chain denial and outside-origin replay are required trials rather than after-action checks. All 2,811 physical gates remain open; quarter-source entry, candidate entry, campaign release and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) makes source escalation a separately governed force function as `RAS-1`. Quarter mass does not guarantee quarter peak: 500 kg at the 25 m² casualty bound retains the 58.5585 MW screen. The 144-credit campaign conserves source, intervention water, safeing energy, causal time and evidence through unlike roots, denial and outside-site replay. All physical and downstream authority remains open or blocked; exterior rendering remains held.
+
 ## The architecture
 
 ```text
