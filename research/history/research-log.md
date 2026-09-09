@@ -4384,3 +4384,35 @@ The forty-three-sheet workbook recalculates with zero formula errors. All 3,851 
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 127 should create `RAW-1`, the Root A first method-qualification wave and coupled mass/heat/water known-truth commissioning constitution. It should define truth artifacts, mixture standards, terrain-skin calibration, dual-tracer blindness, distributed-time denial, outside-site replay and the exact physical gates required before quarter-source methods may begin. Exterior form remains blocked.
+
+## Pass 127 — F36 `CISA-40` `SA6` Root A known-truth method-qualification wave
+
+**Research question:** What physical truth roots, serial articles, adversarial trials, public institution, evidence, technology programs and release logic are required to qualify the five nonenergetic Root A methods before any quarter-source or candidate-bearing event?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](../force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](../../models/force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.xlsx)
+
+Pass 127 creates `RAW-1` and makes known-truth qualification a standing public-force function. Five methods—dry geometry, water-only hydraulics, safe hydraulic surrogate, debris and damaged terrain, and dual-tracer ancestry—cross two physically unlike truth roots, six public rigs and six trial classes. The exact population is 360 required valid credits.
+
+Ten method-root families receive 120 serial truth articles divided among active, reference, destructive and quarantine roles. Eighty characteristic chains and thirty reference envelopes bind physical identity, interval and dwell before trial issue. The unlike roots use different physical principles rather than duplicate instruments or certificates.
+
+Six trial classes progress from datum/blank through lower and upper truth corners, blinded physical defect, decisive-chain denial and outside-origin replay. Twenty fault cards and ten denial cards require the method to find controlled defects and remain decidable after losing a chain that would ordinarily carry the proposition. Sixty replay records require another campus to reproduce truth, uncertainty and disposition without an origin-site service.
+
+Invalidity hypotheses create seventy-five dormant reserve tokens. A token activates only after independent invalidity, retains the original, records cause and correction and issues a new trial identity. It cannot replace a valid adverse trial. Base load is 960 rig-days; reserve is 221; total modeled utilization is 39.2% of the six-rig thirty-month capacity.
+
+Forty-eight calibration chains, twenty-four denied-network time nodes, thirty uncertainty chains and twelve immutable evidence objects make physical truth, causal order and portable originals part of the method. Native evidence is approximately 117.659 GB per trial, 42.357 TB for the base population and 66.536 TB for base plus reserve and forensic provision.
+
+Twelve technology campaigns pursue dual-mode inventory tomography, dual-coded fluid ancestry, instrumented terrain, radiant tomography, self-describing instruments, distributed causal time, public intervention recording, remote casualty reconstruction, field microanalysis, causal-state compilation, robotic recovery and executable replay. They are public research programs, not assumptions that the necessary integrated capability already exists.
+
+The thirty-month establishment uses 436 positions. Gross capital is USD 480M and annual support is USD 188M/year, creating USD 950M program-period exposure. Registered overlap is USD 410M/162M per year, leaving USD 70M/26M per year net-new gross requirement. `BRD-13R` becomes USD 2.395B/446M per year; `BRD-13U` becomes USD 3.035B/609M per year.
+
+The forty-three-sheet workbook recalculates with zero formula-error matches. All 4,466 terminal audits pass. One hundred ninety-four behavioral assertions pass after the first stress run exposed and corrected a blank/zero semantic fault in the datum class. Every sheet was rendered and visually reviewed. All 1,606 planning gates pass, 2,811 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 128 should create `RAS-1`, the quarter-source entry and coupled source-water ancestry safety case for AM-05 and AM-06. It should define the physical invariants, unlike roots, scale-effect law, final control elements, denial cases, evidence and authority required before candidate entry or source-campaign release. Exterior form remains blocked.

@@ -142,6 +142,8 @@ The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalati
 
 The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](force/generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md) supplies those research objects as `RAM-1`. Ten methods and 240 phase procedures compile all 306 events. Thirty-two tolerances, twenty-four physical challenge records, forty-eight calibration chains, thirty samples and thirty features feed explicit event, pair, root and candidate layers without weighted compensation or decisive imputation. Public intervention remains an observed adverse candidate event. Twelve technology campaigns define missing public sensing, ancestry, timing, causal-compute, robotic-recovery and replay capabilities. `BRD-12R` becomes USD 2.350B/430M per year. A known-truth method-qualification wave is next; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](force/generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) creates `RAW-1`. Five methods must recover two unlike physical truths across every rig and class, detect blinded defects, remain decidable after loss of a decisive chain and replay outside the origin campus. The 360-credit population is protected by 120 public truth articles and seventy-five independently released reserve tokens. `BRD-13R` becomes USD 2.395B/446M per year. Quarter-source work and exterior form remain blocked.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.

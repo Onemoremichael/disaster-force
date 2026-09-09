@@ -80,6 +80,8 @@ The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalati
 
 The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md) supplies that system as `RAM-1`. Ten methods instantiate 240 procedures and compile the entire 306-event register. Thirty-two challenge tolerances, twenty-four realization objects, forty-eight calibration chains, thirty samples and thirty features feed 96 pair, 48 root and 24 candidate estimators. Missing decisive observations remain blank; public intervention is a competing event; site and builder disagreement remain visible. Twelve technology campaigns make method innovation part of the force program. The next pass should execute a known-truth qualification wave for the nonenergetic methods; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) supplies that wave as `RAW-1`. Five methods, ten method-root families, six rigs and six trial classes create 360 required valid credits. One hundred twenty truth articles keep active, reference, destructive and quarantine stocks separate; seventy-five reserve tokens replace only independently invalid attempts. Sixty outside-origin replays and unlike-root agreement make portability and disagreement part of method qualification. The next pass should define the quarter-source entry and coupled source-water ancestry safety case for AM-05 and AM-06; exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |
