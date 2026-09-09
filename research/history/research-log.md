@@ -4054,3 +4054,45 @@ The twenty-one-sheet workbook recalculates with zero formula errors. All 573 ter
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 118 should create the internal `SA6` cell and source-boundary design at measurement-plane resolution: sections, compartment/interstitial geometry, root-specific process diagrams, no-common-path proof, directional relief and retention, segregated drainage, safety-energy one-lines, sensor coordinates, consequence-domain plans, robotic rescue and exact propagation protocols. The gas holder should reopen as a technology campaign. Exterior form remains blocked.
+
+## Pass 118 — F36 `CISA-40` `SA6` internal cell and source-boundary design constitution
+
+**Date:** 9 September 2026
+
+**Question:** What internal source geometry, independent process topology, measurement system, safety logic, recovery chain, drawing package, physical campaign and fiscal boundary are required to test whether one two-tonne `SA6` source can remain independent of three neighbors?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` internal cell and source-boundary design constitution](../force/generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` internal cell and source-boundary design constitution](../../models/force/generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.xlsx)
+
+Pass 118 creates `SBD-1` and corrects the hidden common path in Pass 117. One lane-level sump, pressure receiver or gas holder may have enough capacity for one event, but it cannot prove that four source compartments remain independent. An emergency destination is part of the source topology. Each operational lane therefore receives four complete trains, one for each pod, with no common pressurized route, drain, final isolation element, safety-energy path or native recorder.
+
+The source quartet occupies longitudinal stations 2.5, 4.8, 7.2 and 9.5 m, alternating laterally at ±0.8 m. Each pod receives a 2.1 × 1.7 × 3.2 m planning bay. Across Root A and Root B at `PTC-B` and `PTC-C`, the arrangement creates sixteen root–site–pod routes. Every route is checked across source boundary, isolation, relief or transfer, drainage, receiving, holder or recovery, last-resort disposition, thermal/fragment barrier, structure, safety energy/logic and native evidence: 176 no-common-path records.
+
+Root A assigns every pod a dedicated 150 mm, 12 m liquid route, 15 m³ source sump and 40 m³ firewater vault. The two-tonne, 120-second planning release produces 0.020833 m³/s and 1.179 m/s. Four trains provide 60 m³ of liquid retention against a 50 m³ full-rack requirement and 160 m³ of firewater retention against 120 m³. Neither static capacity nor velocity proves transient flow, fire survivability or recovery.
+
+Root B assigns every pod a dedicated 500 mm, 80 m reference-gas route, 5,344 kg pressure receiver, 2,000 m³ gas-holder chamber and last-resort disposition. The reference-state screen produces 8.833 m³/s and 44.988 m/s. Four trains provide 21,376 kg of nominal receiver capacity and 8,000 m³ of holder volume against the 6,360 m³ thermally allowed full-rack reference-gas quantity. The screen does not resolve flashing, choking, aerosol carryover, pressure loss, refrigeration, ice, heat input or receiver backpressure.
+
+Sixteen measurement planes follow the source from its interior to the evidence boundary. Eighteen functions create 354 channels per operational lane at an aggregate uncompressed rate of about 50.808 MB/s. A 600-second full-rate interval, 21,600-second five-percent tail, two originals and 1.35 overhead produce approximately 230.461 GB per event. The eighty inherited safety events plus forty-eight paired propagation exposures create 128 events and about 38.349 TB with thirty-percent reserve, inside the inherited 576 TB vault.
+
+The propagation campaign contains twenty-four protocols: six functions, two roots and two sites. Each receives one challenged exposure and one clean control. Four transfer functions use a provisional 0.5 kg protected-side upper bound. Thermal and fragment/support functions use a provisional 0.8 normalized protected-side utilization. The bounds are declared falsifiable hypotheses. All forty-eight events and all twenty-four physical dispositions remain open.
+
+Three unlike safety paths serve each root–site case: four-hour 125 VDC analog hardwire with pressure/flow detection and spring isolation; eight-hour 48 VDC diverse digital logic with unlike gas/thermal sensing and accumulator isolation; and a passive thermal/pressure element with stored mechanical energy. Twelve paths exist. They share no final element. Terminal source condition, evidence seal and human-entry authority remain separate clocks.
+
+The controlled design has sixty-four internal sheets: eight general-arrangement, eight civil/containment, eight source-quartet, eight Root A process, twelve Root B process, eight safety power/control, eight instrument/evidence and four rescue/robotics sheets. Thirty-two interface records preserve both root-native ancestry and public receiving responsibility for every route. No sheet establishes exterior appearance.
+
+The cell force remains two source-preserving operational lanes and one destructive consequence cell. Provisional exclusion radii are 200 m for each lane and 250 m for the consequence cell, with control at 250 and 300 m respectively. Their non-overlapping circular lower bound is 44.768 hectares before corridors, terrain, ecological buffers or external infrastructure. Remote rescue, decontamination, burn/inhalation care and medical transfer are part of cell acceptance.
+
+The program uses 248 mission positions inside the inherited 448-position establishment. The thirty-four-month sequence adds four months for independent civil vaults, receivers and holder arrays. Drawing release, construction, cold commissioning, limited live-source calibration, paired propagation, recovery/replay/site-loss closure and independent acceptance overlap only when their named predecessors and authorities close.
+
+The fiscal correction is material. `SBD-1` requires USD 420M capital and USD 42M/year. Thirty-four months of support adds USD 119M, producing USD 539M of program exposure. Replacing `MCR-1` adds USD 160M capital and USD 17M/year to the inherited boundary. `BRD-4R` becomes USD 940M capital and USD 174M/year, leaving USD 20M/86M per year inside `CISA-1`. Adding the USD 128M/41M shared-estate reservation produces a no-credit `BRD-4U` of USD 1.068B/215M per year. Annual support still fits, but capital exceeds the parent by USD 108M. The overrun remains visible.
+
+The twenty-seven-sheet workbook recalculates with zero formula errors. All 781 terminal audits pass. Thirty-nine disposable sensitivity tests respond and restore. Every sheet and the terminal rows of the four long registers were rendered and visually reviewed. The final workbook is 132,092 bytes with SHA-256 `2ba1093b16869dbb5ea62c539f5c3e97618af39edd31453287d74a47206e22aa`. One hundred fifty-eight planning gates pass, 188 physical gates remain open and seven downstream gates remain blocked. Accepted physical-source count remains zero.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 119 should create `RHT-1`, a Root B two-phase relief and deployable-retention technology program. It should compare direct segmented low-pressure capture, staged pressure recovery/condensation and hybrid measured-destruction architectures under flashing, choking, obstruction, heat input, partial receiver fill, backpressure, energy loss and site-network denial. Root A drainage and fire response also require executable physical protocols. Exterior form remains blocked.
