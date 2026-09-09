@@ -78,6 +78,8 @@ The [F36 `CISA-40` internal build-release and measurement drawing constitution](
 
 The [F36 `CISA-40` root build package and tolerance-stack constitution](generation/f36-cisa40-root-build-package-and-tolerance-stack-constitution.md) adds the first manufacturing hypotheses. It corrects dry mass and mission energy, sizes unlike root members, pipes, collars, valves, buses and thermal systems, registers twenty-four joint families, and carries sixteen worst-case tolerance chains per root into explicit measurement ownership. Its process-evidence minimum is ninety-six coupons, sixty-four NDE lots, twenty-four destructive witnesses and sixty-four key as-built characteristics per root. All observations remain zero; `BPT-1` authorizes build-package planning only.
 
+The [F36 `CISA-40` construction-release and evidence-traveler constitution](generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.md) makes the factory operation itself a controlled public object. `CRET-1` assigns forty-four root-native state transitions, twenty-eight holds, thirty-two conserved material splits, seventy-two known-defect standards, twelve full-scale subarticles, thirty-six event fields, twelve independent reconstructions and sixty destructive cuts. Four `EBC-1650` cassettes per root pair fuel consumption with separately contained process-water mass so the operating configuration remains a measured state. Forty-eight planning gates pass; twenty physical gates remain open and four downstream gates remain blocked.
+
 ## The architecture
 
 ```text
