@@ -3860,3 +3860,41 @@ The final workbook is 68,953 bytes with SHA-256 `11fdd2c60839dcb09988500f5e60676
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. The next pass should create root-native construction travelers, material splits, known-defect standards, inspection hold points, full-scale node, collar, bus and thermal articles, nonconformance branches, frozen destructive cuts and machine-reproducible evidence schemas. It should also develop the energy–ballast cell as a coupled subarticle. Permitted visuals remain sections, joints, tolerance loops, process-state maps, fixtures and evidence routes.
+
+## Pass 113 — F36 `CISA-40` construction-release and evidence-traveler constitution
+
+**Date:** 9 September 2026
+
+**Question:** What operation, authority, material, witness, defect, repair, native-data and destructive-evidence constitution must exist before either `CISA-40` root may begin irreversible construction?
+
+**Primary artifact:** [F36 `CISA-40` construction-release and evidence-traveler constitution](../force/generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.md)
+
+**Companion model:** [F36 `CISA-40` construction-release and evidence-traveler constitution](../../models/force/generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.xlsx)
+
+Pass 113 creates `CRET-1`. It rejects the idea that a complete drawing and signed shop form together constitute build evidence. Each controlled operation is now a legal physical state transition with a released pre-state, authorized inputs, observed transformation, measured post-state, evidence objects and disposition. Eight predicates—object, authority, capability, fixture, process, witness, inspectability and consequence—must all exist before irreversible work. A hold point transfers authority away from the builder rather than recording a retrospective check.
+
+Root A receives twenty-two operations from material receipt and pre-result splitting through steel cutting, forming, fixture survey, welding, NDE, machining, nodes, super-duplex hydraulic fabrication, passivation, collars, copper bus, LFP/conversion integration, liquid-fuel energy–ballast cassettes, thermal/evidence routes, as-built survey, proof preparation and custody transfer. Root B receives a distinct twenty-two-operation lane across tape/resin receipt, controlled splits, tool and tape placement, consolidation, induction closure, inserts, post-tension ties, machining, structural mapping, composite repair, wound pipe and liner, bonded/mechanical collars, sanitation, aluminum bus, zinc-halogen/conversion integration, DME energy–ballast cassettes, thermal/evidence routes, closeout, as-built survey, proof preparation and transfer.
+
+Fourteen public hold families are instantiated for both roots, creating twenty-eight authority transfers. Any identity mismatch, missing witness, out-of-window observed variable, missed governing known defect, inaccessible hidden surface, failed sanitary custody, unresolved electrical state, fuel/water barrier failure or destructive cut that would erase the only causal record automatically stops the affected work.
+
+Thirty-two decisive material families split before article results into article stock, qualification coupons, controlled-defect standards, destructive witnesses, scrap and retained archive. The ledger conserves the governing unit rather than assuming mass is always sufficient. Root A can co-produce weld tabs, pipe rings, passivation witnesses, contact pairs and coating panels. Root B can co-produce consolidated panels, induction seams, insert plates, pipe rings, liner sections, collar strips and treated contacts. Coupon success is expressly denied authority over full-scale node, collar, bus, thermal or energy–ballast behavior.
+
+The known-defect library assigns three severity states to each of twenty-four joint/defect families, creating seventy-two standards. Fabrication intent is not defect truth; independent metrology must establish actual type, size and location. For a high-consequence threshold, twenty-nine independent zero-miss realizations provide an approximately 90.2-percent one-sided 95-percent lower bound under the simple independent Bernoulli model. Repeated interrogation of one specimen does not meet that population.
+
+Twelve full-scale subarticles—support/reaction, anchor/lift, collar, bus/protection, thermal/evidence and energy–ballast in each root—preserve geometry, process thickness, restraint and measured fixture compliance. Screening plans call for 200 node cycles per root, 2,000 collar cycles, ten fault shots, 500 thermal deployments and 100 energy–ballast cycles. These are experiment-design hypotheses, not life qualification.
+
+The pass corrects the predecessor's start-of-run-only mass balance. Four `EBC-1650` cassettes are distributed at 2.5, 4.8, 7.2 and 9.5 m in each root. Root A combines approximately 0.800 t fuel and 0.825 t ballast per cassette; Root B combines approximately 1.100 t DME and 0.525 t ballast. At 1.5 MW, modeled fuel rates are 0.333674 and 0.450938 t/h. Eight-hour consumption is 2.669395 and 3.607504 t, leaving positive fuel inventory. Separately contained process water replaces consumed mass at the same station. Root A uses a double-wall fuel bladder and separate water chamber; Root B uses a DME pressure cylinder and separate annular water shell. A shared fuel/water wall is prohibited, and replacement water receives no potable credit.
+
+Five nonconformance classes preserve original state, cause, repair, added witness, repeated inspection and the affected population. Primary load, pressure, sanitary, protection, fuel-barrier or evidence consequences cannot receive “use as is.” Sixty cuts are frozen before outcomes. Intact functional evidence precedes isolation, sacrificial perimeter removal and final sectioning; mirror halves enter separate custody. Thirty-six native event fields and twelve independent reconstruction exercises require a second authority to rebuild material, process, coordinate, sanitary, electrical, energy–ballast, repair, cut and terminal states without a proprietary viewer.
+
+The sixteen-month program uses 188 people. USD 0.090B capital and USD 0.020B/year are nested inside the USD 0.106B and USD 0.023B/year remaining `BRD-1` boundary, leaving USD 0.016B and USD 0.003B/year unassigned. These are research allocations, not quotes or an acquisition baseline.
+
+The companion workbook contains nineteen sheets, seventy-two sequential release gates and 242 terminal audits. All audits pass after final export; the saved-workbook formula-error scan is empty and every rendered sheet is visually reviewed. Twenty-eight disposable sensitivities perturb fuel, efficiency, load, duration, detection population, material conservation, operation and hold predicates, known-defect truth, subarticle evidence, process definition, native schema, cut order, reconstruction, finance and authority, then restore baseline. Forty-eight planning gates pass, twenty physical gates remain open and four downstream gates remain blocked. The final workbook is 82,746 bytes with SHA-256 `003a42fdbb11a048be37fdd92d1f82329c3c858bf0e5aa17cdc6e9a650842609`.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.md`
+- `models/force/generation/f36-cisa40-construction-release-and-evidence-traveler-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 114 should define the executable physical campaign for the twelve subarticles and controlled-defect library: exact load, pressure, thermal, fault, fluid, contamination and environmental histories; fixture-boundary identification; randomized/blinded presentation; instrument ranges and uncertainty; safe states; pre/post inspection; data volumes; destructive order; and statistical admission. The `EBC-1650`, collar and bus/protection articles should lead because they couple unlike roots, dynamic custody and high consequence.
