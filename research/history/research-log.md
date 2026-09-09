@@ -4306,3 +4306,39 @@ The thirty-three-sheet workbook recalculates with zero formula errors. All 2,614
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 125 should create `RFE-1`, the Root A fire/hydraulic-rig execution and source-escalation constitution. It should conserve all 306 events and ninety-six pairs; define the event clock from configuration freeze through source, ignition, water, candidate action, public intervention, casualty recovery, evidence seal and restoration; separate valid candidate failure from facility-caused invalidity; specify blank, water, tracer, surrogate, quarter-source and full-source progression; and predeclare regression after physical change. Exterior form remains blocked.
+
+## Pass 125 — F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution
+
+**Date:** 9 September 2026
+
+**Question.** What event population, source ladder, common clock, initial-condition law, command grammar, abort system, intervention rule, validity taxonomy, outcome taxonomy, pair disposition, recovery sequence, capacity reserve, evidence burden, authority structure and fiscal commitment are required to execute Root A as a public scientific campaign?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution](../force/generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution](../../models/force/generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.xlsx)
+
+Pass 125 creates `RFE-1` and treats experimental command as a force capability. One immutable register conserves sixty safe development events, twelve quarter-source development anchors, ninety-six quarter-source paired events, ninety-six full-source paired events, twenty-four destructive events, twelve reset events and six cross-site replays. Ninety-six control/challenge pairs remain intact across six roots, two operational sites and eight registered challenges.
+
+Exact compilation corrects two inherited abstractions. The Pass 124 value of fifty-one events per rig was a storage average. Actual loads are 21, 21, 66, 69, 66 and 63 events because `PTC-A` carries destructive work while `PTC-B/C` carry paired replication. The earlier 288-tonne source view counted paired and destructive events only. One unignited and one ignited quarter-source anchor for each root add six tonnes, raising base source provision to 294 tonnes.
+
+Seven class-specific invalid-rate hypotheses create sixty-six dormant reserve tokens: nine safe-development, three quarter-development, seventeen quarter-paired, twenty-four full-paired, eight destructive, three reset and two replay replacements. Source-bearing reserve requires 74 tonnes. Base plus reserve requires 368 tonnes and 2,559 rig-days. Six rigs across forty-eight months at a 0.58 ready-rig fraction provide approximately 5,084.7 rig-days, for 50.3 percent nominal utilization before recovery and maintenance variance.
+
+A common twenty-four-phase clock runs from `T-96 h` configuration freeze through day-seven disposition. It separates the `T+30 s` candidate terminal-uncontrolled-source criterion from the `T+120 s` public-dispenser schedule. A `T+15 s` igniter command creates a registered opportunity rather than an assumed flame; no flame is candidate evidence when that opportunity is valid.
+
+Thirty-two pre-source holds and twenty public command transactions separate authorities. Twenty abort channels each require an independent drill record; general rig acceptance cannot stand in for a functioning observation-to-final-element path. Twelve public interventions protect people, site, environment and evidence, but cannot improve candidate scoring. Ten ordered safe-state actions preserve source, water, configuration and custody.
+
+Twelve validity rules decide whether the registered proposition was tested. Fourteen outcome classes describe candidate performance only after validity. Ten pair rules retain valid members and permit replacement of invalid members only. Ten recovery states begin with new-source termination and end with restored serialized baseline. Twelve root-site reset clocks and six outside-origin replays make restoration and reconstructability measured campaign results.
+
+The 576-channel evidence system produces approximately 117.659 GB per event under the registered native recording rule. The base population requires approximately 36.004 TB. Base plus reserve with twenty-percent forensic overhead requires approximately 52.523 TB. Six mass allocations combine to approximately 4.814 kg expanded uncertainty against the inherited 5 kg screen.
+
+The forty-eight-month institution uses 584 positions. Gross capital is USD 420M and annual support is USD 228M/year, creating USD 1.332B program exposure. Registered overlap is USD 370M/184M per year, leaving USD 50M/44M per year net-new gross requirement. Net-new CISA ownership is USD 30M/28M per year and shared-technology ownership is USD 20M/16M per year. `BRD-11R` becomes USD 2.325B/414M per year; `BRD-11U` becomes USD 2.923B/559M per year.
+
+The thirty-six-sheet workbook recalculates with zero formula errors. All 2,221 terminal audits pass. Sixty-five disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed. The final workbook is 274,414 bytes with SHA-256 `4efe8a109c2117faef784321f4a3e651b8b889e5f7d87e3a41bd597e2bd2b904`. All 775 planning gates pass, 1,411 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 126 should create `RAM-1`, the Root A method-card and causal-estimator constitution. It should define method-specific stimuli, tolerances, dwell, sampling, operator and automatic commands, missing-data logic, uncertainty propagation, intervention flags, recovery-entry criteria, pair/site/builder/candidate estimators and one end-to-end root with an invalid-attempt replacement. Exterior form remains blocked.

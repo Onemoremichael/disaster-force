@@ -76,6 +76,8 @@ The [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology cons
 
 The [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md) supplies that rig as `RFP-1`. Two complete positions at each proving campus combine reconfigurable terrain, candidate-owned drain cartridges, separately metered normal and casualty liquid paths, shaped fire and wind challenge, independent robotics access, rig-native rescue and native public evidence. A 120 m³ public casualty vault may save the site but cannot improve a candidate's result. The next pass should define the exact Root A event clock, source escalation and intervention classification; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution](f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.md) supplies that law as `RFE-1`. Its immutable register allocates 306 events across six rigs, conserves ninety-six control/challenge pairs, adds six tonnes of root-native development source and protects the valid denominator with sixty-six dormant reserve tokens. Twenty-four clock phases, twenty abort channels, twelve scored interventions, ten recovery states and outside-origin replay keep public protection, validity and candidate outcome separate. The next pass should define Root A method cards, tolerances, missing-data logic and causal estimators; exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |
