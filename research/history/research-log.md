@@ -3728,3 +3728,33 @@ The companion workbook contains eighteen sheets, eighty-six independent terminal
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. The next pass should qualify the physical module and interface articles required before `CRC-E01`: representative structural, hydraulic, electrical, sanitary, data, metrology, custody, transport and lifting sections; known-truth and destructive articles; cold-storage aging and reset tests; and explicit evidence for any cellular service intended to reduce the six-shipset force. Internal sectional diagrams may begin only where they define those measurements. Exterior renderings remain blocked.
+
+## Pass 109 — F36 physical module and interface qualification constitution
+
+**Date:** 9 September 2026
+
+**Question:** What dedicated physical article bank, receiver environment, trial campaign and authority sequence must exist before the first no-notice campus-reconstruction event can begin?
+
+**Primary artifact:** [F36 physical module and interface qualification constitution](../force/generation/f36-physical-module-and-interface-qualification-constitution.md)
+
+**Companion model:** [F36 physical module and interface qualification constitution](../../models/force/generation/f36-physical-module-and-interface-qualification-constitution.xlsx)
+
+Pass 109 replaces “modular” as an attractive description with `MQP-1`, a falsifiable physical qualification program. The unit of qualification is an interface transaction: identified articles, people, tools, process, software, access, contamination control, measurement, evidence and reset carry a declared service across a declared boundary and return every object to known custody. A connector, transport envelope or favorable factory demonstration does not satisfy that obligation.
+
+The program controls 130 dedicated serial units. Sixty interface-pair articles cover ten interface families, two unlike industrial roots and three independent serial states: fresh, challenged and cold-reset. Thirty-six service-cell articles create primary and independently reproduced cells for nine complete campus services in both roots. Four utility islands, six receiver spines, four campus slices, eighteen reference/truth/quarantine articles and two directed emergency adapters complete the bank. None of the six `CRS-2` operational shipsets receives qualification credit.
+
+Ninety-four decision-bearing trials comprise sixty interface trials, eighteen service-cell reproduction trials, six receiver-spine trials and ten integrated utility-island, campus-slice and adapter trials. Three receiver worlds prevent one ideal pad from defining success: damaged hardstand with untrusted utilities, settled weak ground requiring an independent load and utility island, and a remote corridor with long service runs and no trusted grid or national network. Twenty cold-reset trials place every interface-root combination through at least twelve months of controlled storage, transport, no-notice deployment, service, disassembly and reset.
+
+Twenty-four sealed fault assignments and twenty-four clean controls cover twelve mechanism families in both roots. Root independence is limited by decisive ancestry rather than names: material process, production machines, tooling, control implementation, signing keys, inspection, suppliers, workforce, technical data and reset processes must remain independently reproducible. Common public requirements and receiver envelopes are permitted; one hidden implementation shared by both roots receives zero independence credit. Directed adapters may preserve emergency federation but never substitute for the second root.
+
+The forty-eight-month qualification program cross-classifies USD 3.000B of capital inside the Pass 108 USD 13.900B standing program and USD 0.720B/year inside its USD 1.086B annual support program. The four-year operating draw is USD 2.880B. These are not additive to the USD 40.950B twenty-five-year boundary. The protected shipset line has zero qualification draw.
+
+The companion workbook contains seventeen sheets, fifty-four release gates and eighty independent terminal audits. All audits pass after export, the saved-workbook formula-error scan is empty and all sheets are visually reviewed. Fifteen disposable sensitivities reject duplicate article identities, missing interface classes, broken service-cell reproduction, receiver-root mismatch, missing integrated articles, invalid fault or clean-control records, shortened cold storage, shared decisive ancestry, schedule overrun, financial mismatch, single-line authority, premature production/rendering and summary-only physical claims. The saved baseline contains zero physical observations; thirty-two planning gates are authorized, program and `CRC-E01` gates are held, and production and exterior rendering are blocked. The final workbook is 68,835 bytes with SHA-256 `4b639b18d2b3aa456406b5e847a1b6d2900243c70bf75e122511b68e4d1b6510`.
+
+**Repository integration**
+
+- `research/force/generation/f36-physical-module-and-interface-qualification-constitution.md`
+- `models/force/generation/f36-physical-module-and-interface-qualification-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. The next pass should specify the first coupled physical article set: structural anchoring and lifting, hydraulic and sanitary separation, electrical protection and black start, and the receiver utility spine joining them. It should assign physical dimensions, loads, flows, voltages, thermal and chemical limits, measurement planes, sampling points, access volumes, independent references, destructive endpoints, transport conditions and exact root-specific build-release records. Internal sections remain evidence diagrams, not form concepts.
