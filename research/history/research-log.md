@@ -3697,3 +3697,34 @@ The companion workbook contains sixteen sheets and sixty-nine terminal audits. A
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no vehicle rendering are introduced. The next force-generation pass should compile a no-notice cold reconstruction campaign: select the denied root, lost arsenal and receiver after start; bind immutable item and workforce identities; preserve the two surviving campuses' workload; execute island utilities; insert configuration, geometry, calibration and evidence faults; and measure rework, queues and independent admission against the 162-day internal target and 180-day terminal deadline.
+
+## Pass 108 — F36 no-notice cold reconstruction campaign and rotational-readiness constitution
+
+**Date:** 8 September 2026
+
+**Question:** What force can execute a complete no-notice reconstruction exercise, reset afterward and still preserve an independent real-mission path through simultaneous root denial and arsenal loss?
+**Primary artifact:** [F36 no-notice cold reconstruction campaign and rotational-readiness constitution](../force/generation/f36-no-notice-cold-reconstruction-campaign-and-rotational-readiness-constitution.md)
+
+**Companion model:** [F36 no-notice cold reconstruction campaign and rotational readiness](../../models/force/generation/f36-no-notice-cold-reconstruction-campaign-and-rotational-readiness-constitution.xlsx)
+
+Pass 108 separates one-shot mission sufficiency from mature force readiness. The Pass 107 `CRS-1` architecture can rebuild one campus after root-plus-arsenal loss, but committing one of its four shipsets and its only regeneration formation to a full exercise consumes the alert guarantee. Exercise recall or conversion cannot repair the requirement because an assembly under fault, open evidence and receiver custody is not an independent immediately deployable path.
+
+The governing planning reference becomes `CRS-2`: six complete root-coherent shipsets at six separated arsenals, three shipsets from each unlike industrial root; two 300-person line Campus Regeneration Groups; two sixty-person Independent Campus Commissioning Authority teams; two non-overlapping 1,400-person retained affiliate pools; and six dark receiver identities. The workbook enumerates all seventy-two combinations of denied root, lost arsenal and exercise shipset. Every `CRS-2` case retains at least one complete uncommitted shipset. The corresponding thirty-two `CRS-1` cases reach zero. `CRS-1` therefore remains the physical minimum for one reconstruction but loses mature-force authority.
+
+The qualification program is `CRC-6`: six full cold reconstructions beginning at months 0, 13, 26, 39, 52 and 65, with a final program board at month 78. The event matrix uses each receiver and arsenal once, denies each root three times, simulates loss of each active campus twice and gives each line group three events. One exercise line, commissioning team and affiliate pool remain disjoint from the paired alert formations. The two surviving campuses retain all 820 public personnel, four closure bays, four damage cells, references, utilities and stores; the exercise receives zero borrowed credit.
+
+Every event imposes the root-plus-arsenal cut. Five add a secondary challenge: unavailable grid, unavailable source water, severed heavy route, lost national network and signing, or combined twenty-percent affiliate non-muster and reference-cache loss. Planning admissions range from day 162 to day 179. The day-162 target continues to test the core architecture, while the absolute day-180 terminal permits eighteen days of explicitly visible challenge reserve. `CRC-E06` consumes seventeen of those days and closes with one day of margin.
+
+The campaign assigns four sealed faults and two clean controls to every event. Eight families—identity, executable configuration, geometry, sensor bias, time, containment, evidence original and blind truth—each appear three times. Physical detection, correct classification and terminal disposition remain zero. Even if all twenty-four future injections were detected, zero misses would yield only an 88.3-percent one-sided 95-percent lower bound under a simplifying independent-trial approximation. The campaign can establish mechanism coverage and institutional behavior; it cannot establish production reliability.
+
+Rotational readiness raises gross standing capital from USD 10.000B to USD 13.900B. The selected allocation contains USD 8.040B for six complete shipsets and USD 5.860B for roots and rights, receivers, arsenals, two mobile assembly formations, independent commissioning, a full exercise range, environmental and waste capability, offline data and contingency. The inherited compatible overlap remains USD 0.100B, making incremental capital USD 13.800B. Annual support rises from USD 0.620B to USD 1.086B. Twenty-five-year support is USD 27.150B; the incremental and gross boundaries become USD 40.950B and USD 41.050B. The USD 1.650B cost of six full events is cross-classified inside the first six years of annual support, not added again.
+
+The companion workbook contains eighteen sheets, eighty-six independent terminal audits and forty-six release gates. All audits pass after export; the saved-workbook formula-error scan is empty; archive integrity passes; and every sheet is visually reviewed. Thirteen disposable sensitivities behave causally: incomplete shipset inventory, duplicate receiver or arsenal coverage, a selected shipset on the denied root, late admission, overlapping exercise and alert people, borrowed campus resources, an invalid fault assignment, critical-path delay, financial mismatch and authority-only shortcuts all fail their intended gates. The final workbook is 70,733 bytes with SHA-256 `cdc059465f2ca8b09bbe28b7763b01f2bdc2e52ebb1b3bda07ba40c36e0694c6`.
+
+**Repository integration**
+
+- `research/force/generation/f36-no-notice-cold-reconstruction-campaign-and-rotational-readiness-constitution.md`
+- `models/force/generation/f36-no-notice-cold-reconstruction-campaign-and-rotational-readiness-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. The next pass should qualify the physical module and interface articles required before `CRC-E01`: representative structural, hydraulic, electrical, sanitary, data, metrology, custody, transport and lifting sections; known-truth and destructive articles; cold-storage aging and reset tests; and explicit evidence for any cellular service intended to reduce the six-shipset force. Internal sectional diagrams may begin only where they define those measurements. Exterior renderings remain blocked.
