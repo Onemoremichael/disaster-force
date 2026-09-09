@@ -106,6 +106,8 @@ The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalati
 
 The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md) makes the method itself a public force asset as `RAM-1`. Ten methods, 240 phase procedures and thirty typed features preserve source, fire, water, environment, recovery and validity from the event through the candidate layer. Challenge state, blindness, independent witness, dual-chain calibration and interval ancestry are separate physical obligations. All 1,942 physical gates remain open; candidate selection, production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](generation/f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) makes truth recovery itself a public force capability as `RAW-1`. Five nonenergetic methods cross two unlike truth roots, six rigs and six adversarial trial classes. Blinded faults, chain denial and outside-origin replay are required trials rather than after-action checks. All 2,811 physical gates remain open; quarter-source entry, candidate entry, campaign release and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
