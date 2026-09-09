@@ -4268,3 +4268,41 @@ The thirty-six-sheet workbook recalculates with zero formula errors. All 1,678 t
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 124 should create `RFP-1`, the candidate-neutral full-scale Root A fire/hydraulic rig physical specification. It should define replaceable terrain fields, source dispensers, separate source and water paths, igniters, thermal boundaries, drains, sumps, vaults, environmental containment, robot corridors, casualty recovery, protected metrology and site geometry without selecting a candidate. Exterior form remains blocked.
+
+## Pass 124 — F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification
+
+**Date:** 9 September 2026
+
+**Question.** What physical public source plant, reconfigurable terrain, candidate boundary, drainage gallery, water and heat plant, environmental perimeter, robotic access, rescue system, measurement system, safety architecture, site geometry, workforce and fiscal commitment are required to run the `RFA-1` campaign without preselecting one Root A technical answer?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](../force/generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](../../models/force/generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.xlsx)
+
+Pass 124 creates `RFP-1` and makes Root A test neutrality physical. Six complete rigs are distributed across the three proving campuses. Each has a 30 m × 20 m active field built from 150 serialized 2 m × 2 m terrain cassettes and 600 replaceable 1 m² panels. The federation therefore owns 900 terrain cassettes and 3,600 panels able to introduce measured adverse grade, settlement, discontinuity, debris and thermal damage.
+
+Twenty-four candidate cartridge bays per rig connect to four longitudinal drain galleries. The public structure fixes datum, load, access and casualty isolation while the candidate supplies its own surface insert, drain cartridge, receiver and recovery mechanism. There is no common source plenum, sump, candidate water vault, heat exchanger, robot controller or navigation solution.
+
+The public source dispenser prepares and weighs the inherited 2,000 kg `C1` source. At 800 kg/m³ it occupies 2.500 m³; a 120-second release averages 16.667 kg/s or 1.250 m³/min. Replaceable 40–200 mm adapters at sixteen controlled locations vary release geometry without losing source identity. A 50 m³ public casualty-source tank is separately isolated. An 8,000 kg `C2` structural interface is reserved without creating source authority.
+
+Each rig supplies 3 m³/min water at 1.2 MPa and accepts 20 MW through a candidate-owned heat exchanger. Normal supply, candidate return, public casualty capture and quarantine transfer are physically separate. The candidate retains its inherited 40 m³ vault. A separately isolated 120 m³ public casualty-water vault protects the site but cannot earn candidate performance credit. Its activation, contents and consequence remain part of the candidate result.
+
+The configurable fire field supports 5–100 m² pool boundaries. A 72 MW thermal allocation exceeds the 25 m² inherited 58.559 MW screen by about 23 percent. Twenty-four zones, sixteen shielding datums, four protected instrument galleries, four unlike remote igniters, a 1.5 kPa wind field and two public quench paths make heat and intervention spatially measurable.
+
+Three 4 m-wide robot corridors per rig separate hot approach and extraction, candidate service, and clean return with decontamination. Rig-native rescue supports remote reconnaissance, 150 kg casualty extraction through two unlike mechanisms, two-patient stabilization, 120 minutes of independent breathing air, three unlike communication bearers and evidence retention during life safety.
+
+The inherited 480 scientific channels remain intact. Ninety-six facility witnesses add utilities, environmental state, casualty-system state and independent field video. Aggregate native rate is approximately 53.404 MB/s per rig. A 600-second full-rate interval, six-hour one-percent tail, two originals and 1.35 custody factor require approximately 117.659 GB per event and 46.805 TB across the 306-event campaign with thirty-percent reserve.
+
+Six mass-accounting allocations combine to approximately 4.814 kg expanded uncertainty at `k=2`, leaving only 0.186 kg beneath the inherited 5 kg ceiling. This is a metrology and recovery requirement, not physical closure. Eighteen independent safeing paths preserve passive, analog hardwired direct-current and diverse programmable action with separate sensing, logic, energy, transmission and final elements.
+
+The thirty-six-month institution requires 418 mission positions, USD 720M capital and USD 112M/year. Registered overlap is USD 560M/90M per year, leaving USD 160M/22M per year net-new gross requirement. The CISA-owned increment is USD 100M/14M per year and the shared-technology increment USD 60M/8M per year. `BRD-10R` becomes USD 2.295B/386M per year. `BRD-10U` becomes USD 2.873B/515M per year. Program-period exposure is USD 1.056B.
+
+The thirty-three-sheet workbook recalculates with zero formula errors. All 2,614 terminal audits pass. Seventy-two disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed. The final workbook is 314,866 bytes with SHA-256 `f4b896f80dbcfab5e2ba1b249eb2c5a4fefd29ab5a3388407be5eb350349b5bd`. All 335 planning gates pass, 2,244 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 125 should create `RFE-1`, the Root A fire/hydraulic-rig execution and source-escalation constitution. It should conserve all 306 events and ninety-six pairs; define the event clock from configuration freeze through source, ignition, water, candidate action, public intervention, casualty recovery, evidence seal and restoration; separate valid candidate failure from facility-caused invalidity; specify blank, water, tracer, surrogate, quarter-source and full-source progression; and predeclare regression after physical change. Exterior form remains blocked.
