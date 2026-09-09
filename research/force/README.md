@@ -102,6 +102,8 @@ The [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology cons
 
 The [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md) constitutes those six rigs as `RFP-1`. Each position carries a 30 m × 20 m reconfigurable terrain field, twenty-four candidate cartridge bays, separate source and water casualty receivers, 72 MW of zoned thermal challenge, 20 MW of candidate heat rejection, three robot corridors and a rig-native rescue system. Common source, datum, safety and evidence coexist with unlike candidate drainage, cooling, autonomy and recovery. All 2,244 physical gates remain open; production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution](generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.md) makes those instruments an executable public campaign as `RFE-1`. It conserves 306 events and ninety-six pairs, gives every root quarter-source development anchors, provisions sixty-six invalid-attempt replacements and binds every trial to a common source, ignition, water, intervention, evidence and recovery clock. All 1,411 physical gates remain open; production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
