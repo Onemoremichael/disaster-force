@@ -88,6 +88,8 @@ The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitu
 
 The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) supplies that program as `RAP-1`. Eighteen units divide into six operational articles, six matched functional twins, three calibration skeletons and three destructive witnesses across two unlike build lineages. The campaign defines 360 construction travelers, 720 coupons, 648 paths, 3,348 path trials, 192 inert-fluid trials, 2,592 channels, 5,184 calibrations, 144 denial trials, 120 outside-origin replays and 15,252 physical gates. All physical acceptance remains open. The next pass should define lineage-specific drawings, tolerance stacks, material/process lots and build-release packages; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A reference-article construction and build-release constitution](f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) supplies those packages as `RAC-1`. The 2.4-metre transport article separates into six protected modules and deploys as a surveyed straight 12-metre line. `BL-X` uses five permanent welds; `BL-Y` uses five keyed, monitored double-barrier joints. The model defines ninety-six drawing sheets, seventy-two part families, seventy-two lot splits, thirty-two process routes, forty-eight tolerance stacks, 360 travelers and 288 build gates. A two-lineage development build and destructive qualification campaign is next; exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |

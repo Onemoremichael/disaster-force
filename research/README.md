@@ -150,6 +150,8 @@ The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitu
 
 The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](force/generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) creates `RAP-1`. Eighteen article units preserve operational, defect, calibration and destructive evidence across two unlike build lineages. The campaign defines 3,348 safeing-path trials, 192 inert-fluid route trials, 5,184 calibration records, 144 denials, 120 non-origin reconstructions and 15,252 physical gates. Planning is complete; all physical evidence remains open. Lineage-specific construction drawings and controlled build release are next.
 
+The [F36 `CISA-40` `SA6` Root A reference-article construction and build-release constitution](force/generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) creates `RAC-1`. The article becomes a six-module transport kit that deploys as a straight 12-metre line. `BL-X` fuses five joints; `BL-Y` retains five monitored double barriers. The planning package closes hydraulic, surge, pressure, thermal-growth, safeing-work, energy, mass and tolerance calculations while leaving every fabrication and article release open. Two development articles and destructive build qualification are next.
+
 ## The present proof attempt
 
 The live chain is the New York vertical heat–blackout campaign. It tests whether a neighborhood formation derived after the Harris County flood campaign transfers into a city where the decisive damaged network lies inside occupied buildings.

@@ -114,6 +114,8 @@ The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitu
 
 The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) establishes that campaign as `RAP-1`. An eighteen-unit bank separates operational, twin-defect, calibration and destructive work while two unlike build lineages preserve manufacturing disagreement. Its 15,252 physical records join construction, safeing, inert-fluid custody, metrology, denial and outside-origin replay. The next object is the build-release definition for both lineages; source entry and exterior form remain unavailable.
 
+The [F36 `CISA-40` `SA6` Root A reference-article construction and build-release constitution](generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) supplies that definition as `RAC-1`. Six two-metre modules reconcile transport with the 12-metre experiment. Two lineages share the 40-millimetre bore, datums, surface bands and interfaces while retaining welded versus monitored-clamp joint mechanisms. Forty-eight worst-case tolerance stacks and 288 article gates make build release falsifiable. Physical development and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
