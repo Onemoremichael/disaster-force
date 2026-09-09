@@ -3667,3 +3667,33 @@ The companion workbook contains sixteen sheets and seventy-three terminal audits
 - root, research, force, generation, frontier, catalog, platform-requirement and research-log routes updated
 
 No external-site research and no vehicle rendering are introduced. The next force-generation pass should define an F36 campus-regeneration capital and industrial exercise constitution: distinguish recoverable denial, modular loss and complete physical destruction; assign reserves to explicit states; configure every campus service as a regenerable system; create unlike industrial build paths; and test cold reconstruction within 180 days without borrowing the lost campus's workforce, technical data, utilities or acceptance authority.
+
+## Pass 107 — F36 campus-regeneration capital and industrial exercise constitution
+
+**Date:** 8 September 2026
+
+**Question:** What standing institution, inventory, industrial rights, receiver options, people and independent evidence make a complete F36 campus physically recreatable inside 180 days without stripping the two surviving campuses?
+
+**Primary artifact:** [F36 campus-regeneration capital and industrial exercise constitution](../force/generation/f36-campus-regeneration-capital-and-industrial-exercise-constitution.md)
+
+**Companion model:** [F36 campus-regeneration capital and industrial exercise constitution](../../models/force/generation/f36-campus-regeneration-capital-and-industrial-exercise-constitution.xlsx)
+
+Pass 107 rejects the inherited 180-day target as an unfunded calendar assertion. The clock begins at authenticated permanent-loss declaration, not after appropriation, land acquisition or contracting. Denial, repairable loss, modular-lane loss, permanent physical destruction and replacement-campus admission remain separate states. The replacement unit is the complete campus bill of service: two closure bays, two damage cells, a hydraulic and utility island, two sanitary laboratories, a forensic line, two metrology detachments, two replay cells, a blind shop and admitted site custody. Installed value remains USD 1.340B.
+
+Four architectures are competed under hard gates. Bespoke rebuild closes at 420 days. A central shipset closes at 238 days and remains a single-node failure. A distributed single-root system reaches 176 days but fails common-root loss and the required ten-percent schedule reserve. The selected planning reference, `CRS-1`, uses four complete root-coherent shipsets, two unlike industrial roots, four separated arsenals and six dark receiver sites. Four is the minimum conservative integer reserve while utility, forensic, blind and custody functions remain singleton services: after either root and any one arsenal are denied, one complete shipset survives. The workbook rejects the cheaper 2.667 campus-equivalent abstraction because fractional service credit has not been physically earned.
+
+`CRG-1` is a separate 300-person public formation supported by 1,400 retained industrial affiliates. A ten-line no-borrow ledger prevents reconstruction from consuming operating-campus command, labor, metrology, evidence, software, transport, spares or waste capacity. Six receiver identities define hazard, route, water, island-power, waste, custody and annual-currency standards while receiving zero routine campus-capacity credit. No real sites are claimed.
+
+The compound root-plus-arsenal schedule contains thirteen overlapping work packages from loss authentication through independent board admission. Eleven mission worlds close between days 146 and 162. Day 162 is the internal target, preserving eighteen days inside the day-180 deadline. A second active-campus loss is a required safe stop rather than a false completion. Twelve commissioning gates separate planning definition from physical packets and require identity, configuration, geometry, utilities, waste, evidence, known truth, fault detection, replay, complete service and independent admission.
+
+The selected planning reference carries USD 10.000B of gross standing capital: USD 5.360B for four shipsets and USD 4.640B for roots, sites, arsenals, transport, commissioning, exercises, environmental paths, offline data and contingency. Only USD 0.100B of inherited reset stock is recognized as compatible; USD 0.150B remains with operations and the USD 0.210B controlled reserve remains protected. Incremental capital authority is USD 9.900B. Annual support is USD 0.620B. The twenty-five-year incremental and gross boundaries are USD 25.400B and USD 25.500B.
+
+The companion workbook contains sixteen sheets and sixty-nine terminal audits. All audits pass after export, the saved-workbook formula-error scan is empty and every sheet is visually reviewed. Ten disposable sensitivities behave causally: losing a shipset, collapsing a root, delaying a world or critical path, crediting a dark site as operating capacity, borrowing surviving-campus labor, changing capital or annual support and asserting incomplete downstream authority all fail their intended gates. The final workbook is 49,601 bytes with SHA-256 `fe7232203f7f6526d3145d4cf048f2d18db05a5d8aea402a6b53ab0dd3527eb3`.
+
+**Repository integration**
+
+- `research/force/generation/f36-campus-regeneration-capital-and-industrial-exercise-constitution.md`
+- `models/force/generation/f36-campus-regeneration-capital-and-industrial-exercise-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no vehicle rendering are introduced. The next force-generation pass should compile a no-notice cold reconstruction campaign: select the denied root, lost arsenal and receiver after start; bind immutable item and workforce identities; preserve the two surviving campuses' workload; execute island utilities; insert configuration, geometry, calibration and evidence faults; and measure rework, queues and independent admission against the 162-day internal target and 180-day terminal deadline.
