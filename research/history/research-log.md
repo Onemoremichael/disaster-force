@@ -4342,3 +4342,45 @@ The thirty-six-sheet workbook recalculates with zero formula errors. All 2,221 t
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 126 should create `RAM-1`, the Root A method-card and causal-estimator constitution. It should define method-specific stimuli, tolerances, dwell, sampling, operator and automatic commands, missing-data logic, uncertainty propagation, intervention flags, recovery-entry criteria, pair/site/builder/candidate estimators and one end-to-end root with an invalid-attempt replacement. Exterior form remains blocked.
+
+## Pass 126 — F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution
+
+**Research question:** What public methods, physical truth records, measurement chains, sampling law, missing-data rules, uncertainty rules, estimator hierarchy, recovery criteria, technology programs, workforce and fiscal commitment are required to transform the frozen 306-event Root A campaign into reproducible causal evidence?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](../force/generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](../../models/force/generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.xlsx)
+
+Pass 126 creates `RAM-1` and treats method ownership as a public force capability. Ten methods cover dry geometry, water-only hydraulics, safe surrogate behavior, debris, dual-tracer ancestry, quarter-source unignited work, quarter-source fire, full-source paired fire, controlled destructive work and recovery/reset/replay. Every method instantiates the inherited twenty-four-phase clock through a total of 240 method-phase procedures.
+
+All 306 `RFE-1` events compile without changing identity, source, site, rig, pair or order. Method counts are 12, 12, 12, 12, 12, 102, 6, 96, 24 and 18 for `AM-00` through `AM-09`. One `AF-1-BA` root is expanded through all fifty-one of its development, paired, destructive, reset and replay events. The expansion proves referential completeness only; no physical event is credited.
+
+Eight challenges receive thirty-two initial tolerances and twenty-four realization records. A challenge exists only when decisive physical state, registered dwell, blindness and independent public witness are accepted. Commanded state and fixture identity cannot substitute for measurement.
+
+Twenty-four measurement functions each receive a primary and independent witness chain, creating forty-eight calibration objects. Thirty sample objects preserve identity/control, pre-method and post-method material. Two certificates on one acquisition path do not create independence, and laboratory results cannot invent an absent time history.
+
+Thirty typed features cover source, fire, water, environment, public action, recovery and validity. Three hundred method-feature assignments state whether each feature is decisive, supporting or absent for each method. Thirty equations retain units, direction, governing bounds and uncertainty. Weighted compensation is prohibited for safety, validity and custody limits.
+
+The causal hierarchy contains 306 event records, ninety-six control/challenge pair estimators, forty-eight two-site builder-root estimators and twenty-four unlike-builder candidate estimators. Pair effects are challenge minus control only when both events are valid. Site spread and builder spread remain visible. No higher level averages an available subset when a required counterpart is missing.
+
+Six competing terminal events separate candidate bounded state, public source isolation, public casualty-source custody, public quench, public casualty-water custody and decisive evidence loss. Public action is successful safety performance and adverse candidate evidence. It is not ordinary statistical censoring, and the estimator cannot infer unobserved autonomous success after public intervention.
+
+Sixteen missing-data rules preserve unresolved decisive observations as blank. Zero is reserved for an observed number. Visual review caught and corrected an initial formula-link defect that displayed unresolved validity as zero in event and pair estimators. The corrected links preserve blank state through the hierarchy.
+
+Thirty uncertainty chains retain calibration, spatial, temporal and transformation components. Root-sum-square is allowed only for declared uncorrelated terms; covariance requires a prospective amendment. Twelve validity rules precede fourteen outcome classes. Ten recovery-entry states, twelve immutable evidence objects, fourteen amendment classes and sixteen regression triggers prevent repair, software change or reserve assignment from erasing prior records.
+
+The synthetic training example freezes `RFE-E083`, an `A06` challenge for `AF-1-BA` at `PTC-B`. Loss of the independent dual-tracer witness makes the event invalid and leaves candidate outcome blank. Reserve token `RFE-R030` links to the original, while replacement `RAM-X001` receives a new identity. The example creates no physical credit.
+
+Twelve mission-led technology campaigns pursue real-time source inventory tomography, dual-coded fluid ancestry, instrumented terrain skins, radiant-field tomography, self-describing instruments, traceable distributed time, public-intervention recording, remote casualty reconnaissance, rapid source-water microanalysis, public causal compilation, robotic post-event material recovery and outside-site executable replay. The program explicitly permits invention where integrated operational capability does not yet exist.
+
+The thirty-six-month institution uses 342 public positions. Gross capital is USD 220M and annual support is USD 142M/year, creating USD 646M program exposure. Registered overlap is USD 178M/118M per year, leaving USD 42M/24M per year net-new gross requirement. Net-new CISA ownership is USD 25M/16M per year and shared-technology ownership is USD 17M/8M per year. `BRD-12R` becomes USD 2.350B/430M per year; `BRD-12U` becomes USD 2.965B/583M per year.
+
+The forty-three-sheet workbook recalculates with zero formula errors. All 3,851 terminal audits pass. Sixty-one disposable sensitivity tests respond and restore. Every sheet was rendered and visually reviewed. The final workbook is 481,120 bytes with SHA-256 `9f832ae293afcda70bf9f10e0214a90466e4a24835ea54fee883f9e9c1726266`. All 1,870 planning gates pass, 1,942 physical gates remain open and nine downstream authorities remain blocked.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 127 should create `RAW-1`, the Root A first method-qualification wave and coupled mass/heat/water known-truth commissioning constitution. It should define truth artifacts, mixture standards, terrain-skin calibration, dual-tracer blindness, distributed-time denial, outside-site replay and the exact physical gates required before quarter-source methods may begin. Exterior form remains blocked.

@@ -104,6 +104,8 @@ The [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specifica
 
 The [F36 `CISA-40` `SA6` Root A fire/hydraulic-rig execution and source-escalation constitution](generation/f36-cisa40-sa6-root-a-fire-hydraulic-rig-execution-and-source-escalation-constitution.md) makes those instruments an executable public campaign as `RFE-1`. It conserves 306 events and ninety-six pairs, gives every root quarter-source development anchors, provisions sixty-six invalid-attempt replacements and binds every trial to a common source, ignition, water, intervention, evidence and recovery clock. All 1,411 physical gates remain open; production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](generation/f36-cisa40-sa6-root-a-method-card-and-causal-estimator-constitution.md) makes the method itself a public force asset as `RAM-1`. Ten methods, 240 phase procedures and thirty typed features preserve source, fire, water, environment, recovery and validity from the event through the candidate layer. Challenge state, blindness, independent witness, dual-chain calibration and interval ancestry are separate physical obligations. All 1,942 physical gates remain open; candidate selection, production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text
