@@ -82,6 +82,8 @@ The [F36 `CISA-40` `SA6` Root A method-card and causal-estimator constitution](f
 
 The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](f36-cisa40-sa6-root-a-known-truth-method-qualification-wave.md) supplies that wave as `RAW-1`. Five methods, ten method-root families, six rigs and six trial classes create 360 required valid credits. One hundred twenty truth articles keep active, reference, destructive and quarantine stocks separate; seventy-five reserve tokens replace only independently invalid attempts. Sixty outside-origin replays and unlike-root agreement make portability and disagreement part of method qualification. The next pass should define the quarter-source entry and coupled source-water ancestry safety case for AM-05 and AM-06; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) supplies that case as `RAS-1`. Two source-bearing methods cross two unlike roots, six public rigs and six source-entry classes. The 144-credit design retains a 25 m² casualty-area bound for the 500 kg source, closes source and water separately, gives twelve final control elements thirty-six independent safeing paths and requires twenty-four outside-site casualty replays. The next pass should compile executable as-built article, containment-cell, source-lot, safeing and first-event dossiers. Exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |

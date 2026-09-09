@@ -4416,3 +4416,37 @@ The forty-three-sheet workbook recalculates with zero formula-error matches. All
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 128 should create `RAS-1`, the quarter-source entry and coupled source-water ancestry safety case for AM-05 and AM-06. It should define the physical invariants, unlike roots, scale-effect law, final control elements, denial cases, evidence and authority required before candidate entry or source-campaign release. Exterior form remains blocked.
+
+## Pass 128 — F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case
+
+**Research question:** What exact source, water, thermal, safeing, evidence and institutional constitution is required before the first 500 kg `AM-05` or `AM-06` event can earn limited authority, and which quarter-scale relations cannot be extrapolated to the two-tonne state?
+
+**Primary artifact:** [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](../force/generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md)
+
+**Companion model:** [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](../../models/force/generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.xlsx)
+
+Pass 128 creates `RAS-1` and makes source scaling, coupled response inventory and final-element truth part of force generation. Its central result is that quarter inventory is not quarter consequence. A 500 kg source constrained to 6.25 m² has a 14.639625 MW peak screen, but the same inventory at the 25 m² casualty bound retains the 58.5585 MW peak screen of the full-source area. Reduced source first changes duration; it cannot be assumed to reduce an unconstrained peak.
+
+Two methods—unignited source custody and quarter-source fire with coupled ancestry—cross two physically unlike roots, six public rigs and six source-entry classes. The 144-credit population progresses from a sealed datum through 100 kg, 250 kg, nominal 500 kg, blind source-water crossover and casualty-area denial/replay. Twenty-nine class-specific reserve tokens may replace independently invalid attempts but cannot erase valid adverse results.
+
+The base campaign schedules 44.4 tonnes of source and 624 rig-days. The full reserve adds 10.8 tonnes and 147 rig-days. `AM-06` schedules 864 m³ of base water and a 528 m³ reserve envelope. `QE-06` carries a dimensionally correct water-to-source mass ratio of 96 and uses 40 percent of the 120 m³ casualty water receiver before rain, foam or emergency additions.
+
+Forty source lots preserve active, reference, destructive and quarantine roles. Twenty-four water lots and twelve optical/electrochemical code families keep source, candidate water, public water and environment distinct. Seventy-two sample plans and separate source, water and ancestry ledgers prevent mass closure from impersonating origin truth.
+
+Twelve final control elements receive primary, diverse and manual or passive paths, creating thirty-six safeing paths. Physical state rather than command receipt earns safety credit. Twenty abort conditions and twelve denial cases cover source, receivers, thermal boundary, ancestry, terminal-source time, energy, network, time, readers, evidence and public intervention. Public action protects life and the site but remains adverse evidence for the tested method.
+
+Forty-eight calibration families, twenty-four causal-time nodes, twenty-four uncertainty budgets, twelve within-rig unlike-root agreements, four cross-campus root-equivalence decisions, twelve immutable evidence objects and twenty-four outside-site replays define qualification. Native evidence is approximately 117.659 GB per event, 16.943 TB for the base population and 26.462 TB for all possible attempts with forensic provision.
+
+Fourteen technology campaigns pursue fire-capable inventory tomography, orthogonal molecular codes, high-temperature electrochemical readers, self-calibrating inventory nodes, passive diversion, selective phase recovery, pool-edge sensing, thermal-boundary arrays, mechanical state memory, local causal time, fire-hardened evidence, autonomous contamination search, safety-case compilation and reversible containment.
+
+The thirty-month establishment uses 512 positions. Gross capital is USD 620M and annual support is USD 235M/year, creating USD 1.2075B program-period exposure. Registered overlap is USD 560M/207M per year, leaving USD 60M/28M per year net extension. The credited boundary becomes USD 2.435B/464M per year; the uncredited view becomes USD 3.095B/637M per year.
+
+The forty-eight-sheet workbook recalculates with zero formula-error matches. All twenty-one planning audits pass. One hundred twenty assertions cover populations, balance, source, water, evidence, thermal calculations, dimensional correctness, finance and cumulative portfolio sensitivities, blank-versus-zero behavior, coupled closure, adverse direction and authority. Early review found and corrected a volume-ratio/mass-ratio labeling error. Every sheet was rendered and visually reviewed. The workbook is 178,661 bytes with SHA-256 `f3d66cfecc9ce6ae9f72a86da7eb549df6065565d514b68e6501a3b96260ce1d`.
+
+**Repository integration**
+
+- `research/force/generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md`
+- `models/force/generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. Pass 129 should create `RAE-1`, the executable article, containment-cell, source-lot, safeing and first-event dossier constitution required before any `QE-01` or `QE-02` identity can issue. Candidate entry, full-source work, production form and exterior rendering remain blocked.
