@@ -100,6 +100,8 @@ The [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](g
 
 The [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution](generation/f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.md) constitutes the other source path as `RFA-1`. Passive gravity, cellular closed-loop and robotic recovery systems compete across two unlike builders, six public rigs, forty-eight articles and 306 events. Water application is measured beside source capture, thermal protection, vault demand and environmental release. Twenty functions and 480 channels feed the same public event-to-candidate inference hierarchy without importing Root B's physical assumptions. All 1,124 physical gates remain open; production and exterior rendering remain blocked.
 
+The [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](generation/f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md) constitutes those six rigs as `RFP-1`. Each position carries a 30 m × 20 m reconfigurable terrain field, twenty-four candidate cartridge bays, separate source and water casualty receivers, 72 MW of zoned thermal challenge, 20 MW of candidate heat rejection, three robot corridors and a rig-native rescue system. Common source, datum, safety and evidence coexist with unlike candidate drainage, cooling, autonomy and recovery. All 2,244 physical gates remain open; production and exterior rendering remain blocked.
+
 ## The architecture
 
 ```text

@@ -74,6 +74,8 @@ The [F36 `CISA-40` `SA6` Root B method-card and causal-estimator constitution](f
 
 The [F36 `CISA-40` `SA6` Root A drainage, firewater and recovery technology constitution](f36-cisa40-sa6-root-a-drainage-firewater-and-recovery-technology-constitution.md) supplies that Root A system as `RFA-1`. Three complete-chain candidates, six builder roots, forty-eight articles, ten methods, eight challenges and 306 events treat source, surface, fire, water, runoff, robotic intervention and recovery as one experiment. Coarse screens expose a long-duration firewater-retention conflict without selecting an answer. The next pass should define the candidate-neutral full-scale Root A public rig; exterior form remains blocked.
 
+The [F36 `CISA-40` `SA6` Root A full-scale fire/hydraulic-rig physical specification](f36-cisa40-sa6-root-a-full-scale-fire-hydraulic-rig-physical-specification.md) supplies that rig as `RFP-1`. Two complete positions at each proving campus combine reconfigurable terrain, candidate-owned drain cartridges, separately metered normal and casualty liquid paths, shaped fire and wind challenge, independent robotics access, rig-native rescue and native public evidence. A 120 m³ public casualty vault may save the site but cannot improve a candidate's result. The next pass should define the exact Root A event clock, source escalation and intervention classification; exterior form remains blocked.
+
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
 | Object | What generation owns |
