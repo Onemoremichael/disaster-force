@@ -88,6 +88,8 @@ The [F36 `CISA-40` reference-article and phase-zero source-package constitution]
 
 The [F36 `CISA-40` `SA6` maximum-credible-release and source-preserving containment constitution](generation/f36-cisa40-sa6-maximum-credible-release-and-source-preserving-containment-constitution.md) rejects that two-tonne source as a self-proving MCR. `MCR-1` keeps the full eight-tonne rack as the upper analysis source until six passive propagation functions are physically accepted for both roots at both operational sites. Two source-preserving cells and one consequence cell carry twenty-four root-world cards, eighty safety events, eighteen instrument functions, root-specific safe-state timing and governed source recovery. Seventy-two planning gates pass; 119 physical gates remain open and `C2`, the campaign, production and exterior form remain blocked.
 
+The [F36 `CISA-40` `SA6` internal cell and source-boundary design constitution](generation/f36-cisa40-sa6-internal-cell-and-source-boundary-design-constitution.md) makes the receiving topology obey that source law. `SBD-1` gives every pod a dedicated isolation, route, drain or knockout, receiver, holder or recovery destination, last-resort disposition, safety path and native record. Sixteen complete routes, 176 no-common-path checks, sixty-four internal drawings, thirty-two interfaces and forty-eight paired propagation events replace the shared-lane shortcut. The planning arithmetic now supports full-rack retention, but `C2` authority remains blocked. The next governing research question is Root B flashing, choking, receiver dynamics and deployable gas retention.
+
 ## The architecture
 
 ```text
