@@ -3758,3 +3758,33 @@ The companion workbook contains seventeen sheets, fifty-four release gates and e
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. The next pass should specify the first coupled physical article set: structural anchoring and lifting, hydraulic and sanitary separation, electrical protection and black start, and the receiver utility spine joining them. It should assign physical dimensions, loads, flows, voltages, thermal and chemical limits, measurement planes, sampling points, access volumes, independent references, destructive endpoints, transport conditions and exact root-specific build-release records. Internal sections remain evidence diagrams, not form concepts.
+
+## Pass 110 — F36 coupled utility module and receiver-spine physical specification
+
+**Date:** 9 September 2026
+
+**Question:** What is the smallest physically specified coupled article set that can test structural, handling, hydraulic, sanitary, electrical, containment and receiver behavior before `CRC-E01`, without prematurely designing a production vehicle?
+
+**Primary artifact:** [F36 coupled utility module and receiver-spine physical specification](../force/generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.md)
+
+**Companion model:** [F36 coupled utility module and receiver-spine physical specification](../../models/force/generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.xlsx)
+
+Pass 110 selects `CISA-1` as the first controlled subset of `MQP-1`: thirty-six interface-pair articles across six interface families, two roots and three serial states; four utility islands; six receiver spines; four campus slices; and eight reference, truth or quarantine articles. The fifty-eight articles support fifty decision trials. They do not qualify the four deferred interface families, the complete service-cell bank, 168-hour endurance or the full reconstruction campaign. None receives operational shipset credit.
+
+The common `CISA-40` envelope is now physical but intentionally skeletal: 12.0 m long, 3.6 m wide and 3.8 m high; 32 tonnes dry, 4 tonnes of service inventory, 4 tonnes of configurable ballast and 40 tonnes operating; center of gravity no higher than 2.2 m; eight independently measured supports with at least 1.6 m² each; 400 mm leveling range; and four 196 kN lift nodes. The 1.50 g one-support-out weak-ground case reaches 70.923 kPa against a 75 kPa target. The representative combined anchor demand is 156.757 kN against a 200 kN proof target. A 1.30-factor dry lift is 407.957 kN total, with a 142.785 kN most-loaded node after the challenge imbalance.
+
+The utility island carries two 0.35 m full-bore paths, each delivering 5,000 m³/day. Exact circular area produces a 4.6181 m³ paired 24 m loop and a 13.8544 m³ three-volume sanitary flush. The inherited hydraulic states remain 0.70 MPa working, 0.85 MPa surge, 1.05 MPa proof, −0.085 MPa vacuum, 50,000 cycles, a 0.10 L/h leak decision floor and 200 kN restraint. The power boundary is 0.60 MW critical, 1.50 MW for eight hours, 2.25 MW for ten minutes and 3.00 MW for ten seconds. At least 0.40 MWh must be deliverable locally, placing the protected critical bus within ninety seconds and full service within twenty minutes without a trusted grid or national network.
+
+Three receiver worlds make local capacity explicit: a 300 kPa damaged hardstand, a 75 kPa weak-ground receiver with 300 mm differential over 10 m, and a 150 kPa remote receiver with 150 mm initial mismatch and no trusted grid or network. Thirteen measurement planes bind transport prestate, ground, supports, anchors, lifting, hydraulic source and article boundaries, sanitary custody, generation, medium- and low-voltage buses, time/configuration/originals and terminal containment. Explicit channel rates and active windows yield 1.111 TB of instrument records and 1.382 TB of video/spatial records per root. Two roots, two separately held originals, a 25-percent derived-product allowance and six-percent packet/index overhead produce a 13.215 TB retained estate.
+
+Sixteen physical sequences span prestate, vertical and lateral loads, settlement, lift, cold deployment, hydraulic proof and cycling, wrong-valve and backflow challenge, black start, electrical mismatch, coupled operation and terminal teardown. Sixteen sealed assignments cover eight mechanisms in both roots and receive sixteen matched clean controls. The subprogram spans thirty-six months, including an eighteen-month cold cohort. It plans 590 people: 210 public and 380 root or affiliate personnel. USD 0.960B capital and USD 0.260B/year are cross-classified inside the Pass 109 `MQP-1` boundary; the three-year operating draw is USD 0.780B.
+
+The companion workbook contains seventeen sheets, fifty-two release gates and seventy-nine independent terminal audits. All audits pass after export, the saved-workbook formula-error scan is empty and every sheet is rendered and visually reviewed. Twenty disposable sensitivities reject excess mass or center of gravity, insufficient ground area, anchor span or lift capacity, reduced bore, under-flush, low proof pressure or cycle count, inadequate stored energy, late black start, reduced normal service, missing measurement content, short cold storage, schedule overrun, capital or annual mismatch, summary-only physical claims and premature production or rendering authority. The final workbook is 56,583 bytes with SHA-256 `ab220546adf5a20bfa8890ab067d6d413e38f143010c77a80e86d4e1226f270a`.
+
+**Repository integration**
+
+- `research/force/generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.md`
+- `models/force/generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.xlsx`
+- root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
+
+No external-site research and no exterior rendering are introduced. The next pass should produce a build-release drawing constitution for `CISA-40`: root-specific support and anchor coordinates, lift-node geometry, ballast and center-of-gravity maps, hydraulic collar sections, valve/sample/waste topology, one-line electrical and grounding diagrams, protection coordination, evidence-power separation, access and exclusion volumes, fixture reactions, process travelers and terminal teardown maps. Every drawing must identify a stimulus, quantity, tolerance, sensor, invalid state, hazard boundary or custody object; none may exist merely to suggest exterior form.

@@ -72,6 +72,8 @@ The [F36 no-notice cold reconstruction campaign and rotational-readiness constit
 
 The [F36 physical module and interface qualification constitution](generation/f36-physical-module-and-interface-qualification-constitution.md) resolves the next pre-execution question: what physical articles must be built before that campaign can credibly start. `MQP-1` defines ten complete interface transactions and nine service cells across two unlike roots, three serial states and three receiver worlds. Its 130-unit dedicated bank supports ninety-four trials, including twenty-four sealed faults, twenty-four clean controls and twenty cold-storage/deployment/reset trials. The six alert shipsets receive no qualification credit. A forty-eight-month program cross-classifies USD 3.000B capital and USD 0.720B/year inside the standing force. Planning is authorized; source-level physical evidence, `CRC-E01`, production and exterior rendering remain held.
 
+The [F36 coupled utility module and receiver-spine physical specification](generation/f36-coupled-utility-module-and-receiver-spine-physical-specification.md) converts the first fifty-eight `MQP-1` articles into a common service envelope without dictating a common implementation. A 40-tonne `CISA-40` reference article must survive weak-ground support, anchor, lift and settlement states while operating paired F36-350 loops, sanitary custody and a 1.5 MW island with local black start. Three receiver worlds, thirteen measurement planes, sixteen sequences and sixteen root-balanced faults make the claim observable. The thirty-six-month subprogram remains planning-only; root evidence, `CRC-E01`, production and exterior rendering stay held.
+
 ## The architecture
 
 ```text
