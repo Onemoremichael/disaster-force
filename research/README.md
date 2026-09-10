@@ -155,8 +155,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAC-1`](force/generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) | construction constitution | defines the six-module geometry and two unlike build roots | accepted hardware |
 | [`RAB-1`](force/generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | development and destructive qualification | separates two integrated articles from process, defect, metrology and forensic populations | production-equivalent lot |
 | [`RAQ-1`](force/generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | production-equivalent bank constitution | crosses builder, lineage, material and locked article role across eighteen builds | campaign mobilization |
+| [`RAX-1`](force/generation/f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | campaign-mobilization constitution | breaks builder–campus confounding through a six-rig circuit and makes readiness simultaneous, paired and perishable | first executable event issue |
 
-`RAX-1` is next: accepted-article custody, article-to-rig assignment, pre-source readiness and formal correction of the inherited RAP-1 calendar. Exterior rendering remains blocked.
+`RAY-1` is next: one executable QE-01 issue, sealed-datum event and governed regeneration. RAX-1 corrects the inherited calendar to seventy-eight sequential months and a fifty-four-month release-aware program. Exterior rendering remains blocked.
 
 ## The present proof attempt
 
