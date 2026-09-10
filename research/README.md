@@ -158,8 +158,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAX-1`](force/generation/f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | campaign-mobilization constitution | breaks builder–campus confounding through a six-rig circuit and makes readiness simultaneous, paired and perishable | first executable event issue |
 | [`RAY-1`](force/generation/f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | first null-event and regeneration constitution | uses a twenty-four-cell public draw, unlike-root zero decisions and new post-event credentials | QE-01 class qualification |
 | [`RAZ-1`](force/generation/f36-cisa40-sa6-root-a-qe01-class-execution-and-transfer-qualification-constitution.md) | complete null-event class constitution | executes twenty-four cells through balanced waves, lawful replacement, regenerated reuse and outside-origin replay | first 100 kg event constitution |
+| [`RBA-1`](force/generation/f36-cisa40-sa6-root-a-first-qe02-source-event-and-source-exposed-regeneration-constitution.md) | first 100 kg source event constitution | fresh source eligibility and selection, exact lot custody, terminal mass bins and day-fourteen regeneration | full QE-02 class constitution |
 
-RAZ-1 extends the release-aware chain to month sixty-six and assigns the remaining RAE-1 capital, annual-support and technology allocations. The next admissible work is a separately governed 100 kg `QE-02` source-lot and event constitution. Physical source entry and exterior rendering remain blocked.
+RBA-1 extends the release-aware chain to month seventy-two. It allocates USD 36M capital, USD 12M/year and USD 80M in cross-classified technology inside the RAS-1 parent, leaving USD 224M capital, USD 55M/year and USD 455M technology for later source-bearing work. The next admissible work is a full `QE-02` class constitution. Physical execution, candidate admission and exterior rendering remain blocked.
 
 ## The present proof attempt
 
