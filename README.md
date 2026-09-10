@@ -169,8 +169,9 @@ The live article work is one evidence chain. Each stage narrows a different unce
 | [`RAB-1`](research/force/generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | development-article and destructive qualification campaign | adds 1,766 physical objects, 33 fixture units, 720 gage records and 96 precommitted article sections | admit a lineage to production-equivalent lot research |
 | [`RAQ-1`](research/force/generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | production-equivalent lot and second-team reproduction constitution | crosses three builders, two unlike lineages and three consecutive articles in six cells, with 7,020 article gates | constitute the eighteen-role bank; no campaign mobilization |
 | [`RAX-1`](research/force/generation/f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | campaign mobilization and article-to-rig readiness constitution | sends six operational articles through every rig, tests 432 interfaces and converges article, rig, pair, campus, crew and evidence authority on one date | issue pre-source campaign readiness; no source entry |
+| [`RAY-1`](research/force/generation/f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | first QE-01 event and regeneration constitution | selects one of twenty-four eligible cells, proves observed zero through unlike roots and consumes then rebuilds pair readiness | close one null event and return the pair; no class or source authority |
 
-The next boundary is `RAY-1`: freeze and issue the first executable QE-01 dossier, conduct the sealed-datum event and govern post-event regeneration. Source operation requires separate authority; field candidacy and exterior rendering remain blocked.
+The next boundary is `RAZ-1`: execute and transfer-qualify the full twenty-four-event QE-01 class before any 100 kg QE-02 issue. Source operation requires separate authority; field candidacy and exterior rendering remain blocked.
 
 ## Innovation is a mission instrument
 

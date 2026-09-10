@@ -156,8 +156,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAB-1`](force/generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | development and destructive qualification | separates two integrated articles from process, defect, metrology and forensic populations | production-equivalent lot |
 | [`RAQ-1`](force/generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | production-equivalent bank constitution | crosses builder, lineage, material and locked article role across eighteen builds | campaign mobilization |
 | [`RAX-1`](force/generation/f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | campaign-mobilization constitution | breaks builder–campus confounding through a six-rig circuit and makes readiness simultaneous, paired and perishable | first executable event issue |
+| [`RAY-1`](force/generation/f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | first null-event and regeneration constitution | uses a twenty-four-cell public draw, unlike-root zero decisions and new post-event credentials | QE-01 class qualification |
 
-`RAY-1` is next: one executable QE-01 issue, sealed-datum event and governed regeneration. RAX-1 corrects the inherited calendar to seventy-eight sequential months and a fifty-four-month release-aware program. Exterior rendering remains blocked.
+`RAZ-1` is next: complete the twenty-four-event QE-01 class and prove transfer across all six rigs, both methods and both truth roots. RAY-1 extends the release-aware chain to month fifty-eight, closes only one event and preserves every source-bearing authority as blocked. Exterior rendering remains blocked.
 
 ## The present proof attempt
 
