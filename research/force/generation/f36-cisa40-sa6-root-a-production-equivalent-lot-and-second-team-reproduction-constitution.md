@@ -16,7 +16,7 @@ The model makes this distinction operational. Controlled rework remains visible 
 
 The physical record is intentionally large. Thirty-two build-capsule records, thirty-six builder-qualification records, seventy-two production-tool units and 1,728 measurement-transfer observations precede article work. Fabrication then creates 360 section travelers, 720 adjacent-process coupons, 360 NDE records, ninety joint records, 216 final control elements, 2,592 installed channel records and 2,592 factory calibration records. Each article faces 390 construction gates, for 7,020 gates across the bank. All are separate from later RAP-1 operating and source-event gates.
 
-RAQ-1 assigns $66 million of capital, $16 million per year of support and $98 million of 24-month stage exposure. Together, RAC-1, RAB-1 and RAQ-1 allocate the full $248 million RAP-1 capital boundary, the full $112 million annual-support boundary and the full $310 million technology map. The apparent financial closure reveals a schedule error: the three stages require sixty sequential months—twelve for RAC-1, eighteen for RAB-1 and twenty-four for RAQ-1—against the original 24-month RAP-1 establishment duration. The chain is therefore thirty-six months over its inherited calendar. Financial headroom cannot be treated as time.
+RAQ-1 assigns $66 million of capital, $16 million per year of support and $98 million of 24-month stage exposure. Together, RAC-1, RAB-1 and RAQ-1 allocate the full $248 million RAP-1 capital boundary, the full $112 million annual-support boundary and the full $310 million technology map. The apparent financial closure reveals a schedule error: the three stages require sixty sequential months—eighteen for RAC-1, eighteen for RAB-1 and twenty-four for RAQ-1—against the original 24-month RAP-1 establishment duration. The chain is therefore thirty-six months over its inherited calendar. Financial headroom cannot be treated as time.
 
 The strongest RAQ-1 outcome is bank-entry authority. Campaign mobilization remains a separate object. `RAX-1` must assign the accepted articles to rigs, establish pre-source operational readiness, reconcile the 60-month establishment chain and issue the physical handover conditions under which the RAP-1 campaign can begin. Exterior rendering remains withheld because no operational candidate, deployment envelope or service layout has been accepted.
 
@@ -281,7 +281,7 @@ The inherited sequence is now:
 
 | Stage | Sequential duration |
 |---|---:|
-| RAC-1 construction constitution | 12 months |
+| RAC-1 construction constitution | 18 months |
 | RAB-1 development qualification | 18 months |
 | RAQ-1 production-equivalent bank | 24 months |
 | **RAC + RAB + RAQ** | **60 months** |
