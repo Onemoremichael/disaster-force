@@ -110,11 +110,16 @@ The [F36 `CISA-40` `SA6` Root A known-truth method-qualification wave](generatio
 
 The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety case](generation/f36-cisa40-sa6-root-a-quarter-source-entry-and-coupled-ancestry-safety-case.md) makes source escalation a separately governed force function as `RAS-1`. Quarter mass does not guarantee quarter peak: 500 kg at the 25 m² casualty bound retains the 58.5585 MW screen. The 144-credit campaign conserves source, intervention water, safeing energy, causal time and evidence through unlike roots, denial and outside-site replay. All physical and downstream authority remains open or blocked; exterior rendering remains held.
 
-The [F36 `CISA-40` `SA6` Root A executable quarter-source entry dossier constitution](generation/f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) makes the first low-source event issuable in design as `RAE-1`. It replaces a physically misleading turn-down of the 150 mm route with a government-owned 40 mm reference article, then binds forty-eight events to 5,050 serialized acceptance records. The constitution grants no route, method, candidate or exterior-form authority. A physical reference-article and safeing proof campaign is next.
+### Current Root A article evidence chain
 
-The [F36 `CISA-40` `SA6` Root A reference-article and safeing proof campaign](generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) establishes that campaign as `RAP-1`. An eighteen-unit bank separates operational, twin-defect, calibration and destructive work while two unlike build lineages preserve manufacturing disagreement. Its 15,252 physical records join construction, safeing, inert-fluid custody, metrology, denial and outside-origin replay. The next object is the build-release definition for both lineages; source entry and exterior form remain unavailable.
+| Stage | Force-development role | Present result |
+|---|---|---|
+| [`RAE-1`](generation/f36-cisa40-sa6-root-a-executable-quarter-source-entry-dossier-constitution.md) | defines the lowest valid event | 40 mm reference path and 5,050 event records |
+| [`RAP-1`](generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) | defines the article bank and proof institution | eighteen roles and 15,252 physical gates |
+| [`RAC-1`](generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) | defines two public construction roots | six-module line, unlike joints and 288 build gates |
+| [`RAB-1`](generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | attempts to break both roots before production-equivalent work | two sacrificial articles, 1,764 companion objects and 96 committed article sections |
 
-The [F36 `CISA-40` `SA6` Root A reference-article construction and build-release constitution](generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) supplies that definition as `RAC-1`. Six two-metre modules reconcile transport with the 12-metre experiment. Two lineages share the 40-millimetre bore, datums, surface bands and interfaces while retaining welded versus monitored-clamp joint mechanisms. Forty-eight worst-case tolerance stacks and 288 article gates make build release falsifiable. Physical development and exterior rendering remain blocked.
+The evidence chain can next authorize only `RAQ-1` production-equivalent lot research. It cannot authorize source entry, a field candidate or exterior rendering.
 
 ## The architecture
 
