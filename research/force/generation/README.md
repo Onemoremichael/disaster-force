@@ -95,8 +95,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAQ-1`](f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | can independent teams reproduce the frozen packages as the complete bank? | three builders, two lineages, six cells, eighteen locked roles and 7,020 gates |
 | [`RAX-1`](f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | can the accepted bank become one current national campaign system? | six-round article–rig circuit, 432 interfaces, 960 crew qualifications and twenty-four simultaneous gates |
 | [`RAY-1`](f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | can one issued event establish observed zero and return a used pair through a new baseline? | twenty-four eligible cells, 192 dossier bindings, four unlike-root zero decisions and twenty-four release gates |
+| [`RAZ-1`](f36-cisa40-sa6-root-a-qe01-class-execution-and-transfer-qualification-constitution.md) | can the null event transfer across all rigs, methods and roots without deleting failed evidence? | four balanced waves, thirty attempt positions, eighteen transitions, twenty-four contrasts and thirty-two class gates |
 
-The next admissible object is `RAZ-1`: execute and transfer-qualify the complete twenty-four-event QE-01 class before any 100 kg QE-02 issue. Source operation and exterior rendering remain blocked.
+The next admissible object is the first `QE-02` source-lot, issue, safety and event constitution. It must govern 100 kg source entry without borrowing authority from the null-event class. Source operation and exterior rendering remain blocked.
 
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 

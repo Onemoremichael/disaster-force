@@ -121,8 +121,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAQ-1`](generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | reproduces the frozen roots across independent production cells | eighteen locked roles, 1,728 transfer observations and 7,020 article gates |
 | [`RAX-1`](generation/f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | mobilizes the accepted bank without confusing factory, campus or rig effects | thirty-six cross-rig dockings, 432 interface records and one date-bounded national readiness decision |
 | [`RAY-1`](generation/f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | governs first use as a readiness-consuming state transition | one publicly drawn null event, four unlike-root zero decisions and a six-pair re-entry judgment |
+| [`RAZ-1`](generation/f36-cisa40-sa6-root-a-qe01-class-execution-and-transfer-qualification-constitution.md) | turns one null event into a transferable class | twenty-four exact cells, eighteen reuse transitions, 576 required replays and thirty-two class gates |
 
-The evidence chain can next authorize only `RAZ-1`: complete execution and transfer qualification of the twenty-four-event QE-01 class. It cannot yet authorize source entry, a field candidate or exterior rendering.
+The evidence chain can next authorize only a `QE-02` source-lot, issue, safety and first-event constitution. It cannot yet authorize physical source entry, a field candidate, production or exterior rendering.
 
 ## The architecture
 
