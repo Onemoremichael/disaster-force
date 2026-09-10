@@ -96,8 +96,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAX-1`](f36-cisa40-sa6-root-a-campaign-mobilization-and-article-to-rig-readiness-constitution.md) | can the accepted bank become one current national campaign system? | six-round article–rig circuit, 432 interfaces, 960 crew qualifications and twenty-four simultaneous gates |
 | [`RAY-1`](f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | can one issued event establish observed zero and return a used pair through a new baseline? | twenty-four eligible cells, 192 dossier bindings, four unlike-root zero decisions and twenty-four release gates |
 | [`RAZ-1`](f36-cisa40-sa6-root-a-qe01-class-execution-and-transfer-qualification-constitution.md) | can the null event transfer across all rigs, methods and roots without deleting failed evidence? | four balanced waves, thirty attempt positions, eighteen transitions, twenty-four contrasts and thirty-two class gates |
+| [`RBA-1`](f36-cisa40-sa6-root-a-first-qe02-source-event-and-source-exposed-regeneration-constitution.md) | can one freshly selected cell admit, terminate, account for and recover 100 kg of energetic source? | twenty-four source-eligible cells, one 125 kg package, 205 bindings, eleven outcome classes and source-exposed return |
 
-The next admissible object is the first `QE-02` source-lot, issue, safety and event constitution. It must govern 100 kg source entry without borrowing authority from the null-event class. Source operation and exterior rendering remain blocked.
+The next admissible object is `RBB-1`, the full `QE-02` class execution and source-transfer qualification constitution. It must preserve exact-cell credit, no-flame evidence, valid adverse results, reserve-package depletion, source-exposed reuse and outside-origin reconstruction. A second physical event and exterior rendering remain blocked.
 
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 
