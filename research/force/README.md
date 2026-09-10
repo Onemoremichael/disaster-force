@@ -123,8 +123,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAY-1`](generation/f36-cisa40-sa6-root-a-first-qe01-event-and-regeneration-constitution.md) | governs first use as a readiness-consuming state transition | one publicly drawn null event, four unlike-root zero decisions and a six-pair re-entry judgment |
 | [`RAZ-1`](generation/f36-cisa40-sa6-root-a-qe01-class-execution-and-transfer-qualification-constitution.md) | turns one null event into a transferable class | twenty-four exact cells, eighteen reuse transitions, 576 required replays and thirty-two class gates |
 | [`RBA-1`](generation/f36-cisa40-sa6-root-a-first-qe02-source-event-and-source-exposed-regeneration-constitution.md) | governs the first energetic use and source-exposed return | 384 source-eligibility gates, 205 dossier bindings, 100 kg mass closure and day-fourteen re-entry |
+| [`RBB-1`](generation/f36-cisa40-sa6-root-a-qe02-class-execution-and-source-transfer-qualification-constitution.md) | turns one 100 kg event into a transferable source class | twenty-four admission cells, twelve flame-state cells, forty-four attempt positions and family-bound reserves |
 
-The evidence chain can next authorize only a full `QE-02` class constitution. It cannot yet authorize a second source event, a larger source class, a field candidate, production or exterior rendering.
+The evidence chain can next authorize constitution of `AM-05 QE-03` only after source-transfer closure. `AM-06 QE-03` additionally requires all twelve flame-state credits or an ignition-opportunity repair constitution. It cannot yet authorize a second physical event, a field candidate, production or exterior rendering.
 
 ## The architecture
 
