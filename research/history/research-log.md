@@ -4464,3 +4464,15 @@ The deepest active branch was `RBZ-1 → RCA-1 → RCB-1 → RCC-1R`, four passe
 The terminal workbook nevertheless closes all ten items assigned by Pass 164. It issues 339 serials, 674 packages and 2,353 interface records, reconciles five tranches per root and rejects Root A's inherited fourteen-workfront schedule. Its seventy-three audits pass. Those results remain a bounded technical appendix; they create no force or procurement authority.
 
 `RCD-1` is cancelled. The frontier returns to the first-order acquisition question and closes one institutional decision: clinical continuity is a joint mission system with one integrated requirement, outcome budget and representative campaign across Health, Infrastructure, Mobility, carriers and sustainment. It is not a Health-owned platform program or an eighth service. Two parent-level items remain: the cross-portfolio allocation rule and the national scenario for force sizing. No external-site research or exterior rendering is introduced.
+
+## Pass 166 — Joint mission-system appropriation, reservation and accountability constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 166 allocation constitution](../force/generation/department-of-resilience-joint-mission-system-appropriation-reservation-and-accountability-constitution.md)
+
+**Companion model:** [Joint mission-system appropriation, reservation and accountability workbook](../../models/force/generation/department-of-resilience-joint-mission-system-appropriation-reservation-and-accountability-constitution.xlsx)
+
+Pass 166 closes the cross-portfolio budget rule returned by Pass 165. Five exclusive appropriation classes separate joint mission outcomes, service professional and article-family bases, national common capacity, the sovereign technical estate and competitive failure reserve. One dollar belongs to one account, while the service work-package matrix remains an alternative executor view of mission funds. Mission outcome acceptance, service technical release and independent evidence assurance remain separate authorities.
+
+The thirteen-sheet workbook tests twenty-seven accounts and three funding mixes inside the inherited USD 1.00T, twenty-five-year technology-and-proving envelope. All twenty-six audits pass, the live case selector restores exactly and the five reservation cases deny cross-portfolio savings wherever concurrency, reset or technical equivalence is absent. Admitted quantity reduction remains zero. One item remains open: the national and invited-international concurrency, geography and force-sizing scenario. No external-site research or exterior rendering is introduced.
