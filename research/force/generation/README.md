@@ -92,8 +92,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAP-1`](f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) | what article bank and institution could accept it? | eighteen roles, unlike lineages and 15,252 gates |
 | [`RAC-1`](f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) | how can both lineages be constructed and released? | six modules, common interfaces, unlike joints and 288 build gates |
 | [`RAB-1`](f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | what physical campaign can falsify those construction claims? | two sacrificial articles, 120 process specimens, 1,392 blind defect presentations, 720 gage records and 96 article sections |
+| [`RAQ-1`](f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | can independent teams reproduce the frozen packages as the complete bank? | three builders, two lineages, six cells, eighteen locked roles and 7,020 gates |
 
-The next admissible object is `RAQ-1`: production-equivalent lots built after process-window freeze, reproduced by outside teams and judged for entry into the RAP-1 bank. Source operation and exterior rendering remain blocked.
+The next admissible object is `RAX-1`: assignment of accepted articles to rigs, custody transfer, pre-source operational readiness and reconciliation of the sixty-month establishment chain. Source operation and exterior rendering remain blocked.
 
 These papers are successive levels of one problem, not a list of alternative organizations. The canonical distinction is:
 

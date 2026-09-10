@@ -118,8 +118,9 @@ The [F36 `CISA-40` `SA6` Root A quarter-source entry and coupled-ancestry safety
 | [`RAP-1`](generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) | defines the article bank and proof institution | eighteen roles and 15,252 physical gates |
 | [`RAC-1`](generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) | defines two public construction roots | six-module line, unlike joints and 288 build gates |
 | [`RAB-1`](generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | attempts to break both roots before production-equivalent work | two sacrificial articles, 1,764 companion objects and 96 committed article sections |
+| [`RAQ-1`](generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | reproduces the frozen roots across independent production cells | eighteen locked roles, 1,728 transfer observations and 7,020 article gates |
 
-The evidence chain can next authorize only `RAQ-1` production-equivalent lot research. It cannot authorize source entry, a field candidate or exterior rendering.
+The evidence chain can next authorize only `RAX-1` campaign-mobilization and pre-source readiness research. It cannot authorize source entry, a field candidate or exterior rendering.
 
 ## The architecture
 

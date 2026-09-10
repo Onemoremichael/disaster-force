@@ -167,8 +167,9 @@ The live article work is one evidence chain. Each stage narrows a different unce
 | [`RAP-1`](research/force/generation/f36-cisa40-sa6-root-a-reference-article-and-safeing-proof-campaign.md) | eighteen-article proof campaign | separates operational, defect, calibration and destructive populations | accept a future article; no source entry |
 | [`RAC-1`](research/force/generation/f36-cisa40-sa6-root-a-reference-article-construction-and-build-release-constitution.md) | two-lineage construction constitution | resolves six-module geometry, joints, pressure, thermal, safeing and build release | authorize development construction; no accepted hardware |
 | [`RAB-1`](research/force/generation/f36-cisa40-sa6-root-a-development-article-and-destructive-build-qualification-campaign.md) | development-article and destructive qualification campaign | adds 1,766 physical objects, 33 fixture units, 720 gage records and 96 precommitted article sections | admit a lineage to production-equivalent lot research |
+| [`RAQ-1`](research/force/generation/f36-cisa40-sa6-root-a-production-equivalent-lot-and-second-team-reproduction-constitution.md) | production-equivalent lot and second-team reproduction constitution | crosses three builders, two unlike lineages and three consecutive articles in six cells, with 7,020 article gates | constitute the eighteen-role bank; no campaign mobilization |
 
-The next boundary is `RAQ-1`: new production-equivalent lots, second-team reproduction and entry into the eighteen-unit article bank. Source operation, field candidacy and exterior rendering remain blocked.
+The next boundary is `RAX-1`: article-to-rig assignment, custody transfer, pre-source operational readiness and reconciliation of the sixty-month establishment chain. Source operation, field candidacy and exterior rendering remain blocked.
 
 ## Innovation is a mission instrument
 
