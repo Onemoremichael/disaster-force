@@ -4450,3 +4450,17 @@ The forty-eight-sheet workbook recalculates with zero formula-error matches. All
 - root, research, force, generation, frontier, catalog, platform-requirement, supersession and research-log routes updated
 
 No external-site research and no exterior rendering are introduced. Pass 129 should create `RAE-1`, the executable article, containment-cell, source-lot, safeing and first-event dossier constitution required before any `QE-01` or `QE-02` identity can issue. Candidate entry, full-source work, production form and exterior rendering remain blocked.
+
+## Pass 165 — Clinical-service-island branch disposition and return
+
+**Verdict:** `RETURN`
+
+**Primary artifact:** [Pass 165 branch disposition](../force/generation/f36-cisa40-sa6-root-a-clinical-service-island-branch-disposition-and-joint-mission-system-return.md)
+
+**Companion appendix:** [Root A/B serial, interface, tranche and first-build workbook](../../models/force/generation/f36-cisa40-sa6-root-a-clinical-service-island-serial-interface-control-drawing-tranche-manifest-and-first-development-build-dossier.xlsx)
+
+The deepest active branch was `RBZ-1 → RCA-1 → RCB-1 → RCC-1R`, four passes including disposition. It failed the resolution test: changing its package, interface or workfront conclusion would not alter the Department's thesis, seven-service structure or joint-force architecture.
+
+The terminal workbook nevertheless closes all ten items assigned by Pass 164. It issues 339 serials, 674 packages and 2,353 interface records, reconciles five tranches per root and rejects Root A's inherited fourteen-workfront schedule. Its seventy-three audits pass. Those results remain a bounded technical appendix; they create no force or procurement authority.
+
+`RCD-1` is cancelled. The frontier returns to the first-order acquisition question and closes one institutional decision: clinical continuity is a joint mission system with one integrated requirement, outcome budget and representative campaign across Health, Infrastructure, Mobility, carriers and sustainment. It is not a Health-owned platform program or an eighth service. Two parent-level items remain: the cross-portfolio allocation rule and the national scenario for force sizing. No external-site research or exterior rendering is introduced.
