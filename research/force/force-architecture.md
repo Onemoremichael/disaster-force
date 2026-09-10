@@ -133,6 +133,8 @@ Services are durable professional and acquisition homes. They organize, train, e
 
 The seven-service settlement is canonical at the institutional level. It does not imply seven equal budgets or seven copies of every enabling function. It assigns one lifecycle owner while preserving the fact that operational effects are joint.
 
+Pass 165 closes the corresponding acquisition boundary. A service remains the lifecycle sponsor for its professions and article families, but an effect that fails unless several services act as one chain is acquired through a Department-level **joint mission-system office**. That office owns the integrated requirement, dependency model, outcome budget, open interfaces and representative campaign; it does not absorb professional control or technical-release authority. Clinical continuity is the first explicit case: Health owns clinical practice and equipment, while Infrastructure, Mobility, carrier and sustainment owners generate their elements of one jointly tested pathway. The [branch disposition](generation/f36-cisa40-sa6-root-a-clinical-service-island-branch-disposition-and-joint-mission-system-return.md) prevents a hospital-shaped platform office from substituting for that pathway.
+
 Hazard expertise is organized differently. Fire, flood, seismic, drought, storm, heat, cold, biological and contaminated-environment centers develop doctrine, forecasts, test envelopes and campaign plans across the services. They do not become independent fleets. A megafire campaign may require air response, land engineering, water, power, health, community stabilization, civil mobility and national sustainment at once.
 
 ## 6. Nine civilian-effect portfolios
@@ -282,7 +284,7 @@ Commonality is earned only when a primitive survives at least three distinct mis
 
 ## 11. Acquisition and the resilience industrial economy
 
-The acquisition object is a **formation product line**, not a platform purchased in isolation. A program baseline contains the production article, crews, training devices, software, data rights, handling equipment, spares, depot plan, base interfaces, environmental and safety cases, supply-chain map, mobilization tooling and receiving-side adapters required for force credit.
+The acquisition object is a **joint mission system expressed through formation product lines**, not a platform purchased in isolation. The Department-level mission-system office holds the end-to-end outcome and integrated budget; service sponsors own their professions and article lifecycles. A program baseline contains the production article, crews, training devices, software, data rights, handling equipment, spares, depot plan, base interfaces, environmental and safety cases, supply-chain map, mobilization tooling and receiving-side adapters required for force credit.
 
 That rule changes industrial structure. The Department would need first-tier integrators in response shipbuilding, severe-duty aviation, mobile utilities, autonomous construction, distributed health systems, civil communications, temporary infrastructure and resilience logistics. It would also need public design bureaus and technically expert program offices capable of controlling interfaces and rejecting vendor-defined mission boundaries.
 
