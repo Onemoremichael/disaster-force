@@ -4568,3 +4568,19 @@ The deepest live branch was `MSDW-1 → A6XG-1`, in its first pass at this resol
 Pass 172 rejects one scalar incident phase, six independent completion claims, thirty bespoke handshake dialects and a central digital twin. The selected constitution is a federated `6 × 7` asynchronous state vector joined by thirty typed directed records. All forty-eight canonical families map exactly once into twenty-eight complete service routes. Every record resolves six mandatory domains through twenty fields, remains locally verifiable and mergeable after disconnection, and distinguishes planning information from released and accepted service. Expiry or revocation removes dependent credit; mutual dependencies commit through a joint-release barrier or roll back safely.
 
 One mission now requires forty-two stage judgments, thirty directed records and 180 exchange-domain judgments: 222 governed decisions. The inherited 120-mission estate therefore produces 5,040 stage judgments, 3,600 records, 21,600 domain judgments and 72,000 field instances. The eighteen-sheet workbook preserves all inherited force and technology quantities, includes one native chart and passes forty-seven terminal audits with no formula errors. `A6XG-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the first compound all-six campaign. No external-site research, procurement, force credit, supplier selection or rendering is introduced.
+
+## Pass 173 — First compound all-six Cascadia joint-release denial campaign constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 173 Cascadia joint-release denial campaign constitution](../force/generation/department-of-resilience-first-compound-all-six-cascadia-joint-release-denial-campaign-constitution.md)
+
+**Companion model:** [First compound all-six Cascadia joint-release denial campaign workbook](../../models/force/generation/department-of-resilience-first-compound-all-six-cascadia-joint-release-denial-campaign-constitution.xlsx)
+
+The deepest live chain was `A6XG-1 → C3-JRC-1`, entering its first pass at campaign resolution. It passes the resolution test because the first campaign changes the evidence demanded from every mission system, the `G4` range estate and the failures that can prevent production qualification.
+
+Pass 173 selects Cascadia because it is the only national case to pass eight noncompensable gates and because it contains the repository's strongest assurance contradiction: Pass 25 closes deterministically while Pass 26 reduces the reference to 5.8 percent and the best challenger to 84.2 percent against a 95-percent target. Twelve complete executions cross four rotating all-six stacks with three unlike range classes. Each contains one regional and nine island threads, six epochs and twelve sealed denials spanning disconnection, authority conflict, revocation, expiry, circular release, offline merge, destination withdrawal, residual refusal, relief delay, hidden common cause and reconstitution collision.
+
+The campaign contains 159,840 governed decisions, 432,000 field instances and 144 denial exposures. A formation-day allocation reserves USD 49.5B inside the inherited USD 250B `G4` wave; the USD 601B nested physical predecessor remains non-additive. All fifty-five audits pass, sensitivity restores exactly, the native chart survives export and the formula-error scan is empty. Every acceptance gate remains `OPEN`, and zero physical or force credit is admitted.
+
+`C3-JRC-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the root-serial experiment package and observation protocol. No external-site research, procurement, site selection, force credit or rendering is introduced.
