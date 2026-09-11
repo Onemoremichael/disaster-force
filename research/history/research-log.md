@@ -4668,3 +4668,21 @@ Only six integrity failures can produce `INVALID`; the exact event may repeat up
 Five stage gates conserve the USD 36.0B boundary. Unspent authority returns to the lifeline mission account rather than another root, and the 5-percent failure reserve cannot finance a valid-adverse retry or ordinary overrun. The eighteen-sheet workbook passes fifty-three terminal audits and six restored mutation tests; the native chart survives export and the formula-error scan is empty. Every root remains `HOLD`.
 
 `C3-LFG3-3` closes; opened 0, closed 1, net −1, running parent-level total 0. Observations, causal findings, ancestry identities and dispositions remain unobserved; procurement, site selection, force credit, `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 179 — Lifeline G3 branch disposition and six-system proof-wave return
+
+**Verdict:** `RETURN`
+
+**Primary artifact:** [Pass 179 lifeline `G3` branch disposition and six-system proof-wave return](../force/generation/department-of-resilience-lifeline-g3-branch-disposition-and-six-system-proof-wave-return.md)
+
+**Companion model:** [Lifeline `G3` branch disposition and six-system proof-wave workbook](../../models/force/generation/department-of-resilience-lifeline-g3-branch-disposition-and-six-system-proof-wave-return.xlsx)
+
+The deepest live technical branch was `C3-LFG3-1 → C3-LFG3-2 → C3-LFG3-3`, after three completed technical passes. The proposed fourth desk task fails the resolution test: reversing another empty evidence schema would not change the Department thesis, six-system architecture or joint `G4` barrier because only physical observations can now move a root from `HOLD`. This fourth and terminal branch action cancels `C3-LFG3-4` and returns to `MSDW-1 / C3-RDFC-1`.
+
+The branch established one common lifeline service denominator, four complete unlike configurations, three complete quarter-service proof sectors per root and a noncompensatory evidence-to-action law. Learning that required twelve planned sectors, 160 top-level article units, 168 valid events, 636 evidence packages, forty-eight ancestry decisions, fifty-six gates and 1,752 governed decisions inside USD 36.0B. Further packet population becomes program execution rather than a research successor until physical evidence changes a root, mechanism or parent architecture.
+
+At the returned resolution, Pass 179 rejects ranking a second system, copying the lifeline campaign five times and allowing five independent constitutions. It selects one synchronized translation wave. A ten-element constitutional kernel transfers into six distinct complete proof units: theater-entry corridor, occupied-terrain reach district, active-hazard control cell, quarter-service utility sector, relationship-bearing continuity district and closed regeneration loop. Each system must release four roots, and four rotating all-six stacks require all twenty-four releases before Cascadia `G4`.
+
+The sixteen-sheet workbook tests all four paths, preserves the root bank, governs the all-six barrier, carries the exchange register and reconciles the USD 275B mission-system account within the conserved USD 500B `G0–G3` boundary. Fifty-five audits and seven mutation tests pass and restore; one native chart survives export and the formula-error scan is empty. No evidence field is populated.
+
+`C3-LFG3-R1` closes; opened 0, closed 1, net −1, running parent-level total 0. The five non-lifeline system denominators, bills and trial populations remain unresolved; physical evidence, procurement, sites, force credit, `G4` and rendering remain blocked. No external-site research is introduced.
