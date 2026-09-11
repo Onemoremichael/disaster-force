@@ -5236,3 +5236,19 @@ The admitted pool must form one complete primary slate and remain solvable after
 The USD 15.6B ceiling remains unchanged. The twenty-three-sheet workbook contains 31,426 live formulas and passes eighty-seven terminal audits and twenty detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `54358e234125ce950bf69d84b3f5c874a706fd41959357bcf0427503004d4341`. All sites, firms, bids, awards, obligations, payments, observations and capability remain zero or source empty; exterior rendering remains held.
 
 `A2C-4` closes; opened 0, closed 1, net −1, running parent-level total 0. The fifth and terminal `A2C` pass must integrate the sentinel selection, proving architecture, lot lattice, site charters and N−1 award slate, then `RETURN` to physical execution. No external sites or renderings are introduced.
+
+## Pass 215 — National First Sentinel Construction Compact and Return
+
+Pass 215 applies the branch stop condition to `A2C-5`. Reversal would either require a master program authority or leave no executable path from the six selected hypotheses to physical evidence, so the question remains visible at the top-level architecture and passes the resolution test.
+
+A master baseline, central integration office, enterprise digital twin, adjacent-paper implementation and sequential partial release fail. One warranted construction campaign integrates the prior four constitutions through eighteen serial states from `NEED` to `TRANSFER RETURN`. Each transition has one producer, one accepting authority, an expiry condition and a rollback target. No common leader, database or schedule may manufacture a missing warrant.
+
+The compact reconciles six sentinels, twelve endpoints, eighteen station nuclei, thirty-six lanes, seventy-two receiver-state bays, 144 method realizations, seventy-two regeneration functions, 102 lots, eighteen site charters, 204 bid positions, 510 construction packets, 360 event-evidence packages and 408 payment records. Twelve apparent contradictions close. Eighteen nonconversion laws prevent selection, access, bid admission, award, payment, construction acceptance, valid evidence, candidate survival, reconstruction or transfer from becoming a downstream state.
+
+Rollback remains local until common ancestry or independence is implicated. A valid adverse event enters `KILL`, `RESIZE` or `ADVANCE TO COMPLETE-ROOT PROOF`; it cannot be repeated into success. A killed sentinel returns the system to its three held rival roots. No disposition creates production or operational credit.
+
+The public reserve remains USD 12.0B and private candidate options remain USD 3.59B, summing once to the USD 15.6B ceiling. Maximum exposure through `MAKE` remains USD 10.8B. A valid all-six kill at `BREAK` pays about USD 12.0B and leaves USD 3.54B unreleased.
+
+The twenty-two-sheet workbook contains 10,186 live formulas and passes eighty-seven terminal audits and twenty-four detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `42094bc8bead5dd47855607839cb8fec66754a0d021dcbe80202506f3cdbc563`. All implementation identities, physical observations and capability states remain empty or zero.
+
+`A2C-5` returns; opened 0, closed 1, net −1, running parent-level total 0. The exhausted five-pass branch returns the frontier to six root-native candidate article requirement packages. They must translate public-service vectors into form-giving loads, interfaces, denial cases and technology campaigns before platform architecture or exterior rendering. No external sites or renderings are introduced.
