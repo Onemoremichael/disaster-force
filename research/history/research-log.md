@@ -4632,3 +4632,21 @@ Pass 176 selects `MS-LF` through eight noncompensable gates. Every root serves o
 The controlled estate contains 152 positions, forty article lines, seventy-two failure trials, forty-eight ancestry declarations, fifty-six `G3` gates and twenty-eight technology programs. Four equal USD 8.99B options remain inside the conserved USD 36.0B boundary. All fifty-four audits pass; selection, source-derate, ancestry-collision and partial-gate stresses fail as intended and restore; one native chart survives export; and the formula-error scan is empty.
 
 `C3-LFG3-1` closes; opened 0, closed 1, net −1, running parent-level total 0. All physical evidence, ancestry declarations and `G3` gates remain open; force credit, procurement, `G4`, sites and rendering remain blocked. No external-site research is introduced.
+
+## Pass 177 — Lifeline four-root G3 physical proof-campaign constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 177 lifeline four-root `G3` physical proof campaign](../force/generation/department-of-resilience-lifeline-four-root-g3-physical-proof-campaign-constitution.md)
+
+**Companion model:** [Lifeline four-root `G3` physical proof-campaign workbook](../../models/force/generation/department-of-resilience-lifeline-four-root-g3-physical-proof-campaign-constitution.xlsx)
+
+The deepest live branch was `C3-LFG3-1 → C3-LFG3-2`, in its second of five allowed passes. It passes the resolution test because reversing the minimum proof estate would change the first complete-system builds, public-range functions, use of the USD 36.0B lifeline tranche and eligibility for Cascadia `G4`.
+
+Pass 177 rejects one demonstrator, an unreproduced pair and full-formation preproduction. Each root receives three complete quarter-service sectors: `P1/P2` create a simultaneous challenge and clean control, while `R1` is cold-built by a separate team with no inherited traveler, operator, calibration, signing or repair history. The four-root bank contains 160 top-level article units, approximately 385,000 controlled dry tonnes, 12,500 deployed roles and 39,900 rotational-establishment billets.
+
+Each root executes eighteen challenged events, eighteen matched controls and six second-team repeats. That produces 168 required valid events and thirty-six invalidity-only reserve attempts; adverse valid evidence cannot be retried away. The campaign requires 636 governed evidence packages and thirty-six proving functions inside an eighty-four-month critical path. Forty-eight ancestry declarations and fifty-six conjunctive `G3` gates remain source-empty.
+
+The nineteen-sheet workbook preserves the inherited USD 36.0B boundary. All seventy-four terminal audits pass; missing second-team independence, article shortage, ancestry collision and partial-gate stresses reject or hold as intended and restore; one native chart survives export; and the formula-error scan is empty.
+
+`C3-LFG3-2` closes; opened 0, closed 1, net −1, running parent-level total 0. Physical coefficients, observations, identities, sites and release remain open; force credit, procurement, `G4` and rendering remain blocked. No external-site research is introduced.
