@@ -4876,3 +4876,27 @@ The inherited USD 250B public productive estate is conserved. Macro exposure spa
 The twenty-one-sheet workbook passes 5,831 terminal audits and twenty-six live mutations after independent recalculation. The native chart survives, the saved-file formula scan is clean, all site and decisive-chain identities remain source-empty and released authority is zero.
 
 `MPC-4` closes; opened 0, closed 1, net −1, running open total 0. The fifth and final `MPC` pass must constitute the sustaining labor, supplier, finance and recurring mobilization economy and return the branch to Department force generation. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 190 — Productive Commonwealth sustaining economy and market-production return
+
+**Verdict:** `RETURN`
+
+**Primary artifact:** [Pass 190 Productive Commonwealth return](../force/generation/department-of-resilience-productive-commonwealth-sustaining-economy-and-return.md)
+
+**Companion model:** [Productive Commonwealth sustaining-economy workbook](../../models/force/generation/department-of-resilience-productive-commonwealth-sustaining-economy-and-return.xlsx)
+
+The deepest live branch is `MPC-5`, its fifth and final permitted pass. It passes the resolution test because changing the sustaining economy changes whether the Department owns living industrial availability or a capital estate that loses skills, suppliers and configuration knowledge between disasters.
+
+Only a dual-circuit Productive Commonwealth passes fourteen hard gates. The finite USD 1.00T program spends USD 880B during formation and USD 120B on fifteen years of availability and regeneration. A separate USD 75.0B/year domestic market buys useful resilience output without creating readiness credit.
+
+Root masses, labor intensities, output obligations, six productive hours per day and 25.0-percent denial produce about 200,000 qualified industrial positions. Eight skill guilds require about 20,000 annual completions and a two-year pipeline of about 44,400 learners. Credentials, benefits, mobilization cohorts and household continuity are portable across employer loss.
+
+Twelve supplier families per root create 288 four-source diamonds and 1,152 source roles. Two private and two public sources occupy four different macro-theaters. At least 288 private provider-control slots preserve the two-root cap. Every role owes one accepted cold lot annually.
+
+The annual service also requires ninety-six campus black-starts, twenty-four route activations, two six-root cohort mobilizations, twenty-four campus denials, eight district denials, two macro impairments and six receivership simulations. Three- and four-year rotations reconcile in one twelve-year supercycle.
+
+The mature reference case produces USD 95.0B annual revenue and USD 6.85B modeled surplus. With exports at zero, the surplus is only USD 0.249B. Domestic-demand and labor/material shocks create USD 8.00B and USD 13.4B deficits, ordering useful-output purchases, redesign or reduced authority.
+
+The twenty-five-sheet workbook passes 4,206 terminal audits and forty-three restored mutations after independent recalculation. Three live mutations make the domestic floor fail and then restore it. All identities, lots, credentials, sales and events remain source-empty and authority is zero.
+
+`MPC-5` returns; opened 0, closed 1, net −1, running open total 0. Five passes established the chartered market, recovery service, qualification campaign, geographic estate and sustaining commonwealth. Industrial availability returns to Department force generation and may not be counted as a deployed formation. The next resolution is the formation and joint-readiness conversion law. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
