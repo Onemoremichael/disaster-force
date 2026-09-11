@@ -5268,3 +5268,19 @@ The private option ceilings remain USD 0.500B, 0.516B, 0.307B, 0.899B, 0.861B an
 The twenty-sheet workbook contains 371 live formulas and passes seventy-three terminal audits and twenty detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `ad6d356b911cdeb7536b65b98442daf31434e4c12eec57327d2b39a35109e2b0`. All implementation identities, observations, capability, production and rendering remain empty, zero or held.
 
 `FGR-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to root-native internal section grammar capable of closing mass, energy, geometry, safe state, residual custody and cold reconstruction without converging mechanisms or selecting exterior form. No external sites or renderings are introduced.
+
+## Pass 217 — Concurrent six-root causal-section closure constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FGR`, with one pass consumed; this was its second of at most five. It passes the resolution test because reversing the all-six decision would give one sentinel control over design order, shared interfaces and the first eligible USD 0.538B `FRAME` envelope, changing the first physical portfolio and its industrial structure.
+
+Lifeline-first, lowest-margin-first, limiting-account waves, synchronized lockstep and unbounded parallel drafting fail. Six isolated root-native architecture lanes begin concurrently and close asynchronously. Cross-root exchange is limited to the twelve inherited public seams; no root may supply another root's solver, drawing system, runtime, margin or completion state.
+
+Each root must issue eight packets and close six noncompensatory accounts—mass, energy, geometry, safe state, residual custody and cold reconstruction—across nominal mission, fatal-keystone challenge, largest-independent-cell loss and cold reconstruction. The resulting forty-eight packets and 144 root–account–world cells define paper closure without selecting common geometry or exterior form. Twelve author–challenge cells preserve one independent technical challenge per root.
+
+Controlled duration hypotheses compare a 182-week serial queue with a 36-week bounded asynchronous wall clock, an 80.2-percent reduction. The USD 3.59B option ceiling is unchanged. Concurrent work exposes at most USD 0.538B of inherited `FRAME` authority; it creates no award, obligation or payment.
+
+The nineteen-sheet workbook contains 485 live formulas and passes ninety-nine terminal audits and twenty detected-and-restored mutations. Every sheet and eight long-table views render cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `ffddbc43348f305afce4a0482532b06374fc581d220ee944502bf861e08162e5`. All quantitative closure inputs, identities, observations, capability, production and rendering remain empty, zero or held.
+
+`FGR-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to quantitative closure of all 144 account–world cells without borrowed host capacity, common technical implementation or premature exterior form. No external sites or renderings are introduced.
