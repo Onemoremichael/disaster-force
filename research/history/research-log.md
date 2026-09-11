@@ -4996,3 +4996,15 @@ Twelve separated authorities govern eleven states through twelve event warrants.
 The activation clock supersedes Pass 197's fourteen-day stock. Twelve hours of request, compilation, acceptance and reservation precede fourteen days of transit, creating negative margin. An eighteen-day bridge retains eighty-four hard-case hours and raises stock from about 0.683 to 0.878 Mt. The combined forward-material boundary becomes 0.878–1.49 Mt.
 
 The USD 67.5B capital and USD 12.2B/year base screens remain nested inside the receiver commons and command-and-truth accounts. The twenty-sheet workbook passes fourteen audits and five restored mutations after saved-file recalculation. All requests, identities, corridors, effects and authority remain zero. `SPC-3` closes; opened 0, closed 1, net −1, running total 0. The next resolution is constructive-power measurement, comparison, renewal and termination law. No external sites or rendering are introduced.
+
+## Pass 199 — Constructive-power measurement, renewal and termination constitution
+
+**Verdict:** `CLOSE`
+
+Pass 199 closes `SPC-4`, the fourth strategic-power pass. Avoided-loss monetization, delivery dashboards, diplomatic-influence indices and composite scores fail; only nine noncompensatory effect ledgers preserve public service, distribution, sovereignty, causal attribution, industrial renewal and restraint.
+
+Five evidence planes and twelve receiver districts create 108 district–effect accounts and 540 source-empty records. Two campaigns create eighteen effect ledgers and ninety persistence records from preregistration through day-365 sovereignty. Seven lexicographic layers put cost and strategic choice last.
+
+Readiness, receivers, production roots, network compacts and capital programs receive separate evidence-decay clocks. Historical evidence remains visible after current authority expires. A no-disaster year may renew representative readiness while actual strategic effect remains `UNOBSERVED`. Eight terminal rules stop coercion, suppressed evidence, dependency, repeated valid failure and prestige retention.
+
+The USD 44.6B capital and USD 8.93B/year base screens remain nested inside the activation and receiver systems. The twenty-one-sheet workbook passes fourteen audits and five restored mutations after saved-file recalculation. All effect records remain empty and released strategic credit is zero. `SPC-4` closes; opened 0, closed 1, net −1, running total 0. The fifth pass must integrate doctrine, forward capacity, activation and measurement, then return strategic power to mature Department architecture. No external sites or rendering are introduced.
