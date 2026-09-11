@@ -5050,3 +5050,17 @@ Authenticated request is sufficient but not necessary. Independently verified ob
 Adding the twelve-hour objective-breach ceiling to eight inherited domestic preparation/transit clocks creates a maximum 5.5-day post-onset national-service gap. The covenant therefore requires a six-day local continuity bridge. Seven districts, eight campaigns and nine effects create 504 deficit registers, 1,008 receiver paths and 672 dual family interfaces.
 
 The nested sensitivity is USD 80–240B capital and USD 10.6–31.7B/year operations. Base twenty-five-year exposure is about USD 592B inside the existing USD 58.6T Department screen. The twenty-one-sheet model passes twenty-six saved-file reconciliations and six restored mutations. All identities and effects remain source-empty; authority and credit are zero. `DCA-2` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the Department workforce, service-citizenship and reserve compact. No external sites or rendering are introduced.
+
+## Pass 203 — Department workforce, service citizenship and reserve compact
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `DCA-3`, the third of five Department constitutional-architecture passes. It passes the resolution test because reversing it changes who composes the 13.0M establishment, what can mobilize 5,251 formations and whether the Department remains a civil national-power institution.
+
+Only a Civil Service Commonwealth passes twelve tests. An all-federal career monopoly, contractor call-option force, universal conscription, state-militia federation and military reserve analogue fail. Service citizenship becomes voluntary paid membership in a public profession, never nationality or military identity. Seven statuses, twelve rights, ten duties, twelve separated authorities, thirteen personnel states and eleven warrants preserve civil, labor and professional law from entry through recovery.
+
+The inherited establishment resolves into 5.57M national-career, 2.94M ready-reserve, 2.43M combined sovereign-covenant, 2.07M productive-service and 20,700 partner-fellow positions. Internal state, territorial and tribal allocations remain source-empty. Learners and auxiliaries earn protection and training but no readiness; the 44,400-person industrial learner pipeline is nested.
+
+Component headcounts and loaded billet-year factors yield a USD 1.36T/year people-and-household floor. The inherited forty-percent people share funded only USD 844B/year and dies. Preserving the USD 1.27T/year nonpeople readiness floor raises mature operations to USD 2.63T/year, ramped twenty-five-year operations to USD 50.0T and public outlay to USD 68.4T. A ±20-percent personnel-rate sensitivity yields USD 63.2–73.6T.
+
+The twenty-three-sheet workbook passes twenty-eight saved-file audits and six restored mutations; one native chart survives export, the formula-error scan is empty, all sheets render cleanly and independent office recalculation preserves every result. Workbook SHA-256 is `32df385089f2140be97e7dcf7eee907fe27b95e3fa86fead1e8f5986fa7d099f`. All people, employers, credentials, manifests, calls and observations remain source-empty; authority and readiness credit are zero. `DCA-3` closes; opened 0, closed 1, net −1, running total 0. The next resolution is Department public knowledge, sensing, forecast, data rights and civil privacy. No external sites or rendering are introduced.
