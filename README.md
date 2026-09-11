@@ -59,6 +59,8 @@ The canonical grammar is in the [force architecture](research/force/force-archit
 
 The research has moved from aspiration to a demanding physical and institutional hypothesis.
 
+The first physical-build decision is now closed. The [National First Article Portfolio](research/force/generation/department-of-resilience-first-physical-build-portfolio-and-release-sequence.md) gives all six mission systems build-to-learn authority in a USD 200B first tranche rather than selecting a flagship platform. It funds twenty-four problem-field competitions and ninety-six unlike mechanism opportunities, then forces each survivor through public interfaces, root-native falsification, route-complete service and cold reconstruction. Production cannot begin before every system supplies an accepted root to a rotating all-six mission. This keeps radical technologies live while refusing to let an attractive prototype become a fleet by momentum.
+
 At the local edge, neighborhood continuity formations maintain household contact, building access, water and medical power, accessible collection and lawful handoff. Regional commands control hazards, restore networks and connect damaged places to national mass. National services provide the maritime, atmospheric, terrain, heavy-engineering, medical, logistics, communications and utility capacity that local systems cannot economically hold. Prepared receiving geography ensures that movement ends in service rather than displacement.
 
 At the national edge, the current force-design reference contains:
