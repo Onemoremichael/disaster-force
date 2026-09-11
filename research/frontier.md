@@ -1,12 +1,14 @@
 # Active research frontier
 
-**Decision state:** 10 September 2026
+**Decision state:** 11 September 2026
 
 **Purpose:** one repository-wide statement of what is believed, what is sealed and what must be learned next
 
 This is not a release note or a queue of disconnected papers. It is the present edge of the argument: the narrow set of uncertainties whose resolution would most change the mature Department of Resilience, its force and its industrial program.
 
 ## The current design judgment
+
+**Force-generation update — Pass 174 (`CLOSE`).** The [Cascadia root-serial experiment and observation protocol constitution](force/generation/department-of-resilience-cascadia-root-serial-experiment-and-observation-protocol-constitution.md) replaces lead-vehicle roots and permanent winning stacks with twenty-four complete system baselines and 1,448 serialized formation-equivalent positions. Twelve executions rotate every root through every range class; the registered fractional design exposes 164 distinct cross-system root pairings, with at least ten of sixteen cells for every system pair. Eighteen package elements freeze before activation. Each of 159,840 campaign decisions receives separate claim, validity and reliance dispositions, creating 479,520 signed authority judgments; valid adverse evidence cannot be retried away. The USD 49.5B campaign reservation remains exhaustive and non-additive. All fifty-seven workbook audits pass, the run and gate sensitivities restore to zero credit, all 13,320 selected-run packet IDs are unique and the formula-error scan is empty. `C3-RSEP-1` closes. The next admissible resolution is the `G3` technical freeze of four genuinely unlike complete roots per system; procurement, site selection, force credit and rendering remain blocked.
 
 **Force-generation update — Pass 173 (`CLOSE`).** The [first compound all-six Cascadia joint-release denial campaign constitution](force/generation/department-of-resilience-first-compound-all-six-cascadia-joint-release-denial-campaign-constitution.md) selects `C3` as the first `G4` campaign because it is the only national case that activates all twenty-eight routes while carrying no notice, nine disconnected service islands, repeated release invalidation, protected reverse flow, the full repair boundary and contradictory deterministic/covariance predecessors. Twelve complete executions cross four rotating stacks with three unlike range classes. Each contains ten all-six threads, six epochs and twelve sealed denials; the total evidence estate contains 159,840 governed decisions, 432,000 field instances and 144 denial exposures. Twelve hard gates remain `OPEN`; zero physical or force credit is admitted. A formation-day rule reserves USD 49.5B inside the existing USD 250B `G4` wave without adding the USD 601B nested physical predecessor. All fifty-five workbook audits pass, sensitivity restores exactly and the formula-error scan is empty. The next admissible resolution is the root-serial experiment package and observation protocol; procurement, site selection, force credit and rendering remain blocked.
 

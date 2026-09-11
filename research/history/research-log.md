@@ -4584,3 +4584,19 @@ Pass 173 selects Cascadia because it is the only national case to pass eight non
 The campaign contains 159,840 governed decisions, 432,000 field instances and 144 denial exposures. A formation-day allocation reserves USD 49.5B inside the inherited USD 250B `G4` wave; the USD 601B nested physical predecessor remains non-additive. All fifty-five audits pass, sensitivity restores exactly, the native chart survives export and the formula-error scan is empty. Every acceptance gate remains `OPEN`, and zero physical or force credit is admitted.
 
 `C3-JRC-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the root-serial experiment package and observation protocol. No external-site research, procurement, site selection, force credit or rendering is introduced.
+
+## Pass 174 — Cascadia root-serial experiment and observation protocol constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 174 Cascadia root-serial protocol constitution](../force/generation/department-of-resilience-cascadia-root-serial-experiment-and-observation-protocol-constitution.md)
+
+**Companion model:** [Cascadia root-serial experiment and observation protocol workbook](../../models/force/generation/department-of-resilience-cascadia-root-serial-experiment-and-observation-protocol-constitution.xlsx)
+
+The deepest live chain was `C3-JRC-1 → C3-RSEP-1`, entering its first pass at protocol resolution. It passes the resolution test because root identity, experiment assignment and adjudication determine which configurations can earn `G4` and whether any system may approach production qualification.
+
+Pass 174 rejects lead-vehicle roots, permanent winning teams and outcome-aware retries. A root is a complete service configuration. Four roots for each of six systems reproduce the full 362-position campaign load as twenty-four baselines and 1,448 unique serials. The twelve-run fractional rotation places every root once in each range class and exposes 164 distinct cross-system root-pair cells, with a ten-cell floor for every system pair.
+
+Eighteen package elements freeze before zero-notice activation and blinded denial. The workbook freezes 222 templates and generates all 13,320 decisions for a selected run. Each decision requires independent claim, validity and reliance dispositions; the campaign therefore carries 479,520 authority judgments. One token per execution permits only the exact repetition of an independently invalid attempt. A valid adverse result remains terminal evidence.
+
+The USD 49.5B reservation remains inside the inherited `G4` wave. All fifty-seven audits pass, 1,448 position and 13,320 packet identities are unique, the run/gate/credit sensitivities restore to zero credit, the native chart survives export and the formula-error scan is empty. `C3-RSEP-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the `G3` freeze of four genuinely unlike complete roots per system. No external-site research, procurement, force credit, site selection or rendering is introduced.
