@@ -5284,3 +5284,19 @@ Controlled duration hypotheses compare a 182-week serial queue with a 36-week bo
 The nineteen-sheet workbook contains 485 live formulas and passes ninety-nine terminal audits and twenty detected-and-restored mutations. Every sheet and eight long-table views render cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `ffddbc43348f305afce4a0482532b06374fc581d220ee944502bf861e08162e5`. All quantitative closure inputs, identities, observations, capability, production and rendering remain empty, zero or held.
 
 `FGR-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to quantitative closure of all 144 account–world cells without borrowed host capacity, common technical implementation or premature exterior form. No external sites or renderings are introduced.
+
+## Pass 218 — Six-root quantitative causal-section triage and resize constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FGR`, with two passes consumed; this was its third of at most five. It passes the resolution test because reversing the result would advance all six sentinels to form selection, while the actual result holds every root for redesign and therefore changes the first physical portfolio.
+
+The six inherited sections do not close quantitatively. Of 144 required root–account–world cells, fifty-nine are numerically evaluable from controlled repository hypotheses. Forty-five remain nonnegative after the selected 2.5-percent adverse coefficient screen, fourteen are negative and eighty-five remain explicitly unquantified. No missing value becomes a zero, no root closes all twenty-four cells, no root earns `G06`, and all six receive `RESIZE / HOLD`.
+
+Eleven discrete correction hypotheses restore nonnegative paper margins. `ET-A` raises surviving flow paths from about 235 to 241 t/h; `CT-C` raises its seven energy cells from 7.00 to 7.20 MW; `HC-A` raises held-line and energy cells; `HU-A` raises its access envelope without deleting a care line; and `RT-B` raises its process bus from 182 to 186 MW. `LF-B` changes architecture: its indivisible 40 MW bus becomes four isolated 13 MW cells, and its access, water route, product buffer and residual-intake sections become loss-separable. The nominal 2.65 MW surplus is no longer treated as redundancy.
+
+The eighty-five gaps decompose into thirty-six fatal-keystone cells, thirty-six cold-reconstruction worlds, twelve nominal or loss reconstruction-account cells and one `LF-B` loss-world mass/access cell. Fatal-keystone and reconstruction worlds require physical coefficients and executable outside-team build records; they cannot be approximated by a common percentage derating. The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` share remain held. No award, obligation, payment, capability, production or rendering state advances.
+
+The sixteen-sheet workbook contains 1,216 live formulas and passes thirty-seven terminal audits and sixteen detected-and-restored mutations after independent office recalculation. Every sheet and long-table tail was visually inspected, the native chart survives and the formula-error scan is empty. SHA-256 is `771612b5dfc324fcc972891a1d1a142cf8032fcc5bdb05d752f55d1c1eba45ec`.
+
+`FGR-3` closes; opened 1, closed 1, net 0, running total 1. The frontier moves to compiling the eleven corrections into six root-native internal architectures and replacing eighty-five missing cells with executable fatal-keystone and cold-reconstruction measurement specifications. No external sites or renderings are introduced.
