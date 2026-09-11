@@ -106,6 +106,7 @@ At the national edge, the current force-design reference contains:
 | Synchronized formation-generation campaign | `DFG-2` | 336 family–district seeds and 528 balanced family-year cohorts build crews, receivers, articles and proof together before permanent readiness begins |
 | Permanent readiness cycle | `DFG-3` | six non-fungible accounts preserve 3,667 ready formations, an integerized family reserve, geographic loss survival and continuous regeneration |
 | National mobilization and allocation command | `DFG-4` | ten separated authorities and a lexicographic twelve-seal transaction resolve simultaneous claims without monetizing rights or averaging scarce families |
+| Force-generation compact and return | `DFG-5` | five circuits, fifteen institutions, ten state transitions and twelve firebreaks create mass without consolidating public value, technical truth, readiness or employment authority |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
