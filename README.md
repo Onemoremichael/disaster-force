@@ -112,6 +112,7 @@ At the national edge, the current force-design reference contains:
 | Constructive-power measurement | `SPC-4` | nine non-fungible effects, five evidence planes and seven lexicographic layers govern renewal and termination without allowing money, activity or prestige to compensate for failure |
 | Strategic-power compact and return | `SPC-5` | seven constitutional articles, fourteen nonconversion laws, twelve technology thrusts and nested fiscal/evidence systems integrate constructive power without creating a unified super-command |
 | Department constitutional order | `DCA-1` | five coequal houses, seventeen institution classes, seventeen typed warrants and eighteen nondelegation laws constitute national power without letting any actor define, build, prove, ready, employ and credit its own work |
+| Domestic sovereignty and activation | `DCA-2` | an equal person-bound floor, dual request/objective-breach trigger, receiver custody, direct tribal and territorial paths, nonterritorial service easement and six-day local bridge make domestic duty executable without governor veto or federal territorial command |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 

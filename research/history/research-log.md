@@ -5036,3 +5036,17 @@ The Secretary retains priority, budget proposal, convening, disclosure, alternat
 Six mission systems, seven services, nine effect ledgers and four strategic modes reconcile forty-eight families and 2,420 committed demands inside 5,251 formations. The USD 1.00T technology program, USD 17.4T capital and about USD 40.2T ramped operations produce about USD 58.6T of twenty-five-year public outlay. The USD 1.31T useful-output market remains separate.
 
 The twenty-one-sheet model passes twenty-two saved-file reconciliations and five restored mutations. All identities, warrants, evidence and effects remain source-empty; authority and strategic credit are zero. `DCA-1` closes; opened 0, closed 1, net −1, running total 0. The next resolution is domestic public-service sovereignty and activation. No external sites or rendering are introduced.
+
+## Pass 202 — Domestic public-service sovereignty and activation compact
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `DCA-2`, the second Department constitutional-architecture pass. It passes the resolution test because reversing it determines whether domestic duty may be vetoed by a receiver or converted into federal territorial command.
+
+A federally guaranteed, receiver-governed public-service covenant defeats governor-request veto, automatic federal preemption, incident bargaining and voluntary opt-in federation. Ten articles, twelve sovereignty actors, four activation paths, fourteen states, thirteen warrants, sixteen prohibited conversions and eight termination rules bind an equal person-based floor to receiver method/custody, direct tribal and territorial paths, independent breach truth, a nonterritorial service easement, thirty-day expiry and fresh legislative review at day 180.
+
+Authenticated request is sufficient but not necessary. Independently verified objective breach, receiver incapacity or contested imminent harm can open bounded paths to the same service contract. Federal authority attaches only to named people, effects, interfaces, routes and clocks; it carries no general police, land-use or governing power.
+
+Adding the twelve-hour objective-breach ceiling to eight inherited domestic preparation/transit clocks creates a maximum 5.5-day post-onset national-service gap. The covenant therefore requires a six-day local continuity bridge. Seven districts, eight campaigns and nine effects create 504 deficit registers, 1,008 receiver paths and 672 dual family interfaces.
+
+The nested sensitivity is USD 80–240B capital and USD 10.6–31.7B/year operations. Base twenty-five-year exposure is about USD 592B inside the existing USD 58.6T Department screen. The twenty-one-sheet model passes twenty-six saved-file reconciliations and six restored mutations. All identities and effects remain source-empty; authority and credit are zero. `DCA-2` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the Department workforce, service-citizenship and reserve compact. No external sites or rendering are introduced.
