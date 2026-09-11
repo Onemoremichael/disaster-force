@@ -5156,3 +5156,19 @@ A USD 12.0B public-method planning reservation remains nested inside the inherit
 The sixteen-sheet workbook passes fifty-six terminal audits and twelve restored mutations. Two live changes propagate from cost and identity inputs through the build, headline and audit, then restore. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. Workbook SHA-256 is `1afecc85e1270616ad5707c9352cae3ab6de266206500292d45a9c39c48ac387`. Every firm, site, lineage, serial and observation remains source-empty; awards, payments and credit are zero. Rendering remains held.
 
 `PFP-4` closes; opened 0, closed 1, net −1, running parent-level total 0. The fifth pass must integrate and `RETURN` the complete launch compact to the parent question of first `A2` endpoint-rig and proving-estate construction. No external sites or rendering are introduced.
+
+## Pass 210 — National First Physical Launch Compact and return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `PFP`, with four passes consumed; this was its fifth and terminal pass. It passes the resolution test because reversing the compact would change whether the USD 200B first tranche is executable, whether paper authority can masquerade as capability and which physical construction may begin.
+
+A consolidated launch office, six system program offices, twenty-four prime-led demonstrations and proving-estate-first launch fail. Only a warranted launch lattice integrates the National First Article Portfolio, separated option-and-proof market, Compound First-Reach Cohort and federated physical-truth grid while keeping every warrant distinct.
+
+Ten apparent contradictions close. Ninety-six root-field opportunities divide into twenty-four first-cohort issues and seventy-two held assignments. The 168 seven-domain first-article declarations occupy a subset of the 288 twelve-domain complete-root register, leaving 120 parent cells held. Seventy-two provider dependencies, thirty directed mission interfaces and twelve public seams remain different ledgers. The USD 12.0B method reservation stays inside the USD 80.0B enabling account. The USD 14.3B cohort stageable ceiling stays inside USD 57.4B of private options. The USD 200B present tranche remains distinct from the contingent USD 750B through year 15.
+
+Nine launch objects now distinguish `CONSTITUTED`, `FROZEN`, `FROZEN FOR ISSUE`, `ISSUE-READY`, `ISSUE AUTHORIZED`, `HELD` and `RETURNED`. Competitions may publish. No method implementation, Root House, award, article, endpoint rig, event, payment or capability is inferred. The selected cohort contains USD 27.5B: USD 14.3B stageable and USD 13.2B evidence-held. Private exposure through `MAKE` remains capped at USD 7.17B.
+
+The nineteen-sheet workbook contains 347 live formulas and passes sixty-four terminal audits and fourteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives, the formula-error scan is empty and the file SHA-256 is `a7e7e7c5a7045994f3facec4622bf128d5d6b79772e93f0f9d8d0919d0e24943`. All implementation identities and observations remain source-empty; obligations, payments and capability credit are zero.
+
+`PFP-5` returns; opened 0, closed 1, net −1, running parent-level total 0. The parent question is which all-six portfolio of `A2` balance rigs, causal-keystone rigs, receiver-state realizations and proving-estate formations receives first physical construction authority under a maximum-loss and cancellation law. No external sites or rendering are introduced.
