@@ -4520,3 +4520,19 @@ The deepest live branch was `NIFS-1 → MSPT-1 → HCC-1`, in its first pass at 
 Pass 169 rejects hospital, mass-support campus, evacuation and commodity topologies as complete systems. Five routes—local support, definitive care, patient regulation and transfer, household relocation and reception, and workforce replacement—share seven serial stages from actionable state through supported transition and force regeneration. The governing service unit is the person–household–care relationship bundle. Local continuity plus household relocation account for 73.6 percent of simultaneous demand and 70.1 percent of the weighted unclosed-demand signal.
 
 Twelve competitions conserve the inherited USD 153B technology envelope. `HU-04A` enters first with four complete rival roots and twelve denial worlds at three independent sites, creating 720 route–world–root–site cells and 5,040 stage decisions. The fifteen-sheet workbook passes all thirty-seven audits and live site-count and funding-profile sensitivities. No root, physical capacity, procurement or exterior form is admitted. The sole `HCC-1` item closes; the running total remains zero. The next admissible resolution is a complete physical human-continuity service system. No external-site research or exterior rendering is introduced.
+
+## Pass 170 — First physical human-continuity system and representative campaign constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 170 physical-system constitution](../force/generation/department-of-resilience-first-physical-human-continuity-system-and-representative-campaign-constitution.md)
+
+**Companion model:** [First physical human-continuity system and representative campaign workbook](../../models/force/generation/department-of-resilience-first-physical-human-continuity-system-and-representative-campaign-constitution.xlsx)
+
+The deepest live chain was `NIFS-1 → MSPT-1 → HCC-1 → PHCS-1`. The enclosing `MS-HU` branch had consumed one prior pass and `PHCS-1` none. It passes the resolution test because the selected physical system changes the first hardware-scale research tranche, the origin/receiver doctrine and the portfolio exposure attacked first.
+
+Pass 170 selects `HCDN-50`, a reversible network of fifty independently assignable 1,000-person districts. Every district can hold households at origin, receive them elsewhere, bridge complete bundles or reset, but it cannot claim two states in the same interval. Twelve hard gates precede comparison; among complete candidates the dual-state network strictly dominates demand, capital exposure, weighted gap and family reach. It carries 647 of 879 concurrent demand and 290 of 414 weighted unclosed demand.
+
+Four complete roots—prepared-building, deployable-district, hybrid civic-metabolism and robotic local-conversion—enter a common campaign. Three independent sites, twelve denial worlds, two role directions and thirty-six district articles create 288 complete missions and 4,030 route-stage decisions. Five inherited competitions form a USD 63.8B physical tranche; `HU-04A` remains a separate preceding substrate. All thirty-seven audits and two live sensitivities pass. No root, force credit, procurement or exterior form is admitted.
+
+`PHCS-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier returns to `MSPT-1`: sequencing all six mission systems into a balanced force-development program. No external-site research or exterior rendering is introduced.
