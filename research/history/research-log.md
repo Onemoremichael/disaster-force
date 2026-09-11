@@ -4616,3 +4616,19 @@ Pass 175 rejects four root labels, four cross-system primes and total isolation 
 Each root must declare twelve physical ancestry identities and pass fourteen conjunctive `G3` gates, creating 288 ancestry declarations and 336 release records. All remain open, force credit remains zero and rendering remains blocked. The cumulative boundary through `G3` is USD 500B inside the existing USD 1.00T program: USD 275B mission-system work, USD 75.0B service bases, USD 75.0B common capacity, USD 50.0B sovereign technical estate and USD 25.0B failure reserve.
 
 All thirty-seven audits pass. Every identity set is unique; the decisive-cap, shared-ancestry and partial-gate stresses fail as intended and restore to zero credit; one native chart survives export; and the formula-error scan is empty. `C3-RDFC-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is one system's complete four-root physical freeze. No external-site research, procurement, `G4` credit, site selection or rendering is introduced.
+
+## Pass 176 — Lifeline four-root physical configuration and G3-entry constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 176 lifeline four-root physical configuration](../force/generation/department-of-resilience-lifeline-four-root-physical-configuration-and-g3-entry-constitution.md)
+
+**Companion model:** [Lifeline four-root physical configuration workbook](../../models/force/generation/department-of-resilience-lifeline-four-root-physical-configuration-and-g3-entry-constitution.xlsx)
+
+The deepest live chain was `C3-JRC-1 → C3-RSEP-1 → C3-RDFC-1 → C3-LFG3-1`, entering its first pass at four-root physical configuration. It passes the resolution test because reversing the first-system choice or these four baselines would redirect the Department's first complete root-build tranche, change the service available to every other mission system and alter which industrial physics can enter Cascadia `G4`.
+
+Pass 176 selects `MS-LF` through eight noncompensable gates. Every root serves one two-million-person utility zone: by day twenty-one it delivers 100,000 m³/day of water, accepts 80,000 m³/day of wastewater or residual load, supplies 100 MW firm and 80 MWth, holds one day of water and sustains service for thirty days. Oceanic nuclear, inland geothermal, renewable-electrochemical and synthetic-fuel roots each carry thirty-eight positions while retaining unlike source, corridor, control and industrial physics.
+
+The controlled estate contains 152 positions, forty article lines, seventy-two failure trials, forty-eight ancestry declarations, fifty-six `G3` gates and twenty-eight technology programs. Four equal USD 8.99B options remain inside the conserved USD 36.0B boundary. All fifty-four audits pass; selection, source-derate, ancestry-collision and partial-gate stresses fail as intended and restore; one native chart survives export; and the formula-error scan is empty.
+
+`C3-LFG3-1` closes; opened 0, closed 1, net −1, running parent-level total 0. All physical evidence, ancestry declarations and `G3` gates remain open; force credit, procurement, `G4`, sites and rendering remain blocked. No external-site research is introduced.
