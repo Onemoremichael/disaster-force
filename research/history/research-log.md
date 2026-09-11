@@ -5300,3 +5300,21 @@ The eighty-five gaps decompose into thirty-six fatal-keystone cells, thirty-six 
 The sixteen-sheet workbook contains 1,216 live formulas and passes thirty-seven terminal audits and sixteen detected-and-restored mutations after independent office recalculation. Every sheet and long-table tail was visually inspected, the native chart survives and the formula-error scan is empty. SHA-256 is `771612b5dfc324fcc972891a1d1a142cf8032fcc5bdb05d752f55d1c1eba45ec`.
 
 `FGR-3` closes; opened 1, closed 1, net 0, running total 1. The frontier moves to compiling the eleven corrections into six root-native internal architectures and replacing eighty-five missing cells with executable fatal-keystone and cold-reconstruction measurement specifications. No external sites or renderings are introduced.
+
+## Pass 219 — Six-root internal-section architecture and measurement constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FGR`, with three passes consumed; this was its fourth of at most five. It passes the resolution test because reversal would return the first six articles from buildable falsification sections to abstract requirements, changing what the first physical portfolio constructs and measures.
+
+Six different internal sections are frozen for falsification. Thirty-six root–account bills propagate all eleven Pass 218 corrections. Sixty nominal and largest-cell-loss cells close under the selected 2.5-percent adverse screen. Eighty-four cells have executable protocols and no observations. No cell is negative or unscoped, but no root earns `G06`: specification does not become evidence.
+
+`ET-A` duplicates the complete moving-source-to-dry-custody path. `CT-C` carries seven 7.20 MW cells and five fault-contained multi-utility trunks through reversible occupied-building attachments. `HC-A` couples five 26.5 km/day held-line sectors to eight 20.6 MW energy cells. `LF-B` installs nine 3.99 kt access slots, four 13.0 MW conversion cells, two 15.5 km water paths and three-cell product and injection trains. `HU-A` preserves all ten care lines across eight access cells. `RT-B` carries seven 26.5 MW energy cells and five complete dirty-return-to-release meshes.
+
+All eighty-five inherited gaps have successors: thirty-six fatal-keystone protocols, thirty-six cold-reconstruction protocols, twelve rebuild clocks and one `LF-B` access definition. Thirty-six isolation boundaries prohibit a common candidate runtime, decisive host utility, safeing path, private key or origin-team craft memory. Twenty-four invention campaigns now terminate in article-specific fatal experiments. Every root closes the 2.5-percent design screen and fails a 5-percent screen; the sections are destructive-test targets, not production reserves.
+
+The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` envelope remain held. Accepted and paid authority, observations, `G06`, capability, production and rendering authority remain zero.
+
+The seventeen-sheet workbook contains 1,353 live formulas and passes forty-three terminal audits and eighteen detected-and-restored mutations after independent office recalculation. Every sheet was rendered and inspected, the native chart survives and the formula-error scan is empty. SHA-256 is `b2930149a32d5e13ac5afa2f21d299e53ccdd4512945e7c668a776dec41d99f6`.
+
+`FGR-4` closes; opened 1, closed 1, net 0, running total 1. The fifth pass must integrate the six sections and define what may be built or represented before evidence without converting a falsification architecture into a validated exterior. It must then `RETURN` to the parent form-selection question. No external sites or renderings are introduced.
