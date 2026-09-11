@@ -1,6 +1,6 @@
 # Mature force design: the operational grammar of the Department of Resilience
 
-> **Canonical synthesis:** The later [Department force architecture](../force-architecture.md) reconciles this formation grammar with the seventh Civil Mobility and Continuity Service, the nine civilian-effect portfolios, joint employment commands and the technology-development enterprise. This paper remains the detailed authority for formation records, package types, readiness pools and test stages.
+> **Canonical synthesis:** The later [Department force architecture](../force-architecture.md) reconciles this formation grammar with seven generating services, six mission-system integration portfolios, nine civilian-effect acceptance ledgers, joint employment commands and the technology-development enterprise. This paper remains the detailed authority for formation records, package types, readiness pools and test stages.
 
 ## Design judgment
 

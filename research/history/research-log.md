@@ -4490,3 +4490,19 @@ The deepest live chain was the returned parent sequence `RCC-1R → JMSA-1 → N
 Pass 167 replaces the provisional `3C + 5M + 2G + 20R` screen with `3C + 5M + 2I + R20 / N−1`. Three catastrophic domestic, five major domestic and two invited international campaigns are simultaneous allocation claims. Seven domestic readiness districts and two international reach networks must preserve the complete promise and 20-percent reserve after one district loss. Territories remain domestic; accepted international forces are non-recallable without joint release; no host, partner or military capacity is credited.
 
 The fourteen-sheet workbook compiles 48 heterogeneous families and 2,420 commitments. The N−1 posture selects 5,251 owned formation equivalents, 1,042 above the no-loss predecessor, and produces 13.0M affiliated billets, a USD 17.4T 25-year capital screen and USD 2.11T mature annual operations. All twenty-six audits and eight denial worlds pass, live scenario sensitivities restore exactly and no cross-portfolio reduction is admitted. The sole parent-level item closes; the running total is zero. Complete mission-system portfolio selection becomes the next admissible question. No external-site research or exterior rendering is introduced.
+
+## Pass 168 — Six mission-system portfolio topology and technology competition constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 168 portfolio constitution](../force/generation/department-of-resilience-six-mission-system-portfolio-topology-and-technology-competition-constitution.md)
+
+**Companion model:** [Six mission-system portfolio topology and technology competition workbook](../../models/force/generation/department-of-resilience-six-mission-system-portfolio-topology-and-technology-competition-constitution.xlsx)
+
+The deepest live branch was `NIFS-1 → MSPT-1`, in its first pass after force sizing returned the frontier to portfolio selection. It passes the resolution test because the result changes Department program offices, industrial integrators, budget ownership and representative admission campaigns.
+
+Pass 168 rejects effect, service, campaign and platform topologies in favor of six complete operational chains: theater entry, occupied-terrain reach, active-hazard control, lifeline production and distribution, care and human continuity, and sustainment–transfer–regeneration. Nine effects remain independent acceptance ledgers and seven services retain professional and article-family lifecycle authority. Every one of the forty-eight canonical families receives one mission-integration owner; all six systems activate in all ten campaigns; twenty-two service work-package pairs reconcile.
+
+Twenty-four mechanism-neutral problem fields allocate the conserved USD 550B mission-system envelope. A USD 30B floor precedes a declared demand, inventory, capital, workforce and unclosed-demand pressure allocation. Human continuity receives the largest planning exposure at USD 153B, preventing clinical labor, households, shelter, essential goods and accessible movement from becoming residuals of a machine-centered force. The programs include clean-sheet hazard aircraft, flood control, water–energy carriers, robotic utility corridors, austere lift, grid-forming cells, distributed care and autonomous regeneration, but select no mechanism or exterior form.
+
+The eleven-sheet workbook passes all twenty-nine audits. Live changes to the allocation floor and pressure weights react while conserving USD 550B and restore exactly. The inherited portfolio-topology item closes; parent-level running open items remain zero. The next admissible resolution is the complete `MS-HU` care-and-human-continuity service contract. No external-site research or exterior rendering is introduced.

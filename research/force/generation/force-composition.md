@@ -1,6 +1,6 @@
 # Force composition: the capabilities, echelons, and people
 
-> **Canonical grammar:** The later [Department force architecture](../force-architecture.md) separates five coordinates that this paper sometimes combines: seven generating services, nine civilian-effect portfolios, joint formations, employment commands and readiness components. This paper remains the detailed inventory of effect requirements, professions and unit-design rules; the portfolios below are not additional services or chains of command.
+> **Canonical grammar:** The later [Department force architecture](../force-architecture.md) separates six coordinates that this paper sometimes combines: seven generating services, six mission-system integration portfolios, nine civilian-effect acceptance ledgers, joint formations, employment commands and readiness components. This paper remains the detailed inventory of effect requirements, professions and unit-design rules; the portfolios below are not additional services or chains of command.
 
 ## Composition thesis
 
