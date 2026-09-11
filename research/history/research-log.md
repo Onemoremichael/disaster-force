@@ -4834,3 +4834,23 @@ Twenty-four cells contain forty-eight paths and 144 bays. Controlled planning cr
 The twenty-sheet workbook passes 1,758 terminal audits and twenty-nine live mutations after independent recalculation. The native chart survives, the formula scan is clean, all identities and events remain source-empty and released production authority is zero.
 
 `MPC-2` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the physical qualification campaign that can earn private-path, public-path, cell and six-root cohort recovery credit. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 188 — Department production-recovery qualification campaign constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 188 production-recovery qualification campaign](../force/generation/department-of-resilience-production-recovery-qualification-campaign-constitution.md)
+
+**Companion model:** [Department production-recovery qualification workbook](../../models/force/generation/department-of-resilience-production-recovery-qualification-campaign-constitution.xlsx)
+
+The deepest live branch is `MPC-3`, the third of five permitted market-and-production passes. It passes the resolution test because changing the qualification campaign changes whether contractor assertion, one route demonstration, exhaustive cohort construction or independent complete-unit evidence governs national recovery credit.
+
+Only complete three-event route campaigns followed by eight balanced joint rotations pass all twelve gates. Each of seventy-two routes receives a nominal counterfactual, governing compound denial and blind outside-team replay. The forty-eight public paths then appear once across eight six-system runs; every public cell operates once in each wave and the 358 kt governing cohort repeats across both path sets.
+
+The 264 activations complete 600 year-one units and turn 27.9 Mt of controlled dry configuration through the estate. Ten evidence domains create 2,736 packages. Five judgments per activation create 1,320 signed decisions; seventy-two route, twenty-four cell, twenty-four root, six system and one national dispositions add 127 serial gates. Fifty-three dormant attempts replace integrity-invalid events only.
+
+The ten-year USD 430B campaign combines the existing USD 200B proof and USD 230B initial-formation accounts. The USD 250B public productive estate is not added. A 25.0-percent direct-cost shock creates a USD 70.0B deficit and requires circular production, lower retained-output cost or redesign.
+
+The nineteen-sheet workbook passes 10,980 terminal audits and thirty-one live mutations after independent recalculation. The native chart survives, the saved-file formula scan is clean, every identity and observation remains source-empty, all 127 dispositions remain `HOLD` and released authority is zero.
+
+`MPC-3` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the geographic and industrial separation topology for seventy-two routes and twenty-four cells. Procurement, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
