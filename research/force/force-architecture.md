@@ -76,35 +76,25 @@ This matrix is deliberately resistant to bureaucratic stovepipes. Services retai
 ```text
 CONGRESS AND PRESIDENT
 public guarantee · law · national resources · external accountability
-                         │
+                         │ enacted guarantee
                          ▼
-DEPARTMENT OF RESILIENCE
-Secretary · Civil Resilience Authority · Resilience Staff
-policy · activation · priorities · rights · budget · public reporting
-              │                         │
-              │ generate                │ employ
-              ▼                         ▼
-NATIONAL RESILIENCE ESTABLISHMENT   JOINT RESILIENCE COMMANDS
-services · schools · laboratories   domestic geography · global command
-acquisition · bases · depots        functional allocation · campaigns
-reserves · industrial base                 │
-              │ certify                    ▼
-              └──────────────────► RESILIENCE FORCE
-                                   complete ready formations
-                                            │
-                                            ▼
-SUPPORTED CIVIL AUTHORITIES AND COMMUNITIES
-priorities · consent · local command · transfer · public judgment
-
-INDEPENDENT TECHNICAL, SAFETY, RIGHTS, COST AND TEST AUTHORITIES
-retain stop, release and claim-admission powers across the entire chain
+CIVIC COVENANT ───────── effect contracts · rights · priorities · capital options
+        │ typed warrants and negative authorities
+        ├────────── CAPABILITY COMMONWEALTH ─ missions · services · roots · production
+        ├────────── EVIDENCE COURT ─ proof · rights review · public ledger
+        ├────────── FORCE ESTATE ─ sustainment · readiness · allocation · districts
+        └────────── EMPLOYMENT FEDERATION ─ campaigns · custody · transfer · exit
+                                                    │
+                                                    ▼
+RECEIVER-GOVERNED PUBLIC SERVICE
+equal person-bound floor · local method/custody · direct tribal/territorial paths
 ```
 
 ### 4.1 Department of Resilience
 
-The Department is the constitutional and fiscal principal. It defines the national service guarantee, requests and allocates resources, maintains intergovernmental and international compacts, governs civil rights and privacy, establishes readiness policy and reports risk to the public. It should not manage every unit or certify its own technical claims.
+The Department as a whole carries the constitutional guarantee and fiscal order. The Civic Covenant defines the national service floor, requests resources, maintains domestic and international compacts, governs civil rights and privacy, sets readiness policy and reports risk. It does not manage every unit or certify its own technical claims.
 
-The **Civil Resilience Authority** is the institutional interface with governors, tribal governments, territories, municipalities, infrastructure owners, health authorities and invited foreign governments. It converts lawful priorities into public-effect objectives, records unresolved conflict and defines transfer conditions. It is not a second operational headquarters.
+The **Civil Resilience Authority** is the institutional interface with states, tribal nations, territories, municipalities, infrastructure owners, health authorities and invited foreign governments. Under the [domestic public-service covenant](../mandate/department-of-resilience-domestic-public-service-sovereignty-and-activation-compact.md), it converts authenticated request or independently verified objective breach into a service-deficit order. A request is sufficient but not necessary. Capable receivers retain safe-method choice, interface admission, custody and unsafe-act stop power; the Department receives only a named, expiring service easement rather than general territorial authority. The Authority is not a second operational headquarters.
 
 The **Resilience Staff** integrates requirements, force design, readiness, global posture and joint doctrine. Its purpose is to prevent seven services from building seven self-contained response systems and to expose where the national mission promise exceeds available complete capacity.
 
@@ -226,6 +216,8 @@ local ownership restored · force returned to certified readiness
 ```
 
 The campaign commander cannot waive structural, electrical, clinical, aviation, maritime, environmental or worker-safety release. The affected civil authority cannot create capacity by priority declaration. A technical authority cannot select the public objective. Independent test and rights authorities cannot command production. The design relies on explicit friction among legitimate powers rather than the fiction that one commander can own every truth.
+
+Domestic employment uses four lawful paths—receiver request, objective breach, receiver incapacity and contested imminent harm—through one thirteen-warrant transaction. A provisional bridge may begin by hour four, but full objective-breach activation is capped at twelve hours and still requires rights, receiver/easement, readiness and allocation states. The inherited campaign clocks leave up to 5.5 days before national service; every district therefore owes a six-day local continuity bridge. Employment and easement warrants expire every thirty days, and day 180 requires fresh legislative review.
 
 ## 8. Command architecture
 
