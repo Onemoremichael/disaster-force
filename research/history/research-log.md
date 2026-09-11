@@ -5188,3 +5188,17 @@ The six root-specific private options total USD 3.59B. The existing USD 12.0B pu
 The twenty-one-sheet workbook contains 1,230 live formulas and passes sixty-four terminal audits and fourteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives, the formula-error scan is empty and the file SHA-256 is `3e85a7a70242bebddb1ee7f884aa139cbc764ee17d6d8b5173a06c76a669382e`. All sites, firms, operators, serials, observations, obligations, payments and capability credit remain zero or source empty; exterior rendering remains held.
 
 `A2C-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to source-independent physical configuration of the six sentinel rig families and eighteen station nuclei before their construction warrants can become competitions. No external sites or rendering are introduced.
+
+## Pass 212 — Federated physical-truth station and rig constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `A2C`, with one pass consumed; this was its second of at most five. It passes the resolution test because reversing the station architecture would decide whether the USD 15.6B wave creates six independent falsification systems or one correlated national test machine.
+
+A universal shell, six integrated system campuses, eighteen unrelated monoliths and simulation-first acceptance fail. The selected architecture places six sovereign truth trains on a thin public substrate. Only eight nondecisive boundaries may be common: datum, reversible hardpoints, isolated raw-service entries, refuge and rescue, custody portals, environmental containment, residual quarantine and emergency energy removal. Any shared element able to improve, measure, control or safe the candidate becomes a technical root and must split.
+
+Eighteen challenge, control and cold-reconstruction nuclei each receive one active and one regeneration lane. Four receiver-state bays and two unlike lineages per bay create eight realization paths per nucleus: seventy-two bays and 144 paths in total. Four regeneration duties per nucleus create seventy-two independent recovery functions. Six root-native envelopes preserve full causal interfaces for pelagic exchange, occupied-building utility insertion, kilometre-scale atmospheric control, live subsurface heat–water service, complete clinical-island metabolism and disconnected coupon-to-qualified-part production.
+
+The USD 12.0B public-method reserve divides equally to USD 2.00B per system and USD 0.667B per nucleus. With USD 3.59B of selected private options, the inherited USD 15.6B ceiling is unchanged. The twenty-two-sheet workbook contains 1,637 formulas and passes sixty-one terminal audits and sixteen detected-and-restored mutations after independent office recalculation. All sheets render cleanly, the formula-error scan is empty, one native chart survives and SHA-256 is `c6ce0eec0231961228fcfc3f2d93b4e5b5b9c1264820261af49ccefbe923e6fb`.
+
+`A2C-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to acquisition-lot boundaries, industrial firewalls, construction-acceptance packets and release order. Sites, firms, serials, observations, obligations, payments, capability credit, production and rendering remain held. No external sites or renderings are introduced.
