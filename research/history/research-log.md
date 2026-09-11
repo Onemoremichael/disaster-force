@@ -5108,3 +5108,19 @@ Twenty-four problem-field competitions create ninety-six unlike mechanism opport
 The sixteen-sheet workbook passes thirty-two terminal audits and eight restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the full formula-error scan is empty. Workbook SHA-256 is `bbbbfce5172870c951ffa3d1a02046aa4ee7a9835c2e15e3302f32f301f7b58d`. Every article, root, site, supplier and observation remains source-empty; production authority is zero and rendering remains held.
 
 `PFP-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to the first-tranche industrial transaction: awarding, separating, challenging and terminating ninety-six mechanism opportunities and twenty-four Root Houses without creating a new integration monopoly. No external sites or rendering are introduced.
+
+## Pass 207 — First-tranche industrial transaction and anti-convergence constitution
+
+**Verdict:** `CLOSE`
+
+The deepest live branch was `PFP-2`, the second of at most five physical-portfolio passes. It passes the resolution test because reversing the transaction would change who controls the first USD 200B, whether the Department creates one resilience prime or a contestable industrial commonwealth and whether valid failure can terminate a favored technology.
+
+Six lead system integrators, ninety-six independent prizes, twenty-four perpetual franchises and one sovereign arsenal fail. The selected separated option-and-proof market constitutes twenty-four bankruptcy-remote Root Houses, one per complete root, and traces ninety-six field assignments, 288 exclusive decisive-ancestry cells and seventy-two shared dependencies. No provider, region or toolchain may support more than two roots.
+
+Only USD 57.4B of the USD 200B tranche may initially stage as private root options. USD 52.6B remains evidence-held inside mission systems, USD 80.0B remains public/enabling authority and USD 10.0B remains protected failure capacity. `FRAME`, `MAKE`, `BREAK` and `TRANSFER` release 15, 35, 35 and 15 percent of the active option against accepted artifacts. Valid adverse evidence is paid and binding. Twelve public foreground rights make continuity receivership and clean recharter physically executable without creating a public monopoly.
+
+Budget-weighted control HHI is 0.0463, equivalent to 21.6 equal groups after unequal mission budgets. Six system primes increase concentration fourfold to 0.185, or 5.41 effective groups. Ninety-six prize cells appear still less concentrated but fail complete-root liability; the metric remains diagnostic rather than proof of real independence.
+
+The seventeen-sheet workbook passes forty terminal audits and ten restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the full formula-error scan is empty. Workbook SHA-256 is `bc243859f1217f8d53a1a2370042ad6985a386cc0d2a7c1a301aaca1a9eb05af`. Every firm, owner, provider, tool, site and event remains source-empty; no option is awarded, production credit is zero and rendering remains held.
+
+`PFP-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to selecting one problem field per mission system for a synchronized first-principles requirement cohort. No external sites or rendering are introduced.
