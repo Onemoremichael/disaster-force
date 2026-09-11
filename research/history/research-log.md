@@ -4920,3 +4920,13 @@ The fiscal crosswalk keeps the USD 230B initial-formations account inside the US
 The twenty-one-sheet workbook passes 5,707 terminal audits and four restored mutations. Every sheet is rendered; every formation warrant, joint cell and authority field remains source-empty. Actual service formations and joint campaign credit are zero.
 
 `DFG-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the synchronized formation-generation campaign that builds, crews, proves, reserves and replaces complete serials. Procurement, named sites and rendering remain blocked. No external-site research is introduced.
+
+## Pass 192 — Synchronized formation-generation campaign
+
+**Verdict:** `CLOSE`
+
+Pass 192 selects a balanced family-cohort braid over article-first procurement, sequential services, district autarky and a terminal big-bang exercise. Three years establish 336 family–district seeds. Eleven build years create 528 family-year cohorts and close exactly at 5,251 serials; year twelve runs sixty joint closures and 384 family denial cases; years thirteen through twenty-five become a replacement service.
+
+The reference ramp carries USD 9.41T of formation capital, peaks near USD 1.51T in one year and scales 11.5M affiliated billets. This is a mobilization economy separate from the USD 1.00T technology program. A twenty-year life sensitivity implies about 263 replacement formations, USD 471B and 573,000 billet renewals annually.
+
+The nineteen-sheet model passes eight audits and three restored mutations. All crew, receiver, trial and admission identities remain source-empty; authority is zero. `DFG-2` closes; opened 0, closed 1, net −1, running total 0. Permanent readiness-cycle design is next. No external sites or rendering are introduced.
