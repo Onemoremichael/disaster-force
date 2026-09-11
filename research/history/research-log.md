@@ -5252,3 +5252,19 @@ The public reserve remains USD 12.0B and private candidate options remain USD 3.
 The twenty-two-sheet workbook contains 10,186 live formulas and passes eighty-seven terminal audits and twenty-four detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `42094bc8bead5dd47855607839cb8fec66754a0d021dcbe80202506f3cdbc563`. All implementation identities, physical observations and capability states remain empty or zero.
 
 `A2C-5` returns; opened 0, closed 1, net −1, running parent-level total 0. The exhausted five-pass branch returns the frontier to six root-native candidate article requirement packages. They must translate public-service vectors into form-giving loads, interfaces, denial cases and technology campaigns before platform architecture or exterior rendering. No external sites or renderings are introduced.
+
+## Pass 216 — Six-root form-giving candidate article requirement constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FGR`, with zero passes consumed; this was its first of at most five. It passes the resolution test because reversal would force six familiar platform forms or contractor-owned tests, changing the first physical architecture, technology portfolio and USD 3.59B of candidate authority.
+
+A common platform outline, output-only contract, contractor-authored specification, uniformly scaled prototype and complete-root first article fail. Six causal-interface packages instead reproduce only the decisive nonlinear interface at full physical scale. The proving estate may emulate an upstream or downstream burden only when it cannot improve, control, safe or judge the candidate.
+
+One sixteen-clause grammar yields ninety-six package clauses while preserving asymmetric boundaries. `FG-ET-A` is a pelagic exchange cell; `FG-CT-C` is an occupied-building utility-spine sector; `FG-HC-A` is a kilometre-scale atmospheric intervention cell; `FG-LF-B` is one complete geothermal source position; `FG-HU-A` is one complete clinical island; and `FG-RT-B` is one disconnected microfactory mesh. Seventy-two form loads, forty-eight root-native interfaces, seventy-two denial worlds, twelve balance/keystone endpoints and twenty-four technology campaigns now determine what each article must survive and what result kills it.
+
+The private option ceilings remain USD 0.500B, 0.516B, 0.307B, 0.899B, 0.861B and 0.503B, or USD 3.59B in total. Workstream views and payment stages cross-classify that authority once. Thirty of seventy-two release gates are constituted; forty-two evidence-bearing gates remain open. Even the final gate permits only internal architecture, not production or exterior rendering.
+
+The twenty-sheet workbook contains 371 live formulas and passes seventy-three terminal audits and twenty detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `ad6d356b911cdeb7536b65b98442daf31434e4c12eec57327d2b39a35109e2b0`. All implementation identities, observations, capability, production and rendering remain empty, zero or held.
+
+`FGR-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to root-native internal section grammar capable of closing mass, energy, geometry, safe state, residual custody and cold reconstruction without converging mechanisms or selecting exterior form. No external sites or renderings are introduced.
