@@ -4722,3 +4722,21 @@ Each root freezes twelve physical and industrial domains. Within a system, every
 The non-lifeline estate contains ninety-two root-route obligations, twenty keystone experiments, eighty workstreams, 240 ancestry records, 280 `G3` gates, 1,268 top-level article units, 840 valid events, 3,640 evidence packages and 180 proving functions. The workstreams reserve the inherited USD 239B option authority without claiming platform price or earned payment. The seventeen-sheet workbook passes ninety-nine terminal audits and ten live mutation tests; one native chart survives export and the formula scan is clean. All acceptance fields restore to source-empty.
 
 `C3-SPW-2` closes; opened 0, closed 1, net −1, running open total 0. The twenty `CF1` physical balance ledgers remain unresolved; ancestry, evidence and release remain empty, and procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 182 — Twenty non-lifeline root first-principles physical-balance constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 182 twenty non-lifeline root first-principles physical balance](../force/generation/department-of-resilience-twenty-non-lifeline-root-first-principles-physical-balance-constitution.md)
+
+**Companion model:** [Twenty non-lifeline root first-principles physical-balance workbook](../../models/force/generation/department-of-resilience-twenty-non-lifeline-root-first-principles-physical-balance-constitution.xlsx)
+
+The synchronized proof-wave branch is `C3-SPW-1 → C3-SPW-2 → C3-SPW-3`; this is its third of five permitted passes. It passes the resolution test because reversing the balance law or any of the twenty baselines would redirect every non-lifeline proof build, the USD 239B learning portfolio and which roots can enter the four-stack Cascadia barrier.
+
+Pass 182 rejects mechanism-only configurations, borrowed host support and compensating surpluses. Every root must close seven separate accounts—mass, energy, route flow, labor, safety, receiver and residual—in intact operation and after loss of its largest independent cell. The intact threshold is 1.15; the loss threshold is 1.00. All twenty roots and all 140 account cases close on paper while retaining all ninety-two native route balances.
+
+One complete unit per root creates a 991 kt dry, 1.19 Mt deployed, 1.97 GW and 140,000-role design bank. Two civil-terrain roots sit exactly at the 1.00 energy loss boundary. The USD 239B option authority is cross-classified across the seven accounts without adding funds or replacing the four Pass 181 workstream views.
+
+The nineteen-sheet workbook contains 160 component records, ninety-two route balances, 140 account cases and 140 source-empty physical evidence gates. All 260 terminal audits and twelve live mutation tests pass and restore, and the formula-error scan is empty. All roots remain `HOLD` and Cascadia remains blocked.
+
+`C3-SPW-3` closes; opened 0, closed 1, net −1, running open total 0. Every coefficient, ancestry declaration and physical gate remains unobserved; procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. The next admissible resolution is measurement triage for observations capable of killing or materially resizing a complete root before the full three-article proof estate is built. No external-site research is introduced.
