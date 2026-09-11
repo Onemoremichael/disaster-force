@@ -368,6 +368,8 @@ Every pass ends with a stocktake: what became authoritative, what was falsified,
 
 ## Current research boundary
 
+The Department-scale frontier is now the first `A2` physical construction portfolio. Pass 211 selects a six-root sentinel wave rather than building all twenty-four roots: `ET-A`, `CT-C`, `HC-A`, `LF-B`, `HU-A` and `RT-B` enter paired balance and causal-keystone tests across eighteen public station nuclei. Thirty-six initial lanes, 144 unlike method realizations, seventy-two valid events and 360 evidence packages fit inside a conserved USD 15.6B authority ceiling. A valid all-six kill at `BREAK` stops at USD 12.0B paid and leaves USD 3.54B unreleased. No site, firm, serial, observation, obligation, capability or exterior form is admitted. The next decision is the source-independent physical configuration of those six rig families and eighteen station nuclei.
+
 The force-design frontier has now joined both strategic carriers into one provisional two-mode mission:
 
 - `GCH-340R`, a cellular ground-coupled atmospheric carrier whose governing problem is controlling cold-dense support while 340 tonnes are unloaded;
