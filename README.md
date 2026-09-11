@@ -103,6 +103,7 @@ At the national edge, the current force-design reference contains:
 | Productive-estate geography | `MPC-4` | eight macro-theaters and twenty-four productive districts distribute ninety-six campus roles so every root retains private and public recovery after correlated macro loss |
 | Productive Commonwealth return | `MPC-5` | a portable labor commons, four-source supplier diamonds, domestic useful-output floor and recurring mobilization service keep the estate alive and return industrial availability to Department force generation |
 | Formation and joint-readiness conversion | `DFG-1` | five non-fungible states and ten serial formation warrants prevent factories, accepted articles or paper joint stacks from being counted as operational force |
+| Synchronized formation-generation campaign | `DFG-2` | 336 family–district seeds and 528 balanced family-year cohorts build crews, receivers, articles and proof together before permanent readiness begins |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
