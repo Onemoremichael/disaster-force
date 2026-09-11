@@ -1,8 +1,11 @@
 # Department of Resilience national first physical launch compact and return
 
-**Pass:** 210  
-**Research object:** `PFP-5` — National First Physical Launch Compact  
-**Decision level:** whole-program launch authority  
+**Pass:** 210
+
+**Research object:** `PFP-5` — National First Physical Launch Compact
+
+**Decision level:** whole-program launch authority
+
 **Verdict:** `RETURN`
 
 ## Branch position and resolution test
@@ -74,9 +77,12 @@ The companion [launch model](../../../models/programmatics/department-of-resilie
 
 ## Stocktake
 
-**Authoritative:** warranted launch lattice; conserved USD 200B ceiling; reconciled portfolio, market, cohort and method ledgers; nine explicit launch states; zero-credit boundary.  
-**Died:** consolidated launch office, six program-executive silos, prime-led demonstrations, proving-estate-first launch and every conversion from issue, schedule or money to capability.  
-**Burden moved:** from whether the first-physical program can launch coherently to which `A2` endpoints and public estate components deserve the first construction warrant.  
+**Authoritative:** warranted launch lattice; conserved USD 200B ceiling; reconciled portfolio, market, cohort and method ledgers; nine explicit launch states; zero-credit boundary.
+
+**Died:** consolidated launch office, six program-executive silos, prime-led demonstrations, proving-estate-first launch and every conversion from issue, schedule or money to capability.
+
+**Burden moved:** from whether the first-physical program can launch coherently to which `A2` endpoints and public estate components deserve the first construction warrant.
+
 **Parent question:** which `A2` endpoint-rig and proving-estate formation portfolio should receive first physical construction authority across all six mission systems?
 
 ## Internal sources
