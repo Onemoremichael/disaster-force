@@ -173,7 +173,7 @@ The case is intentionally severe. Pass 167 operationalizes it as ten simultaneou
 
 ## What this pass establishes—and does not
 
-The mission set establishes differentiated requirement environments and two externally modeled anchor cases. Its scenario quantities remain planning hypotheses rather than frequency forecasts or procurement authority. Pass 167 closes the parent force-sizing rule; complete mission-system portfolios and representative evidence must now prove that the selected formations can deliver the declared public effects.
+The mission set establishes differentiated requirement environments and two externally modeled anchor cases. Its scenario quantities remain planning hypotheses rather than frequency forecasts or procurement authority. Pass 167 closes the parent force-sizing rule; Pass 168 assigns the resulting load to six complete mission-system portfolios while retaining nine independent effect ledgers. Representative evidence must still prove that the selected formations deliver those effects.
 
 [^haywired-water]: U.S. Geological Survey, [*A Simplified Method for Rapid Estimation of Emergency Water Supply Needs After Earthquakes*](https://www.usgs.gov/publications/a-simplified-method-rapid-estimation-emergency-water-supply-needs-after-earthquakes), September 25, 2021.
 [^haywired-social]: U.S. Geological Survey, [*The HayWired Earthquake Scenario—Societal Consequences: Overview*](https://pubs.usgs.gov/sir/2017/5013/vol3/r/sir20175013r.pdf), version 1.1, 2021.

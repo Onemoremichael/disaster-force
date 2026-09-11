@@ -11,7 +11,8 @@ The **Department of Resilience** owns public obligation, policy, budget, civil a
 Within that structure:
 
 - seven operating services generate people, doctrine and equipment;
-- nine civilian-effect portfolios define what must be delivered;
+- six mission-system portfolios integrate complete operational chains;
+- nine civilian-effect ledgers define what must be delivered and accepted;
 - formations combine service contributions into complete deployable chains;
 - joint commands allocate and employ those formations across campaigns; and
 - components determine how capacity is recruited, paid, mobilized and regenerated.
@@ -133,19 +134,21 @@ Services are durable professional and acquisition homes. They organize, train, e
 
 The seven-service settlement is canonical at the institutional level. It does not imply seven equal budgets or seven copies of every enabling function. It assigns one lifecycle owner while preserving the fact that operational effects are joint.
 
-Pass 165 closes the corresponding acquisition boundary. A service remains the lifecycle sponsor for its professions and article families, but an effect that fails unless several services act as one chain is acquired through a Department-level **joint mission-system office**. That office owns the integrated requirement, dependency model, outcome budget, open interfaces and representative campaign; it does not absorb professional control or technical-release authority. Clinical continuity is the first explicit case: Health owns clinical practice and equipment, while Infrastructure, Mobility, carrier and sustainment owners generate their elements of one jointly tested pathway. The [branch disposition](generation/f36-cisa40-sa6-root-a-clinical-service-island-branch-disposition-and-joint-mission-system-return.md) prevents a hospital-shaped platform office from substituting for that pathway.
+Pass 165 closes the corresponding acquisition boundary. A service remains the lifecycle sponsor for its professions and article families, while a Department-level **joint mission-system office** owns the integrated requirement, dependency model, outcome budget, open interfaces and representative campaign for a complete operational chain. It does not absorb professional control or technical-release authority. Clinical continuity is the first explicit case: Health owns clinical practice and equipment, while Infrastructure, Mobility, carrier and sustainment owners generate their elements of one jointly tested pathway. The [branch disposition](generation/f36-cisa40-sa6-root-a-clinical-service-island-branch-disposition-and-joint-mission-system-return.md) prevents a hospital-shaped platform office from substituting for that pathway.
 
 Pass 166 supplies the fiscal constitution. Five exclusive appropriation classes fund joint mission systems, service professional and article-family bases, national common capacity, the sovereign technical estate and a competitive failure reserve. One dollar belongs to one account. Service-administered mission work packages are an executor view of mission-system funds, not a second appropriation; common title earns no quantity credit without exclusive reservation, complete-chain readiness, valid reset and technical equivalence. Integrated acceptance therefore requires three distinct authorities: mission outcome, service technical release and independent evidence assurance. The [allocation constitution](generation/department-of-resilience-joint-mission-system-appropriation-reservation-and-accountability-constitution.md) leaves force quantities at zero credit until the national concurrency scenario is compiled.
 
-Pass 167 supplies that scenario. The [national and invited-international force-sizing constitution](generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.md) establishes `3C + 5M + 2I + R20 / N−1`: ten simultaneous campaign claims, a protected reserve, seven domestic readiness districts and two international reach networks. Accepted international missions cannot be recalled unilaterally, territories remain domestic and no partner capacity is credited. After loss of a district capped at 20 percent of each family, the remaining ready force must still cover the complete promise and reserve. The result is 5,251 heterogeneous formation equivalents, not a fungible platform count. Mission-system portfolios must now compile against this load case.
+Pass 167 supplies that scenario. The [national and invited-international force-sizing constitution](generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.md) establishes `3C + 5M + 2I + R20 / N−1`: ten simultaneous campaign claims, a protected reserve, seven domestic readiness districts and two international reach networks. Accepted international missions cannot be recalled unilaterally, territories remain domestic and no partner capacity is credited. After loss of a district capped at 20 percent of each family, the remaining ready force must still cover the complete promise and reserve. The result is 5,251 heterogeneous formation equivalents, not a fungible platform count.
+
+Pass 168 compiles that load into six mission systems: enter a broken theater; reach occupied civil terrain; control an active hazard; produce and distribute lifelines; preserve care and human continuity; and sustain, transfer and regenerate. The [portfolio constitution](generation/department-of-resilience-six-mission-system-portfolio-topology-and-technology-competition-constitution.md) assigns every canonical family once, preserves all nine effects as independent acceptance ledgers and organizes twenty-four mechanism-neutral technology competitions. This supersedes the nine effect-mirrored offices implied by Pass 166 without weakening effect accountability.
 
 Hazard expertise is organized differently. Fire, flood, seismic, drought, storm, heat, cold, biological and contaminated-environment centers develop doctrine, forecasts, test envelopes and campaign plans across the services. They do not become independent fleets. A megafire campaign may require air response, land engineering, water, power, health, community stabilization, civil mobility and national sustainment at once.
 
-## 6. Nine civilian-effect portfolios
+## 6. Nine civilian-effect acceptance ledgers
 
-Effects are the stable vocabulary of public outcomes. They are not another set of services.
+Effects are the stable vocabulary of public outcomes. They are not another set of services or acquisition offices.
 
-| Effect portfolio | Verified output | Typical generating services |
+| Effect ledger | Verified output | Typical generating services |
 |---|---|---|
 | Civil coordination, safety and public information | lawful priorities, usable warnings, safe work and accountable public records | Community, Health, all technical services |
 | Food, shelter and essential-goods continuity | safely supported person-days and a durable exit from emergency support | Community, Infrastructure, Mobility |

@@ -13,6 +13,8 @@ This pass designs that system across the whole Department. The accompanying [res
 
 > A mature Department of Resilience should be able to ask for an effect that present industry cannot deliver, fund several credible ways of creating it, build the facilities required to discover which ways work, terminate most of them without institutional crisis, and convert the survivors into reproducible public service.
 
+Pass 168 now supplies the portfolio grammar for that ambition. Six mission systems—not nine effect bureaus, seven service silos or four platform domains—own end-to-end integration. Twenty-four initial problem-field competitions span theater entry, civil reach, hazard control, lifelines, human continuity and regeneration inside a conserved USD 550B mission envelope. Each must change a binding service coefficient, retain rival mechanisms and complete-system boundaries, and stop if its declared kill condition is met. The [portfolio constitution](../../force/generation/department-of-resilience-six-mission-system-portfolio-topology-and-technology-competition-constitution.md) selects no mechanism or exterior form.
+
 ## 1. Scale must be stated honestly
 
 The phrase “military-like innovation” is easy to use loosely. The fiscal comparison is clarifying. The Department of Defense's FY2026 request includes **$179.1 billion for research, development, test and evaluation** and 1,135 RDT&E program, project and activity lines.[^dod-fy26] Holding that single annual request constant for twenty-five years yields roughly **$4.48 trillion** before any escalation. This does not prove what resilience research should cost, but it establishes the order of magnitude implied by a genuinely peer innovation effort.
