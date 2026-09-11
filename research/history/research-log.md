@@ -5124,3 +5124,19 @@ Budget-weighted control HHI is 0.0463, equivalent to 21.6 equal groups after une
 The seventeen-sheet workbook passes forty terminal audits and ten restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the full formula-error scan is empty. Workbook SHA-256 is `bc243859f1217f8d53a1a2370042ad6985a386cc0d2a7c1a301aaca1a9eb05af`. Every firm, owner, provider, tool, site and event remains source-empty; no option is awarded, production credit is zero and rendering remains held.
 
 `PFP-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to selecting one problem field per mission system for a synchronized first-principles requirement cohort. No external sites or rendering are introduced.
+
+## Pass 208 — First six-system requirement cohort and public-service vector constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `PFP`, with two passes consumed; this was its third of at most five. It passes the resolution test because reversing the six selected fields would redirect the first national technology agenda, the USD 57.4B Root House option market and the first physical artifacts the new industrial economy must learn to build.
+
+Largest-demand sequencing, showcase-machine selection, infrastructure restoration as the public-effect proxy and one common autonomy-and-control substrate fail. The selected Compound First-Reach Cohort binds no-pier heavy transfer, building and vertical access, persistent fire control, strategic water–energy carriers, distributed definitive care and field regeneration into one service chain.
+
+Six system-native vectors contain forty-eight noncompensatory coordinates. Twenty-four root-field experiments keep four unlike mechanism hypotheses alive in every selected field, and thirty directed interfaces expose every system-to-system exchange without allowing substitution. The program explicitly calls for dynamic heavy-load exchange, occupied-building robotics, persistent precision fire delivery, closed intervention metabolism, transportable firm heat, robotic utility corridors, reconfigurable acuity environments, local clinical production, autonomous damage reconstruction and portable sovereign recertification.
+
+The selected fields carry USD 138B of the full mission-technology account and a USD 27.5B first-tranche ceiling. USD 14.3B may stage as private options and USD 13.2B remains evidence-held. If every field assignment reaches `BREAK` with valid adverse evidence and then stops, USD 12.2B is payable and USD 2.15B remains unexercised.
+
+The sixteen-sheet workbook passes forty-six terminal audits and ten restored mutations. Every sheet renders cleanly after independent office recalculation, the native finance chart survives and the formula-error scan is empty. Workbook SHA-256 is `4f9eef9603b5b9ef8aecaf19c1107015af07d091201a7be4c5c89d7324f31eab`. Every identity and observation remains source-empty; awards and field, root and production credit are zero. Rendering remains held.
+
+`PFP-3` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to freezing six `A0` public methods, receiver emulators and denial protocols, then releasing twenty-four root-distinct `A1` mechanism articles. No external sites or rendering are introduced.
