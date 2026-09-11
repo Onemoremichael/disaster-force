@@ -4930,3 +4930,13 @@ Pass 192 selects a balanced family-cohort braid over article-first procurement, 
 The reference ramp carries USD 9.41T of formation capital, peaks near USD 1.51T in one year and scales 11.5M affiliated billets. This is a mobilization economy separate from the USD 1.00T technology program. A twenty-year life sensitivity implies about 263 replacement formations, USD 471B and 573,000 billet renewals annually.
 
 The nineteen-sheet model passes eight audits and three restored mutations. All crew, receiver, trial and admission identities remain source-empty; authority is zero. `DFG-2` closes; opened 0, closed 1, net −1, running total 0. Permanent readiness-cycle design is next. No external sites or rendering are introduced.
+
+## Pass 193 — Permanent readiness-cycle constitution
+
+**Verdict:** `CLOSE`
+
+Pass 193 selects a family-specific rolling lattice. The 5,251 formations divide into 2,420 committed, 502 protected reserve, 745 geographic buffer, 514 requalifying, 527 maintaining and 543 in deep overhaul. Applying the reserve family by family adds eighteen formations over the aggregate 20-percent shortcut.
+
+Balanced ready allocations create 336 family–district cells. Simultaneous loss of the largest district allocation in every family removes 546 formations and leaves 3,121, 199 above integerized protected demand. The model also retains 15,123.6 crew-set equivalents, twenty-four quarterly joint trials and the USD 2.11T mature operating screen.
+
+The twenty-one-sheet workbook passes twelve audits and four restored mutations. All serial, crew, receiver, trial and admission identities remain source-empty; authority is zero. `DFG-3` closes; opened 0, closed 1, net −1, running total 0. National mobilization and allocation command is next. No external sites or rendering are introduced.
