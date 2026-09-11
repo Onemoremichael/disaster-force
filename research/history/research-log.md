@@ -4476,3 +4476,17 @@ The terminal workbook nevertheless closes all ten items assigned by Pass 164. It
 Pass 166 closes the cross-portfolio budget rule returned by Pass 165. Five exclusive appropriation classes separate joint mission outcomes, service professional and article-family bases, national common capacity, the sovereign technical estate and competitive failure reserve. One dollar belongs to one account, while the service work-package matrix remains an alternative executor view of mission funds. Mission outcome acceptance, service technical release and independent evidence assurance remain separate authorities.
 
 The thirteen-sheet workbook tests twenty-seven accounts and three funding mixes inside the inherited USD 1.00T, twenty-five-year technology-and-proving envelope. All twenty-six audits pass, the live case selector restores exactly and the five reservation cases deny cross-portfolio savings wherever concurrency, reset or technical equivalence is absent. Admitted quantity reduction remains zero. One item remains open: the national and invited-international concurrency, geography and force-sizing scenario. No external-site research or exterior rendering is introduced.
+
+## Pass 167 — National and invited-international concurrency, geography and force sizing
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 167 force-sizing constitution](../force/generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.md)
+
+**Companion model:** [National and invited-international concurrency, geography and force-sizing workbook](../../models/force/generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.xlsx)
+
+The deepest live chain was the returned parent sequence `RCC-1R → JMSA-1 → NIFS-1`, in its third pass. It passes the resolution test because the selected case changes every service inventory, geographic posture, international obligation, workforce and capital boundary.
+
+Pass 167 replaces the provisional `3C + 5M + 2G + 20R` screen with `3C + 5M + 2I + R20 / N−1`. Three catastrophic domestic, five major domestic and two invited international campaigns are simultaneous allocation claims. Seven domestic readiness districts and two international reach networks must preserve the complete promise and 20-percent reserve after one district loss. Territories remain domestic; accepted international forces are non-recallable without joint release; no host, partner or military capacity is credited.
+
+The fourteen-sheet workbook compiles 48 heterogeneous families and 2,420 commitments. The N−1 posture selects 5,251 owned formation equivalents, 1,042 above the no-loss predecessor, and produces 13.0M affiliated billets, a USD 17.4T 25-year capital screen and USD 2.11T mature annual operations. All twenty-six audits and eight denial worlds pass, live scenario sensitivities restore exactly and no cross-portfolio reduction is admitted. The sole parent-level item closes; the running total is zero. Complete mission-system portfolio selection becomes the next admissible question. No external-site research or exterior rendering is introduced.

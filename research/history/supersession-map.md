@@ -4,6 +4,7 @@ The project advances by allowing later work to overturn an earlier result withou
 
 | Earlier result | What changed it | Current use |
 | --- | --- | --- |
+| Pass 23/58 provisional `3C + 5M + 2G + 20R` force-sizing case without a geographic-loss or international-recall law | Pass 167 national and invited-international concurrency, geography and force-sizing constitution | Replaced by `3C + 5M + 2I + R20 / N−1`: seven domestic readiness districts and two international reach networks retain the full ten-campaign promise and protected reserve after one district loss. What it established: 5,251 owned formation equivalents and a USD 17.4T 25-year screen. What it cost to learn: 1,042 additional formation equivalents, 2.56M affiliated billets and USD 2.23T above the no-loss predecessor. |
 | Hour-60 continuous first-wave closure | Indivisible `PSP-10` pod timing | Historical lower bound |
 | Hour-71 independent-essential pod | Configured `PCC-50` and `PCC-D1` | Technology-target lineage |
 | 15,152.86-t first `PCC-50` pod | 14,451.07-t district-propagated mobile pod | Independent mobile reference |
