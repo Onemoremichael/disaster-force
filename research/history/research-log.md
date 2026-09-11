@@ -5172,3 +5172,19 @@ Nine launch objects now distinguish `CONSTITUTED`, `FROZEN`, `FROZEN FOR ISSUE`,
 The nineteen-sheet workbook contains 347 live formulas and passes sixty-four terminal audits and fourteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives, the formula-error scan is empty and the file SHA-256 is `a7e7e7c5a7045994f3facec4622bf128d5d6b79772e93f0f9d8d0919d0e24943`. All implementation identities and observations remain source-empty; obligations, payments and capability credit are zero.
 
 `PFP-5` returns; opened 0, closed 1, net −1, running parent-level total 0. The parent question is which all-six portfolio of `A2` balance rigs, causal-keystone rigs, receiver-state realizations and proving-estate formations receives first physical construction authority under a maximum-loss and cancellation law. No external sites or rendering are introduced.
+
+## Pass 211 — First A2 six-root sentinel construction wave and cancellation constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `A2C`, with zero passes consumed; this was its first of at most five. It passes the resolution test because reversing the first construction portfolio would redirect the Department's first physical truth systems, alter the tranche exposed to failure and decide whether roots can be killed or resized before the complete estate is built.
+
+Balance-only, keystone-only, receiver-estate-first and full twenty-four-root construction fail. Compound falsification selects one lowest-margin sentinel per system: `ET-A`, `CT-C`, `HC-A`, `LF-B`, `HU-A` and `RT-B`. Exact-margin ties select `CT-C` and `LF-B` for greater cross-system causal leverage; the result is not a ranking of promise.
+
+Twelve balance/keystone endpoints operate across eighteen challenge, control and cold-reconstruction station nuclei. Each station begins with one sentinel and one regeneration lane, creating thirty-six initial lanes while fifty-four root lanes remain unbuilt. Twenty-four receiver states and seventy-two method cards receive 144 unlike physical realizations. The selected matrix requires seventy-two valid events, 360 evidence packages and twelve invalidity-only attempts, or eighty-four maximum attempts. The other 1,080 prospective cohort slots remain held.
+
+The six root-specific private options total USD 3.59B. The existing USD 12.0B public-method reserve makes the combined construction ceiling USD 15.6B without adding authority. If every sentinel is validly killed at `BREAK`, paid exposure stops at USD 12.0B and USD 3.54B remains unreleased. The largest single-root kill ceiling is USD 0.765B. The USD 10.0B protected failure reserve remains untouched.
+
+The twenty-one-sheet workbook contains 1,230 live formulas and passes sixty-four terminal audits and fourteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives, the formula-error scan is empty and the file SHA-256 is `3e85a7a70242bebddb1ee7f884aa139cbc764ee17d6d8b5173a06c76a669382e`. All sites, firms, operators, serials, observations, obligations, payments and capability credit remain zero or source empty; exterior rendering remains held.
+
+`A2C-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to source-independent physical configuration of the six sentinel rig families and eighteen station nuclei before their construction warrants can become competitions. No external sites or rendering are introduced.
