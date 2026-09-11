@@ -158,7 +158,7 @@ The global case assumes an invited U.S. response to a dense coastal city with da
 
 The Department's objective is not to reproduce an American city overseas. It is to provide modular services that connect to host systems, operate independently where required, strengthen local response, and leave maintainable capacity behind by agreement.
 
-## Concurrency campaign: the 3C + 5M + 2G test
+## Concurrency campaign: the `3C + 5M + 2I + R20 / N−1` test
 
 The first quantitative stress case combines:
 
@@ -166,16 +166,14 @@ The first quantitative stress case combines:
 - **C2:** DRM-3 first hurricane landfall;
 - **C3:** DRM-4 Cascadia no-notice event;
 - **M1–M5:** a wildfire complex, heat emergency, inland flood, major tornado sequence, and territorial drought-support mission;
-- **G1:** DRM-10 allied earthquake response; and
-- **G2:** a sustained regional flood and displacement mission abroad.
+- **I1:** DRM-10 invited allied earthquake response; and
+- **I2:** an invited sustained regional flood and displacement mission abroad.
 
-The case is intentionally severe. It asks which effects truly require a 20 percent residual reserve, which can be substituted, which must be forward positioned, and which industrial lines become the limiting national resource.
+The case is intentionally severe. Pass 167 operationalizes it as ten simultaneous allocation claims, a 20-percent protected reserve, seven domestic readiness districts and two international reach networks. The entire promise and reserve must survive loss of one district capped at 20 percent of any formation family. International missions are optional before acceptance and non-recallable without joint host/U.S. release afterward; territories remain domestic and partner capacity receives no sizing credit. The [force-sizing constitution](../force/generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.md) is now authoritative for national quantity.
 
 ## What this pass establishes—and does not
 
-The mission set establishes differentiated requirement environments and two externally modeled anchor cases. It does not yet claim authoritative national quantities for every service in every scenario. Those values belong in the editable demand model with low, base, and high cases.
-
-The immediate next requirement is a common service-level library that turns each scenario's affected populations and facilities into comparable effect units.
+The mission set establishes differentiated requirement environments and two externally modeled anchor cases. Its scenario quantities remain planning hypotheses rather than frequency forecasts or procurement authority. Pass 167 closes the parent force-sizing rule; complete mission-system portfolios and representative evidence must now prove that the selected formations can deliver the declared public effects.
 
 [^haywired-water]: U.S. Geological Survey, [*A Simplified Method for Rapid Estimation of Emergency Water Supply Needs After Earthquakes*](https://www.usgs.gov/publications/a-simplified-method-rapid-estimation-emergency-water-supply-needs-after-earthquakes), September 25, 2021.
 [^haywired-social]: U.S. Geological Survey, [*The HayWired Earthquake Scenario—Societal Consequences: Overview*](https://pubs.usgs.gov/sir/2017/5013/vol3/r/sir20175013r.pdf), version 1.1, 2021.
