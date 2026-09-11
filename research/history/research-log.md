@@ -4740,3 +4740,21 @@ One complete unit per root creates a 991 kt dry, 1.19 Mt deployed, 1.97 GW and 1
 The nineteen-sheet workbook contains 160 component records, ninety-two route balances, 140 account cases and 140 source-empty physical evidence gates. All 260 terminal audits and twelve live mutation tests pass and restore, and the formula-error scan is empty. All roots remain `HOLD` and Cascadia remains blocked.
 
 `C3-SPW-3` closes; opened 0, closed 1, net −1, running open total 0. Every coefficient, ancestry declaration and physical gate remains unobserved; procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. The next admissible resolution is measurement triage for observations capable of killing or materially resizing a complete root before the full three-article proof estate is built. No external-site research is introduced.
+
+## Pass 183 — Twenty-root pre-article falsification and scale-decision constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 183 twenty-root pre-article falsification and scale decision](../force/generation/department-of-resilience-twenty-root-pre-article-falsification-and-scale-decision-constitution.md)
+
+**Companion model:** [Twenty-root pre-article falsification and scale-decision workbook](../../models/force/generation/department-of-resilience-twenty-root-pre-article-falsification-and-scale-decision-constitution.xlsx)
+
+The synchronized proof-wave branch is `C3-SPW-1 → C3-SPW-2 → C3-SPW-3 → C3-SPW-4`; this is its fourth of five permitted passes. It passes the resolution test because reversing the triage law or endpoint portfolio would change which roots survive, which `CF1` configurations are resized and whether the USD 239B portfolio proceeds into its 1,268-unit proof estate.
+
+Pass 183 rejects immediate proof construction, simulation-only screening and aggregate prototype scores. Every root receives one limiting-account balance endpoint and one causal-keystone endpoint. Valid adverse balance evidence orders `RESIZE`; valid adverse keystone evidence orders `KILL`; positive evidence authorizes only proof construction. Each root uses challenge, matched-control and cold outside-reproduction rig roles, twelve valid events, sixty packages, three stage authorities and no more than fourteen attempts.
+
+The complete pre-article estate contains forty endpoints, sixty rig roles, 240 valid-event slots, 1,200 evidence packages and sixty gates. Four roots fall within a one-percent defeat movement, seven more within 2.5 percent and nine within five percent. They enter by months 18, 30 and 42. The USD 43.0B early ceiling is the sum of root limiting-account reservations inside the conserved USD 239B portfolio, not a new appropriation or cost estimate. No system may issue a proof contract until all four roots have non-`HOLD` dispositions and any killed lineage has an unlike replacement.
+
+The eighteen-sheet workbook passes 300 terminal audits and fourteen mutation tests; the native chart survives export and the formula scan is empty. Every acceptance and observation remains source-empty, all twenty roots remain `HOLD` and released authority is zero.
+
+`C3-SPW-4` closes; opened 0, closed 1, net −1, running open total 0. The fifth branch pass must return the executable measurement constitution to Department-level industrial execution; procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
