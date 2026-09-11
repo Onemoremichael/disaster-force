@@ -12,6 +12,8 @@ That rule has repeatedly overturned the attractive answer. Fractional cargo did 
 
 ## Current answer
 
+At Department scale, [SPC-1](department-of-resilience-constructive-power-projection-and-strategic-employment-constitution.md) now defines the purpose of projection as **sovereign constructive power**: complete public service under denial that leaves the recipient independently more capable. Four modes distinguish guaranteed domestic continuity, invited stabilization, forward partnership and productive statecraft. The inherited force commits 1,745 formations domestically and 675 by invitation; twelve treaty seals and ten prohibited uses prevent this mass from becoming a military auxiliary, coercive conditionality or dependency-producing export system. All strategic-effect evidence remains source-empty.
+
 The current answer is a proving, measurement and acquisition architecture rather than a vehicle selection. [CSAC-1](csac1-compound-service-article-and-range-campaign.md) establishes the permanent Service Systems Proving Command. [MESA-1](mesa1-measurement-and-destructive-evidence-architecture.md) through [MESA-1E](mesa1e-family-procurement-and-source-selection-experiment.md) separate evidence planes, make them physical, select supplier-neutral baselines, define build release and preserve competition after award. The generation layer now scales that pattern through the [Department-wide Acquisition and Industrial Mobilization Command](../generation/department-resilience-acquisition-and-industrial-mobilization-command.md). Production remains held and rendering remains blocked.
 
 The present research reference is a two-mode DCP-2R formation built around a variable-mass adaptive service kernel:
