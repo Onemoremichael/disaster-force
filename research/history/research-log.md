@@ -4536,3 +4536,21 @@ Pass 170 selects `HCDN-50`, a reversible network of fifty independently assignab
 Four complete roots—prepared-building, deployable-district, hybrid civic-metabolism and robotic local-conversion—enter a common campaign. Three independent sites, twelve denial worlds, two role directions and thirty-six district articles create 288 complete missions and 4,030 route-stage decisions. Five inherited competitions form a USD 63.8B physical tranche; `HU-04A` remains a separate preceding substrate. All thirty-seven audits and two live sensitivities pass. No root, force credit, procurement or exterior form is admitted.
 
 `PHCS-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier returns to `MSPT-1`: sequencing all six mission systems into a balanced force-development program. No external-site research or exterior rendering is introduced.
+
+## Pass 171 — Six-mission-system coupled development wavefront and joint demonstrator constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 171 coupled development constitution](../force/generation/department-of-resilience-six-mission-system-coupled-development-wavefront-and-joint-demonstrator-constitution.md)
+
+**Companion model:** [Six-mission-system coupled development wavefront and joint demonstrator workbook](../../models/force/generation/department-of-resilience-six-mission-system-coupled-development-wavefront-and-joint-demonstrator-constitution.xlsx)
+
+The deepest live chain was `NIFS-1 → MSPT-1 → HCC-1 → PHCS-1 → MSPT-1R`, entering its fifth pass since force sizing returned portfolio selection. It passes the resolution test because sequencing determines whether the Department develops six compatible mission systems, when industry may reproduce them and when the 5.25k-formation force may earn credit. This pass therefore closes the branch at its maximum permitted depth.
+
+Five architectures face eight noncompensable gates. Demand-ranked and physics-first serial orders starve dependencies. Six isolated parallel lanes defer integration failure. Campaign bundles dissolve stable acquisition owners and duplicate interfaces. Only `S5`, the coupled wavefront, keeps all six systems live in every phase, retains unlike roots, shares public interfaces, preserves independent evidence authority and requires an all-six `G4` mission thread before any system may enter `G5`.
+
+The inherited USD 1.00T, twenty-five-year program remains exhaustive: USD 550B mission systems, USD 150B service technical bases, USD 150B common capacity, USD 100B sovereign technical estate and USD 50.0B failure reserve. Five waves retain shares of 20, 30, 25, 15 and 10 percent. USD 750B, including USD 413B of mission-system work, is therefore exposed before replicated field acceptance becomes eligible. Unequal Pass 168 system allocations remain intact; balance means equal survival, evidence access and obligation, not equal dollars.
+
+Twenty-four parent problem fields open ninety-six unlike mechanism opportunities and retain a forty-eight-mechanism Wave 2 floor. Four complete roots per system create twenty-four system roots. Four rotating all-six stacks then cross ten campaign archetypes at three independent sites, creating 120 complete missions, 720 focal system judgments and 1,800 pair-interface observations. This is a fractional interaction design rather than an exhaustive `4^6` factorial; root assignments rotate to prevent a permanent correlated team from masquerading as independent evidence.
+
+The fifteen-sheet workbook reconciles every account, phase, system allocation, root count, campaign cell and interface. All thirty-nine terminal audits pass and the formula-error scan is empty. `MSDW-1` closes; opened 0, closed 1, net −1, running parent-level total 0. Five non-`MS-HU` service contracts and the exact six-system exchange grammar become the next admissible resolution. No external-site research, procurement, field credit, supplier selection or exterior rendering is introduced.
