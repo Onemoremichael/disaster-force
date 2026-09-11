@@ -4940,3 +4940,13 @@ Pass 193 selects a family-specific rolling lattice. The 5,251 formations divide 
 Balanced ready allocations create 336 family–district cells. Simultaneous loss of the largest district allocation in every family removes 546 formations and leaves 3,121, 199 above integerized protected demand. The model also retains 15,123.6 crew-set equivalents, twenty-four quarterly joint trials and the USD 2.11T mature operating screen.
 
 The twenty-one-sheet workbook passes twelve audits and four restored mutations. All serial, crew, receiver, trial and admission identities remain source-empty; authority is zero. `DFG-3` closes; opened 0, closed 1, net −1, running total 0. National mobilization and allocation command is next. No external sites or rendering are introduced.
+
+## Pass 194 — National Mobilization and Allocation Command
+
+**Verdict:** `CLOSE`
+
+Pass 194 gives NMAC narrow schedule authority inside ten separated institutional powers, seven lexicographic priority layers and twelve reconstructable seals. The 480 inherited family-campaign cells fit the 2,420 committed account, but arithmetic fit creates no execution authority.
+
+The largest-event family vector requires 406 formations. Although the reserve contains 502, it covers only 390 family-complete formations. Flood, ground-fire, aerial-hazard, port-opening, inland-waterway and offshore-support families are short by sixteen. Using geographic buffer therefore requires a public temporary `N−1`-risk warrant; aggregate slack cannot cure the deficit.
+
+The twenty-three-sheet model passes twelve audits and four restored mutations. All claims, serials, receivers, collisions and authority identities remain source-empty. `DFG-4` closes; opened 0, closed 1, net −1, running total 0. The fifth pass must integrate and return the branch. No external sites or rendering are introduced.
