@@ -4776,3 +4776,21 @@ Five non-lifeline campaign groups receive fifteen challenge, control and reconst
 The eighteen-sheet workbook contains 300 terminal audits and fifteen live mutation tests. Every implementation identity and observation restores to source-empty, released authority is zero, all roots remain `HOLD` and the separate lifeline barrier remains binding.
 
 `C3-SPW` returns; opened 0, closed 1, net −1, running open total 0. Its transferable result cost five linked constitutions, a 991 kt/1.97 GW/140,000-role design bank, a 1,268-unit proof exposure and forty pre-article endpoints to learn. The frontier returns to Department-level integration of the Service, six Mission System Commands, independent Root Houses and the operational force. Procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 185 — Department industrial command constitution and capability-warrant state machine
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 185 industrial command constitution](../force/generation/department-of-resilience-industrial-command-constitution-and-capability-warrant-state-machine.md)
+
+**Companion model:** [Department industrial command workbook](../../models/force/generation/department-of-resilience-industrial-command-constitution-and-capability-warrant-state-machine.xlsx)
+
+The deepest live branch is `DIC-1`, the first of five permitted passes after the synchronized proof wave returned to Department-level industrial execution. It passes the resolution test because changing the industrial command architecture changes who controls the USD 1.00T program, whether twenty-four roots remain independent and when a capability becomes deployable national power.
+
+Only a constitutional industrial matrix passes all ten hard gates. Ten institution classes receive bounded powers. Every capability advances through twelve non-substitutable warrants from public need through regeneration. Twenty-four roots produce 288 root–warrant records; twenty separation tests and twelve rollback rules prevent one actor from owning requirement, design, proof, money, readiness and employment.
+
+Five accounts and five waves conserve the USD 1.00T authority. The six published system allocations total USD 549.9B at displayed precision, leaving USD 0.1B visibly inside the mission account. Pass 184’s USD 43.0B ceiling maps to USD 17.2B mission systems, USD 21.5B sovereign technical capacity and USD 4.30B failure reserve. The RPS Program Comptroller becomes a proving-stage executor rather than Department capital owner.
+
+The eighteen-sheet workbook passes 360 terminal audits and nineteen live mutations after independent recalculation. One native chart survives export, the formula scan is clean, all identities are source-empty, all twenty-four roots remain `HOLD`, six system barriers remain blocked and released authority is zero.
+
+`DIC-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the market and production constitution for large rival firms, public fallback capacity, capital formation and exports without root concentration. Procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
