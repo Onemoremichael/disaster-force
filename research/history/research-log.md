@@ -5318,3 +5318,21 @@ The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` envelope remain held
 The seventeen-sheet workbook contains 1,353 live formulas and passes forty-three terminal audits and eighteen detected-and-restored mutations after independent office recalculation. Every sheet was rendered and inspected, the native chart survives and the formula-error scan is empty. SHA-256 is `b2930149a32d5e13ac5afa2f21d299e53ccdd4512945e7c668a776dec41d99f6`.
 
 `FGR-4` closes; opened 1, closed 1, net 0, running total 1. The fifth pass must integrate the six sections and define what may be built or represented before evidence without converting a falsification architecture into a validated exterior. It must then `RETURN` to the parent form-selection question. No external sites or renderings are introduced.
+
+## Pass 220 — Six-root representation boundary and form-authority return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `FGR`, with four passes consumed; this was its mandatory fifth and terminal pass. Reversal would either authorize premature fleet imagery or prohibit the comparative form hypotheses needed to construct falsifiable articles, changing first-order acquisition architecture.
+
+An eight-class representation ladder replaces the blanket rendering prohibition. `REP-0` through `REP-3` may represent service need, causal topology, instrumented test geometry and one equal-salience set of three mechanically divergent whole-form hypotheses per root. `REP-4` through `REP-7` remain held for a measured serial, accepted root evidence, route-complete mission proof, production and readiness. Across six roots, twenty-four of forty-eight root–class records are authorized but unissued; twenty-four remain held. All eighteen form hypotheses are unissued and unselected.
+
+Fourteen view rules prohibit unequal salience, finished unknowns, livery, named places, dramatic scenes, fleet quantities, achieved-performance labels and use in bids or disposition. Eighteen nonconversion laws and twelve rollback triggers keep representation, evidence, candidate form, mission configuration, production and readiness separate. Thirty of forty-eight construction-boundary records authorize causal articles, instrumented sections, public fixtures, registered surrogates and only those exterior surfaces that are themselves causal variables. Operational packaging, production tooling and fleet units remain held.
+
+The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` share remain unchanged. Incremental representation authority, accepted and paid authority, observations, capability and production remain zero.
+
+The sixteen-sheet workbook contains 533 live formulas and passes forty-four terminal audits and eighteen detected-and-restored mutations after independent office recalculation. Every sheet and five long-table views were rendered and inspected, the native chart survives and the formula-error scan is empty. SHA-256 is `6e60fd02629759391bd78bbdb5a60c868a1afd3afe7caca9bd0572f636f79b3d`.
+
+`FGR-5` returns; opened 0, closed 1, net −1, running total 0. The registered question—what may be built or represented before evidence without converting a falsification section into an exterior-form claim—is closed by the bounded `REP-0` through `REP-3` authority. No external sites or renderings are introduced.
+
+After this pass, the revised termination method takes effect. Passes 211–220 contain no `KILL` of a previously active branch, so research halts for human review before Pass 221.

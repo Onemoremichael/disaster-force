@@ -380,11 +380,13 @@ The project treats the repository as an accumulating proof.
 7. Stress the result, restore the baseline and record what changed.
 8. Carry unresolved contradictions forward as the next research boundary.
 
-Every pass ends with a stocktake: what became authoritative, what was falsified, where the burden moved, what remains provisional and which next test has the greatest power to change the force.
+Every pass follows the [termination method](research/history/pass-method.md): it must close, kill or return a registered question—or refine only while closing a prior item without growing the ledger. Branches end within five passes, and ten passes without a qualifying branch kill require human review.
 
 ## Current research boundary
 
-The Department-scale frontier is now the boundary between first-principles test architecture and visual or physical form selection. Passes 211–218 selected six sentinels, separated their proving estate and industrial transaction, specified asymmetric full-scale interfaces and rejected every inherited section as form-ready. Pass 219 converts the eleven resize orders into thirty-six section bills and all eighty-five gaps into executable successor specifications. Sixty cells close by controlled design arithmetic; eighty-four remain measurement-ready and evidence-empty. No cell is unscoped, but no root earns `G06`. The USD 15.6B construction-wave ceiling and USD 3.59B private options remain conserved; only USD 0.538B is eligible at `FRAME`, and none is awarded or paid. Sites, firms, identities, observations, capability, production and exterior form remain unadmitted. Pass 220 is the fifth and final `FGR` pass: it must integrate these results, define what may legitimately be built or depicted before evidence, and `RETURN` to the parent form-selection question.
+The Department-scale frontier has returned from first-principles test architecture to visual and physical form selection. Pass 220 replaces the blanket rendering prohibition with an eight-class representation ladder. `REP-0` through `REP-3` may expose service need, causal topology, instrumented test geometry and exactly three equal-salience whole-form hypotheses per root; the eighteen hypotheses are authorized but unissued and unselected. `REP-4` through `REP-7` remain held for as-built metrology, accepted evidence, complete mission proof, production and readiness. Thirty experimental construction permissions stop before operational packaging, tooling or fleet units. The USD 15.6B construction-wave ceiling and USD 3.59B private options remain conserved; only USD 0.538B is eligible at `FRAME`, and none is awarded or paid. Sites, firms, identities, observations, capability and production remain unadmitted. `FGR-5` returns to its registered parent question.
+
+Research is now halted for human review. Passes 211–220 are ten consecutive passes without a `KILL` of a previously active branch; no Pass 221 may begin until the sequence is reviewed under the project’s termination method.
 
 The force-design frontier has now joined both strategic carriers into one provisional two-mode mission:
 
