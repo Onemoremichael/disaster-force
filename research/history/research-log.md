@@ -5202,3 +5202,21 @@ Eighteen challenge, control and cold-reconstruction nuclei each receive one acti
 The USD 12.0B public-method reserve divides equally to USD 2.00B per system and USD 0.667B per nucleus. With USD 3.59B of selected private options, the inherited USD 15.6B ceiling is unchanged. The twenty-two-sheet workbook contains 1,637 formulas and passes sixty-one terminal audits and sixteen detected-and-restored mutations after independent office recalculation. All sheets render cleanly, the formula-error scan is empty, one native chart survives and SHA-256 is `c6ce0eec0231961228fcfc3f2d93b4e5b5b9c1264820261af49ccefbe923e6fb`.
 
 `A2C-2` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to acquisition-lot boundaries, industrial firewalls, construction-acceptance packets and release order. Sites, firms, serials, observations, obligations, payments, capability credit, production and rendering remain held. No external sites or renderings are introduced.
+
+## Pass 213 — Severable construction-lot and industrial-firewall constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `A2C`, with two passes consumed; this was its third of at most five. It passes the resolution test because reversing the lot constitution would decide whether the USD 15.6B first wave creates a plural resilience industrial base or a hidden national prime able to manufacture its own proof.
+
+One national EPC prime, six system primes, eighteen station primes and component atomization fail. The selected 102-lot lattice contains six civil-substrate packages, eighteen root-native rigs, thirty-six unlike method lineages, eighteen regeneration tools, eighteen station integrations and six private candidate mechanisms. Seventy-two public lots are decisive, twenty-four are boundary work and six are Root House options.
+
+Control follows beneficial ownership, debt, decisive subcontractors, tooling, executable descriptions, calibration, keys and accepting personnel. Six candidate, thirty-six decisive and six boundary control groups create a floor of forty-eight. A decisive group may hold no more than two lots, never within one system, never both method lineages and never a station's rig plus regeneration chain. No group crosses candidate, decisive-public and boundary-public classes.
+
+Five packet families per lot create 510 construction records. Seven noncompensatory gates create 714 decisions, signed separately by the requirement issuer, control registrar, commissioning authority, safety-and-rights authority, Evidence Court and comptroller. Seven release states run from constitution through national control freeze, boundary build, compound decisive build, integration, destructive `BREAK` and cold return.
+
+The USD 12.0B public reserve and USD 3.59B private options preserve the USD 15.6B ceiling. Public exposure through `MAKE` is USD 9.00B and candidate exposure is USD 1.79B, for USD 10.8B combined. A valid all-six candidate kill at `BREAK` pays about USD 12.0B and leaves USD 3.54B unreleased.
+
+The twenty-sheet workbook contains 9,611 live formulas and passes eighty terminal audits and eighteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `32b5deeeecfa05ea9c979d9c4d06a0cf4c942257a4084a8f549caf2af2a89b3c`. All sites, firms, awards, obligations, payments, acceptances and capability remain zero or source empty; exterior rendering remains held.
+
+`A2C-3` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to a source-independent site-class and bid-admission constitution capable of producing a collision-free national slate without naming sites, firms or winners. No external sites or renderings are introduced.
