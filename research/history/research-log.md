@@ -5008,3 +5008,17 @@ Five evidence planes and twelve receiver districts create 108 district–effect 
 Readiness, receivers, production roots, network compacts and capital programs receive separate evidence-decay clocks. Historical evidence remains visible after current authority expires. A no-disaster year may renew representative readiness while actual strategic effect remains `UNOBSERVED`. Eight terminal rules stop coercion, suppressed evidence, dependency, repeated valid failure and prestige retention.
 
 The USD 44.6B capital and USD 8.93B/year base screens remain nested inside the activation and receiver systems. The twenty-one-sheet workbook passes fourteen audits and five restored mutations after saved-file recalculation. All effect records remain empty and released strategic credit is zero. `SPC-4` closes; opened 0, closed 1, net −1, running total 0. The fifth pass must integrate doctrine, forward capacity, activation and measurement, then return strategic power to mature Department architecture. No external sites or rendering are introduced.
+
+## Pass 200 — Department Strategic Power Compact and return
+
+**Verdict:** `RETURN`
+
+The deepest branch was `SPC-5`, its mandatory fifth pass. It passes the resolution test because reversing the compact changes whether constructive power is a coequal national instrument and whether domestic guarantee, invited sovereignty, industry, force, evidence and termination can coexist without a unified command.
+
+Humanitarian subordination, expeditionary civil basing, export-led readiness and a unified Strategic Power Command fail. The selected seven-article compact joins public guarantee; technology and industry; formation generation; readiness and allocation; domestic employment; invited activation; and evidence, renewal and regeneration. Fourteen nonconversion laws prevent spending, output, access, partner capacity, revenue, history or prestige from creating readiness, authority or strategic effect.
+
+The integrated reference retains 5,251 formations, including 1,745 domestic and 675 invited commitments, with about USD 4.18T of committed formation capital. Two receiver commons retain twelve districts, 842 family slots, 675 accepted serials, 1,350 corridor claims and an eighteen-day bridge. The USD 150B strategic technology jurisdiction sits inside the USD 1.00T program and targets twelve enabling frontiers from self-erecting receivers to sovereign offline control and public transaction replay.
+
+The twenty-five-year model exposes about USD 58.6T of public outlay: USD 17.4T capital, USD 40.2T ramped operations and USD 1.00T technology. Receiver, activation and measurement accounts remain nested. Market activity remains separate and creates no readiness. Eighteen saved-file audits pass, five mutations restore, and the formula scan is clean. All identities and effects remain source-empty; released authority and strategic credit are zero.
+
+`SPC-5` returns; opened 0, closed 1, net −1, running open total 0. Five passes established doctrine, receiver commons, activation, measurement and the integrated compact. The frontier returns to the Department-wide constitutional architecture joining mandate, mission systems, services, Productive Commonwealth, Proving Service, force generation, domestic guarantee and constructive-power employment without consolidating exclusive warrants. No external sites or rendering are introduced.
