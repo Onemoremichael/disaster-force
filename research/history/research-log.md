@@ -4814,3 +4814,23 @@ Twenty-four functional public reproduction cells create forty-eight cold-lot qua
 The twenty-two-sheet workbook passes 419 terminal audits and twenty-three live mutations after independent recalculation. The native chart survives, the formula scan is clean, all identities remain source-empty, no root or fallback route is admitted, export is blocked and released authority is zero.
 
 `MPC-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the physical production-recovery service: throughput, restart time, workforce, inventory and site-loss performance for the combined private-root and public-cell lattice. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 187 — Department dual-path production-recovery service constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 187 production-recovery constitution](../force/generation/department-of-resilience-dual-path-production-recovery-service-constitution.md)
+
+**Companion model:** [Department production-recovery workbook](../../models/force/generation/department-of-resilience-dual-path-production-recovery-service-constitution.xlsx)
+
+The deepest live branch is `MPC-2`, the second of five permitted market-and-production passes. It passes the resolution test because changing the recovery constitution changes whether the Department buys paper rights and inventory or a timed physical ability to replace complete roots after compound industrial loss.
+
+Only a private survivor network plus two public cold-production paths per root passes all twelve hard gates. One recovery service unit is a complete system-native quarter-service unit spanning 16.0–96.0 kt. Private networks distribute across at least three sites and owe one unit by day 120 and three by day 365 after largest-site, supplier and 25.0-percent workforce loss.
+
+The public world removes one Root House per mission system, one of each root's two public cells, one supplier, one bay and 25.0 percent of workers. A surviving path owes one unit by day 240 and two by day 365. Exactly 4,096 cohorts range from 201 kt to 358 kt; the maximum requires 1.96 kt/day of accepted year-one output and 2.94 kt/day of installed bay capacity.
+
+Twenty-four cells contain forty-eight paths and 144 bays. Controlled planning creates about 87,700 qualified positions and 465 kt of keystone and common-feedstock inventory. The USD 250B productive-estate allocation and its wave view reconcile without adding money. The existing USD 100B sovereign technology account receives production-recovery applications without new authority.
+
+The twenty-sheet workbook passes 1,758 terminal audits and twenty-nine live mutations after independent recalculation. The native chart survives, the formula scan is clean, all identities and events remain source-empty and released production authority is zero.
+
+`MPC-2` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the physical qualification campaign that can earn private-path, public-path, cell and six-root cohort recovery credit. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
