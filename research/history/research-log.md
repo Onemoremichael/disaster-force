@@ -4972,3 +4972,15 @@ The forty-eight-family posture assigns 1,745 committed formations to eight domes
 Twelve sovereign-service treaty seals govern invitation, authority, rights, receiver admission, data, residuals, evidence, non-recall, transfer, reproduction and public accounting. Ten prohibited uses block combat, political conditionality, forced return, unrelated intelligence, tied reconstruction, prestige deployment, unilateral recall, local-government substitution, remote dependence and domestic militarization. Nine strategic effects receive credit only after complete service, rights, sovereign control, durable transfer, independent reproduction and non-coercion.
 
 The twenty-three-sheet workbook passes fourteen terminal audits and four restored mutations after saved-file recalculation. All treaty identities and effect observations remain source-empty; released strategic credit is zero. `SPC-1` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the forward receiver, pre-positioning and partner-production topology for two international reach networks. No external sites or rendering are introduced.
+
+## Pass 197 — Sovereign receiver commons and forward-partnership topology
+
+**Verdict:** `CLOSE`
+
+Pass 197 closes `SPC-2`, the second strategic-power pass. U.S. hubs, caches, garrisons and contractor franchises fail; only a federated host-owned receiver commons preserves complete reception, sovereign refusal, access diversity, non-recall custody and independent production.
+
+Two network compacts contain twelve receiver districts and thirty-six unlike access precincts. Integerizing all ninety-six family–network claims produces 415 Indo-Pacific and 427 Atlantic/Americas reception slots, 842 total and 167 above nominal demand. Every family survives refusal or loss of its largest district allocation; three 50-percent precinct lineages preserve every district after one access loss.
+
+The productive layer contains 192 separated partner roots, ninety-six public assurance cells and twelve training/transfer academies. Twenty-five percent of early mass and fourteen days of sustainment remain separate ledgers, producing a 0.683–1.30 Mt nested-to-additive forward-material boundary.
+
+The USD 1.28T base capital screen has a USD 0.976–1.81T sensitivity; mature operations are USD 102B/year in the base case. Both remain cross-classified inside inherited common capital and operations. The nineteen-sheet workbook passes fourteen audits and four restored mutations after saved-file recalculation. All identities and evidence remain source-empty and released authority is zero. `SPC-2` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the constitutional activation and access transaction from invitation through bridge service, transfer and bilateral release. No external sites or rendering are introduced.
