@@ -111,6 +111,7 @@ At the national edge, the current force-design reference contains:
 | Sovereign receiver commons | `SPC-2` | two host-owned networks, twelve districts, thirty-six unlike precincts and 842 family-specific reception slots replace U.S. hubs with distributed civil admission, production and transfer capacity |
 | Bilateral activation transaction | `SPC-3` | twelve separated authorities bind 675 invited serials to 1,350 dual-corridor claims and an eighteen-day bridge from sovereign request through bilateral release |
 | Constructive-power measurement | `SPC-4` | nine non-fungible effects, five evidence planes and seven lexicographic layers govern renewal and termination without allowing money, activity or prestige to compensate for failure |
+| Strategic-power compact and return | `SPC-5` | seven constitutional articles, fourteen nonconversion laws, twelve technology thrusts and nested fiscal/evidence systems integrate constructive power without creating a unified super-command |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
