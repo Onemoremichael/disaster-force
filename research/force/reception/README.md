@@ -2,6 +2,8 @@
 
 This layer explains what must already exist at destinations and how surviving capacity becomes reachable public service.
 
+Pass 170 places receiving inside the authoritative [`HCDN-50` dual-state network](../generation/department-of-resilience-first-physical-human-continuity-system-and-representative-campaign-constitution.md). A prepared site, mobile district or surviving building earns no separate receiving credit: the same district must be able to hold at origin, receive elsewhere, bridge the complete household bundle and reset. The National Receiving Lattice remains geographic and fixed-capacity evidence for the four-root competition, not a separately selectable program.
+
 [The National Receiving Lattice](national-receiving-lattice.md) establishes fixed readiness as force capacity: land, buildings, utility interfaces, stocks, inspectors, records, labor and civil release. Its synthetic-region model closes aggregate capacity but fails a clustered geographic stress.
 
 [National Receiving Geography](national-receiving-geography.md) replaces equal regions with thirty-two population-weighted planning catchments and a four-mode relocation screen. It finds that the baseline lattice is both capacity-limited and geography-limited: only 2,355.80 CDE survive against 2,500 demanded, and baseline corridors serve 2,066.42 CDE.

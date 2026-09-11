@@ -4,6 +4,8 @@ Population continuity is where the Department's separate water, power, food, san
 
 Pass 169 places this domain inside the authoritative [`MS-HU` contract](../../force/generation/department-of-resilience-human-continuity-service-contract-and-first-technology-campaign-constitution.md). Its prepared districts and mobile complexes are candidate subsystems of local support or household relocation, not complete service architectures on their own. They earn credit only through the common seven-stage law from person state and stabilization to receiving service, supported transition and regeneration.
 
+Pass 170 makes the [`HCDN-50` dual-state network](../../force/generation/department-of-resilience-first-physical-human-continuity-system-and-representative-campaign-constitution.md) authoritative for first physical-system research. The mobile `PCC-50` and prepared receiving lattice are no longer separate program answers. Their values remain `R2+` design screens inside four competing roots, all required to hold, receive, bridge and reset under one service law. None has earned physical or exterior-form admission.
+
 This domain is organized by scale, not by equipment:
 
 > protected person-hour → PCC-D1 district → PCC-50 complex → PSP-10 pod → Service Entry Cell → regional campaign
