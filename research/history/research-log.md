@@ -4704,3 +4704,21 @@ Each of twenty-four roots receives paired `P1/P2` challenge and clean-control un
 Six public-service contracts remain indivisible: complete entry flow, occupied-terrain reach, positive hazard-control margins and residual custody, the inherited lifeline sector, relationship-bearing human continuity and closed regeneration of one 99-position stack. The USD 275B mission allocation and USD 500B `G0–G3` boundary remain conserved. Ninety-two terminal audits and nine live mutation tests pass and restore; one native chart survives export and the formula scan is clean.
 
 `C3-SPW-1` closes; opened 0, closed 1, net −1, running open total 0. Four unlike controlled configurations for each of the five non-lifeline systems remain unresolved; physical evidence, procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 181 — Twenty non-lifeline root controlled-configuration constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 181 twenty non-lifeline root controlled-configuration constitution](../force/generation/department-of-resilience-twenty-non-lifeline-root-controlled-configuration-constitution.md)
+
+**Companion model:** [Twenty non-lifeline root controlled-configuration workbook](../../models/force/generation/department-of-resilience-twenty-non-lifeline-root-controlled-configuration-constitution.xlsx)
+
+The synchronized proof-wave branch is `C3-SPW-1 → C3-SPW-2`; this is its second of five permitted passes. It passes the resolution test because reversing the twenty configuration centers would redirect every non-lifeline proof article, the USD 239B learning allocation, the industrial-root map and eligibility for the four-stack Cascadia barrier.
+
+Pass 181 replaces labels with complete mechanism centers. Theater entry competes pelagic heavy bridge, aerostatic sky bridge, terrain corridor train and amphibious mesh. Civil terrain competes civic edge grid, air-and-skin reach, building utility spine and neighborhood machine swarm. Hazard control competes atmospheric flux wing, hydraulic intervention lattice, autonomous terrain corps and boundary-control field. Human continuity competes clinical continuity campus, neighborhood care fabric, mobile care network and host-building conversion. Regeneration competes heavy arsenal base, microfactory mesh, exchange-remanufacture network and closed-loop sustainment fleet.
+
+Each root freezes twelve physical and industrial domains. Within a system, every pair must differ in all four anchor domains—force path, access, energy and working medium—and at least eight domains overall. All thirty pairs pass. Every root retains every inherited route, owns a fatal keystone experiment and receives four technology workstreams: decisive physics, complete service article, independent proving, and reproduction with regeneration.
+
+The non-lifeline estate contains ninety-two root-route obligations, twenty keystone experiments, eighty workstreams, 240 ancestry records, 280 `G3` gates, 1,268 top-level article units, 840 valid events, 3,640 evidence packages and 180 proving functions. The workstreams reserve the inherited USD 239B option authority without claiming platform price or earned payment. The seventeen-sheet workbook passes ninety-nine terminal audits and ten live mutation tests; one native chart survives export and the formula scan is clean. All acceptance fields restore to source-empty.
+
+`C3-SPW-2` closes; opened 0, closed 1, net −1, running open total 0. The twenty `CF1` physical balance ledgers remain unresolved; ancestry, evidence and release remain empty, and procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
