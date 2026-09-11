@@ -100,6 +100,7 @@ At the national edge, the current force-design reference contains:
 | Market and production constitution | `MPC-1` | twenty-four one-root firms, a public productive estate, twenty-four fallback cells and five capital instruments create large industrial actors without allowing ownership, debt, tooling, suppliers or exports to collapse the roots |
 | Production-recovery service | `MPC-2` | complete recovery units, private survivor networks and two public cold-production paths per root turn public rights into timed output after firm, site, supplier, bay and workforce loss |
 | Production-recovery qualification | `MPC-3` | three complete-unit events on every private and public route plus eight balanced six-system rotations qualify the recovery lattice without constructing all 4,096 cohorts |
+| Productive-estate geography | `MPC-4` | eight macro-theaters and twenty-four productive districts distribute ninety-six campus roles so every root retains private and public recovery after correlated macro loss |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
@@ -359,6 +360,8 @@ Pass 186 constitutes the industrial market underneath that command system. `MPC-
 Pass 187 closes that guarantee as `MPC-2`. One private survivor network and two public paths per root must reproduce a complete system-native unit under compound loss. The maximum six-root cohort requires 1.96 kt/day of year-one output from a 144-bay public estate. Sites, operators, utilities, suppliers, workforce cohorts, cold lots and evidence remain empty; the frontier moves to the qualification campaign rather than assuming that planned factories create capacity.
 
 Pass 188 closes the campaign as `MPC-3`. All seventy-two routes receive three complete-unit events and all forty-eight public paths enter eight balanced six-system rotations. The campaign makes qualification a ten-year, 600-unit, 27.9-Mt industrial program inside a conserved USD 430B proof-plus-formation envelope. No route is credited; the next object is the geographic and industrial separation topology for the routes and cells.
+
+Pass 189 closes the topology as `MPC-4`. Eight macro-theaters contain twenty-four productive districts and ninety-six campus roles. Every root occupies five different theaters; private sites install 150 percent of target rate, and all 32,768 six-root cohort-by-macro-loss cases retain public paths with concentration no greater than two. Geography and ten decisive-chain identities remain empty. The fifth and final market-and-production pass must constitute the sustaining labor, supplier, finance and recurring mobilization economy, then return the branch to Department force generation.
 
 A separate empirical campaign is developing a lawful New York heat–blackout population-state engine behind an architecture firewall. Its preregistered statistical gate must be resolved before protected outcomes can inform architecture. The [active frontier](research/frontier.md) owns both stop conditions and the next admissible work.
 
