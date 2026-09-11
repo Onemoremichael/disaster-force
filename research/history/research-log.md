@@ -4686,3 +4686,21 @@ At the returned resolution, Pass 179 rejects ranking a second system, copying th
 The sixteen-sheet workbook tests all four paths, preserves the root bank, governs the all-six barrier, carries the exchange register and reconciles the USD 275B mission-system account within the conserved USD 500B `G0–G3` boundary. Fifty-five audits and seven mutation tests pass and restore; one native chart survives export and the formula-error scan is empty. No evidence field is populated.
 
 `C3-LFG3-R1` closes; opened 0, closed 1, net −1, running parent-level total 0. The five non-lifeline system denominators, bills and trial populations remain unresolved; physical evidence, procurement, sites, force credit, `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 180 — Six-system G3 proof-unit and evidence-estate constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 180 six-system `G3` proof-unit and evidence-estate constitution](../force/generation/department-of-resilience-six-system-g3-proof-unit-and-evidence-estate-constitution.md)
+
+**Companion model:** [Six-system `G3` proof-unit and evidence-estate workbook](../../models/force/generation/department-of-resilience-six-system-g3-proof-unit-and-evidence-estate-constitution.xlsx)
+
+The synchronized proof-wave branch begins at `MSDW-1 / C3-RDFC-1`; this is its first of five allowed passes. It passes the resolution test because reversing the physical scaling law would change what all twenty non-lifeline roots build, what the USD 239B non-lifeline allocation purchases and whether four complete stacks can enter Cascadia `G4`.
+
+Pass 180 rejects one token per route, equal system article counts and full Cascadia roots as the common proof denominator. It selects a system-native quarter-load service unit: quarter every inherited route separately and round upward. This preserves every route while producing different physical units of 17 theater-entry, 14 civil-terrain, 7 hazard-control, 10 lifeline, 34 human-continuity and 17 regeneration positions.
+
+Each of twenty-four roots receives paired `P1/P2` challenge and clean-control units, a cold-built `R1`, and ten root-owned support units. The resulting estate contains 1,428 top-level article units. Eighteen native worlds and six decisive repeats create forty-two valid events per root, 1,008 total; invalidity-only reserves permit at most 1,224 attempts. The package law produces 4,276 evidence obligations, and nine functions per root create 216 proving-function records. All remain source-empty.
+
+Six public-service contracts remain indivisible: complete entry flow, occupied-terrain reach, positive hazard-control margins and residual custody, the inherited lifeline sector, relationship-bearing human continuity and closed regeneration of one 99-position stack. The USD 275B mission allocation and USD 500B `G0–G3` boundary remain conserved. Ninety-two terminal audits and nine live mutation tests pass and restore; one native chart survives export and the formula scan is clean.
+
+`C3-SPW-1` closes; opened 0, closed 1, net −1, running open total 0. Four unlike controlled configurations for each of the five non-lifeline systems remain unresolved; physical evidence, procurement, sites, force credit, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
