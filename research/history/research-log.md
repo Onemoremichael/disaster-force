@@ -5094,3 +5094,17 @@ Three public accounts add: USD 1.00T technology, USD 17.4T capital and USD 50.0T
 The fifteen-sheet workbook passes twenty-eight terminal audits and eight restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives export and the formula-error scan is empty. Workbook SHA-256 is `95645760402f37c84702fefe5d10f38c2264a8afd4871569736a082f2ff5925e`. Every identity, observation, warrant and effect remains source-empty; implementation authority and effect credit are zero.
 
 `DCA-5` returns; opened 0, closed 1, net −1, running total 0. The parent-level frontier is now the physical portfolio: which complete national service systems receive first build authority, in what sequence and against what production-release evidence. No external sites or rendering are introduced.
+
+## Pass 206 — National First Article Portfolio
+
+**Verdict:** `CLOSE`
+
+The deepest live branch was `PFP-1`, its first of at most five passes. It passes the resolution test because reversing it would change which systems and industries receive the first USD 200B, whether the program becomes a platform-first queue and when production may begin.
+
+Human-continuity-first, lifeline-and-hazard-first, mobility-first and proving-estate-first portfolios fail. The selected National First Article Portfolio gives all six mission systems the same twenty-percent first-wave share of their unequal mission accounts. The USD 200B first tranche contains USD 110B mission systems, USD 30B service technical bases, USD 30B common capacity, USD 20B sovereign technical estate and USD 10B failure reserve.
+
+Twenty-four problem-field competitions create ninety-six unlike mechanism opportunities. Public denominators and interfaces, root-native falsification, route-complete proof units and cold reconstruction precede any production claim. Physical work advances through eight article states from public method to regenerated serial. USD 750B may be obligated through the first fifteen years, but production remains zero until every system contributes at least one accepted root to a rotating all-six `G4` mission; conditional production begins no earlier than years 16–20.
+
+The sixteen-sheet workbook passes thirty-two terminal audits and eight restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the full formula-error scan is empty. Workbook SHA-256 is `bbbbfce5172870c951ffa3d1a02046aa4ee7a9835c2e15e3302f32f301f7b58d`. Every article, root, site, supplier and observation remains source-empty; production authority is zero and rendering remains held.
+
+`PFP-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to the first-tranche industrial transaction: awarding, separating, challenging and terminating ninety-six mechanism opportunities and twenty-four Root Houses without creating a new integration monopoly. No external sites or rendering are introduced.
