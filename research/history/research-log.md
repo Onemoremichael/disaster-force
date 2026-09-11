@@ -4600,3 +4600,19 @@ Pass 174 rejects lead-vehicle roots, permanent winning teams and outcome-aware r
 Eighteen package elements freeze before zero-notice activation and blinded denial. The workbook freezes 222 templates and generates all 13,320 decisions for a selected run. Each decision requires independent claim, validity and reliance dispositions; the campaign therefore carries 479,520 authority judgments. One token per execution permits only the exact repetition of an independently invalid attempt. A valid adverse result remains terminal evidence.
 
 The USD 49.5B reservation remains inside the inherited `G4` wave. All fifty-seven audits pass, 1,448 position and 13,320 packet identities are unique, the run/gate/credit sensitivities restore to zero credit, the native chart survives export and the formula-error scan is empty. `C3-RSEP-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the `G3` freeze of four genuinely unlike complete roots per system. No external-site research, procurement, force credit, site selection or rendering is introduced.
+
+## Pass 175 — Twenty-four-root diversity and G3 technical-freeze constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 175 twenty-four-root diversity and `G3` technical-freeze constitution](../force/generation/department-of-resilience-twenty-four-root-diversity-and-g3-technical-freeze-constitution.md)
+
+**Companion model:** [Twenty-four-root diversity and `G3` technical-freeze workbook](../../models/force/generation/department-of-resilience-twenty-four-root-diversity-and-g3-technical-freeze-constitution.xlsx)
+
+The deepest live chain was `C3-JRC-1 → C3-RSEP-1 → C3-RDFC-1`, entering its first pass at root-diversity resolution. It passes the resolution test because reversing the diversity law or root slate would change the Department's industrial structure, the systems eligible for integrated proof, the first USD 500B and whether one technical or corporate failure can remove several mission systems.
+
+Pass 175 rejects four root labels, four cross-system primes and total isolation as substitutes for physical independence. It creates twenty-four root houses and types commonality: eight public seams require at least four independent implementations and no central runtime; four substitutable pools cap any provider, lot, region, tool or control authority at two roots; twelve decisive execution domains are globally root-exclusive. Twenty-four architecture theses expand into ninety-six root–problem-field assignments and 112 complete route obligations while retaining all 1,448 serialized positions.
+
+Each root must declare twelve physical ancestry identities and pass fourteen conjunctive `G3` gates, creating 288 ancestry declarations and 336 release records. All remain open, force credit remains zero and rendering remains blocked. The cumulative boundary through `G3` is USD 500B inside the existing USD 1.00T program: USD 275B mission-system work, USD 75.0B service bases, USD 75.0B common capacity, USD 50.0B sovereign technical estate and USD 25.0B failure reserve.
+
+All thirty-seven audits pass. Every identity set is unique; the decisive-cap, shared-ancestry and partial-gate stresses fail as intended and restore to zero credit; one native chart survives export; and the formula-error scan is empty. `C3-RDFC-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is one system's complete four-root physical freeze. No external-site research, procurement, `G4` credit, site selection or rendering is introduced.
