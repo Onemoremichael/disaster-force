@@ -5220,3 +5220,19 @@ The USD 12.0B public reserve and USD 3.59B private options preserve the USD 15.6
 The twenty-sheet workbook contains 9,611 live formulas and passes eighty terminal audits and eighteen detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `32b5deeeecfa05ea9c979d9c4d06a0cf4c942257a4084a8f549caf2af2a89b3c`. All sites, firms, awards, obligations, payments, acceptances and capability remain zero or source empty; exterior rendering remains held.
 
 `A2C-3` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to a source-independent site-class and bid-admission constitution capable of producing a collision-free national slate without naming sites, firms or winners. No external sites or renderings are introduced.
+
+## Pass 214 — Site-class, bid-admission and N−1 award-slate constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `A2C`, with three passes consumed; this was its fourth of at most five. It passes the resolution test because reversing the site and bid constitution would change where the physical truth estate may exist, whether its roles survive correlated loss and whether price or incumbency can select the industrial structure.
+
+A prestige mega-range, cheapest-compliant sites, existing-federal-estate preference and contractor-supplied campuses fail. Eighteen role-native charters impose one station nucleus per site. Ten physical dimensions, twelve gates and eight causal failure-basin declarations per charter create 180 site records, 216 decisions and 144 independence records. Distance is not independence: a common grid, source, transport route, network, workforce, rescue system, custody path or controller makes separated locations one causal site.
+
+Every one of the 102 lots requires at least two separately controlled bid positions, creating a 204-position floor. Fourteen conjunctive predicates create 2,856 bid-admission decisions. Technical panels see pseudonymous methods without identity or price; the control registrar sees full ownership and dependencies without performance ranking; price opens only after both admissions close.
+
+The admitted pool must form one complete primary slate and remain solvable after deletion of any one of forty-eight control-group classes. Selection is lexicographic: maximize surviving feasible slates, minimize largest control exposure, minimize evaluated price, then maximize schedule slack. All 102 awards become effective simultaneously after public challenge; provisional selection creates no termination liability.
+
+The USD 15.6B ceiling remains unchanged. The twenty-three-sheet workbook contains 31,426 live formulas and passes eighty-seven terminal audits and twenty detected-and-restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. SHA-256 is `54358e234125ce950bf69d84b3f5c874a706fd41959357bcf0427503004d4341`. All sites, firms, bids, awards, obligations, payments, observations and capability remain zero or source empty; exterior rendering remains held.
+
+`A2C-4` closes; opened 0, closed 1, net −1, running parent-level total 0. The fifth and terminal `A2C` pass must integrate the sentinel selection, proving architecture, lot lattice, site charters and N−1 award slate, then `RETURN` to physical execution. No external sites or renderings are introduced.
