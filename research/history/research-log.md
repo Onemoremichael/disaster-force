@@ -4794,3 +4794,23 @@ Five accounts and five waves conserve the USD 1.00T authority. The six published
 The eighteen-sheet workbook passes 360 terminal audits and nineteen live mutations after independent recalculation. One native chart survives export, the formula scan is clean, all identities are source-empty, all twenty-four roots remain `HOLD`, six system barriers remain blocked and released authority is zero.
 
 `DIC-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the market and production constitution for large rival firms, public fallback capacity, capital formation and exports without root concentration. Procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 186 — Department chartered root-house market, production and export constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 186 market and production constitution](../force/generation/department-of-resilience-chartered-root-house-market-production-and-export-constitution.md)
+
+**Companion model:** [Department market and production workbook](../../models/force/generation/department-of-resilience-chartered-root-house-market-production-and-export-constitution.xlsx)
+
+The deepest live branch is `MPC-1`, the first of five permitted passes after `DIC-1` closed. It passes the resolution test because changing the market constitution changes whether the USD 1.00T program creates twenty-four independent complete-system firms or consolidated primes, whether failed roots can be reproduced and whether exports strengthen or consume national readiness.
+
+Only a chartered root-house commonwealth passes all twelve hard gates. Twenty-four one-root firms may scale through depth, geography, civil use, receiver work and partner markets but cannot share beneficial control, governance capital, cross-default or decisive chains. Ninety-six control-separation and seventy-two dependency records make those limits executable.
+
+Five capital instruments conserve the existing USD 1.00T accounts and waves: USD 200B contest capital, USD 200B proof, USD 250B public productive estate, USD 230B initial formations and USD 120B availability and regeneration. Root mission-system exposures span about USD 13.7B–38.3B over twenty-five years; these are ceilings, not revenue.
+
+Twenty-four functional public reproduction cells create forty-eight cold-lot qualifications and two independent fallback routes per root. Twelve failure transitions govern insolvency, control breach, cold-production failure, adverse evidence and recharter. Ten source-empty gates govern export and mutual capacity without counting partner assets domestically.
+
+The twenty-two-sheet workbook passes 419 terminal audits and twenty-three live mutations after independent recalculation. The native chart survives, the formula scan is clean, all identities remain source-empty, no root or fallback route is admitted, export is blocked and released authority is zero.
+
+`MPC-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the physical production-recovery service: throughput, restart time, workforce, inventory and site-loss performance for the combined private-root and public-cell lattice. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
