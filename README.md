@@ -107,6 +107,7 @@ At the national edge, the current force-design reference contains:
 | Permanent readiness cycle | `DFG-3` | six non-fungible accounts preserve 3,667 ready formations, an integerized family reserve, geographic loss survival and continuous regeneration |
 | National mobilization and allocation command | `DFG-4` | ten separated authorities and a lexicographic twelve-seal transaction resolve simultaneous claims without monetizing rights or averaging scarce families |
 | Force-generation compact and return | `DFG-5` | five circuits, fifteen institutions, ten state transitions and twelve firebreaks create mass without consolidating public value, technical truth, readiness or employment authority |
+| Constructive-power strategy | `SPC-1` | four strategic modes, twelve sovereign-service treaty seals and ten non-coercion laws turn 1,745 domestic and 675 invited formation commitments into a coequal instrument without military mission inheritance |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 

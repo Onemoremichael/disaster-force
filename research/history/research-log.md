@@ -4960,3 +4960,15 @@ Pass 195 ends `DFG` at its fifth-pass boundary. Only a constitutional five-circu
 The integrated reference retains twenty-four Root Houses, about 200,000 industrial positions, 5,251 formations, a 3,667 ready floor, 2,420 committed formations, 502 reserve and 1,584 regenerating. Technology, USD 17.4T mature capital, USD 2.11T annual operations and market revenue remain separate ledgers. The twenty-five-year path exposes USD 40.2T of ramped operating activity without treating it as program authority.
 
 The twenty-two-sheet model passes twelve audits and four restored mutations. All identities and released authority remain zero. `DFG-5` returns; opened 0, closed 1, net −1, running total 0. Force generation returns to mature-force architecture and strategic employment. No external sites or rendering are introduced.
+
+## Pass 196 — Constructive-power projection and strategic-employment constitution
+
+**Verdict:** `CLOSE`
+
+Pass 196 closes `SPC-1`, the first strategic-power pass after force generation returned. Only sovereign constructive power passes ten architecture gates. Four modes distinguish guaranteed domestic continuity, invited stabilization, forward resilience partnership and productive statecraft without inheriting combat, intelligence or coercive purpose.
+
+The forty-eight-family posture assigns 1,745 committed formations to eight domestic campaigns and 675 to two invited campaigns. Replacement-value exposure of the committed serials is about USD 2.93T and USD 1.25T; affiliated billets are about 3.70M and 1.44M. Protected reserve, geographic buffer, regeneration, common capital and annual operations remain unsplit.
+
+Twelve sovereign-service treaty seals govern invitation, authority, rights, receiver admission, data, residuals, evidence, non-recall, transfer, reproduction and public accounting. Ten prohibited uses block combat, political conditionality, forced return, unrelated intelligence, tied reconstruction, prestige deployment, unilateral recall, local-government substitution, remote dependence and domestic militarization. Nine strategic effects receive credit only after complete service, rights, sovereign control, durable transfer, independent reproduction and non-coercion.
+
+The twenty-three-sheet workbook passes fourteen terminal audits and four restored mutations after saved-file recalculation. All treaty identities and effect observations remain source-empty; released strategic credit is zero. `SPC-1` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the forward receiver, pre-positioning and partner-production topology for two international reach networks. No external sites or rendering are introduced.
