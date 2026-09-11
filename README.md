@@ -104,6 +104,7 @@ At the national edge, the current force-design reference contains:
 | Productive Commonwealth return | `MPC-5` | a portable labor commons, four-source supplier diamonds, domestic useful-output floor and recurring mobilization service keep the estate alive and return industrial availability to Department force generation |
 | Formation and joint-readiness conversion | `DFG-1` | five non-fungible states and ten serial formation warrants prevent factories, accepted articles or paper joint stacks from being counted as operational force |
 | Synchronized formation-generation campaign | `DFG-2` | 336 family–district seeds and 528 balanced family-year cohorts build crews, receivers, articles and proof together before permanent readiness begins |
+| Permanent readiness cycle | `DFG-3` | six non-fungible accounts preserve 3,667 ready formations, an integerized family reserve, geographic loss survival and continuous regeneration |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
