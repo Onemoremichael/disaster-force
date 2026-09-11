@@ -4506,3 +4506,17 @@ Pass 168 rejects effect, service, campaign and platform topologies in favor of s
 Twenty-four mechanism-neutral problem fields allocate the conserved USD 550B mission-system envelope. A USD 30B floor precedes a declared demand, inventory, capital, workforce and unclosed-demand pressure allocation. Human continuity receives the largest planning exposure at USD 153B, preventing clinical labor, households, shelter, essential goods and accessible movement from becoming residuals of a machine-centered force. The programs include clean-sheet hazard aircraft, flood control, water–energy carriers, robotic utility corridors, austere lift, grid-forming cells, distributed care and autonomous regeneration, but select no mechanism or exterior form.
 
 The eleven-sheet workbook passes all twenty-nine audits. Live changes to the allocation floor and pressure weights react while conserving USD 550B and restore exactly. The inherited portfolio-topology item closes; parent-level running open items remain zero. The next admissible resolution is the complete `MS-HU` care-and-human-continuity service contract. No external-site research or exterior rendering is introduced.
+
+## Pass 169 — Human continuity service contract and first technology campaign constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 169 human-continuity constitution](../force/generation/department-of-resilience-human-continuity-service-contract-and-first-technology-campaign-constitution.md)
+
+**Companion model:** [Human-continuity service contract and first technology campaign workbook](../../models/force/generation/department-of-resilience-human-continuity-service-contract-and-first-technology-campaign-constitution.xlsx)
+
+The deepest live branch was `NIFS-1 → MSPT-1 → HCC-1`, in its first pass at human-continuity resolution. It passes the resolution test because the contract changes what qualifies as service in the Department's largest mission portfolio, the organization of 1,944 formation equivalents and the first USD 12.8B technology campaign.
+
+Pass 169 rejects hospital, mass-support campus, evacuation and commodity topologies as complete systems. Five routes—local support, definitive care, patient regulation and transfer, household relocation and reception, and workforce replacement—share seven serial stages from actionable state through supported transition and force regeneration. The governing service unit is the person–household–care relationship bundle. Local continuity plus household relocation account for 73.6 percent of simultaneous demand and 70.1 percent of the weighted unclosed-demand signal.
+
+Twelve competitions conserve the inherited USD 153B technology envelope. `HU-04A` enters first with four complete rival roots and twelve denial worlds at three independent sites, creating 720 route–world–root–site cells and 5,040 stage decisions. The fifteen-sheet workbook passes all thirty-seven audits and live site-count and funding-profile sensitivities. No root, physical capacity, procurement or exterior form is admitted. The sole `HCC-1` item closes; the running total remains zero. The next admissible resolution is a complete physical human-continuity service system. No external-site research or exterior rendering is introduced.
