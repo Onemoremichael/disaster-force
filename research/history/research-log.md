@@ -4650,3 +4650,21 @@ Each root executes eighteen challenged events, eighteen matched controls and six
 The nineteen-sheet workbook preserves the inherited USD 36.0B boundary. All seventy-four terminal audits pass; missing second-team independence, article shortage, ancestry collision and partial-gate stresses reject or hold as intended and restore; one native chart survives export; and the formula-error scan is empty.
 
 `C3-LFG3-2` closes; opened 0, closed 1, net −1, running parent-level total 0. Physical coefficients, observations, identities, sites and release remain open; force credit, procurement, `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 178 — Lifeline four-root G3 evidence adjudication and root-disposition constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 178 lifeline four-root `G3` evidence adjudication](../force/generation/department-of-resilience-lifeline-four-root-g3-evidence-adjudication-and-root-disposition-constitution.md)
+
+**Companion model:** [Lifeline four-root `G3` evidence-adjudication and root-disposition workbook](../../models/force/generation/department-of-resilience-lifeline-four-root-g3-evidence-adjudication-and-root-disposition-constitution.xlsx)
+
+The deepest live branch was `C3-LFG3-1 → C3-LFG3-2 → C3-LFG3-3`, in its third of five allowed passes. It passes the resolution test because reversing the disposition law would change which industrial lineages survive, how the USD 36.0B program is released or returned and whether a failed root can enter Cascadia under a revised name.
+
+Pass 178 rejects average prototype scores, managerial waivers, repaired-result substitution, outcome-aware retries, three-of-four release and automatic transfer of failed-root money to surviving teams. Every valid event receives separate validity, safety-and-rights, public-service, causal-reliance, outside-replay and reset judgments. The 168-event campaign therefore contains 1,008 event-axis decisions and 1,752 governed decisions after package, ancestry, gate and final-root dispositions.
+
+Only six integrity failures can produce `INVALID`; the exact event may repeat up to nine times per root. A safely contained valid adverse result remains permanently in the denominator and permits one fully re-earned `CF2`. Unsafe issue, unbounded state, rights breach, evidence misconduct, decisive-ancestry convergence or any adverse `CF2` kills the lineage. A root releases only after forty-two passing valid events, 159 accepted packages, twelve unique ancestry identities, fourteen passed gates, zero replay conflicts and zero terminal breaches. Four releases remain necessary for Cascadia `G4`.
+
+Five stage gates conserve the USD 36.0B boundary. Unspent authority returns to the lifeline mission account rather than another root, and the 5-percent failure reserve cannot finance a valid-adverse retry or ordinary overrun. The eighteen-sheet workbook passes fifty-three terminal audits and six restored mutation tests; the native chart survives export and the formula-error scan is empty. Every root remains `HOLD`.
+
+`C3-LFG3-3` closes; opened 0, closed 1, net −1, running parent-level total 0. Observations, causal findings, ancestry identities and dispositions remain unobserved; procurement, site selection, force credit, `G4` and rendering remain blocked. No external-site research is introduced.
