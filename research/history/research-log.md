@@ -4984,3 +4984,15 @@ Two network compacts contain twelve receiver districts and thirty-six unlike acc
 The productive layer contains 192 separated partner roots, ninety-six public assurance cells and twelve training/transfer academies. Twenty-five percent of early mass and fourteen days of sustainment remain separate ledgers, producing a 0.683–1.30 Mt nested-to-additive forward-material boundary.
 
 The USD 1.28T base capital screen has a USD 0.976–1.81T sensitivity; mature operations are USD 102B/year in the base case. Both remain cross-classified inside inherited common capital and operations. The nineteen-sheet workbook passes fourteen audits and four restored mutations after saved-file recalculation. All identities and evidence remain source-empty and released authority is zero. `SPC-2` closes; opened 0, closed 1, net −1, running total 0. The next resolution is the constitutional activation and access transaction from invitation through bridge service, transfer and bilateral release. No external sites or rendering are introduced.
+
+## Pass 198 — Bilateral civil-service activation and access transaction
+
+**Verdict:** `CLOSE`
+
+Pass 198 closes `SPC-3`, the third strategic-power pass. Executive declaration, defense-led entry, contractor task order and automatic treaty trigger fail; only an event-specific bilateral civil-service transaction preserves sovereign request, U.S. acceptance, complete force reservation, rights, access, non-recall, transfer and evidence.
+
+Twelve separated authorities govern eleven states through twelve event warrants. All 675 invited serials receive a primary and differently caused alternate corridor. The 1,350 corridor claims expand into 9,450 origin-to-reverse-flow segment reservations; partial arrival earns no campaign credit.
+
+The activation clock supersedes Pass 197's fourteen-day stock. Twelve hours of request, compilation, acceptance and reservation precede fourteen days of transit, creating negative margin. An eighteen-day bridge retains eighty-four hard-case hours and raises stock from about 0.683 to 0.878 Mt. The combined forward-material boundary becomes 0.878–1.49 Mt.
+
+The USD 67.5B capital and USD 12.2B/year base screens remain nested inside the receiver commons and command-and-truth accounts. The twenty-sheet workbook passes fourteen audits and five restored mutations after saved-file recalculation. All requests, identities, corridors, effects and authority remain zero. `SPC-3` closes; opened 0, closed 1, net −1, running total 0. The next resolution is constructive-power measurement, comparison, renewal and termination law. No external sites or rendering are introduced.

@@ -109,6 +109,7 @@ At the national edge, the current force-design reference contains:
 | Force-generation compact and return | `DFG-5` | five circuits, fifteen institutions, ten state transitions and twelve firebreaks create mass without consolidating public value, technical truth, readiness or employment authority |
 | Constructive-power strategy | `SPC-1` | four strategic modes, twelve sovereign-service treaty seals and ten non-coercion laws turn 1,745 domestic and 675 invited formation commitments into a coequal instrument without military mission inheritance |
 | Sovereign receiver commons | `SPC-2` | two host-owned networks, twelve districts, thirty-six unlike precincts and 842 family-specific reception slots replace U.S. hubs with distributed civil admission, production and transfer capacity |
+| Bilateral activation transaction | `SPC-3` | twelve separated authorities bind 675 invited serials to 1,350 dual-corridor claims and an eighteen-day bridge from sovereign request through bilateral release |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
