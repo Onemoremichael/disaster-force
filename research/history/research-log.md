@@ -4758,3 +4758,21 @@ The complete pre-article estate contains forty endpoints, sixty rig roles, 240 v
 The eighteen-sheet workbook passes 300 terminal audits and fourteen mutation tests; the native chart survives export and the formula scan is empty. Every acceptance and observation remains source-empty, all twenty roots remain `HOLD` and released authority is zero.
 
 `C3-SPW-4` closes; opened 0, closed 1, net −1, running open total 0. The fifth branch pass must return the executable measurement constitution to Department-level industrial execution; procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 184 — Department of Resilience proving service and synchronized proof-wave return
+
+**Verdict:** `RETURN`
+
+**Primary artifact:** [Pass 184 proving service and synchronized proof-wave return](../force/generation/department-of-resilience-proving-service-and-synchronized-proof-wave-return.md)
+
+**Companion model:** [Department of Resilience proving service workbook](../../models/force/generation/department-of-resilience-proving-service-and-synchronized-proof-wave-return.xlsx)
+
+The synchronized proof-wave branch is `C3-SPW-1 → C3-SPW-2 → C3-SPW-3 → C3-SPW-4 → C3-SPW-5`; this is its fifth and final permitted pass. It passes the resolution test because reversing who owns challenge worlds, counterfactuals, reconstruction, evidence, adverse disposition or money changes which industrial roots survive and whether the Department can learn without captive primes.
+
+Pass 184 rejects root-house self-certification, one national mega-range, purchasable contract-lab truth and further desk-only root packets. Only a permanent Resilience Proving Service passes eight conjunctive institutional gates. Nine exclusive warrants and thirty-two independence separations govern candidate design, hostile worlds, matched counterfactuals, cold reconstruction, evidence custody, public-protection intervention, root disposition and stage authority.
+
+Five non-lifeline campaign groups receive fifteen challenge, control and reconstruction stations. Their seventy-five lanes include sixty root-role assignments and fifteen regeneration lanes that restore damaged rigs without replacing adverse evidence. The inherited 240 valid events remain conserved. The USD 43.0B ceiling is cross-classified across candidate systems, stations, metrology and custody, and replacement reserve rather than expanded.
+
+The eighteen-sheet workbook contains 300 terminal audits and fifteen live mutation tests. Every implementation identity and observation restores to source-empty, released authority is zero, all roots remain `HOLD` and the separate lifeline barrier remains binding.
+
+`C3-SPW` returns; opened 0, closed 1, net −1, running open total 0. Its transferable result cost five linked constitutions, a 991 kt/1.97 GW/140,000-role design bank, a 1,268-unit proof exposure and forty pre-article endpoints to learn. The frontier returns to Department-level integration of the Service, six Mission System Commands, independent Root Houses and the operational force. Procurement, sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
