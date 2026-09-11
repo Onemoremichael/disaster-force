@@ -5140,3 +5140,19 @@ The selected fields carry USD 138B of the full mission-technology account and a 
 The sixteen-sheet workbook passes forty-six terminal audits and ten restored mutations. Every sheet renders cleanly after independent office recalculation, the native finance chart survives and the formula-error scan is empty. Workbook SHA-256 is `4f9eef9603b5b9ef8aecaf19c1107015af07d091201a7be4c5c89d7324f31eab`. Every identity and observation remains source-empty; awards and field, root and production credit are zero. Rendering remains held.
 
 `PFP-3` closes; opened 0, closed 1, net −1, running parent-level total 0. The frontier moves to freezing six `A0` public methods, receiver emulators and denial protocols, then releasing twenty-four root-distinct `A1` mechanism articles. No external sites or rendering are introduced.
+
+## Pass 209 — Federated public-method grid and first A1 experimental-release constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `PFP`, with three passes consumed; this was its fourth of at most five. It passes the resolution test because reversing the public test architecture would decide whether the first USD 14.3B private option market purchases falsifiable evidence or subsidizes prototypes whose builders, common control stack or test center define success.
+
+One integrated national range, six system-owned ranges, twenty-four builder laboratories and simulation-first qualification fail. The selected federated physical-truth grid freezes six `A0.1` packages into twenty-four receiver states and seventy-two public method cards. Every method requires two unlike physical realization lineages. Public semantics, physical truth, root execution, blind allocation, metrology, event validity, root disposition and money remain separated.
+
+Twenty-four root-distinct `A1` development warrants retain four unlike physical hypotheses in every selected field. Seven exclusive execution domains per root create 168 ancestry declarations. Twelve method cards, two emulator lineages and matched challenge/control events create forty-eight prospective events per article and 1,152 across the cohort. Twelve public seams carry meaning, interfaces and evidence portability without licensing one common planner, estimator, controller, safety implementation, energy manager or build compiler.
+
+A USD 12.0B public-method planning reservation remains nested inside the inherited USD 80.0B enabling account. The private ceiling through `FRAME` and `MAKE` is USD 7.17B; another USD 7.17B of stageable options and USD 13.2B of mission authority remain held. Current obligations are zero.
+
+The sixteen-sheet workbook passes fifty-six terminal audits and twelve restored mutations. Two live changes propagate from cost and identity inputs through the build, headline and audit, then restore. Every sheet renders cleanly after independent office recalculation, the native chart survives and the formula-error scan is empty. Workbook SHA-256 is `1afecc85e1270616ad5707c9352cae3ab6de266206500292d45a9c39c48ac387`. Every firm, site, lineage, serial and observation remains source-empty; awards, payments and credit are zero. Rendering remains held.
+
+`PFP-4` closes; opened 0, closed 1, net −1, running parent-level total 0. The fifth pass must integrate and `RETURN` the complete launch compact to the parent question of first `A2` endpoint-rig and proving-estate construction. No external sites or rendering are introduced.
