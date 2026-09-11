@@ -4554,3 +4554,17 @@ The inherited USD 1.00T, twenty-five-year program remains exhaustive: USD 550B m
 Twenty-four parent problem fields open ninety-six unlike mechanism opportunities and retain a forty-eight-mechanism Wave 2 floor. Four complete roots per system create twenty-four system roots. Four rotating all-six stacks then cross ten campaign archetypes at three independent sites, creating 120 complete missions, 720 focal system judgments and 1,800 pair-interface observations. This is a fractional interaction design rather than an exhaustive `4^6` factorial; root assignments rotate to prevent a permanent correlated team from masquerading as independent evidence.
 
 The fifteen-sheet workbook reconciles every account, phase, system allocation, root count, campaign cell and interface. All thirty-nine terminal audits pass and the formula-error scan is empty. `MSDW-1` closes; opened 0, closed 1, net −1, running parent-level total 0. Five non-`MS-HU` service contracts and the exact six-system exchange grammar become the next admissible resolution. No external-site research, procurement, field credit, supplier selection or exterior rendering is introduced.
+
+## Pass 172 — All-six service-contract vector and mission-exchange grammar constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 172 all-six grammar constitution](../force/generation/department-of-resilience-all-six-service-contract-vector-and-mission-exchange-grammar-constitution.md)
+
+**Companion model:** [All-six service-contract vector and mission-exchange grammar workbook](../../models/force/generation/department-of-resilience-all-six-service-contract-vector-and-mission-exchange-grammar-constitution.xlsx)
+
+The deepest live branch was `MSDW-1 → A6XG-1`, in its first pass at this resolution. It passes the resolution test because the grammar changes all six mission-system requirements, every shared physical and digital interface, public acceptance and the evidence admissible at `G4`.
+
+Pass 172 rejects one scalar incident phase, six independent completion claims, thirty bespoke handshake dialects and a central digital twin. The selected constitution is a federated `6 × 7` asynchronous state vector joined by thirty typed directed records. All forty-eight canonical families map exactly once into twenty-eight complete service routes. Every record resolves six mandatory domains through twenty fields, remains locally verifiable and mergeable after disconnection, and distinguishes planning information from released and accepted service. Expiry or revocation removes dependent credit; mutual dependencies commit through a joint-release barrier or roll back safely.
+
+One mission now requires forty-two stage judgments, thirty directed records and 180 exchange-domain judgments: 222 governed decisions. The inherited 120-mission estate therefore produces 5,040 stage judgments, 3,600 records, 21,600 domain judgments and 72,000 field instances. The eighteen-sheet workbook preserves all inherited force and technology quantities, includes one native chart and passes forty-seven terminal audits with no formula errors. `A6XG-1` closes; opened 0, closed 1, net −1, running parent-level total 0. The next admissible resolution is the first compound all-six campaign. No external-site research, procurement, force credit, supplier selection or rendering is introduced.
