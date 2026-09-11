@@ -5078,3 +5078,19 @@ Seven district observatories create 504 district–campaign–effect cells and 1
 The base fiscal jurisdiction is USD 175B technology, USD 680B capital and USD 280B/year at maturity. Applying the inherited 19.05 mature-year ramp produces USD 6.19T over twenty-five years; the low–high design range is USD 5.20–7.69T. These accounts remain nested inside the USD 1.00T technology, USD 17.4T capital, USD 2.63T mature-operation and USD 68.4T Department boundaries.
 
 The twenty-four-sheet workbook passes thirty-two saved-file audits and six restored mutations; low, base and high selector cases recalculate through one model, all sheets render cleanly, the native chart survives export and independent office round-trip, and the formula-error scan is empty. Workbook SHA-256 is `ab3527f344f81585520418af72a71a50a4f17352f68f4809c956376f3cb3f5b7`. Every identity, observation, model, query, warning and token remains source-empty; released knowledge, activation and effect credit are zero. `DCA-4` closes; opened 0, closed 1, net −1, running total 0. The fifth pass must integrate and return the complete Department constitution. No external sites or rendering are introduced.
+
+## Pass 205 — Department of Resilience constitutional compact and return
+
+**Verdict:** `RETURN`
+
+The deepest live branch was `DCA-5`, its mandatory fifth pass. It passes the resolution test because reversing the compact would replace the five-house Department, change who can create every public-service state and reopen whether constructive civil power is a constitutional instrument or one executive command.
+
+A unified department, house council, automated constitutional compiler and emergency integration command fail. The selected warranted compact preserves five houses, seventeen institution classes and seventeen top-level warrants as the only Department state machine. Thirteen domestic, eleven personnel and twelve knowledge warrants add subordinate predicates without becoming new sovereign bodies. Integration is artifact succession: the next actor receives a bounded warrant, not the prior actor's power.
+
+The 13.0M-person, 5,251-formation force remains conserved. Domestic continuity retains 1,745 committed formations and invited stabilization 675. The Secretary retains direction, budget proposal, convening, disclosure, certified alternates and unsafe-work suspension but cannot manufacture technical fact, readiness, consent, service acceptance or effect.
+
+Three public accounts add: USD 1.00T technology, USD 17.4T capital and USD 50.0T ramped operations, producing USD 68.4T over twenty-five years. The domestic covenant, Public Reality Commons, receiver commons, activation and evidence systems remain overlapping views inside those accounts. Markets remain separate.
+
+The fifteen-sheet workbook passes twenty-eight terminal audits and eight restored mutations. Every sheet renders cleanly after independent office recalculation, the native chart survives export and the formula-error scan is empty. Workbook SHA-256 is `95645760402f37c84702fefe5d10f38c2264a8afd4871569736a082f2ff5925e`. Every identity, observation, warrant and effect remains source-empty; implementation authority and effect credit are zero.
+
+`DCA-5` returns; opened 0, closed 1, net −1, running total 0. The parent-level frontier is now the physical portfolio: which complete national service systems receive first build authority, in what sequence and against what production-release evidence. No external sites or rendering are introduced.
