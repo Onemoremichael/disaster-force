@@ -6,4 +6,6 @@ The analytical chain starts with [first principles](first-principles.md), bounds
 
 Only after that chain is explicit does [Department of Resilience](department-of-resilience.md) derive the cabinet institution, seven operating services, commands, professions, acquisition and science system, components and civil-authority rules. The [National Utility Projection System](national-utility-projection-system.md) is the first strategic-function test of whether that institutional structure can turn water and power modules into assured national capacity. The [research program](research-program.md) defines how the whole inquiry must mature.
 
+The mature organizational answer is now the [Department constitutional order and national-power state machine](department-of-resilience-constitutional-order-and-national-power-state-machine.md). Five coequal houses and seventeen typed warrants replace a single descending command hierarchy: political direction, public effect, mission integration, professional release, industrial rivalry, independent proof, readiness custody and lawful employment remain separately sovereign. The next mandate resolution is the domestic public-service sovereignty and activation compact.
+
 Mandate documents own requirements, authority and method. They do not certify technical performance or admit platforms.

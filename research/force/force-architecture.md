@@ -4,9 +4,9 @@
 
 The United States should treat resilience projection as a second great instrument of national power: a permanent capacity to prevent catastrophic civil-system collapse, restore the material conditions of ordinary life and stabilize partners by invitation. The mature institution is not an enlarged disaster agency, a collection of hazard bureaus or a fleet of spectacular machines. It is a **force-generating and force-employing system** able to convert a constitutional public promise into safe service under damaged conditions, sustain that service through a campaign and return both the community and the force to readiness.
 
-The architecture has three institutional objects and five non-interchangeable design axes.
+The architecture has five constitutional houses, three capability states and five non-interchangeable design axes.
 
-The **Department of Resilience** owns public obligation, policy, budget, civil authority and accountability. The **National Resilience Establishment** owns the services, schools, laboratories, acquisition organizations, bases, depots, reserves and industrial relationships that create capacity. The **Resilience Force** is the certified subset of formations, stocks, transport and headquarters available for employment.
+The [constitutional order](../mandate/department-of-resilience-constitutional-order-and-national-power-state-machine.md) divides authority among a Civic Covenant, Capability Commonwealth, Evidence Court, Force Estate and Employment Federation. The **Department of Resilience** describes the whole public obligation and legal-fiscal order. The **National Resilience Establishment** describes its durable professional, productive and evidentiary capacity. The **Resilience Force** is the exact subset of formations, stocks, transport and headquarters holding current readiness warrants. These are capability states, not a descending command chain: no superior office may manufacture the next state.
 
 Within that structure:
 

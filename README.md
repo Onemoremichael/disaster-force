@@ -24,26 +24,25 @@ This rule prevents the project from becoming a catalog of impressive machines. P
 
 ## The institution
 
-The mature design has three deliberately separate layers.
+The mature design is a constitutional matrix, not a descending command hierarchy. Five coequal houses hold powers that must remain separate:
 
 ```text
-DEPARTMENT OF RESILIENCE
-public guarantee · rights · standards · budgets · accountability
-                         │
-                         ▼
-NATIONAL RESILIENCE ESTABLISHMENT
-services · commands · schools · laboratories · industry · bases · reserves
-                         │
-                         ▼
-RESILIENCE FORCE
-the certified people, formations and systems ready to operate
-                         │
-                         ▼
-VERIFIED CIVILIAN EFFECT
-population · service · time · duration · damage
+CIVIC COVENANT ───────── public guarantee · effects · rights · capital options
+        │
+        ├── typed warrants, expiry and rollback ──┐
+        │                                          │
+CAPABILITY COMMONWEALTH ─ missions · services · rival roots · production
+EVIDENCE COURT ────────── hostile proof · rights review · public ledger
+FORCE ESTATE ──────────── sustainment · readiness · allocation · districts
+EMPLOYMENT FEDERATION ─── domestic use · invited custody · transfer · exit
+                                                   │
+                                                   ▼
+                                      VERIFIED CIVILIAN EFFECT
 ```
 
-The Department owns the public obligation and legal-fiscal architecture. The Establishment creates durable capacity through professions, research, acquisition, production, training, basing and regeneration. The Force is the subset certified for operations. Collapsing these layers produces either an agency without mass or a fleet without durable state capacity.
+Seventeen institution classes exchange seventeen typed warrants; no actor owns both a state and the state that validates it. The Secretary sets direction, submits budgets, convenes the houses, compels disclosure and suspends unsafe work, but cannot declare technical truth, readiness, consent or strategic effect. The full [constitutional order](research/mandate/department-of-resilience-constitutional-order-and-national-power-state-machine.md) governs the transaction.
+
+“Department,” “National Resilience Establishment” and “Resilience Force” remain useful descriptions of capability state. The Department carries the public obligation and legal-fiscal architecture; the Establishment is the durable productive, professional and evidentiary estate; the Force is the exact subset holding current readiness warrants. They are not a single chain in which a superior office may manufacture the next state.
 
 The operating force is a matrix rather than a single national response fleet:
 
@@ -112,6 +111,7 @@ At the national edge, the current force-design reference contains:
 | Bilateral activation transaction | `SPC-3` | twelve separated authorities bind 675 invited serials to 1,350 dual-corridor claims and an eighteen-day bridge from sovereign request through bilateral release |
 | Constructive-power measurement | `SPC-4` | nine non-fungible effects, five evidence planes and seven lexicographic layers govern renewal and termination without allowing money, activity or prestige to compensate for failure |
 | Strategic-power compact and return | `SPC-5` | seven constitutional articles, fourteen nonconversion laws, twelve technology thrusts and nested fiscal/evidence systems integrate constructive power without creating a unified super-command |
+| Department constitutional order | `DCA-1` | five coequal houses, seventeen institution classes, seventeen typed warrants and eighteen nondelegation laws constitute national power without letting any actor define, build, prove, ready, employ and credit its own work |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 

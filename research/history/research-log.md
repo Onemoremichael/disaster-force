@@ -5022,3 +5022,17 @@ The integrated reference retains 5,251 formations, including 1,745 domestic and 
 The twenty-five-year model exposes about USD 58.6T of public outlay: USD 17.4T capital, USD 40.2T ramped operations and USD 1.00T technology. Receiver, activation and measurement accounts remain nested. Market activity remains separate and creates no readiness. Eighteen saved-file audits pass, five mutations restore, and the formula scan is clean. All identities and effects remain source-empty; released authority and strategic credit are zero.
 
 `SPC-5` returns; opened 0, closed 1, net −1, running open total 0. Five passes established doctrine, receiver commons, activation, measurement and the integrated compact. The frontier returns to the Department-wide constitutional architecture joining mandate, mission systems, services, Productive Commonwealth, Proving Service, force generation, domestic guarantee and constructive-power employment without consolidating exclusive warrants. No external sites or rendering are introduced.
+
+## Pass 201 — Department constitutional order and national-power state machine
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `DCA-1`, its first pass. It passes the resolution test because reversing the whole-department order changes who may define, fund, build, prove, ready, employ, accept and renew the national-power instrument.
+
+A constitutional national-power matrix defeats a unified executive department, seven sovereign services, six mission-system agencies and a hazard/regional federation across twelve first-order gates. Five houses contain seventeen institution classes and exchange seventeen typed warrants from enacted guarantee through regenerated serial. Eighteen nondelegation laws prevent direction, money, industry, output, access, partner capacity, revenue or prestige from manufacturing fact, readiness, authority or effect.
+
+The Secretary retains priority, budget proposal, convening, disclosure, alternate and suspension powers, but cannot override technical, evidence, rights, readiness, receiver, host or termination states. Eight deadlock laws preserve `HOLD`, exact rollback, expiry, certified fallback and bounded statutory alternates under disagreement, urgency or incapacity.
+
+Six mission systems, seven services, nine effect ledgers and four strategic modes reconcile forty-eight families and 2,420 committed demands inside 5,251 formations. The USD 1.00T technology program, USD 17.4T capital and about USD 40.2T ramped operations produce about USD 58.6T of twenty-five-year public outlay. The USD 1.31T useful-output market remains separate.
+
+The twenty-one-sheet model passes twenty-two saved-file reconciliations and five restored mutations. All identities, warrants, evidence and effects remain source-empty; authority and strategic credit are zero. `DCA-1` closes; opened 0, closed 1, net −1, running total 0. The next resolution is domestic public-service sovereignty and activation. No external sites or rendering are introduced.
