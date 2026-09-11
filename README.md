@@ -102,6 +102,7 @@ At the national edge, the current force-design reference contains:
 | Production-recovery qualification | `MPC-3` | three complete-unit events on every private and public route plus eight balanced six-system rotations qualify the recovery lattice without constructing all 4,096 cohorts |
 | Productive-estate geography | `MPC-4` | eight macro-theaters and twenty-four productive districts distribute ninety-six campus roles so every root retains private and public recovery after correlated macro loss |
 | Productive Commonwealth return | `MPC-5` | a portable labor commons, four-source supplier diamonds, domestic useful-output floor and recurring mobilization service keep the estate alive and return industrial availability to Department force generation |
+| Formation and joint-readiness conversion | `DFG-1` | five non-fungible states and ten serial formation warrants prevent factories, accepted articles or paper joint stacks from being counted as operational force |
 
 These are requirements references, not procurement programs. Their value lies in exposing what a serious force would have to own.
 
@@ -365,6 +366,8 @@ Pass 188 closes the campaign as `MPC-3`. All seventy-two routes receive three co
 Pass 189 closes the topology as `MPC-4`. Eight macro-theaters contain twenty-four productive districts and ninety-six campus roles. Every root occupies five different theaters; private sites install 150 percent of target rate, and all 32,768 six-root cohort-by-macro-loss cases retain public paths with concentration no greater than two. Geography and ten decisive-chain identities remain empty. The fifth and final market-and-production pass must constitute the sustaining labor, supplier, finance and recurring mobilization economy, then return the branch to Department force generation.
 
 Pass 190 ends the market-and-production branch as `MPC-5`. A dual-circuit Productive Commonwealth separates the USD 1.00T federal program from a USD 75.0B/year market for useful civil output. About 200,000 qualified industrial positions, 288 four-source supplier diamonds and a recurring twelve-year mobilization supercycle keep the estate active without relying on exports or retainers. The branch returns industrial availability—not force credit—to Department force generation; the next object is the formation and joint-readiness conversion law.
+
+Pass 191 closes that law as `DFG-1`. Industrial availability, accepted article sets, service-ready formations, joint mission contributions and campaign credit are now separate states. All 5,251 formation equivalents receive ten conjunctive warrants; the inherited readiness factors require 3,667 independently ready formation serials at one instant, while sixty mission-system/campaign cells carry 2,420 concurrent contributions. All 52,510 warrant cells, joint trials and civil admissions remain source-empty, so actual service and campaign credit are zero. The next object is the synchronized formation-generation campaign; rendering remains blocked.
 
 A separate empirical campaign is developing a lawful New York heat–blackout population-state engine behind an architecture firewall. Its preregistered statistical gate must be resolved before protected outcomes can inform architecture. The [active frontier](research/frontier.md) owns both stop conditions and the next admissible work.
 

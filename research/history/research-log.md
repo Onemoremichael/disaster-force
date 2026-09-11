@@ -4900,3 +4900,23 @@ The mature reference case produces USD 95.0B annual revenue and USD 6.85B modele
 The twenty-five-sheet workbook passes 4,206 terminal audits and forty-three restored mutations after independent recalculation. Three live mutations make the domestic floor fail and then restore it. All identities, lots, credentials, sales and events remain source-empty and authority is zero.
 
 `MPC-5` returns; opened 0, closed 1, net −1, running open total 0. Five passes established the chartered market, recovery service, qualification campaign, geographic estate and sustaining commonwealth. Industrial availability returns to Department force generation and may not be counted as a deployed formation. The next resolution is the formation and joint-readiness conversion law. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 191 — Formation and joint-readiness conversion constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 191 conversion constitution](../force/generation/department-of-resilience-formation-and-joint-readiness-conversion-constitution.md)
+
+**Companion model:** [Formation and joint-readiness workbook](../../models/force/generation/department-of-resilience-formation-and-joint-readiness-conversion-constitution.xlsx)
+
+The deepest live branch is `DFG-1`, its first of five permitted passes after `MPC` returned. It passes the resolution test because reversing the conversion law would permit industry, machinery or paper task forces to satisfy the national force promise.
+
+Five states are now non-fungible: industrial availability, accepted article set, service-ready formation, joint mission contribution and campaign credit. Ten conjunctive warrants bind each formation serial across equipment, crew, technical release, sustainment, access, receiver, lawful command, no-notice trial, reservation and regeneration. Missing or conflicting evidence returns the exact serial to `HOLD`.
+
+The model instantiates all 5,251 inherited formation equivalents and 52,510 evidence cells. The family-specific readiness factors produce a 3,667-formation instantaneous obligation. All 384 intact or district-loss planning worlds retain protected demand, but no authority is inferred from that arithmetic. Sixty mission-system/campaign cells carry 2,420 concurrent contributions and require separate interface, concurrent-trial and civil-admission evidence.
+
+The fiscal crosswalk keeps the USD 230B initial-formations account inside the USD 1.00T technology program and separate from the USD 9.41T full formation-capital screen. USD 9.18T therefore remains beyond the initial account. The force also carries 11.5M direct affiliated billets. Spend and delivered equipment earn no readiness state.
+
+The twenty-one-sheet workbook passes 5,707 terminal audits and four restored mutations. Every sheet is rendered; every formation warrant, joint cell and authority field remains source-empty. Actual service formations and joint campaign credit are zero.
+
+`DFG-1` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the synchronized formation-generation campaign that builds, crews, proves, reserves and replaces complete serials. Procurement, named sites and rendering remain blocked. No external-site research is introduced.
