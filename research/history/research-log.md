@@ -4854,3 +4854,25 @@ The ten-year USD 430B campaign combines the existing USD 200B proof and USD 230B
 The nineteen-sheet workbook passes 10,980 terminal audits and thirty-one live mutations after independent recalculation. The native chart survives, the saved-file formula scan is clean, every identity and observation remains source-empty, all 127 dispositions remain `HOLD` and released authority is zero.
 
 `MPC-3` closes; opened 0, closed 1, net −1, running open total 0. The next admissible resolution is the geographic and industrial separation topology for seventy-two routes and twenty-four cells. Procurement, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
+
+## Pass 189 — Department productive-estate geographic separation constitution
+
+**Verdict:** `CLOSE`
+
+**Primary artifact:** [Pass 189 productive-estate geographic separation constitution](../force/generation/department-of-resilience-productive-estate-geographic-separation-constitution.md)
+
+**Companion model:** [Department productive-estate geographic separation workbook](../../models/force/generation/department-of-resilience-productive-estate-geographic-separation-constitution.xlsx)
+
+The deepest live branch is `MPC-4`, the fourth of five permitted market-and-production passes. It passes the resolution test because changing the geographic constitution changes whether ninety-six campus roles survive correlated regional loss or merely occupy different addresses.
+
+Only an eight-macro-theater by three-productive-district estate passes all twelve gates. Each district contains one public adaptive cell and three private survivor campuses. Each macro contains twelve campuses and fifteen role exposures from fifteen different roots. Every root occupies five different macro-theaters: three private sites and two public paths.
+
+Private networks install 150 percent of target rate—50 percent at each campus—while normal output is distributed 40/35/25 percent. Loss of any campus leaves 100 percent installed rate. Ten decisive independence domains govern hazard, utilities, freight, labor, communications, authority, suppliers, metrology and tool regeneration.
+
+The model enumerates all 4,096 six-root cohorts against all eight macro-theater losses. Of 32,768 cases, 22,106 distribute one active public path per surviving theater and 10,662 require at most two. No case requires three. The first cyclic mapping is rejected for producing a concentration of three.
+
+The inherited USD 250B public productive estate is conserved. Macro exposure spans USD 28.9–33.3B. Private campus capitalization remains inside Root House instruments and is not added again.
+
+The twenty-one-sheet workbook passes 5,831 terminal audits and twenty-six live mutations after independent recalculation. The native chart survives, the saved-file formula scan is clean, all site and decisive-chain identities remain source-empty and released authority is zero.
+
+`MPC-4` closes; opened 0, closed 1, net −1, running open total 0. The fifth and final `MPC` pass must constitute the sustaining labor, supplier, finance and recurring mobilization economy and return the branch to Department force generation. Procurement, named sites, force credit, `G3`, Cascadia `G4` and rendering remain blocked. No external-site research is introduced.
