@@ -5450,3 +5450,17 @@ Twelve required fields and ten prohibited fields prevent the warrant from carryi
 The twelve-sheet workbook contains 313 formulas, forty-two passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. Actual safety events, safety warrants, active epochs, obligations, payments, observations and selections remain zero. No new rendering is issued.
 
 `FSA-3` closes the inherited change-control question and opens one successor: what bounded fiscal and mobilization warrant can convert cohort 1 from issued/scheduled to obligated and executable while preserving full sibling reserves, independent implementation teams and the zero-evidence/zero-selection boundary? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is eight since `HR-01`.
+
+## Pass 229 — Cohort-one execution warrant and protected sibling reserve
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FSA`, with three prior passes consumed. Reversal would leave the first physical program financially inert or let money and implementation capacity privilege one root or form, changing the first portfolio and acquisition architecture.
+
+`CEW-1` obligates all thirty `FRAME` packages for the six cohort-one forms simultaneously and mobilizes six independent implementation cells. Twelve conjunctive gates per active form create seventy-two release records covering legal issue, configuration, cohort position, full-form reserve, sibling protection, independent control, technical environment, data enclave, safety route, package completeness, separated acceptance and rollback. All eighteen learning warrants remain issued; the twelve later forms and sixty packages remain reserved and isolated.
+
+The cohort-one obligation is USD179M. USD359M remains legally protected for cohorts 2 and 3 inside the conserved USD538M `FRAME` ceiling. Obligation and notice to proceed create funded design work only. Payment, accepted artifacts, accepted observations, safety-equalization authority, selection, `MAKE`, `BREAK` and `REP-4` remain zero or held.
+
+The thirteen-sheet workbook contains 1,254 live formulas, fifty-one passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
+
+`FSA-4` closes the inherited execution-warrant question and opens one terminal successor: can the fifth `FSA` pass reconcile learning authority, simultaneous issue, cohort sequencing, root-epoch safety law and cohort-one execution into a terminal form-selection-authority compact, state every nonconversion and rollback, and `RETURN` to the registered parent question? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is nine since `HR-01`.
