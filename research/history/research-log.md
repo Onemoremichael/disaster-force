@@ -5398,3 +5398,15 @@ Fifty-four form-induced invention campaigns now bind each decisive interface fam
 The eleven-sheet workbook contains 1,620 live formulas, thirty passing audits and fourteen applied-and-restored mutations after independent office recalculation. The formula scan is clean and one native chart survives. The USD 3.59B option ceiling and USD 0.538B `FRAME` share remain conserved; incremental, accepted and paid amounts remain zero.
 
 `RVS-4` closes root-native dimensional framing and opens one terminal successor: whether the fifth pass can bind all eighteen forms to destructive tests, disqualifying observations and nonconversion rules, then return to the pre-registered form-selection question. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is four.
+
+## Pass 225 — Six-root pre-evidence form-selection covenant and return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `RVS`, with four prior passes consumed; this was its mandatory fifth and terminal pass. Reversal would allow preference to select the first physical portfolio without admissible evidence, or remove the evidentiary path from representation to selection.
+
+All eighteen dimensioned forms now carry one frozen destructive event, one disqualifying observation and one nonconversion rule. Six noncompensatory domains per form create 108 evidence records. One accepted failure withdraws a form; invalid or ambiguous evidence creates a hold; six accepted passes create only a survivor. Root selection requires comparable evidence plus an independent strict warrant. Weighted scores, aesthetics, cost-only choice and image-derived judgment remain inadmissible.
+
+The twelve-sheet workbook contains 828 live formulas, thirty-seven passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty. Accepted observations, warrants, selections, incremental authority, accepted money and paid money remain zero. The USD 3.59B private option ceiling and USD 0.538B maximum `FRAME` share are conserved. No new rendering is issued.
+
+`RVS-5` closes the inherited covenant question and opens nothing: opened 0, closed 1, net −1, running total 0. No form or branch is killed. The consecutive no-`KILL` count is five since `HR-01`. `RVS` returns to the registered parent question: what form-selection and representation authority, if any, follows from complete first-principles falsification architecture before observed evidence is earned?
