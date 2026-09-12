@@ -5650,3 +5650,19 @@ All 216 kernel gates and 1,296 annex gates remain `OPEN / SOURCE-EMPTY`. All 144
 The USD25.0B planning exposure and four purpose-bound jurisdictions are unchanged. The sixteen-sheet workbook contains 1,044 formulas, sixty-eight passing audits and twenty-four applied, detected and restored mutations. Independent office recalculation reproduces all headline values and audits; formula-error, external-link and archive checks are clean. No obligation, build, observation, evidence, selection, production, readiness or rendering authority advances.
 
 `EXR-1` closes the registered pre-`MAKE` experiment-record question and opens one successor: which campaign topology, fixture allocation, serial-release waves, reserve policy, public clock, workforce, schedule and jurisdictional draw sequence can execute 144 serial-bound events without one site, root, calendar order or funding release becoming causal common control? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is one since `HR-03`.
+
+## Pass 242 — Cohort-One Campaign Topology and Release-Sequence Constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EXR`, with one prior pass consumed. Reversal would replace a federated campaign with a common proving cause, change the six-year public clock and alter the sequencing of USD25.0B across four jurisdictions, changing the proof-wave architecture.
+
+`CTL-1` creates six form-native federations of three anonymous proving nodes. Two public fixture cores per technology order occupy separate primary nodes and retain the third node for relocation. A six-by-six Latin square schedules 144 serial-bound events across six 32-week epochs. Each epoch contains one event per order, twelve per builder, eight per role, four per form and four from each of six serial classes. Four six-week live windows plus an eight-week reset constitute each epoch; six simultaneous events use six different sites.
+
+The 312-week campaign includes 104 weeks of preactivation and sixteen weeks of closeout. Six build-release waves start five weeks apart before outcome opportunity, and performance remains sealed to campaign close. The 432-node-window estate schedules 144 and reserves 288. All 108 single-site-loss-by-epoch cases retain a third-node route without paired-fixture co-location or destination overload. Dormant capacity permits holds, requalification and migration, never automatic retry.
+
+The workload screen yields about 6,420 average and 8,030 peak direct-position equivalents. At least 354 separated duty cells prevent common control without asserting jobs, identities or credentials. Assigned exposure remains USD25.0B inside the USD43.0B proof-wave reservation. Phase shares are predetermined, outcome-contingent draw is zero and no obligation or payment is created.
+
+The fifteen-sheet workbook contains 2,328 formulas, seventy-five passing audits and twenty-six applied, detected and restored mutations. Formula-error, external-link and archive checks are clean; every sheet was visually reviewed. No site, firm, title, `MAKE`, build, event, result or rendering exists.
+
+`EXR-2` closes the inherited physical campaign question and opens one successor: which simultaneous `MAKE` slate, serial material-title transaction, severable contract lots, milestone-payment firewall, construction acceptance and cancellation law can populate the scheduled 144 articles without converting spend, schedule, factory completion or fixture readiness into observation? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is two since `HR-03`.
