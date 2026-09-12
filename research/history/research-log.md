@@ -5786,3 +5786,25 @@ The fourteen-sheet workbook contains 307 formulas, forty passing audits and eigh
 **Burden of proof moved:** from invited-partnership doctrine to the integrated manuscript and bounded visual representation.
 
 **Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
+
+## Pass 249 — Integrated Strategic Manuscript and Atlas Authority
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `SYN`, with three prior passes consumed. Reversal would restore chronology as the study's top-level argument and leave technical imagery able to imply selection or evidence, changing the central thesis and representation architecture.
+
+`SYN-3` rewrites the strategic study into fourteen chapters organized from public promise through institution, national force, domestic and invited employment, hazard and lifeline chains, mobility, technology, industry, workforce and finance to integrated consequence. The former experiment-by-experiment route remains in history and source papers but loses controlling publication authority.
+
+`TVA-0` fixes a twenty-two-plate atlas before final rendering: ten `PUB-0`/`REP-0`/`REP-1` strategic diagrams, six root-native `REP-2` instrumented sections and six equal-salience `REP-3` rival-form sets. Every plate must state representation class, owner, evidence state, source and prohibited inference. `REP-4` through `REP-7` remain held because no as-built article, qualified candidate, complete mission system or production fleet exists.
+
+Six nonvisual reader-asset gates and four atlas architecture gates close. The editorial screen moves from 59 to 69 of 70, or 98.6%; thirteen chapters are publication-ready and the atlas remains partial until its twenty-two plates issue. No new workbook is created because the pass reuses the controlling numerical ledgers and the remaining tests are file-level representation checks.
+
+`SYN-3 / TVA-0` closes the Pass 248 manuscript-and-representation item and opens one successor: issue, audit and integrate the twenty-two plates, close `CH14-G5` and return `SYN` at its mandatory fifth pass. Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is nine since `HR-03`; no review is yet due.
+
+**Became authoritative:** `SYN-3`, the integrated manuscript, `TVA-0`, the twenty-two-plate manifest and the 69-of-70 editorial screen.
+
+**Died:** no prior branch; the chronology-led manuscript loses controlling publication authority but remains provenance.
+
+**Burden of proof moved:** from manuscript coherence and image eligibility to complete atlas issue and representation audit.
+
+**Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
