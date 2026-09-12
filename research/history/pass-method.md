@@ -1,8 +1,8 @@
 # Research pass termination method
 
-**Effective:** after Pass 220
+**Effective:** after `HR-02`
 
-**Human-review state:** `RELEASED — HR-01`
+**Adversarial-review state:** `RELEASED — HR-02`
 
 The top-level decision layer is the single thesis document in the [repository root](../../README.md). Every other numbered line of inquiry is a branch, including Department-wide constitutional, force, system, proving and programmatic work.
 
@@ -21,12 +21,14 @@ Before writing, identify the deepest active branch and its consumed-pass count. 
 
 Every pass reports items opened, items closed, net change and running total. Net change must be zero or negative. Every branch has at most five passes; its fifth verdict must be `CLOSE`, `KILL` or `RETURN`. No branch is exempt.
 
-After ten consecutive passes without a `KILL` of a branch that consumed at least one prior pass, research halts for human review. Review must decide whether the sequence reflects real closure, branch indulgence or incorrectly registered questions before another pass begins.
+After ten consecutive passes without a `KILL` of a branch that consumed at least one prior pass, the research lead conducts and records an autonomous adversarial review. It audits resolution tests, prior registration, ledgers, branch budgets, nonconversions and plausible kill candidates. The review must release the interval, correct invalid records or direct an immediate conforming numbered `KILL` of a consumed branch.
+
+This checkpoint is not a halt and requires no user or external authorization. It must be recorded no later than the next research change set, and its decision resets the consecutive no-`KILL` counter. A review may not manufacture a death from a rejected alternative, withdrawn hypothesis or branch that consumed no prior pass.
 
 ## Output discipline
 
 A pass is at most 1,500 words. Unsupported precision is prohibited: use no more than three significant figures unless performing direct arithmetic on a cited source figure. State unresolved items once at the end. Finish with four lines: what became authoritative, what died, where the burden of proof moved and the pre-registered parent question.
 
-## Current stop
+## Current checkpoint
 
-Passes 211–220 triggered the ten-pass stop. [Human Review HR-01](human-review-211-220.md) found two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the halt, resets the consecutive no-`KILL` counter and registers the `RVS` question before Pass 221.
+Passes 221–230 triggered the second ten-pass checkpoint. [Adversarial Review HR-02](human-review-221-230.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the interval, resets the consecutive no-`KILL` counter and registers the `AVA` question before Pass 231. No review blocker remains.
