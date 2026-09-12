@@ -1,16 +1,20 @@
 # Active research frontier
 
-**Decision state:** 11 September 2026
+**Decision state:** 12 September 2026
 
 **Purpose:** one repository-wide statement of what is believed, what is sealed and what must be learned next
 
 This is not a release note or a queue of disconnected papers. It is the present edge of the argument: the narrow set of uncertainties whose resolution would most change the mature Department of Resilience, its force and its industrial program.
 
-**Current parent question:** Can the fifth `FSA` pass reconcile learning authority, simultaneous issue, cohort sequencing, root-epoch safety law and cohort-one execution into a terminal form-selection-authority compact, state every nonconversion and rollback, and `RETURN` to the registered parent question? `FSA` has consumed four of at most five passes. `CEW-1` has obligated the six cohort-one forms and mobilized six independent implementation cells while protecting the twelve sibling forms; payment, accepted artifacts, accepted observations and selection remain zero. Nine consecutive passes have elapsed without a qualifying branch `KILL` since `HR-01`.
+**Current parent question:** What form-selection and representation authority, if any, follows from complete first-principles falsification architecture before observed evidence is earned? `FSA` has consumed five of five passes and returned. Its terminal compact permits financed comparative learning but preserves zero pre-evidence selection authority. The branch has zero open items. Ten consecutive passes have elapsed without a qualifying branch `KILL` since `HR-01`, so no new pass may begin before human review.
 
 **Human-review release:** [HR-01](history/human-review-211-220.md) finds that Passes 211–220 comprise two valid completed five-pass branches, not branch indulgence. No retrospective `KILL` is warranted. The halt is released and the consecutive no-`KILL` counter resets before Pass 221.
 
+**Human-review halt:** Pass 230 reaches the ten-pass threshold. `HR-02` must examine Passes 221–230, the completed `RVS` and `FSA` branches, every resolution test, ledger, return and claimed nonconversion before the frontier can move again.
+
 ## The current design judgment
+
+**Form-learning authority terminal compact and return — Pass 230 (`RETURN`).** The [terminal compact](force/generation/department-of-resilience-form-learning-authority-terminal-compact-and-return.md) reconciles the selection covenant, eighteen-form learning authority, simultaneous issue, three balanced cohorts, source-blind root safety law and `CEW-1` without creating a unified form office. Eleven warrant instruments and fourteen separated roles keep issue, reserve, obligation, work, acceptance, payment, observation, selection and representation distinct. Twenty nonconversions and fourteen rollback routes preserve USD359M for later siblings and keep artifacts, payments, observations, survivors, selections and `REP-4` at zero or held. The sixteen-sheet workbook retains 973 formula records, seventy-four passing audits, twenty detected-and-restored mutations and one chart after independent recalculation. `FSA-5` closes its sole item, opens none and returns to the registered form-selection parent. The no-`KILL` count reaches ten; human review is mandatory.
 
 **Cohort-one execution warrant and protected sibling reserve — Pass 229 (`CLOSE`).** The [execution warrant](force/generation/department-of-resilience-cohort-one-execution-warrant-and-protected-sibling-reserve.md) obligates all thirty `FRAME` packages for the six cohort-one forms simultaneously and mobilizes one independent implementation cell per active form. Seventy-two conjunctive release gates protect configuration, complete form ceilings, later-sibling encumbrances, independent control, technical environments, data enclaves, safety routes, separated acceptance and rollback. The USD179M cohort-one obligation leaves USD359M legally protected for the twelve later siblings inside the conserved USD538M ceiling. The thirteen-sheet workbook retains 1,254 formulas, fifty-one passing audits, sixteen detected-and-restored mutations and one chart after independent recalculation. Payment, accepted artifacts, accepted observations, safety equalization, `MAKE`, `BREAK`, `REP-4` and selection remain zero or held. Terminal `FSA-5` reconciliation and return is next.
 
