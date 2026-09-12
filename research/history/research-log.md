@@ -5356,3 +5356,17 @@ All six `REP-3` records issue together as eighteen whole-form hypotheses. Pelagi
 The six plates were produced with the built-in image-generation tool under one neutral engineering-studio grammar and six root-specific subject prompts. No external reference image, site, firm, product or vehicle was used. The USD 0.538B `FRAME` ceiling and every evidence, capability, production and fleet hold remain unchanged.
 
 `RVS-1` closes one prior item and opens one successor: whether any represented form creates a contradiction in causal independence, access, residual custody or cold reconstruction before dimensioned design. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is one.
+
+## Pass 222 — Six-root form-induced contradiction disposition and replacement orders
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `RVS`, with one prior pass consumed. Reversal would admit five common-failure architectures to dimensioned design or withdraw ten forms whose defining mechanism survives correction, changing the first physical portfolio.
+
+The eighteen `REP-3` hypotheses were audited across six noncompensatory domains: causal independence, access, residual custody, cold reconstruction, decisive support ancestry and unresolved-envelope discipline. Of 108 decisions, thirty-four show no visible contradiction, sixty-one require bounded correction and thirteen are topology-fatal. Three hypotheses are retained, ten require revision and five are withdrawn before dimensioning.
+
+The withdrawn common airframe, marine frame, clinical tower, clean core and serial process train receive topology-preserving replacements: independent winged sector cells, a nearshore caisson source archipelago, paired clinical metabolism towers, a five-petal independent clean-core ring and parallel mobile microfactory trainlets. These are specifications only and are not rendered. Withdrawal is a hypothesis disposition, not a branch kill; no branch is killed and no form is selected.
+
+The nine-sheet workbook passes twenty-five terminal checks and twelve applied-and-restored mutations after independent office recalculation. The formula-error scan is empty and the native chart survives. The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` share remain conserved; incremental, accepted and paid authority remain zero.
+
+`RVS-2` closes the inherited contradiction question and opens one successor: whether the fifteen affected hypotheses can be reissued as corrected equal-salience `REP-3 v2` sets without hiding the discovered failure, creating selection or converging mechanisms. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is two.
