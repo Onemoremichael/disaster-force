@@ -5560,3 +5560,15 @@ The eighteen-sheet workbook contains 1,243 formulas, seventy-seven passing audit
 ## Frontier Registration FR-03 — Engineering Definition Baselines
 
 This unnumbered registration occurs after `AVA` returns and before Pass 236. It opens `EDB`: a five-pass branch to turn the six active cohort-one forms into source-specific Engineering Definition Baselines across service, mass, energy, flow, thermal, geometry, civil-rights, residual and cold-reconstruction accounts under four physical worlds. The first registered item asks which configuration grammar, load cases, source-provenance law and noncompensatory closure rule can govern all six without importing a common machine, hiding unknowns or treating interval midpoints as measurements. `EDB` has consumed zero passes and carries one open item. The no-`KILL` count remains five; registration creates no rendering, evidence, `MAKE`, `REP-4` or selection authority.
+
+## Pass 236 — Cohort-One Engineering Definition Baseline Constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EDB`, with zero prior passes consumed. Reversal would leave cohort one as broad planning envelopes or allow contractor-defined assumptions to govern construction, changing the first physical portfolio and technology program.
+
+`EDB-1` selects six sovereign, content-addressed configuration baselines under a meaning-only public kernel. Twenty-four load cases bind nominal, largest-cell-loss, fatal-keystone and cold-rebuild worlds to the same configuration. Fifty-four noncompensatory account rules cover service, mass, energy, flow, thermal, geometry, civil rights, residual custody and reconstruction. Seventy-two provenance records retain source class, use, expiry and measured status; all measured flags remain zero. Thirty package responsibilities and eighteen invention programs replace a generic platform model with source-specific engineering objects.
+
+The pass exposes six open thermal coefficients. The inherited minimum loss-world margins span about 0.016–0.340%, so they govern destructive testing rather than safety or reliability claims. The USD179M cohort obligation and USD359M sibling reserve remain conserved. The fourteen-sheet workbook contains 298 formulas, sixty-three passing audits, twenty-two detected-and-restored mutations and one chart after independent office recalculation. Formula, external-link and archive scans are clean. No measurement, accepted baseline, payment, evidence, selection, `MAKE`, `REP-4`, capability, production or rendering authority advances.
+
+`EDB-1` closes the registered configuration-grammar question and opens one successor: can the six Engineering Definition Baselines close service, mass, energy, flow and thermal balances under all four registered load cases using explicit uncertainty intervals and sensitivity without treating any open coefficient, interval midpoint or cross-form parameter as favorable evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is six since `HR-02`.
