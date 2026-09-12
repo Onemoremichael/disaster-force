@@ -5572,3 +5572,17 @@ The deepest active branch was `EDB`, with zero prior passes consumed. Reversal w
 The pass exposes six open thermal coefficients. The inherited minimum loss-world margins span about 0.016–0.340%, so they govern destructive testing rather than safety or reliability claims. The USD179M cohort obligation and USD359M sibling reserve remain conserved. The fourteen-sheet workbook contains 298 formulas, sixty-three passing audits, twenty-two detected-and-restored mutations and one chart after independent office recalculation. Formula, external-link and archive scans are clean. No measurement, accepted baseline, payment, evidence, selection, `MAKE`, `REP-4`, capability, production or rendering authority advances.
 
 `EDB-1` closes the registered configuration-grammar question and opens one successor: can the six Engineering Definition Baselines close service, mass, energy, flow and thermal balances under all four registered load cases using explicit uncertainty intervals and sensitivity without treating any open coefficient, interval midpoint or cross-form parameter as favorable evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is six since `HR-02`.
+
+## Pass 237 — Cohort-One Numerical Interval Solvency and Redesign Orders
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EDB`, with one prior pass consumed. Reversal would allow the inherited configurations to proceed without uprating their governing sections, changing the first physical portfolio, experimental articles and technology program.
+
+`NIS-1` replaces Pass 219's one-sided 2.5% capacity screen as numerical-closure authority. Lower capacity must meet upper requirement; a 2.5% movement on each side requires a raw capacity ratio of about 1.05. Of 120 form–account–world cells, forty-eight are bounded and seventy-two are not. Twenty-seven close, twenty-one fail and seventy-two hold. All twenty-four nominal nonthermal accounts close, but only three of twenty-four largest-cell-loss accounts do. Fatal-keystone, cold-start and thermal worlds remain unbounded. No form closes.
+
+Twenty-one bounded accounts receive uprating orders. The six governing changes are an exchange path of at least 247 t/h, a 7.36 MW utility cell, a 27.1 km/day held-line sector, a 4.08 kt geothermal access slot, a 7.51 kt clinical access cell and a 27.2 MW process-energy cell. Thirty-six form-native coefficients remain unmeasured. The USD179M obligation and USD359M sibling reserve remain conserved.
+
+The fifteen-sheet workbook contains 1,824 formulas, eighty-seven passing audits, twenty-two applied, detected and restored corruptions and one chart after independent office recalculation. Formula, external-link and archive scans are clean. No measurement, accepted baseline, payment, observation, selection, `MAKE`, `REP-4`, capability, production or rendering authority advances.
+
+`EDB-2` closes numerical throughput-account closure and opens one successor: what source-specific geometry, load-path, control, civil-rights, residual-custody and safe-state architecture can absorb the twenty-one numerical uprates and close fatal-keystone and cold-start worlds without common-platform convergence, receiver substitution or cross-account compensation? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is seven since `HR-02`.
