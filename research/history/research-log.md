@@ -5410,3 +5410,15 @@ All eighteen dimensioned forms now carry one frozen destructive event, one disqu
 The twelve-sheet workbook contains 828 live formulas, thirty-seven passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty. Accepted observations, warrants, selections, incremental authority, accepted money and paid money remain zero. The USD 3.59B private option ceiling and USD 0.538B maximum `FRAME` share are conserved. No new rendering is issued.
 
 `RVS-5` closes the inherited covenant question and opens nothing: opened 0, closed 1, net −1, running total 0. No form or branch is killed. The consecutive no-`KILL` count is five since `HR-01`. `RVS` returns to the registered parent question: what form-selection and representation authority, if any, follows from complete first-principles falsification architecture before observed evidence is earned?
+
+## Pass 226 — Pre-evidence parallel FRAME authority and form-selection hold
+
+**Verdict:** `CLOSE`
+
+The deepest active question was the returned form-selection-authority parent, with zero prior `FSA` passes consumed. Reversal would either privilege one form with pre-evidence capital or prevent the complete comparative program needed to generate evidence, changing the first physical portfolio.
+
+Form selection remains zero, but comparative learning authority now exists. All eighteen rivals receive equal standing within their root and a revocable share of the conserved USD 0.538B `FRAME` ceiling. Five work packages per form create ninety design packages for event method, instrumentation, civil closure, destructive-article engineering and cold reconstruction. Six issue gates per form create 108 complete records. Completeness grants eligibility only; actual issue, obligation, payment, observation and selection remain zero. `MAKE`, `BREAK` and `REP-4` remain held.
+
+The eleven-sheet workbook contains 1,051 live formulas, thirty-three passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
+
+`FSA-1` closes the registered pre-evidence authority question and opens one successor: what campaign sequence can issue all eighteen learning warrants without impossible simultaneity, root cost starvation or early-result prejudice. Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is six since `HR-01`.
