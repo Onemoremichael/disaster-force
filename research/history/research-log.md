@@ -5436,3 +5436,17 @@ Twelve escrow rules allow only symmetric safety orders to cross cohorts. Relativ
 The twelve-sheet workbook contains 814 live formulas, thirty-six passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
 
 `FSA-2` closes the inherited sequence question and opens one successor: what configuration-freeze, change-control and escrow protocol can permit symmetric safety learning across the three cohorts without allowing performance learning to alter a later sibling's form? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is seven since `HR-01`.
+
+## Pass 228 — Symmetric safety change control and root-epoch protocol
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FSA`, with two prior passes consumed. Reversal would either expose later rivals to known preventable harm or disclose early performance and implementation to them, changing the safety and fairness of the first physical portfolio.
+
+A content-minimized Root Safety Change Warrant now defines the only safety exception to cohort escrow. Symmetry means a common protected subject, harm mechanism, threshold, acceptance test, information envelope, epoch, clock and noncomparative cost treatment. It does not mean identical hardware. Three isolated translation cells preserve form-native implementation.
+
+Twelve required fields and ten prohibited fields prevent the warrant from carrying source identity, raw telemetry, relative performance, rank, cost, schedule, geometry, implementation, maturity or selection advice. Four approvals and twelve separated roles either propagate a source-blind burden, seal performance or hold the root. All three siblings advance one epoch together. Safety rework cannot alter competitive budgets; absent separate authority, the root holds rather than borrows.
+
+The twelve-sheet workbook contains 313 formulas, forty-two passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. Actual safety events, safety warrants, active epochs, obligations, payments, observations and selections remain zero. No new rendering is issued.
+
+`FSA-3` closes the inherited change-control question and opens one successor: what bounded fiscal and mobilization warrant can convert cohort 1 from issued/scheduled to obligated and executable while preserving full sibling reserves, independent implementation teams and the zero-evidence/zero-selection boundary? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is eight since `HR-01`.
