@@ -5600,3 +5600,17 @@ All 144 four-world integration gates are `SPECIFIED / UNOBSERVED`. Thirty-six fa
 The fifteen-sheet workbook contains 299 formulas, thirty-one passing audits and one chart. Twenty-two disposable corruptions were detected and restored. Independent office recalculation reproduced every audit and headline count; formula, external-link and archive scans are clean.
 
 `EDB-3` closes the inherited physical-integration question and opens one successor: which source-specific build-to-test articles, industrial paths, tooling cells and cost exposures must retire the decisive physical unknowns without allowing any vendor, common platform or modeled result to earn evidence, production or rendering authority? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is eight since `HR-02`; review is autonomous and creates no mandatory halt.
+
+## Pass 239 — Cohort-One Article Industrialization and Cost Exposure
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EDB`, with three prior passes consumed. Reversal would allow one modifiable prototype, one builder or shared proving equipment to stand in for independent destruction and reconstruction, changing the first physical portfolio, industrial estate and proof-wave allocation.
+
+`AIP-1` assigns each of twenty-four technology orders to two independently controlled builder roots and three nonfungible serials per root: an integration article, a frozen sacrificial article and a virgin clean-reconstruction article. The minimum program contains 144 full-scale articles, forty-eight root-bound tooling cells, forty-eight public proving fixtures, thirty-six measurement packets and 144 serial-bound events. Ninety-six events may eventually carry acceptance weight; none now does.
+
+The base exposure is USD25.0B within a USD20.0–35.1B planning range. Its USD14.0B article, USD3.64B tooling, USD5.30B fixture and USD2.15B operating-and-evidence components are planning hypotheses, not obligations. The high case remains below the inherited USD43.0B proof-wave ceiling. Candidate articles plus tooling require USD17.6B, creating a USD390M mismatch with their USD17.2B jurisdictional reservation. Cross-account compensation is prohibited. The USD179M design obligation and USD359M sibling reserve remain unchanged.
+
+The thirteen-sheet workbook contains 464 formulas, forty passing audits, twenty-two applied, detected and restored mutations and one chart. Independent office recalculation reproduced all headline values and audits; formula, external-link and archive scans are clean. All firms, sites, articles, observations, evidence, `MAKE`, `REP-4`, production and rendering remain zero or uncommissioned.
+
+`EDB-4` closes the Pass 238 article-industrialization question and opens one terminal item: can the fifth `EDB` pass reconcile `EDB-1`, `NIS-1`, `PIL-1` and `AIP-1`, resolve the USD390M jurisdictional mismatch without cross-account compensation, state rendering eligibility, and `RETURN` to the registered Engineering Definition Baseline parent without creating evidence, `MAKE`, `REP-4`, production or selection authority? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is nine since `HR-02`; review remains autonomous and non-blocking.
