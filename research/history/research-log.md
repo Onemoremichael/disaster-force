@@ -5528,3 +5528,17 @@ Thirty site, region, vendor, role, court and custody losses generate 540 passing
 The USD540M capital figure is a maximum co-use ceiling inside the existing public-method replay and cold-run reservation, not a new appropriation. The inherited USD41.3M reconstruction and escrow operating ceiling is unchanged. The fourteen-sheet workbook contains 2,656 formulas, fifty passing audits, eighteen detected-and-restored corruptions and one chart after independent office recalculation. The formula-error and external-link scans are empty. Sites, stewards, keys, commissions, warrants, payments, observations, selections, `MAKE` and `REP-4` remain zero. No rendering is issued.
 
 `AVA-3` closes the inherited topology question and opens one successor: what commissioning and non-displacement warrant can assign real sites, stewards, keys, vendors, enclave builds and recovery clocks to `FAE-1`, rehearse every single-site and single-region loss and prove that co-use of the USD540M replay/cold-run reservation does not displace the truth trains or convert drills into `AVW`? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is three since `HR-02`.
+
+## Pass 234 — Commissioning and non-displacement warrant
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `AVA`, with three prior passes consumed. Reversal would let artifact commissioning consume truth-train capacity, centralize commissioning or activate on unmeasured recovery, changing the first-order physical and institutional architecture.
+
+`CNW-1` is the sole path from `FAE-1` topology to an available public artifact estate. Eighteen site dockets hold ninety-six separated role appointments, seventy-eight purpose-bound keys or shares, seventy-two severable vendor lots and 360 commissioning gates. Ninety inherited architecture gates pass; 270 implementation gates remain open pending real identities, builds and ceremonies.
+
+Thirty loss worlds create 3,240 site-resource stress records. Each normalized resource reserves seventy-five of 100 units for truth work, caps artifact failover at twenty and leaves five unassigned. All thirty architecture worlds pass, with about 3,020 active records passing and 216 lost-site records correctly offline. This is not measured non-displacement. Six recovery clocks in every world create 180 open trials; failure to preserve the truth reservation or meet a measured clock forces `HOLD`.
+
+The USD540M co-use ceiling and USD41.3M operating ceiling are unchanged. Up to USD378M is vendor-deliverable and USD162M remains publicly retained. The seventeen-sheet workbook contains about 38,100 formulas, sixty-five passing terminal audits, twenty detected-and-restored corruptions and one chart after independent office recalculation. Formula-error and external-link scans are empty. All sites, people, keys, vendors, builds, drills, warrants, validity, payments, observations, selections, `MAKE` and `REP-4` remain empty or zero. No rendering is issued.
+
+`AVA-4` closes the inherited commissioning question and opens one successor: can the fifth `AVA` pass reconcile `AVC-1`, `DRG-1`, `FAE-1` and `CNW-1` into a terminal artifact-validity compact, state every nonconversion, expiry, rollback and termination route, preserve the USD359M sibling reserve and zero-evidence boundary, and `RETURN` to the registered parent without authorizing `MAKE` or `REP-4`? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is four since `HR-02`.

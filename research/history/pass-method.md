@@ -31,4 +31,4 @@ A pass is at most 1,500 words. Unsupported precision is prohibited: use no more 
 
 ## Current checkpoint
 
-Passes 221–230 triggered the second ten-pass checkpoint. [Adversarial Review HR-02](human-review-221-230.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the interval, resets the consecutive no-`KILL` counter and registers `AVA` before Pass 231. Passes 231–233 close the first three `AVA` items; the counter is now three and no review blocker remains.
+Passes 221–230 triggered the second ten-pass checkpoint. [Adversarial Review HR-02](human-review-221-230.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the interval, resets the consecutive no-`KILL` counter and registers `AVA` before Pass 231. Passes 231–234 close the first four `AVA` items; the counter is now four and no review blocker remains.
