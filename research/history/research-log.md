@@ -5586,3 +5586,17 @@ Twenty-one bounded accounts receive uprating orders. The six governing changes a
 The fifteen-sheet workbook contains 1,824 formulas, eighty-seven passing audits, twenty-two applied, detected and restored corruptions and one chart after independent office recalculation. Formula, external-link and archive scans are clean. No measurement, accepted baseline, payment, observation, selection, `MAKE`, `REP-4`, capability, production or rendering authority advances.
 
 `EDB-2` closes numerical throughput-account closure and opens one successor: what source-specific geometry, load-path, control, civil-rights, residual-custody and safe-state architecture can absorb the twenty-one numerical uprates and close fatal-keystone and cold-start worlds without common-platform convergence, receiver substitution or cross-account compensation? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is seven since `HR-02`.
+
+## Pass 238 — Cohort-One Physical Independence Lattice and Safe-State Constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EDB`, with two prior passes consumed. Reversal would change which forms enter the first physical portfolio and what full-scale articles the Department builds and destroys.
+
+`PIL-1` requires each complete service path to own decisive structure, energy and heat rejection, local control, manual stop, civil access, residual custody and public reconstruction. `CT-C-B`, `HC-A-C` and `RT-B-C` retain topology. `ET-A-A`, `LF-B-A` and `HU-A-B` require replacement of the singular shore transition, active radial header and spine-plus-bypass dependency. Nominally separate paths no longer count as independent when one physical junction can defeat them together.
+
+All 144 four-world integration gates are `SPECIFIED / UNOBSERVED`. Thirty-six fatal cut sets, thirty-six physical interfaces, forty-eight rights gates, twenty-four residual chains, twenty-four safe states, thirty-six cold-reconstruction stages and twenty-four technology orders now define the physical constitution. The USD179M cohort obligation and USD359M sibling reserve remain conserved. No cost uplift, observation, evidence, selection, `MAKE`, `REP-4`, production or rendering authority is created.
+
+The fifteen-sheet workbook contains 299 formulas, thirty-one passing audits and one chart. Twenty-two disposable corruptions were detected and restored. Independent office recalculation reproduced every audit and headline count; formula, external-link and archive scans are clean.
+
+`EDB-3` closes the inherited physical-integration question and opens one successor: which source-specific build-to-test articles, industrial paths, tooling cells and cost exposures must retire the decisive physical unknowns without allowing any vendor, common platform or modeled result to earn evidence, production or rendering authority? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is eight since `HR-02`; review is autonomous and creates no mandatory halt.
