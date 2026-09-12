@@ -5370,3 +5370,17 @@ The withdrawn common airframe, marine frame, clinical tower, clean core and seri
 The nine-sheet workbook passes twenty-five terminal checks and twelve applied-and-restored mutations after independent office recalculation. The formula-error scan is empty and the native chart survives. The USD 3.59B option ceiling and USD 0.538B maximum `FRAME` share remain conserved; incremental, accepted and paid authority remain zero.
 
 `RVS-2` closes the inherited contradiction question and opens one successor: whether the fifteen affected hypotheses can be reissued as corrected equal-salience `REP-3 v2` sets without hiding the discovered failure, creating selection or converging mechanisms. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is two.
+
+## Pass 223 — Corrected six-root rival visual set v2 reissuance and lineage audit
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `RVS`, with two prior passes consumed. Reversal would return fifteen known common-failure forms to the first physical portfolio or erase whole-form representation before dimensioning.
+
+Six corrected `REP-3 v2` plates issue together. Fifteen affected hypotheses visibly implement their inherited bounded revision or topology-preserving replacement; three retained forms remain traceable. Every v1 raster and contradiction record remains intact. All eighteen hypotheses remain unique and all six roots retain three mechanically distinct forms.
+
+All eighty-four root-by-view-rule decisions pass. The plates preserve equal salience, visible causal separation, unresolved closure and the prohibition on evidence, bidding and disposition. No form is selected and no branch is killed.
+
+The ten-sheet workbook contains 152 live formulas, twenty-five passing audits and twelve applied-and-restored mutations after independent office recalculation. An initially weak blank-hash check was found and repaired. The formula scan is clean and one native chart survives. The USD 3.59B option ceiling and USD 0.538B `FRAME` share remain conserved; incremental, accepted and paid amounts remain zero.
+
+`RVS-3` closes corrected reissuance and opens one successor: whether every corrected form can receive a root-native minimum dimension envelope and decisive-interface coordinate set without importing a common chassis, implying measured performance or exceeding the existing `FRAME` ceiling. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is three.
