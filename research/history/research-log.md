@@ -5336,3 +5336,11 @@ The sixteen-sheet workbook contains 533 live formulas and passes forty-four term
 `FGR-5` returns; opened 0, closed 1, net −1, running total 0. The registered question—what may be built or represented before evidence without converting a falsification section into an exterior-form claim—is closed by the bounded `REP-0` through `REP-3` authority. No external sites or renderings are introduced.
 
 After this pass, the revised termination method takes effect. Passes 211–220 contain no `KILL` of a previously active branch, so research halts for human review before Pass 221.
+
+## Human Review HR-01 — Passes 211–220
+
+**Decision:** `RELEASE`
+
+The review finds two valid completed five-pass branches. `A2C` changes the first irreversible construction, causal-independence, industrial, geographic and integration architecture. `FGR` changes the candidate requirements, work sequence, quantitative disposition, physical falsification sections and representation authority. Every pass closes an inherited item or returns to a pre-registered parent; neither branch exceeds its budget. No active branch should be killed.
+
+Legacy “Died” lines name rejected alternatives and superseded claims, not qualifying branch kills. The review does not relabel them. It releases the halt, resets the consecutive no-`KILL` counter and registers one top-level question before Pass 221: whether all six `REP-3` rival sets can expose materially distinct whole-form hypotheses without visual selection, hidden completion or technical convergence. `RVS` must issue all six sets together or kill the representation branch; a single-root pilot is below resolution.

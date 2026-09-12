@@ -2,7 +2,7 @@
 
 **Effective:** after Pass 220
 
-**Human-review state:** `HALT`
+**Human-review state:** `RELEASED — HR-01`
 
 The top-level decision layer is the single thesis document in the [repository root](../../README.md). Every other numbered line of inquiry is a branch, including Department-wide constitutional, force, system, proving and programmatic work.
 
@@ -29,4 +29,4 @@ A pass is at most 1,500 words. Unsupported precision is prohibited: use no more 
 
 ## Current stop
 
-Passes 211–220 are ten consecutive passes without a qualifying `KILL`. Pass 220 completed the five-pass `FGR` branch and returned it to its registered parent. No Pass 221 may begin until human review releases the halt.
+Passes 211–220 triggered the ten-pass stop. [Human Review HR-01](human-review-211-220.md) found two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the halt, resets the consecutive no-`KILL` counter and registers the `RVS` question before Pass 221.
