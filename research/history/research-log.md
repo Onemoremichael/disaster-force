@@ -5502,3 +5502,15 @@ The inherited USD179M obligation divides into USD129M of design production, USD2
 The ten-sheet workbook contains 1,791 formulas, forty-eight passing audits, sixteen detected-and-restored live mutations and one native chart after independent LibreOffice recalculation. The formula-error scan is empty and no external links exist. No rendering is issued.
 
 `AVA-1` closes the inherited authority question and opens one successor: what source-capsule and dual-reconstruction grammar can make all five package types independently rebuildable across six root-native technical environments without imposing a common solver, leaking protected performance or confusing deterministic replay with physical proof? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is one since `HR-02`.
+
+## Pass 232 — Source-capsule and dual-reconstruction grammar
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `AVA`, with one prior pass consumed. Reversal would require a common engineering stack across six roots or permit archived builder files to count as public reconstructability, changing the industrial architecture and artifact-validity law.
+
+`DRG-1` makes reproducibility the conjunction of deterministic native replay and a toolchain-disjoint clean reconstruction committed before disclosure. Eighteen fields per package bind identity, executable dependencies, physical assumptions, civic obligations and epistemic limits. Six semantic invariants compare the two results without requiring bit identity. The Artifact Interchange Kernel standardizes identity, units, boundaries, uncertainty, causal trace and civic obligations while prohibiting common solvers, geometry, controllers and predicted performance.
+
+Thirty packages create 540 capsule records, 180 invariant records, 240 native stages, 300 clean stages and 180 knowledge-firewall decisions. The inherited USD26.9M reconstruction and USD14.3M public-escrow accounts form a USD41.3M planning ceiling across seven technical-estate functions. The twelve-sheet workbook contains about 2,650 live formulas, fifty passing audits, eighteen detected-and-restored mutations and one native chart after independent office recalculation. The formula scan is empty and no external links exist. Completion, reproducibility, payment, observation, selection, `MAKE` and `REP-4` remain zero. No rendering is issued.
+
+`AVA-2` closes the inherited grammar question and opens one successor: what institutional and physical topology can operate six Root Artifact Courts, native replay cells, clean-room reconstruction cells, performance escrow and the Public Artifact Exchange under site loss, compromise and vendor exit without common control or unaffordable replication? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is two since `HR-02`.
