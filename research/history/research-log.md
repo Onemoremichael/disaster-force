@@ -5344,3 +5344,15 @@ After this pass, the revised termination method takes effect. Passes 211–220 c
 The review finds two valid completed five-pass branches. `A2C` changes the first irreversible construction, causal-independence, industrial, geographic and integration architecture. `FGR` changes the candidate requirements, work sequence, quantitative disposition, physical falsification sections and representation authority. Every pass closes an inherited item or returns to a pre-registered parent; neither branch exceeds its budget. No active branch should be killed.
 
 Legacy “Died” lines name rejected alternatives and superseded claims, not qualifying branch kills. The review does not relabel them. It releases the halt, resets the consecutive no-`KILL` counter and registers one top-level question before Pass 221: whether all six `REP-3` rival sets can expose materially distinct whole-form hypotheses without visual selection, hidden completion or technical convergence. `RVS` must issue all six sets together or kill the representation branch; a single-root pilot is below resolution.
+
+## Pass 221 — Six-root rival visual set issuance and audit
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `RVS`, with zero prior passes consumed. Reversal would either withdraw whole-form representation from the thesis or permit a visually favored design to bypass the first-principles acquisition architecture.
+
+All six `REP-3` records issue together as eighteen whole-form hypotheses. Pelagic exchange, occupied-boundary insertion, atmospheric intervention, geothermal access, clinical continuity and field regeneration each retain one causal account while expressing three mechanically distinct topologies. All eighty-four root-by-view-rule decisions pass. Metadata and raster are inseparable; detached imagery is unclassified, generated labels are not metrology and no plate enters bid scoring or root disposition. No hypothesis is selected or killed.
+
+The six plates were produced with the built-in image-generation tool under one neutral engineering-studio grammar and six root-specific subject prompts. No external reference image, site, firm, product or vehicle was used. The USD 0.538B `FRAME` ceiling and every evidence, capability, production and fleet hold remain unchanged.
+
+`RVS-1` closes one prior item and opens one successor: whether any represented form creates a contradiction in causal independence, access, residual custody or cold reconstruction before dimensioned design. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is one.
