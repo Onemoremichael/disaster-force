@@ -5762,3 +5762,27 @@ Eight publication gates close. Fifty-seven of seventy now close, producing an 81
 **Burden of proof moved:** from cross-chapter arithmetic to international projection and partnership doctrine.
 
 **Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
+
+## Pass 248 — Invited Resilience Partnership Compact
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `SYN`, with two prior passes consumed. Reversal would change whether international resilience power is a sovereign service partnership or an expeditionary presence, and whether 675 commitments may be employed, recalled, financed and transferred.
+
+`IRPC-1` makes authenticated sovereign request and U.S. acceptance the only campaign-activation route. Eighteen compact clauses and fourteen separated authorities govern civil purpose, technical safety, rights, family-complete reservation, dual corridors, separate security, non-recall, effect, data, evidence, finance, partner production, transfer, residuals, exit and public accounting. The Department cannot self-invite where competent civil authority is absent; any protective intervention requires a separate political and legal instrument.
+
+Two campaigns carry 334 and 341 commitments. Their 675 total serial claims create 1,350 primary and differently caused alternate corridors and 9,450 governed segments. Accepted serials remain non-recallable through a domestic catastrophe, technical stop or host revocation until bilateral release; requalification precedes return to allocatable stock. U.S. readiness is prepaid, host inability to pay cannot end life-safety service, and partner market activity neither offsets appropriations nor creates consent.
+
+Ten partner-production gates require separate serials, domestic reserve, recipient civil control, rights, funded configuration support, repair and evidence rights, trained workforce, independent ancestry, freedom from mandatory U.S. control and end-of-life funding. Four data planes preserve host civil custody and expiring service state. Eleven campaign states culminate in nine conjunctive exit gates; equipment handover alone is not completion.
+
+The fourteen-sheet workbook contains 307 formulas, forty passing audits and eighteen applied, detected and restored mutations. Independent office recalculation preserves all results. Formula-error, external-link, macro and visual checks are clean. All identities, treaties, partners, observations and effects remain source-empty; treaty, production, publication and rendering authority remain zero.
+
+`IRPC-1` closes the Pass 247 international-doctrine item and opens one successor: rewrite the integrated senior-reader manuscript and define the exact representation classes eligible for the final atlas without promoting design into evidence. Two reader assets close, moving editorial completion to 59 of 70, or 84.3%. Opened 1, closed 1, net 0, running total 1. `SYN` has consumed three of five passes. No branch is killed. The consecutive no-`KILL` count is eight since `HR-03`; no review is due.
+
+**Became authoritative:** `IRPC-1`, bilateral non-recall, sovereign finance and data, partner-production admission and the nine-gate exit.
+
+**Died:** no prior branch.
+
+**Burden of proof moved:** from invited-partnership doctrine to the integrated manuscript and bounded visual representation.
+
+**Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
