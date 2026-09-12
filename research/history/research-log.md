@@ -5636,3 +5636,17 @@ The terminal compact corrects Pass 239's USD390M jurisdictional mismatch by caus
 ## Frontier Registration FR-04 — Experimental Realization
 
 This unnumbered registration occurs after `EDB` returns and `HR-03` releases the interval. It opens `EXR`: at most five passes to convert six returned baselines and USD25.0B of planning exposure into an executable public proof campaign without treating design completion, builder identity, cost or imagery as evidence. The first registered item asks which immutable Experiment Definition Record, serial-title law, configuration freeze, instrumentation chain, receiver denominator, intervention boundary, abort-and-repair law, disclosure packet and conflict check must close before any of 144 articles becomes `MAKE-ELIGIBLE`, and which defect must hold or terminate issue. Opened 1, closed 0, running total 1. `EXR` has consumed zero passes. No rendering, obligation, construction, observation, evidence, selection, production or readiness authority is created.
+
+## Pass 241 — Cohort-One Experiment Definition and Pre-`MAKE` Issue Constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EXR`, with zero prior passes consumed. Reversal would let money, a builder or later interpretation change what an article was built to test, or would prevent the first physical cohort from entering construction, changing the proof-wave architecture and the Department's evidence constitution.
+
+`EDR-1` creates one immutable root-neutral kernel for each of twenty-four technology orders and one serial annex for every builder-root–role article. Twenty-four kernels and 144 annexes retain the two builder roots and `INT`, `BRK` and `RCN` ancestry without creating a common machine. Nine seals at both levels govern proposition, title, configuration, measurement, receiver, intervention, abort and repair, disclosure and conflict. The 1,512 unique gate records become eighteen conjunctive tests per serial; no score compensates for an open gate.
+
+All 216 kernel gates and 1,296 annex gates remain `OPEN / SOURCE-EMPTY`. All 144 serials remain `PROGRAMMED / UNBUILT`; none is `MAKE-ELIGIBLE`. Thirty-six coefficient packets create seventy-two unassigned measurement-chain roles, and 144 receiver-denominator records remain source-empty. The serial-title law prevents repaired integration articles, exposed break articles or assisted reconstruction articles from changing role identity. Public protection remains unconditional, but a correct abort can still count as adverse candidate performance.
+
+The USD25.0B planning exposure and four purpose-bound jurisdictions are unchanged. The sixteen-sheet workbook contains 1,044 formulas, sixty-eight passing audits and twenty-four applied, detected and restored mutations. Independent office recalculation reproduces all headline values and audits; formula-error, external-link and archive checks are clean. No obligation, build, observation, evidence, selection, production, readiness or rendering authority advances.
+
+`EXR-1` closes the registered pre-`MAKE` experiment-record question and opens one successor: which campaign topology, fixture allocation, serial-release waves, reserve policy, public clock, workforce, schedule and jurisdictional draw sequence can execute 144 serial-bound events without one site, root, calendar order or funding release becoming causal common control? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is one since `HR-03`.
