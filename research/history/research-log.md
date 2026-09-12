@@ -5698,3 +5698,19 @@ Facility-caused invalidity requires a new slot and warrant. Candidate-caused pro
 The seventeen-sheet workbook contains 8,371 formulas, ninety-five passing terminal audits and forty-nine applied, detected and restored mutations after fresh-file recalculation. Formula-error, external-link and archive checks are clean; every sheet and long-ledger tail was visually reviewed. No site, fixture, calibration, receiver, arrival, rehearsal, warrant, event, observation, result or rendering exists.
 
 `EXR-4` closes the inherited commissioning question and opens one successor: which event execution-and-adjudication compact can bind one-shot event start, accepted observation, causal invalidity, break/reconstruction judgment, result embargo, public disclosure and terminal return across the 144 warranted opportunities without a master authority converting operational control into evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is four since `HR-03`.
+
+## Pass 245 — Cohort-One One-Shot Event Adjudication, Disclosure and Terminal Return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `EXR`, with four prior passes consumed; this was its mandatory fifth pass. Reversal would let event operation, record custody, invalidity allegation or early disclosure become master outcome control, changing the proof-campaign architecture and the Department's public-knowledge constitution.
+
+`EXR-TC` makes event start a physical fact: the earlier authenticated command or decisive operation corroborated by two unlike traces. Missing paperwork after operation creates an unauthorized-exposure docket, not a no-event fiction. Ten start controls govern authorized operation; safety may always stop but earns no favorable credit.
+
+Eight independently originated raw objects, hashes within 15 minutes, two custody replicas within one hour and a 24-hour completeness census preserve the physical record. Twelve conjunctive gates govern observation acceptance without judging whether performance was favorable. Primary–witness contradiction remains visible. Facility invalidity requires nine affirmative causal tests and a petition within 72 hours; ambiguity creates neither favorable inference nor retry.
+
+`INT` remains context only. First decisive `BRK` exposure consumes the role. `RCN` requires virgin clean-team ancestry and its own valid event. All 48 builder-root dossiers require final `BRK` and `RCN` judgments. Sixteen-object packets remain sealed until all 144 dockets are terminal and four of six public custodians authorize cohort release. No result may change earned construction payment or create selection, production, readiness or rendering authority.
+
+The eighteen-sheet workbook contains 9,603 formulas, ninety-five passing audits and forty-six applied, detected and restored mutations. Fresh-file recalculation and formula-error, external-link, archive and visual checks are clean. The inherited USD25.0B planning exposure remains conserved; every event, obligation, result and downstream authority remains zero.
+
+`EXR-5` closes the Pass 244 event execution-and-adjudication item and opens nothing: opened 0, closed 1, net −1, running total 0. `EXR` returns to the registered `FR-04` parent with an executable but unexecuted proof campaign and no successor. No branch is killed. The consecutive no-`KILL` count is five since `HR-03`; no review is due.
