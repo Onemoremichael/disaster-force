@@ -1,255 +1,306 @@
 # Disaster Force: resilience as a coequal instrument of national power
 
-**Status:** integrated research judgment; engineering and empirical validation remain open
+**Integrated strategic study**
 
-**Audience:** senior national-security, infrastructure, public-health, humanitarian, industrial-policy, and science leadership
+**Decision horizon:** a mature twenty-five-year national establishment
 
-**Horizon:** a mature United States Department of Resilience after a generational build
+**Status:** controlling publication manuscript; technical visual atlas pending
 
-**Publication architecture:** Pass 246 decision `SYN-1` governs the final manuscript: fourteen chapters must each close requirement, architecture, quantification, integration and reader-asset gates. Pass 247 reconciles the controlling claims and quantities. Pass 248 closes the international partnership and export doctrine. The resulting 59 of 70 closed gates produce an 84.3% editorial completion screen, not a confidence, capability or readiness claim. See the [strategic synthesis architecture](department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md), [claim-and-quantity reconciliation](department-of-resilience-cross-chapter-claim-and-quantity-reconciliation.md) and [Invited Resilience Partnership Compact](department-of-resilience-invited-resilience-partnership-compact.md).
+**Evidence discipline:** institution, force and program designs are planning constitutions unless a linked source explicitly reports observation
 
 ## Executive judgment
 
-The United States should treat the capacity to preserve and restore civilian life-support as a coequal instrument of national power. The mature institution would not be an enlarged disaster agency, a reserve military mission, or a purchasing program for dramatic vehicles. It would be a cabinet-level **Department of Resilience** able to generate, project, employ, sustain, and regenerate complete civil-service forces across domestic, territorial, tribal, and international campaigns.
+The United States should treat resilience as a coequal instrument of national power: not emergency management enlarged, not military logistics borrowed after catastrophe, and not a humanitarian adjunct, but a permanent civil establishment able to preserve and restore the systems on which life depends at continental and transoceanic scale.
 
-Its promise would be stated in public effects: how many people or critical functions receive water, power, medical care, thermal safety, sanitation, communications, food, shelter, access, and civil continuity; at what quality; by what deadline; for how long; and under what damaged conditions. Equipment ownership, money obligated, personnel dispatched, mass delivered, and nominal production would remain necessary inputs. None would count as the outcome.
+The strategic object is **assured civilian service under damaged conditions**. The force earns credit only when a defined population receives a defined bundle of safe water, power, thermal protection, medical care, food, communications, mobility and civil continuity by a deadline and for a duration. Equipment counts, cargo moved, nominal megawatts and money spent are inputs. None is the effect.
 
-The research supports five strategic judgments.
+This change of unit overturns the familiar image of a disaster fleet. Purpose-built desalination ships, fire-control aircraft, autonomous earthmoving systems and mobile hospitals remain important, but they become components of complete service chains. A desalination carrier without intake rights, residual control, inland conveyance, testing, storage, distribution and public access is not water power. A hospital ship without patient regulation, transport, utilities, staffing, referral and discharge is not medical power. A bus seat without household contact, accessible collection, destination admission and return is not mobility.
 
-First, coordination cannot substitute for owned capacity under catastrophic, concurrent demand. The federal government may coordinate an ordinary emergency through intact local systems and markets. A national resilience promise requires standing formations, mobility, reception, sustainment, replacement crews, depots, production, and authority that remain available when those systems fail together.
+The proposed **Department of Resilience** is consequently a force-generation constitution rather than a larger coordinating agency. Five coequal houses separate public promise, capability creation, evidence, force custody and employment. Seven professional services generate people and practice. Six mission-system portfolios integrate unlike technologies into complete chains. Nine public-effect ledgers govern acceptance. Forty-eight formation families provide typed operational capacity across seven domestic districts and two international reach networks.
 
-Second, the force must be organized around complete service chains rather than hazards or platforms. Fire, flood, storm, drought, earthquake, heat, infrastructure failure, and conflict create different operating environments, but repeatedly converge on the same lifelines. Hazard specialization belongs in campaign planning, sensors, tactics, safety cases, and selected equipment; the national establishment must generate interoperable water, power, health, engineering, mobility, and community-continuity professions that can be recombined without improvising their interfaces.
+The mature planning stress is three catastrophic domestic campaigns, five major domestic campaigns and two invited international campaigns at once, with a protected reserve and survival after loss of a major geographic node. That promise produces 2,420 simultaneous formation-equivalent commitments, 5,251 owned formation equivalents, 3,667 ready serials and about 13.0 million affiliations across five civil statuses. These are deliberately heterogeneous planning units, not interchangeable battalions, employees or a forecast of annual disaster frequency.
 
-Third, fixed readiness and mobile response are one system. A tonne not moved because a prepared site already contains safe shelter, utility interfaces, stocks, records, labor, and inspection capacity may be more valuable than a tonne of faster transport. Conversely, fixed capacity that is damaged, inaccessible, or geographically mismatched is not readiness. Investment must optimize the joint system rather than reward visible mobile assets.
+The fiscal consequence is larger than the project’s initial trillion-dollar intuition. The twenty-five-year screen is $68.4 trillion in constant 2026 dollars: $1.00 trillion for technology and industrialization, $17.4 trillion for force and estate capital, and $50.0 trillion for ramped operations. The trillion dollars remains the innovation engine—comparable in strategic seriousness to a generational defense-technology portfolio—not the whole cost of a coequal institution.
 
-Fourth, protection should precede displacement as the national default—but protection must include access. Purpose-built civil mobility remains essential for rescue, medical transfer, selective relocation, inaccessible communities, and return. Moving millions through damaged collection routes, queues, terminals, line-haul networks, and destination systems compounds failure and can transfer risk to the people being helped. Robust local continuity removes demand from that chain; a neighborhood access layer must still reach buildings, make local services accessible, and carry the mandatory remainder into complete movement and return pathways.
+The central finding is therefore not that the United States needs more response equipment. It is that **constructive power must be designed, generated, tested, held ready and projected as rigorously as coercive power**. Its mature expression is a new public promise, a new profession, a new industrial economy and a new form of international partnership: one that can keep difficult service commitments without acquiring political control.
 
-Fifth, a true resilience power requires an industrial and scientific revolution. The Department must become a technologically sophisticated buyer and operator, create rival prototypes, maintain open interfaces and second sources, fund proving infrastructure, and sustain production lines between catastrophes. Novel systems earn force credit only when complete mission trials establish their effect.
+---
 
-## The strategic proposition
+## 1. Strategic proposition
 
-Military power can deter, compel, deny, enter, persist, and shape conditions at distance. Resilience power should be able to **anticipate, preserve, enter, control, restore, stabilize, and transfer** civilian systems across the same scale of geography and uncertainty.
+Military power changes an adversary’s choices by threatening or applying organized violence. Resilience power changes catastrophe’s consequences by supplying organized civilian capability that can still function after ordinary systems fail. Both require standing readiness, logistics, intelligence, technical depth, industrial capacity and lawful command. Their purposes and authorities must remain separate.
 
-That capability changes national strategy in three ways. Domestically, it converts catastrophic response from an improvised mobilization into a credible public guarantee. Internationally, it offers an affirmative form of presence: rapid restoration of water, power, health, transport, and communications can stabilize partners without making coercive force the only high-capacity American instrument. Industrially, it creates durable demand for equipment and infrastructure classes that a harsher global environment will increasingly require.
+“Coequal” does not mean identical budgets in every year or a civil imitation of military culture. It means equal seriousness in five dimensions:
 
-The proposition is not that disaster response replaces defense. It is that a state capable of destruction at planetary scale should also possess comparable institutional seriousness in protecting complex civilian life.
+| Dimension | Coequal resilience standard |
+|---|---|
+| Public promise | A stated population and service condition the state is organized to keep |
+| Force generation | Standing formations, reserves, bases, doctrine and professional careers |
+| Technology | Mission-driven invention portfolios with rival roots and public proof |
+| Industry | Stable demand, second sources, surge tooling, depots and export institutions |
+| Statecraft | Credible, invited service commitments that remain sovereign and noncoercive |
 
-## A different unit of power
+The strategic environment makes this constructive capacity more valuable. Heat, drought, fire, flood, storm, earthquake, infrastructure interdependence and displacement can produce national-security effects without an armed opponent. They can fracture public legitimacy, interrupt production, destabilize allies, accelerate migration and expose the brittleness of networked cities. The answer is not to securitize disaster or militarize civil life. It is to give civil power an institution capable of operating at strategic scale.
 
-The governing demand record is not “a hurricane” or “an earthquake.” It is:
+The Department’s theory of power is cumulative. Domestic performance protects the constitutional bargain. Industrial demand creates productive capacity. Open standards and partner manufacture create durable economic relationships. Invited operations make competence visible. The result can deter opportunism, stabilize alliances and increase strategic freedom without converting aid into leverage.
 
-> a defined population or critical function, in a location and access state, requiring a specified service bundle during a specified time interval, after credible local and market restoration.
+## 2. The public service contract
 
-The resulting service deficit is the difference between that requirement and what households, utilities, communities, firms, and partners can safely restore. Force design begins with the deficit and works backward through distribution, production, access, reception, movement, sustainment, and force generation.
+Every program begins with a service vector, not a platform requirement:
 
-This method prevents attractive objects from becoming self-justifying requirements. A floating desalination source becomes valuable only when intake, energy, treatment, residuals, pipe, pressure, storage, quality, wastewater, distribution, maintenance, and transfer close around it. A firefighting aircraft earns credit only through detection, dispatch, basing, cycle time, placement, ground completion, hold, and protected objectives. A hospital ship is one node in a care pathway that also requires patient regulation, transport, clinical staff, utilities, supply, referral, discharge, and continuing care.
+> **A defined population or essential function receives a defined bundle of safe service by a stated time, for a stated duration, across declared damage and denial conditions.**
 
-Three rules follow:
+A complete vector states the denominator, geography, service floor, deadline, duration, acceptable distribution, rights constraints, externalities, evidence path and lawful stop. Each noun matters. A population average cannot conceal an inaccessible building. A technically adequate supply cannot conceal unsafe distribution. A favorable first day cannot substitute for a seven-day obligation. A service that cannot stop safely is not complete.
 
-1. **Stock is not flow.** Inventory matters only through time-phased availability and throughput.
-2. **Nominal capacity is not delivered effect.** Every interface and bottleneck must be explicit.
-3. **Activity is not outcome.** Credit attaches to safely protected or restored service.
+This contract changes acquisition. The force derives conserved accounts backward from service: mass, volume, energy, water, heat, time, people, information, residuals and civil rights. It then identifies the weakest link, creates rival architectures, and tests the whole chain under degraded conditions. Nameplate capacity and vendor demonstrations never cross the evidentiary boundary by themselves.
 
-## The mature institution
+It also changes accountability. Nine strategic-effect ledgers separately track catastrophe denial, economic continuity, alliance reliability, partner sovereignty, industrial mobilization, technology competition, standards power, democratic legitimacy and strategic restraint. A campaign may succeed on some and fail on others. No aggregate score can erase a rights violation, an unsafe residual, an uncovered population or an invalid observation.
 
-The recommended end state is a zero-based Department of Resilience with three distinct objects and five force-design coordinates. The [canonical force architecture](../force/force-architecture.md) now reconciles the institutional and operating layers.
+The [first-principles rulebook](../mandate/first-principles.md) is intentionally demanding because attractive hardware otherwise becomes its own justification. The service contract is the mechanism that keeps the project about civilian life rather than a catalog of machines.
 
-The **Department** governs policy, budgets, civil authority, international employment, acquisition, and public accountability. The **National Resilience Establishment** generates capacity through services, commands, academies, technical colleges, laboratories, ranges, depots, arsenals, bases, suppliers, reserves, standards, and partners. The **Resilience Force** is the certified subset actually ready for employment.
+## 3. Department and authorities
 
-Seven operating services—Land Engineering, Air Response, Maritime Response, Infrastructure Restoration, Health Protection, Community Stabilization and Civil Mobility and Continuity—provide durable professional, acquisition and depot homes. They are not the nine civilian-effect ledgers. Effects define what the public receives; formations combine service contributions into an indivisible operating package; commands allocate and employ those formations; and permanent, reserve, state, tribal, auxiliary, industrial and partner components define different mobilization terms. Treating these as separate coordinates prevents an organization chart from substituting for force closure.
-
-The same separation now governs acquisition. Six Department-level mission systems own complete operational chains: theater entry, occupied-terrain reach, active-hazard control, lifeline production and distribution, care and human continuity, and sustainment–transfer–regeneration. The nine effects remain independent acceptance ledgers rather than nine program offices. Services sponsor professions and article lifecycles; mission offices own integrated requirements, dependency models, outcome budgets, open interfaces and representative campaigns. The [portfolio constitution](../force/generation/department-of-resilience-six-mission-system-portfolio-topology-and-technology-competition-constitution.md) assigns all forty-eight families once and organizes twenty-four mechanism-neutral competitions inside the conserved USD 550B mission envelope.
-
-The largest portfolio now has a complete contract. [Care and human continuity](../force/generation/department-of-resilience-human-continuity-service-contract-and-first-technology-campaign-constitution.md) is five routes—local support, definitive care, patient transfer, household relocation and workforce replacement—sharing seven serial stages. Local continuity and household relocation represent nearly three-quarters of concurrent demand, so a hospital-centered force would optimize the minority case. The service unit is the person–household–care relationship bundle, and no bed, seat, shelter place, meal or record earns outcome credit until accepted service and supported transition close.
-
-Its first physical program is now a reversible district network rather than a fleet category. [`HCDN-50`](../force/generation/department-of-resilience-first-physical-human-continuity-system-and-representative-campaign-constitution.md) treats origin support and receiving capacity as two states of the same complete system. Fifty 1,000-person districts can hold, receive, bridge or reset, but no district can be counted twice. Four radically different roots compete under the same 168-hour denial campaign. This keeps technological ambition high while postponing exterior form until service evidence can distinguish prepared buildings, transported districts, civic-service lattices and robotic conversion.
-
-The funding rule now follows the same logic. Joint mission outcomes, service bases, national common capacity, sovereign technical assurance and competitive failure reserve occupy exclusive accounts; service execution is a crosswalk of mission funds rather than another budget. Common ownership cannot lower fleet quantity until a serialized capacity is exclusively reserved, technically equivalent, resettable and complete through its receiver.
-
-The operational synthesis is now fixed as `3C + 5M + 2I + R20 / N−1`: three catastrophic domestic, five major domestic and two invited international campaigns are simultaneous claims; a 20-percent reserve remains protected; and the entire promise survives loss of one of seven domestic readiness districts. International capacity is optional before acceptance and non-recallable afterward without joint release. Territories are domestic and no host, partner or military capacity is credited. The [force-sizing constitution](../force/generation/department-of-resilience-national-and-invited-international-concurrency-geography-and-force-sizing-constitution.md) selects 5,251 heterogeneous formation equivalents. The six-system portfolio constitution now allocates that load without authorizing a platform or exterior form.
-
-The [National Formation Registry](../force/generation/national-formation-registry.md) makes that structure auditable. It identifies forty-eight canonical family hypotheses, while the predecessor quantified only thirty-three distinct families plus one legacy utility aggregate. The [canonical allocation](../force/generation/canonical-force-allocation-and-fiscal-reconciliation.md) now disaggregates that aggregate into Water Restoration, Power Restoration and Grid Bridge; adds twelve other absent families, including all seven Civil Mobility and Continuity lines; holds shared systems visibly rather than duplicating them; and reruns the national contradictions. Eight families have configuration-level proxies, none has reached representative `R3` evidence, and no family has configuration-grade closure for dependencies, sustainment and waste, authority and transfer, or regeneration.
-
-Geographic commands plan against regional hazard, infrastructure, climate, population, watershed, port, and supply-chain systems. Functional commands control nationally scarce mobility, sustainment, medical regulation, forecasting and campaign assurance. Industrial mobilization, education and acquisition institutions generate capacity but do not become incident commands. Services generate forces; joint commands employ them. This distinction creates visible responsibility for readiness while preventing each technical service from optimizing a campaign around its own equipment.
-
-The same separation governs knowledge. A [Public Reality Commons](../mandate/department-of-resilience-public-knowledge-sensing-forecast-data-rights-and-civil-privacy-constitution.md) maintains open physical observation, sovereign protected civil state, expiring service state and sealed evidence as four different planes. Source custody, model qualification, forecast, warning, protected query, mobilization recommendation and operational use require different warrants. This gives the Department defense-scale awareness without a resilience intelligence agency, national population lake or model-to-command shortcut.
-
-A **Civil Resilience Authority** remains the civil principal. It integrates affected governments, defines acceptable outcomes, protects individual and community rights, and evaluates whether operations improve civilian welfare. Independent safety, environmental, civil-rights, cost, and operational-test authorities remain outside the employment chain. Scale cannot become self-authorization.
-
-The design does not preserve inherited organizations by default. Current agencies and programs may seed professions and functions, but the end state is allocated function by function. Coordination, benefits, regulation, land stewardship, ordinary health policy, infrastructure ownership, force generation, and operational employment are different responsibilities and need not remain bundled as they are today.
-
-## The force as five coupled machines
-
-The force is best understood as five interacting systems rather than a collection of branches or platforms.
-
-### Force generation and anticipation
-
-Before an incident, the Establishment maintains people, equipment, stocks, mobility, receiving sites, authority, data, maintenance, and replacement capacity at declared readiness. Forecast and infrastructure intelligence drive anticipatory loading and posture. Regional exercises repeatedly remove assumed nodes, vendors, networks, and authorities so that apparent redundancy is tested for actual independence.
-
-### Protected-local continuity
-
-The first operational question is whether complete life-support can be maintained near the affected population. Distributed thermal refuges, clean-air spaces, community power, water and sanitation continuity, neighborhood health support, accessible shelter, food channels, local communications, and vertical-access support can keep households connected to place, care, employment, and family networks.
-
-Local protection is not a request for residents to endure unsafe conditions. It is a purpose-built operating system with service thresholds, inspection, staffing, maintenance, and an explicit rule for when remaining becomes less safe than moving.
-
-### Hazard control and lifeline restoration
-
-The Department does not merely support survivors while waiting for ordinary repair. It fields engineering forces that change the incident: control fire spread, remove trapped water, arrest breaches, open ports and roads, bridge gaps, clear and process debris, stabilize slopes, restore utilities, reconnect communications, and make buildings or districts safely occupiable.
-
-These formations are deployable public works and utility systems. Their measure is the safe service restored after losses, dependencies, construction time, environmental limits, and sustained operations—not the output printed on a pump, generator, aircraft, or treatment module.
-
-### Service projection
-
-Some effects must move. Strategic deployment carries complete mission packages from surviving origins through ports, airfields, railheads, roads, inland waterways, beaches, or vertical entry points. Reception, onward movement, responder basing, sustainment, reverse logistics, repair, and release are part of the same chain.
-
-The **campaign cell** is the smallest independently supported origin-to-effect path. The **pod** is the smallest indivisible increment of complete public service. The **district** is the smallest repeatable occupied system. The **Neighborhood Continuity and Access Cell (`NCAC`)** is the complete system boundary at the seam between a district and safe movement. The [Household Collection Group](../force/generation/household-collection-group-formation-design.md) is the deployable origin formation inside that boundary: it owns building access, household verification, vertical continuity, accessible collection and lawful handoff, while prepared districts and heavy route, power and water capacity remain binding external contracts.
-
-The [shared-capacity allocation study](../force/generation/shared-capacity-allocation-and-claim-denial.md) makes those boundaries enforceable. Ownership, physical availability, obligation and reservation are separate ledgers. A common source receives credit only when it can serve the claim in the required configuration, place, time and authority while preserving explicit reserve and regeneration. The Joint Capacity Authority denies conflicting claims and exposes the resulting public-service consequence; it cannot replace civil priority, technical safety, generating-service attestation or independent assurance.
-
-The [canonical cargo and transport study](../force/projection/canonical-cargo-and-transport-closure.md) then tests what “complete” means in strategic movement. Across 448 formation cargo records and 4,480 campaign claims, dimensional demand reaches 7.048 million chargeable tonnes. The inherited enterprise delivers 25.5 percent of physical mass after reserve and deadlines, but weakest-class accounting closes only 13.0 percent of demanded formation equivalents. Eleven of 480 transport records pass and no receiver is admitted. Purpose-built mobility must therefore be acquired as a carrier–node–receiver system against whole cargo positions, not as isolated vehicles rated by tonnes.
-
-The [carrier–node requirements and industrial program](../force/projection/carrier-node-requirements-and-industrial-program.md) gives that proposition its first clean-sheet force and fiscal envelope. Three rival architectures meet the same notional 95-percent cumulative deadline target by trading inventory against activation, node release and route survival. The slow scaled pattern requires 23.077 million tonnes of gross 72-hour potential, 1,119 carrier groups, 367 nodes and $9.693 trillion over twenty-five years. The distributed high-activation rival requires 10.048 million tonnes, 517 groups, 296 nodes and $5.222 trillion. A single reduction in its 48-hour air activation from 92 to 70 percent increases the modeled program by roughly $744 billion. The result treats readiness as capital and transfer nodes as strategic platforms. It does not select the cheaper rival: its performance coefficients are unproved, its 80,382 aircraft, hull, craft and land-position equivalents are unlike screening units, and receiver admission remains zero.
-
-### Civil mobility, reception, and return
-
-Person movement is a civil-service chain, not common-user cargo. It begins at a building or household, not a highway. It includes warning and consent, accessible collection, clinical and custodial continuity, transfer-node processing, multimodal line haul, destination admission, family integrity, records, property and benefit continuity, and funded return or durable resettlement.
-
-Prepared reception is itself force capacity: land, buildings, utilities, stocks, staff, records, inspection, transport connections, and civil authority must survive where demand occurs. A movement plan that ends at a seat or a boundary has not delivered safety.
-
-## Employment doctrine
-
-The operational sequence is not strictly linear, but it provides a common grammar:
+The mature institution is a constitutional matrix of five coequal houses:
 
 ```text
-FORECAST AND SENSE
-      ↓
-POSTURE WITHOUT PREEMPTING CIVIL AUTHORITY
-      ↓
-PROTECT LOCALLY ───────────────┐
-      ↓                        │ if unsafe or unsustainable
-OPEN ACCESS AND CONTROL HAZARD │
-      ↓                        ▼
-RESTORE LIFELINES        SELECTIVE MOVEMENT
-      ↓                        ↓
-STABILIZE OCCUPIED SYSTEMS ← PREPARED RECEPTION
-      ↓
-TRANSFER, RETURN, AND REGENERATE THE FORCE
+CIVIC COVENANT ─────────── promise · rights · effects · capital options
+          │
+          ├── typed warrants, expiry and rollback ──┐
+          │                                          │
+CAPABILITY COMMONWEALTH ── missions · technology · production
+EVIDENCE COURT ──────────── hostile proof · review · public record
+FORCE ESTATE ────────────── readiness · allocation · sustainment
+EMPLOYMENT FEDERATION ───── domestic use · invited custody · exit
+                                                     │
+                                                     ▼
+                                      VERIFIED CIVILIAN SERVICE
 ```
 
-Domestic employment normally requires two keys: a civil key authorizing the mission and an operational key certifying that the force can perform it safely and sustainably. The Department may alert, load, contract, and pre-position in advance; incident employment remains accountable to civil authority. A narrow catastrophic rule is required when competent authority is incapacitated, but it should authorize only reversible life-safety and stabilization action until civil direction is restored.
+Seventeen institution classes exchange seventeen typed warrants. No actor owns both a state and the state that validates it. The Secretary sets strategy, submits budgets, convenes the houses, compels disclosure and suspends unsafe activity, but cannot personally declare technical truth, readiness, consent or public effect. Integration occurs through artifact succession—requirement, experiment, evidence, configuration, readiness, employment and effect—not through an all-purpose incident commander.
 
-International employment follows an [Invited Resilience Partnership Compact](department-of-resilience-invited-resilience-partnership-compact.md). A standing treaty permits receiver preparation, exercises, stock rotation and partner production, but it does not activate the force. An authenticated sovereign request and U.S. acceptance bind a bounded service vector and exact serials. Disaster severity, silence, technical ability and military access cannot manufacture consent. Where no competent civil authority can invite service, the Department cannot invite itself; a protective intervention requires separate political and legal authority.
+Three terms describe different states. The **Department** holds the public obligation and legal-fiscal architecture. The **National Resilience Establishment** is the durable scientific, industrial, educational and logistical estate. The **Resilience Force** is the subset with current readiness warrants. Keeping these distinct prevents an institution from calling every employee a responder or every purchased asset ready.
 
-The planning constitution carries two simultaneous invited campaigns, 675 formation-equivalent commitments and 1,350 corridor claims. Those are strategic load cases, force claims and route-custody records, respectively. Once accepted, serials are non-recallable until bilateral release. A domestic catastrophe must draw protected reserve and disclose any uncovered deficit. A technical stop suspends unsafe operation without dissolving custody; host revocation stops new issue and orders safe transfer or withdrawal without creating coercive persistence.
+The [constitutional compact](../mandate/department-of-resilience-constitutional-compact-and-return.md) also rejects preservation of today’s organizational map as a design constraint. Existing agencies, universities, utilities, unions, firms and state institutions may seed functions, but none defines the mature topology. The Department is constructed around powers that must be separated and service chains that must close.
 
-The host retains civil purpose, admission, population priority, stop power, protected-data custody and transfer acceptance. The United States retains the right to decline, the technical duty to stop unsafe systems and the obligation to deliver accepted service. Partner production uses separate serials and receives no U.S. readiness credit. Transfer must leave the recipient able to operate, repair, inspect and reproduce the contracted capability without a mandatory American key, cloud, supplier or operator. Exit occurs only after effect, rights, workforce, maintenance, data, finance, residual and regeneration gates close; equipment handover or ceremonial departure is not completion.
+Knowledge receives the same treatment. The [Public Reality Commons](../mandate/department-of-resilience-public-knowledge-sensing-forecast-data-rights-and-civil-privacy-constitution.md) separates open physical observation, sovereign protected civil state, expiring incident service state and sealed evidence. A model cannot issue its own warning, activate its own force or convert protected population data into a permanent search surface. Technical ambition and civil liberty are co-design requirements.
 
-## Technology as force design
+## 4. National force composition
 
-The Department should drive invention the way demanding military missions have historically driven aerospace, computing, sensing, materials, and logistics. The difference is the objective function.
+The force is not one national fleet. It is a matrix with four independent coordinates:
 
-Promising frontiers include high-rate no-pier logistics; autonomous construction and repair; rapid bridge and utility corridors; megaflow pumping and adaptive flood works; high-cycle fire aircraft and persistent mixed airspace; grid-forming mobile power; compact water and residual systems; climate-safe occupied districts; accessible all-condition mobility; rapid building inspection; offline operational data systems; machine-readable safety cases; and modular maritime water, power, medical, and support systems.
+- **seven services** provide professional homes, schools, doctrine and readiness;
+- **six mission systems** integrate complete chains of technology and formations;
+- **nine effect ledgers** define the public conditions campaigns must achieve; and
+- **forty-eight formation families** supply typed, replaceable force elements.
 
-The **civil-state production system** is now one protected layer of that Commons rather than a free-standing data program. The force cannot protect populations it represents only as independent demographic averages, nor can it safely improvise links among households, support needs, buildings, utilities and destinations during an outage. A mature system would reconcile protected local records, official statistics, building operability and field observations across disconnected operations while preserving household relationships, explicit uncertainty, missing states, purpose limits and civil-rights controls. This is mission infrastructure comparable in seriousness to military operational data, but its design objective must resist generalized population surveillance. The New York sequence makes its epistemic layers explicit: source custody, estimator semantics, lawful support, measurement likelihood, state regularization, donor allocation, protected relational fusion and operational update are separate authorities. The atomic basis reconstructs every extended published point margin but leaves 1,524 latent directions per catchment and eight tested operational joints unidentified. The moment-cone audit then proves official estimator covariance cannot be copied wholesale into cross-world state covariance. Mathematical existence is not a civil-state estimate, and measurement error is not population variation.
+These counts are nonadditive. A family can draw multiple services, serve more than one mission system and contribute to several effects. This is closer to a matrix of professions, combatant functions and joint task forces than to a single hierarchy, but its output is civil service.
 
-Novelty should be organized as rival system architectures, not a queue of gadgets. Each program begins with a failed mission thread, declares the parameter it must change, funds competing approaches, and tests the complete formation under representative loss and degraded conditions. Software, autonomy, and common interfaces are treated as potential common-mode failures as well as performance multipliers.
+The mature concurrency promise is written `3C + 5M + 2I + R20 / N−1`: three catastrophic domestic campaigns, five major domestic campaigns, two invited campaigns, a 20% protected reserve, and distribution able to survive the loss of one major node. It is a stress constitution, not a probability forecast.
 
-The National Resilience Proving Network is therefore as important as any fleet. Laboratories establish component behavior; regional ranges reproduce environmental and infrastructure conditions; flagship facilities test full mission threads; independent evaluators control admission. A vendor demonstration cannot substitute for public evidence, and the sponsor of a technology cannot be its sole certifier.
+| Force denominator | Formation equivalents | Meaning |
+|---|---:|---|
+| Simultaneous commitments | 2,420 | Heterogeneous demand across ten campaigns |
+| Protected reserve | 502 | Cannot be consumed to close the base plan |
+| Geographic buffer | 745 | Preserves service after major-node loss |
+| Requalification, maintenance and overhaul | 1,584 | Cycle stock, not ready force |
+| **Owned inventory** | **5,251** | Total mature stock |
 
-## Industrial and economic consequence
+The first three rows produce 3,667 ready serials. Early campaign entry claims 1,409 formation equivalents, about 8.90 million tonnes of inherited deployable mass and 174,000 tonnes per day of sustainment flow. These figures do not define a transport fleet; they expose the magnitude of routes, nodes, crews, maintenance and prepared receivers the promise requires.
 
-A mature Department would create a large new industrial economy spanning shipbuilding, aviation, heavy equipment, utility systems, modular construction, medical systems, robotics, communications, materials, maintenance, logistics, and civil engineering. Stable multi-year procurement and readiness demand would let firms invest in production methods and specialized workforces that episodic disaster spending cannot sustain.
+The [canonical allocation](../force/generation/canonical-force-allocation-and-fiscal-reconciliation.md) is valuable precisely because it makes the idea expensive and organizationally inconvenient. A force that cannot survive geography, maintenance and concurrent commitments is a demonstration fleet, not national power.
 
-The industrial policy should combine private competition with public technical capacity. Government reference designs, open interfaces, second sources, surge tooling, critical-material stocks, public depots, and fallback production prevent a celebrated prime contractor or software platform from becoming a national single point of failure. Export finance, allied co-development, common standards, and partner training can turn resilience capability into an enduring form of economic and diplomatic power.
+## 5. Domestic employment doctrine
 
-The resource scale is necessarily large. The selected force carries 2,420 heterogeneous formation-equivalent commitments. Adding 502 protected-reserve formations, 745 of geographic buffer and 1,584 in requalification, maintenance or overhaul produces 5,251 owned formation equivalents. The first three categories make 3,667 ready serials; the last is cycle stock. The establishment contains about 13.0 million affiliations across career, reserve, sovereign-covenant, productive-service and partner statuses. Affiliations are not simultaneous employees, payroll headcount or ready crews.
+Domestic doctrine begins with a reversal: **protect locally before manufacturing avoidable displacement**. National mobility remains essential, but it should be reserved for people whose buildings or places cannot be made safe, not used as the default substitute for water, cooling, power, medicine and accessible contact.
 
-The fiscal hierarchy is now explicit. The mature twenty-five-year planning screen is $68.4 trillion in constant 2026 dollars: $1.00 trillion for technology and industrialization, $17.4 trillion for force and estate capital and $50.0 trillion for ramped operations. The $2.11 trillion mature annual operating screen is the steady-year endpoint, not a number to multiply by twenty-five. These values are internally linked design hypotheses, not cost estimates or budget recommendations.
+Eight concurrent domestic campaigns allocate 1,745 formation-equivalent commitments across seven readiness districts. Each district maintains 72-hour entry, complete-service follow-on, repair, reception and regeneration capacity. A domestic activation requires a civil-service vector, a lawful authority, local receiver acceptance, an accessibility plan, a protected-data boundary and an effect ledger. Political salience and cargo availability cannot create a mission.
 
-The early $1 trillion framing therefore survives as the innovation engine, not the whole Department. Its $550 billion mission-system account, $200 billion first tranche, $43.0 billion proof-wave reservation and $25.0 billion assigned cohort exposure are nested or overlapping views, not additive programs. A peer institution cannot hide personnel, maintenance, training, stocks, bases, replacement and benefits outside a visible technology program. Capital, routine operations, incident expenditure, recovery transfers, market output and avoided losses remain separate.
+The decisive seam is the neighborhood. A national force fails if it cannot identify affected households without creating permanent surveillance, reach upper floors after elevators fail, maintain medical power, deliver water to occupied buildings, establish cooling or heat, communicate offline, keep families and caregivers together, and move those who must leave to an actually prepared destination.
 
-## What the quantitative work has established
+The [`HCG-35B` neighborhood system](../force/mobility/neighborhood-continuity-and-access-cell.md) illustrates the burden. One 35,000-person planning envelope requires protected districts, household-contact teams, vertical-access teams, collection units, route assurance, power blocks, water islands and disconnected communications. The formation remains a design hypothesis, not an admitted unit, but it establishes that last-building access is a national capability problem rather than an incidental local chore.
 
-The models have been most valuable when they broke an attractive answer.
+Domestic sovereignty is plural. Federal, state, territorial, tribal and local authorities keep distinct powers. The Department may bring nationally held capability and assume a bounded service obligation; it does not erase local civil authority. The [domestic activation compact](../mandate/department-of-resilience-domestic-public-service-sovereignty-and-activation-compact.md) governs request, acceptance, custody, technical stop, public effect, release and regeneration as separate states.
 
-Water configuration exposed pipe, pressure, wastewater, residual, and installation burdens around treatment. Power configuration exposed distribution state, protection, black start, fuel, and construction around generation. Fire configuration separated fast interception from sustained control and exposed airspace, ground hold, base cycle, and retardant bottlenecks. Flood configuration converted pump nameplate into a weakest-link hydraulic chain governed by head, intake, debris, route, receiving water, interior drainage, and breach flow.
+## 6. International projection and partnership
 
-At campaign scale, Cascadia closed under deterministic assumptions and failed when shared enablers were modeled. Service-entry cells and pods restored explicit independence, then population-continuity configuration broke the cargo schedule. Prepared receivers reduced mobile mass, then national geography showed that capacity did not survive where it was needed.
+International resilience power operates only through an **Invited Resilience Partnership Compact**. A standing compact permits planning, exercises, receiver preparation and shared standards. It does not activate the force. Only an authenticated sovereign request followed by U.S. acceptance creates a campaign obligation.
 
-The civil mobility work produced the clearest architectural reversal. A restorable multimodal mesh passed 98.8 percent of trials under one fixed probability distribution. When twelve conditions varied broadly across 1,000 paired worlds, it passed only 7.6 percent. A protected-local architecture passed 99.8 percent and was the best performer in 969 worlds. The experiment does not assign real-world probabilities; it demonstrates that the mobility-heavy conclusion was distribution-dependent.
+The mature design carries two invited campaigns and 675 formation-equivalent commitments. Each commitment receives primary and differently caused alternate access, producing 1,350 corridor claims. Two campaigns, 675 commitments and 1,350 corridors are different denominators: scenario, force and route.
 
-The Harris County campaign then coupled local protection and movement across 1,111 tracts, a corrected road graph, mapped flood exposure, building-access proxies, time-dependent queues, transfer, line haul, destination admission, and return. Movement-led `M0` passed none of 300 broad worlds. Protected-local `P2` passed 11.7 percent. The post-result `H3` corrective rival—faster local activation plus stronger building access, collection, and route assurance—was best in all 300 worlds but passed the complete rule in only 55.3 percent. In the reference case it reduced mean unprotected time to 24.1 hours per demand person and day-seven displacement to about 36,255 people, yet still created a peak collection queue near 73,750.
+Acceptance changes the legal character of the force. Before acceptance, capacity is allocatable. After acceptance and family-complete reservation, named serials are bilaterally committed and cannot be recalled unilaterally to solve a domestic shortage. Domestic catastrophe draws the protected reserve and discloses any deficit. A technical stop suspends unsafe operation but preserves custody. Host revocation ends new issue and initiates safe transfer or withdrawal. Only bilateral release followed by regeneration makes a serial allocatable again.
 
-That result does not admit `H3`. It locates the missing formation. The force needs an `NCAC` below the regional transfer node and beside the protected district. It also establishes a broader rule: mobility demand is partly endogenous. A weak local-service architecture manufactures passengers and queues; a strong one preserves scarce transport and receiving capacity for mandatory movement.
+The forward architecture is a host-owned receiver commons: two reach networks, twelve sovereign districts, thirty-six unlike precincts, 842 family-specific reception slots, 192 partner production roots, ninety-six assurance cells and twelve academies. An eighteen-day bridge covers request-to-arrival delay. The 0.878–1.49 million-tonne material range is a planning boundary pending item-level deconfliction, not a stockpile order.
 
-The first `NCAC-35` configuration makes the consequence concrete. One Harris-derived 35,000-person analytical demand envelope requires an assured conventional cell with 34 protected districts, 300 household-contact teams, 100 vertical-access teams, five collection squadrons, seven route-assurance detachments, ten power blocks, nine water islands, seven communications nodes, 7,587 deployed people, and 6,388 packed tonnes. It closes the base case and eight declared physical loss cases. It fails when commercial communications and cloud services disappear, verifying only 79.6 percent of the required households by hour 36.
+Finance cannot become leverage. The United States pre-funds readiness; host inability to pay cannot terminate accepted life-safety service or compel a tied purchase. Partner manufacture is a second sovereign production system with its own serials, workforce, evidence, repair rights and residual responsibilities. It never earns U.S. readiness credit. Transfer and exit require nine conjunctive closures spanning effect, rights, operating authority, people, spares, data, title, residuals and bilateral release.
 
-The `HCG-35B` successor resolves the echelon without weakening that test. Seven `HCC-5` companies form a 5,076-person mobile origin group with 12,163 role-generated affiliated billets per owned formation. Its organic packed mass falls to 1,830 tonnes, but the complete assigned neighborhood system remains 6,414 tonnes and $6.986 billion. Across 128 groups, the organic billet line falls from 2.431 million to 1.557 million; the national headline is held because 208,000 simultaneous external on-duty positions and thousands of district, route, power and water packages remain unallocated. The correction makes the formation more projectable while proving that organizational reassignment is not physical or fiscal savings.
+This architecture makes strategic restraint an engineered property. The Department can keep a difficult promise while the host retains political control. The complete doctrine is in the [Invited Resilience Partnership Compact](department-of-resilience-invited-resilience-partnership-compact.md).
 
-A distributed technology target closes all ten required arithmetic cases through better disconnected-record retention, household productivity of 2.4 rather than 1.6 households per team-hour, vertical-access productivity of 0.80 rather than 0.50 people per team-hour, lighter prepared-district imports, and a more distributed field network. Those are mission-driven invention parameters, not accepted performance. The linked research target is a disconnected household-to-service operating system whose rights, records, building access, physical work, utilities, destination acceptance, and return survive together.
+## 7. Hazard control and lifeline restoration
 
-The [first occupied-building utility study](../force/projection/heat-blackout-power-and-thermal-service-cell.md) now gives the external power contract comparable depth without reading the protected New York outcomes. A declared 50,000-person, seven-day district requires 14.22 MWe of continuous electricity, 19.65 MWth of useful cooling, 2,389 MWh of energy and 1,280 building-connection crew-hours after thermal, medical, water, vertical, communications, refrigeration and transfer services are included. Facility power and central-refuge architectures pass none of sixteen complete service worlds; a distributed building mesh passes four.
+Hazards determine physics; they do not define the force’s organizational unit. Fire, flood, drought, storm, earthquake, heat and biological disruption each require specialized sensing, materials, tactics and safety. Yet a “fire fleet” or “flood fleet” remains incomplete if it cannot restore the services and civil access that give suppression or drainage public meaning.
 
-A twelve-cell `PTS-50` upper comparator passes all sixteen and preserves a lawful building stop. It combines ten primary and two reserve `PTS-5` cells with seventy-two building-interface teams, thermal distribution, medical micro-power, water and vertical service, neighborhood refuges, disconnected communications, technical authority and regeneration. The result is 2,688 deployed people, 7,740 dry tonnes and a $2.320 trillion national twenty-five-year comparator for seventy-two groups and twenty-four prepared metropolitan programs. Its wet energy burden and twenty-four representative gates remain open. The study does not admit an architecture or authorize a rendering; it demonstrates that urban thermal survival is a major force and industrial mission rather than a generator-support task.
+The force therefore composes capability through **complete hazard-to-service chains**:
 
-The [`PTS-5` energy and heat-rejection successor](../force/projection/pts5-energy-and-heat-rejection-lineage-competition.md) shows why the generic cell cannot survive. One cell consumes 238.9 MWh in seven days, and source conversion raises its occupied-site rejection from 2.80 MWth to 2.96–5.69 MWth across storage, prepared, local, gas, liquid and strategic firm competitors. A storage-only cell weighs 2,784 tonnes; a microreactor provides endurance but misses the declared arrival, mass, footprint and reset boundaries. None of the six lineages is universal.
+| Mission field | Purpose-built capability frontier | Service chain that must close |
+|---|---|---|
+| Fire | persistent atmospheric sensing, high-throughput suppressant aircraft, autonomous line construction, ember interception, watershed stabilization | detection → interception → ground hold → community protection → residual recovery |
+| Flood | distributed barriers, debris-tolerant pumping, amphibious access, drainage reopening, breach control | source and head → intake → conveyance → receiving water → interior drainage → occupied-place service |
+| Drought | coastal and inland desalination, brine mineral recovery, rapid trunk mains, aquifer recharge, demand control | source → treatment → residuals → power → conveyance → testing → equitable distribution |
+| Earthquake | autonomous clearance, structural triage, modular utility bypass, heavy lift, rapid shelter repair | access → assessment → shoring → lifelines → clinical continuity → habitable return |
+| Heat and cold | district-scale cooling or heat, building interfaces, medical micro-power, water and vertical service | source → distribution → building entry → thermal refuge → medical continuity → lawful stop |
+| Storm | prepositioned protection, grid islands, water systems, communications, port and route regeneration | anticipation → impact survival → entry → local service → repair → requalification |
 
-The force consequence is a common civil utility service spine with four temporal echelons: cell-local black start, rapid utility bridge, verified seven-day endurance and separately deployed strategic firm service. A provisional mixed group replaces the placeholders and reaches 12,200 dry tonnes, 2,852 deployed people and $14.122 billion in configured unit capital. Its seventy-two-group national comparator reaches $3.543 trillion over twenty-five years. The result is still not an order of battle: all twenty-eight gates remain open, but it gives the Department's parallel industrial thesis a concrete source, heat-sink, workforce and program architecture.
+This creates an ambitious invention agenda. Fire aircraft may need distributed thermal sensing, autonomous deconfliction and sustained low-altitude delivery rather than merely larger tanks. Flood units may need swarms of low-ground-pressure earthmovers that measure soil state and construct verified water-control geometry. Water forces may need nuclear or other firm-energy treatment carriers, autonomous pipe-laying fleets, reversible intakes and brine-processing trains. Power forces may need plug-together medium-voltage islands, rapidly certified building interfaces and mobile heat rejection. These are mission hypotheses, not promised breakthroughs.
 
-The [deployment-geometry successor](../force/projection/pts5-deployment-geometry-competition.md) then holds one rapid-bridge service payload constant: 580 dry tonnes, 54.8 tonnes of liquids, 2,630 cubic metres and thirty-two governed module positions. Road, rail, shallow-water, prepared-anchor and tri-modal hosts pass seventeen, fourteen, eighteen, twenty and seventeen of twenty-three worlds. Full transported-system mass spans 471–1,505 tonnes; occupied sites require 2,632–6,113 square metres; and the shallow-water rival draws 1.431 metres. Carrier form therefore changes access, setup, heat rejection, degraded operation and industrial ownership even when public service does not change.
+The governing principle is that each technology changes a named failure parameter in a complete chain. The [system studies](../systems/README.md) and [hazard-control architecture](../systems/hazard-control-access-and-earthworks.md) define the present mission envelopes.
 
-At national scale, 864 organic host positions plus ninety-six pooled shallow-water hosts contribute $441.6 billion in capital and $535.2 billion in twenty-five-year operations. After replacing the earlier provisional metropolitan-works allowance and adding route nodes, proving, workforce and bases, the reconciled comparator reaches $4.693 trillion. This is a force-design boundary, not a procurement recommendation: thirty-four gates remain open, source and geometry have not yet been coupled, and rendering remains blocked pending the thirty-pair compiler and simultaneous-denial group closure.
+## 8. Strategic mobility and reception
 
-The New York vertical heat-blackout protocol now freezes both architectures before the next result. Its first operator `L0` rehearsal builds a governed citywide evidence surface from seven official extracts: 2,325 land tracts, 844 polygon-connected candidate catchments, twelve disclosed provisional references and three commitment hashes across tower-intensive, mid-rise heat-burden and campus/service-friction mechanisms. The topology correction replaces polygon contact with the official `LION 26b` node-and-relative-level graph. The corrected surface has 126,779 canonical topological edges, 7,129 tract pairs and 847 candidate catchments. All twelve references and all three commitments remain unchanged under primary, strict and permissive graph screens.
+Projection is one chain:
 
-The next controls govern what a simulation would be before permitting one. A complete empty registry binds 12,000 catchment–world identities, 24,000 paired `A2`/`S3` outcome rows and 2,000 twelve-catchment campaign aggregates. It separates a 90-percent catchment safe-service floor from a 95-percent population-weighted campaign requirement, resolving a level ambiguity while outcomes remain nonexistent. At that gate all 1,018,000 reserved cells were blank; the next registration fills only the 144,000 factor cells, leaving every architecture, adjudication and campaign-result field empty.
+```text
+force custody → carrier → route → transfer node → prepared receiver
+              → neighborhood access → sustained service → return → regeneration
+```
 
-The primary world generator is now registered. It uses deterministic SHA-256-labeled streams, citywide, borough, catchment and residual latent drivers, and rank transformation into 1,000 centered Latin-hypercube strata per catchment–factor. The accepted first attempt populates 144,000 factor values and passes all five dependence tolerances; the mean within-catchment maximum Spearman deviation is 0.0244 against a 0.0550 limit, while same- and different-borough maxima are 0.0316 and 0.0232. Those numbers verify implementation against a declared target, not the truth of the loadings. Uniform margins remain design coverage rather than event probability, and borough remains a disclosed proxy for infrastructure and operating territories.
+Lift alone cannot close it. A fast aircraft that arrives at a blocked field, a ship without a discharge node, a train without a surviving terminal or a convoy without fuel and accessible local distribution creates stranded capacity. Every family therefore owns origin handling, alternate routes, intermediate custody, compatible receivers, local access, sustainment, reverse flow and reset.
 
-The first input registration binds 87 reference tracts to 156 official ACS estimate cells and their published uncertainty, generating 3,306 tract and 456 catchment metric records. Eight tables carry eighty variance replicates for covariance-aware sums and ratios; nine tables disclose weaker RSS aggregation. The resulting margins expose genuine heterogeneity—age 65+ spans 10.5–26.3 percent, no-vehicle households 29.9–85.9 percent, limited-English households 1.2–50.4 percent and 50-plus-unit structures 12.4–67.8 percent—but do not identify the joint people–household–building state on which service depends. HHS medical-power counts remain county context, PUMS donors resolve to PUMA, and administrative building records do not establish incident operability.
+The force uses multiple mobility layers. Strategic sealift carries heavy, persistent systems. Airlift carries time-critical teams, spares, diagnostics and compact service modules. Rail and road move continental mass. Shallow-water and amphibious carriers cross damaged coasts and river systems. Autonomous cargo systems extend the last segment, but only within human-governed custody and access rules.
 
-The compiler registration fixes how that gap may be modeled without pretending it has been observed. It preserves whole households, separates the 2020 selection count from the 2020–2024 analytic universe, requires coherent uncertain targets, constrains nonnegative integer donor-class counts, assigns households only to public tract-by-structure-by-tenure capacity classes and retains unsupported caregiver, medical-power, exact-location and operability fields as `UNKNOWN`. Nested candidate ensembles of 125, 250, 500 and 1,000 members are judged only on input fit and convergence. A deterministic balanced map pairs whichever candidate is accepted across the existing 1,000 metropolitan worlds without architecture access. The method and failure tests are committed before output.
+Prepared receivers are part of the mobile force. Ports, railheads, airfields, utility anchorages, inland-waterway sites, metropolitan service precincts and rural operating areas hold verified interfaces, route surveys, rights, trained labor and fallback utilities. A receiver unavailable after the hazard is not readiness merely because it existed before the event.
 
-The donor-custody pass now tests the empirical substrate without executing that method. The official New York files reproduce 481,692 housing records, 984,474 person records and three published weighted-population controls exactly. Household–person linkage closes with no duplicate or cross-PUMA identity, while the 9,738 housing records without people reconcile exactly to vacant units. New York City's 123,463 occupied donor households form 2,123 observed nine-dimensional classes. The 798 classes with fewer than five donors constitute 37.59 percent of observed classes but 1.16 percent of weighted households. Local catchment pools support as little as 71.36 percent of citywide weighted class mass; local plus touching PUMAs raise the weakest case to 89.66 percent. The result requires hierarchical partial pooling with visible local, adjacent and citywide support labels. It does not authorize tract inference, target fit or record synthesis.
+Mobility also includes people. The [national civil mobility and continuity force](../force/mobility/national-civil-mobility-and-continuity-force.md) links household contact, accessible movement, family integrity, destination admission, continuity of support and return. The [national receiving lattice](../force/reception/national-receiving-lattice.md) treats destination capacity as a governed public service rather than an assumed empty bed. This is why protection and movement are complements: stronger local continuity preserves scarce transport and receiving capacity for mandatory movement.
 
-The first target implementation then reconstructs 264 published variance-replicate controls exactly and draws 36,000 candidate vectors under three disclosed covariance cases. Every candidate is a nonnegative integer solution to six equalities and twenty-seven inequalities. No ensemble is admitted. At the registered `K=1,000` ceiling, the worst selected-quantile changes remain between `0.00774` and `0.00964`, above the `0.0050` limit, and thirteen rows require excessive feasibility repair. The engine sampled related published totals too independently and asked projection to create coherence after the draw.
+## 9. Technology and invention portfolio
 
-The structural successor generates totals, complements, nested shares and closed compositions before projection. Its 36,000 candidates are all legal integers with negligible repair, but the directed hierarchy distorts cross-table uncertainty; housing-unit spread reaches `1.73–1.81` times the published standard error. A moment-reconciled successor then proves that this distortion is not forced. Three completions preserve every official covariance block and marginal standard error while satisfying all six additive identities, eliminating every interior spread failure. The raw Gaussian states still leave the nonlinear civil-state region in roughly half of rows. Projection repairs legality but shifts population centers, rejects two candidates and leaves selected tails unstable.
+The $1.00 trillion technology-and-industrialization program exists to create capabilities the current market will not develop at the required scale, reliability or public-accountability standard. It has two conserved views.
 
-The factorized atomic registration supplies the missing semantic support. It defines 596 lawful person cells, 960 occupied household-unit cells and one vacant-unit cell per catchment. The successor adds authoritative under-five age detail, reconstructs all 468 extended points and raises the aggregation rank to 33, making the under-five total identifiable while leaving 1,524 latent directions and eight operational joints unidentified in every catchment. It also overturns the proposed moment target: seven nonnegative margins have point zero and positive sampling variance, an impossible mean–variance pair for any lawful state distribution. Registration `v3C0` places official covariance in four measurement-likelihood cases and discloses three lawful state-prior cases. Their full twelve-case factorial, 1,152 chains, 57.6-million-transition ceiling, twenty-five gates and architecture firewall are frozen before execution. The first architecture-blind preflight reconstructs the model and passes propriety, positive-definiteness, reduced-support connectivity and deliberate failure tests, but stops before posterior execution: the native-coordinate covariance gate passes only 37 of 48 paths because it does not impose a common statistical test across spectra or heavy tails. `v3C0A` freezes a whitened, familywise-calibrated replacement that has not yet been rerun. Adding samples after failure, choosing a favorable case or silently relaxing the gate would not create evidence.
+| Purpose account | 25-year authority |
+|---|---:|
+| Six mission systems | $550B |
+| Seven service technical bases | $150B |
+| National common capacity | $150B |
+| Sovereign technical estate | $100B |
+| Competitive failure reserve | $50.0B |
+| **Total** | **$1.00T** |
 
-Formal freeze still refuses to close: the amended measurement-error preflight has not passed and the posterior is neither executed nor admitted; deterministic unsalted holdouts are inferable; medical-power need below county, exact household–building binding, occupancy and operational building state remain unmeasured; the registered donor compiler has not run or been independently reproduced; service territories and causal feasibility remain incomplete; and no independent team has reproduced the full operator lineage. No New York architecture outcome has been generated.
+The same money moves through five time waves of $200B, $300B, $250B, $150B and $100B. Account and time views cannot be added. The first $200B tranche is nested; all obligation remains subject to experimental and public-title warrants.
 
-Once `L0` closes, each catchment receives 1,000 paired broad worlds per architecture under coupled heat, grid, elevator, water-pump, communications, workforce, cooling-service and street-operability stress. Five hypotheses jointly require a material `S3` advantage, absolute robustness in every archetype, household knowledge, complete safe service, destination admission and no rights or safety regression.
+Six mission systems advance as one coupled wavefront: theater entry and sustainment, civil-terrain access and construction, hazard control, lifeline restoration, human continuity, and regeneration. Shared waves do not mean shared machinery. Each system retains root-native physics and safe states; all-six mission proof precedes production readiness because interfaces are where catastrophic systems usually fail.
 
-The associated full-mission program makes the evidence burden institutional. Five element campaigns require 888 experimental units. Utility and district integration add sixty seven-day fault sequences and forty-eight occupied-district trials. Twelve developmental 168-hour missions permit redesign; a selected frozen candidate must then complete thirty confirmatory missions with zero complete-rule failures. Thirty zero-failure trials create only an approximately 90.5-percent one-sided lower confidence screen under accepted relevance and independence. A material architecture change resets the count.
+The first proof cohort translates ambition into an evidence burden. It contains twenty-four technology orders, two independently controlled builder roots per order and three nonfungible articles per root: integration, fatal-break and virgin clean reconstruction. That is 144 full-scale articles, all presently unbuilt. Eighteen anonymous proving nodes, forty-eight public fixture cores, independent metrology and one-shot events keep sponsorship, construction, observation and judgment separate.
 
-The first program-cost hypothesis is $46.2 billion in dedicated capital, $42.9 billion in twelve-year research and test operations, and $26.73 billion in reserve, for a $115.83 billion authorization screen. The number is not an independent estimate. It demonstrates what equal-seriousness evidence begins to look like when representative buildings, utility faults, rival full-scale articles, human participation, independent rights and safety authority, logistics, maintenance and repeated missions are not assumed free.
+The invention portfolio includes firm-energy desalination and pumping, high-temperature and high-particulate aviation, autonomous terrain control, reversible utility interfaces, disconnected civil-state systems, portable metrology, self-describing modules, residual recovery, cold reconstruction and software that fails safely without cloud authority. Programs are organized around mission failure parameters, not gadget categories.
 
-The formation also reopens campaign scale. Fourteen conventional cells would contain about 106,212 deployed people and cost $22.21 billion annually before transfer nodes, line haul, destination operations, higher command, or regeneration. Those values exceed the entire previous Harris `H3` hypotheses of 56,554 people and $19.41 billion per year. The multiplication is not a county or national force proposal; it proves that the earlier workforce and operating accounts are no longer adequate.
+The [coupled development wavefront](../force/generation/department-of-resilience-six-mission-system-coupled-development-wavefront-and-joint-demonstrator-constitution.md) and [experimental-realization compact](../force/generation/department-of-resilience-cohort-one-one-shot-event-adjudication-disclosure-and-terminal-return.md) govern the current program boundary. No major platform has production evidence. Innovation is authorized; technological triumph is not presumed.
 
-Tract pilots separately exposed the distance between buildings and transfer nodes. The first `CTN-10` transfer-node configuration grew from a nominal 220-person detachment to a 29,263-square-metre, 4,513-tonne, 2,289-person formation once queues, accessibility, life support, utilities, relief, and shifts were included. Together, `CTN-10` and `NCAC-35` show why task-level configuration must precede national arithmetic.
+## 10. Industrial economy and market design
 
-## What remains unproved
+A force of this scale would create a new industrial sector spanning shipbuilding, aviation, heavy machinery, modular utilities, robotics, medical systems, communications, materials, construction, maintenance, logistics and civil engineering. Stable multiyear demand would support dedicated facilities and careers that episodic disaster procurement cannot sustain.
 
-The central uncertainties are not cosmetic details. They can reverse the force design.
+Twenty-four **Root Houses** are the mature market hypothesis: defense-prime-scale enterprises able to integrate complete resilience systems. Their charters are deliberately narrower than conventional conglomerates. A house may lead only one root; it cannot own its evidence authority, sole-source its critical interfaces or purchase a rival root merely to retire it. Forty-eight formation families, forty-eight builder-root dossiers and twenty-four houses are different objects despite similar counts.
 
-- Public service-to-health and service-to-stability relationships are incomplete for most missions.
-- Hazard, infrastructure, workforce, route, receiver, supplier, and authority failures lack fitted joint distributions.
-- Most platforms and formations lack representative mass, energy, thermal, structural, reliability, maintenance, and deployment evidence.
-- Harris County now joins building proxies, damaged-road restoration, queues, destination admission and return at metropolitan scale, and `NCAC-35` converts one analytical catchment into a task, loss, workforce, equipment, utility, logistics, rights and cost configuration. The New York dossier selects provisional catchments without outcomes, shows that those selections survive corrected topology, binds the complete empty result surface, registers the primary hierarchical stress-world generator, freezes the official marginal input and donor surfaces, rejects three aggregate target engines, retains a fourth as semantic support, rejects exact state-moment cloning through a boundary proof, preregisters the twelve-case atomic posterior and stops its first covariance preflight before chains begin. The amended preflight, posterior execution and admission, hierarchical donor fit, independent reconstruction and compiler execution, medical-power coverage, operational building state, service territories, causal-feasibility rules, salted custody and named operational destinations remain absent.
-- The substitution curve between local protection and relocation is not empirically established by hazard, duration, population, or geography.
-- Workforce pipelines, industrial learning, supplier concentration, and lifecycle cost have not been independently estimated.
-- Legal, rights, environmental, and community-acceptance architectures require scenario-level testing, especially where rapid action and local sovereignty conflict.
+Private competition is paired with a sovereign technical estate. Government owns reference definitions, critical test infrastructure, reconstruction rights, public-interest data, step-in tooling and the ability to reproduce a failed or abandoned design. Twenty-four public fallback cells protect continuity without becoming a permanent favored producer. Second sources, open interfaces, critical-material stocks and distributed depots make industrial resilience a designed property.
 
-No major platform has reached `R3`. Model reconciliation proves that stated formulas agree with stated assumptions. It does not prove that the world behaves that way.
+Procurement pays for controlled learning before scale. Early contracts buy rival roots, destructive articles, test access, configuration custody and reconstruction—not glossy demonstrations or premature fleets. Production authority arrives only after complete service evidence. The state retains material title through defined stages so a contractor failure does not erase public ancestry.
 
-## The research program from here
+Exports are strategic only when they strengthen a second sovereign system. Partner production requires independent serials, trained workforces, repair and evidence rights, interoperable but noncaptured standards, and funded residual custody. Sales, favorable attention and market output never count as U.S. readiness or public effect. The [Root House market constitution](../force/generation/department-of-resilience-chartered-root-house-market-production-and-export-constitution.md) contains the full industrial design.
 
-The immediate task remains `L0`, not another conceptual expansion. Source acquisition, the operator catchment build, local-street topology correction, empty result registries, stress-world generator, official marginal inputs, pre-outcome civil-state method, donor custody, five target-method audits, posterior preregistration and the first preflight are complete. Moment engine `v3A` proves that official covariance, marginal standard errors and exact additive identities can coexist, but fails on unbounded Gaussian support. Atomic basis `v3B0` proves lawful point support. Audit `v3B1A` proves exact cloning of estimator moments as state moments impossible. Registration `v3C0` freezes four likelihoods, three priors, constrained computation, nested retention, posterior-predictive tests and independent reproduction. Preflight `v3C0` stops its own covariance gate and freezes successor `v3C0A` without rerunning it. The next decision is whether the amended 48-path preflight passes; only then may the full posterior challenge begin. Donor fitting remains prohibited. External salted holdout custody, replacement or approval of the borough service-territory proxy, blinded field-validity sampling and causal-feasibility rules remain parallel obligations. The five `L1` human-system protocols require external statistical, disability, worker-safety, civil-rights and ethics review, while the vertical-city range and utility yard advance only to requirements and independent cost definition.
+## 11. Workforce, basing and readiness
 
-The architecture must remain frozen for confirmation. Discoveries that require a New York-specific cell, a different building-access system or a new utility balance should create an exploratory successor rather than quietly retune `S3`. The program should welcome that result: a credible rejection or bounded variant is more valuable than a universal architecture produced by post-result adjustment.
+Machines do not create readiness. The mature establishment contains about **13.0 million affiliated positions** across National Career, Ready Reserve, Sovereign Covenant, Productive Service and Partner Fellow statuses. Direct arithmetic is 13.0307 million, but the manuscript reports at supported precision. Affiliations are not simultaneous employees, ready crews or a labor-market forecast.
 
-Beyond `L0`, the cell still needs alert, service-entry, expansion, sustainment and relief echelons; transfer nodes need prepared, mobile and expeditionary variants; and local continuity districts need heat, smoke, flood, grid-loss and building-access forms. The Harris workforce and lifecycle frame must be rebuilt from accepted task evidence before national multiplication. A third metropolitan replication selected blind to New York outcomes remains necessary even if the vertical-city campaign and full-mission trials pass.
+| Civil status | Affiliated positions | Strategic role |
+|---|---:|---|
+| National Career | 5.57M | Standing technical, operational and institutional depth |
+| Ready Reserve | 2.94M | Mobilizable trained capacity with bounded duty |
+| Sovereign Covenant | 2.43M | State, territorial, tribal and local continuity |
+| Productive Service | 2.07M | Industrial and infrastructure mobilization |
+| Partner Fellow | 20,700 | Reciprocal professional and technical capacity |
 
-The mature vision is deliberately audacious: an American capacity to preserve complex life, restore the physical basis of civil society, and help partners recover at a scale visible to the world. The discipline is equally demanding. Nothing becomes national power until the complete chain works under damage, at human scale, with rights intact, and can do so again for the next campaign.
+The workforce constitution guarantees voluntary paid entry, portable credentials, labor rights, family support, health surveillance, injury care, recovery time and appeal. Mobilization authority is bounded by status and warrant. A coequal civil institution cannot depend on heroic precarity or convert civic duty into cheap labor.
+
+Basing is a service network rather than a collection of warehouses. Seven domestic readiness districts and two international reach networks combine arsenals, academies, depots, laboratories, proving grounds, hospitals, utility anchorages, mobility nodes and prepared civil receivers. Fixed assets and mobile formations are one system. Every critical family must survive geographic loss, and readiness expires when people, configuration, stocks, receivers or evidence lapse.
+
+Training reproduces complete mission threads under degraded conditions. Crews must practice disconnected operation, loss of a site, contaminated records, inaccessible buildings, residual custody, lawful refusal, host control and cold reconstruction. The [workforce compact](../mandate/department-of-resilience-workforce-service-citizenship-and-reserve-compact.md) and national force allocation make people, recovery and institutional depth visible costs rather than an afterthought.
+
+## 12. Finance and program reconciliation
+
+The mature twenty-five-year planning screen is **$68.4 trillion** in constant 2026 dollars:
+
+| Public account | 25-year screen | What it buys |
+|---|---:|---|
+| Technology and industrialization | $1.00T | Invention, rival roots, public proof and production learning |
+| Force and estate capital | $17.4T | Owned formations, bases, receivers, depots and replacement stock |
+| Ramped operations | $50.0T | People, training, maintenance, stocks, routine service and institutional operation |
+| **Total** | **$68.4T** | Undiscounted architecture screen |
+
+The $2.11 trillion mature annual operating screen is the steady-year endpoint; multiplying it by twenty-five would ignore the ramp. The screen is not a forecast, appropriation request or benefit-cost conclusion. It is the internally linked resource consequence of the selected promise under uncalibrated design assumptions.
+
+Several attractive figures are nested. The $550B mission-system account is inside the $1.00T technology program. The $200B first tranche is inside the same program, and the $750B through year fifteen already includes it. The $27.5B first-cohort mission authority, $15.6B construction ceiling, $43.0B proof-wave reservation and $25.0B assigned exposure overlap in scope; they are not successive additions.
+
+Six ledgers remain separate: capital, routine operations, incident expenditure, recovery transfers, market output and avoided loss. Exports and avoided damages may be economically important, but they do not net against public readiness costs. This prevents the strategy from financing itself through speculative savings or double-counted commercial activity.
+
+The right policy comparison is not $68.4T against today’s disaster budget. It is the cost of a new national promise against the value of possessing—or declining to possess—a coequal form of constructive power. The model provides a transparent planning boundary for that choice, not false precision.
+
+## 13. Integrated strategic synthesis
+
+The mature Department can be understood as one causal system:
+
+```text
+PUBLIC PROMISE
+      ↓
+complete service vectors and rights
+      ↓
+five-house authority separation
+      ↓
+services + mission systems + formations
+      ↓
+rival technology roots + public evidence
+      ↓
+owned stock + people + bases + receivers
+      ↓
+domestic and invited employment
+      ↓
+accepted civilian effects + regeneration
+      ↓
+industrial capacity, legitimacy and strategic freedom
+```
+
+No layer can substitute for the next. A powerful technology without a formation is not force. A formation without a receiver is not projection. A campaign without effect evidence is not success. An export without sovereign partner capacity is not alliance power. A manuscript image without configuration and representation authority is not technical truth.
+
+Three judgments are now sufficiently stable to govern the project.
+
+First, the correct institution is not an expanded legacy agency. It is a new cabinet department with constitutionally separated houses, its own force-generation economy and a civil-service profession large enough to sustain strategic commitments.
+
+Second, the correct force is not a fleet of rescue platforms. It is a layered service system in which protected local continuity, hazard control, lifeline restoration, projection, mobility, reception and regeneration are mutually dependent. Purpose-built ships, aircraft, vehicles and infrastructure are derived from those chains.
+
+Third, the correct technology policy is neither cautious procurement of mature products nor faith in speculative breakthroughs. It is a trillion-dollar public learning system that funds ambitious rival architectures, preserves public reconstruction, expects failure and withholds production authority until complete service is demonstrated.
+
+The study therefore supports a national choice: build an institution capable of treating civilian survival and recovery as strategic power. It does not claim that the hypothesized machines already work, that the planning force is optimally sized or that the resource screen is calibrated. Those questions become the mandate of experiments, pilots and later appropriations—not reasons to dilute the first-principles architecture in advance.
+
+## 14. Technical visual atlas
+
+The final atlas is an instrument of reasoning, not decoration. It must make the Department’s causal architecture and technical alternatives legible while preserving the distinction among requirement, topology, experimental configuration and observed evidence.
+
+The controlling [atlas constitution](technical-visual-atlas-constitution.md) authorizes twenty-two plates in three groups: ten strategic-system diagrams, six instrumented root-native sections and six equal-salience rival-form sets. It permits publication classes `PUB-0` and `REP-0` through `REP-3`. It holds `REP-4` through `REP-7`, which would imply as-built experimental records, evidence-qualified candidates, complete mission validation or production fleets.
+
+The visual rule is simple: **show only what the research has earned, and show uncertainty where it lives**. A nuclear-powered desalination carrier may appear as rival service-chain architectures with energy, intake, residual, conveyance, receiver and safe-state boundaries. It may not appear as the Department’s selected flagship. A firefighting aircraft may be shown through competing atmospheric-intervention forms and instrumented failure paths. It may not be captioned with unmeasured range or performance.
+
+At publication, every plate will carry its representation class, configuration owner, evidence state, prohibited inference and source path. The atlas will make the ambition vivid without allowing visual coherence to masquerade as engineering truth.
+
+## What is settled—and what is not
+
+This manuscript settles the architecture of the proposition: the public service contract, institutional constitution, force grammar, domestic and invited doctrine, innovation system, industrial design, workforce scale and reconciled resource hierarchy form one national strategy. It also settles how the final atlas may represent that strategy.
+
+It does not settle observed performance. The first experimental cohort remains unbuilt; no major candidate has earned production authority; force quantities remain planning consequences; and public effects remain unobserved. The immediate publication task is now narrow: issue and verify the twenty-two authorized atlas plates, then return the strategic-synthesis branch to its registered parent.
+
+---
+
+### Controlling companion decisions
+
+- [Strategic synthesis architecture and completion stocktake](department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md)
+- [Cross-chapter claim and quantity reconciliation](department-of-resilience-cross-chapter-claim-and-quantity-reconciliation.md)
+- [Invited Resilience Partnership Compact](department-of-resilience-invited-resilience-partnership-compact.md)
+- [Active research frontier](../frontier.md)
+- [Supersession map](../history/supersession-map.md)

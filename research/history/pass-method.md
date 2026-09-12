@@ -1,6 +1,6 @@
 # Research pass termination method
 
-**Effective:** through Pass 248
+**Effective:** through Pass 249
 
 **Adversarial-review state:** `RELEASED — HR-03`
 
@@ -40,3 +40,5 @@ Pass 241 closes that item through `EDR-1`: twenty-four immutable kernels, 144 se
 Pass 247 closes that reconciliation through `SYN-2`: twenty-eight controlling claims, forty-three quantities and fourteen contradiction dispositions govern the final manuscript. Eight more publication gates close, moving the editorial screen to 57 of 70, or 81.4%. USD1.00T is now explicitly the technology-and-industrialization program inside the USD68.4T mature resource screen; 2,420 commitments, 5,251 owned formations and 13.0 million affiliations retain distinct denominators. `SYN` has consumed two passes and retains one open item: international projection and partnership doctrine. The consecutive no-`KILL` count is seven since `HR-03`; no review is due.
 
 Pass 248 closes that doctrine through `IRPC-1`: eighteen compact clauses, fourteen separated authorities, bilateral non-recall, sovereign finance and data custody, ten-gate partner-production admission, eleven campaign states and nine conjunctive exit gates govern two invited campaigns and 675 commitments. Two reader-asset gates close, moving the editorial screen to 59 of 70, or 84.3%. `SYN` has consumed three passes and retains one open item: rewrite the integrated senior-reader manuscript and define the exact representation classes eligible for the final atlas without promoting design into evidence. The consecutive no-`KILL` count is eight since `HR-03`; no review is due.
+
+Pass 249 closes that item through `SYN-3 / TVA-0`: a fourteen-chapter senior-reader manuscript replaces the chronology-led draft, and a twenty-two-plate constitution authorizes ten strategic diagrams, six `REP-2` instrumented sections and six `REP-3` rival-form sets while holding `REP-4` through `REP-7`. Ten publication gates close, moving the editorial screen to 69 of 70, or 98.6%. `SYN` has consumed four passes and retains one open item: issue, audit and integrate the authorized atlas, then return at the mandatory fifth pass. The consecutive no-`KILL` count is nine since `HR-03`; no review is yet due.
