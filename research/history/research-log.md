@@ -5666,3 +5666,19 @@ The workload screen yields about 6,420 average and 8,030 peak direct-position eq
 The fifteen-sheet workbook contains 2,328 formulas, seventy-five passing audits and twenty-six applied, detected and restored mutations. Formula-error, external-link and archive checks are clean; every sheet was visually reviewed. No site, firm, title, `MAKE`, build, event, result or rendering exists.
 
 `EXR-2` closes the inherited physical campaign question and opens one successor: which simultaneous `MAKE` slate, serial material-title transaction, severable contract lots, milestone-payment firewall, construction acceptance and cancellation law can populate the scheduled 144 articles without converting spend, schedule, factory completion or fixture readiness into observation? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is two since `HR-03`.
+
+## Pass 243 — Cohort-One Simultaneous `MAKE` and Public-Title Transaction Constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EXR`, with two prior passes consumed. Reversal would allow contracting, cash, title or construction acceptance to select articles or buy evidentiary standing, changing the proof-wave architecture and the Department's public-knowledge constitution.
+
+`MIT-1` makes all 144 serial warrants one atomic issue slate while dividing execution into 408 severable lots: 144 article lots, 144 serial tooling-use burdens, forty-eight public fixtures and seventy-two metrology/custody scopes. Each of twenty-four technology orders carries seventeen independently priced, accepted, payable, step-in-capable and cancellable lots. Partial `MAKE` issue is prohibited, but fabrication retains the six predetermined start waves before the week-104 first event opportunity.
+
+Six title states preserve public beneficial ownership and serial ancestry from accepted tagged material through residual custody while contractor risk persists through construction acceptance. Eight performance-blind milestones across every lot create 3,264 planned claims. Eight construction-only gates per serial create 1,152 conformance records; none may establish event readiness, an observation or service effect. Sixteen cancellation dispositions preserve earned conformance and public title. A valid adverse result cannot trigger cancellation, clawback, warranty conversion or automatic retry.
+
+Thirty prohibited common-control edges separate roots, reconstruction, fixtures, metrology, acceptance, finance, result disposition and archive. The inherited USD25.0B base exposure reconciles across four purpose-bound jurisdictions, but actual obligation, payment, title vesting and construction acceptance remain zero.
+
+The sixteen-sheet workbook contains 10,004 formulas, eighty-four passing audits and thirty-four applied, detected and restored mutations after fresh-file recalculation. Formula-error, external-link and archive checks are clean; every sheet and long-ledger tail was visually reviewed. No firm, site, `MAKE`, build acceptance, event, observation, result or rendering exists.
+
+`EXR-3` closes the inherited simultaneous-transaction question and opens one successor: which site commissioning, fixture installation, article transport, metrology calibration, dry rehearsal, event-readiness, abort recovery and receiver acceptance sequence can convert accepted construction into 144 valid event opportunities without construction acceptance or rehearsal becoming performance evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is three since `HR-03`.
