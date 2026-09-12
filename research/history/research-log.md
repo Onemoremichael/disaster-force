@@ -5464,3 +5464,17 @@ The cohort-one obligation is USD179M. USD359M remains legally protected for coho
 The thirteen-sheet workbook contains 1,254 live formulas, fifty-one passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
 
 `FSA-4` closes the inherited execution-warrant question and opens one terminal successor: can the fifth `FSA` pass reconcile learning authority, simultaneous issue, cohort sequencing, root-epoch safety law and cohort-one execution into a terminal form-selection-authority compact, state every nonconversion and rollback, and `RETURN` to the registered parent question? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is nine since `HR-01`.
+
+## Pass 230 — Form-learning authority terminal compact and return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `FSA`, with four prior passes consumed; this was its mandatory fifth pass. Reversal would let learning, finance, safety, evidence and selection collapse into one administrative act, or remove the lawful path that generates comparative evidence, changing the first physical portfolio and acquisition constitution.
+
+The `FSA-TC` reconciles Passes 226–229 under the Pass 225 selection covenant. Eleven authority instruments and fourteen separated roles preserve different acts for learning, simultaneous issue, cohort scheduling, source-blind safety change, obligation, work, artifact acceptance, payment, observation, selection and `REP-4`. Twenty nonconversions prevent administrative, fiscal and epistemic states from substituting for one another. Fourteen rollback routes preserve sibling reserves and reset evidence and selection credit.
+
+Eighteen warrants remain issued. Six cohort-one forms and thirty packages are working under USD179M of obligations. Twelve forms and sixty packages remain reserved under USD359M of protected authority. Payment, accepted artifacts, accepted observations, survivors, selections, safety-equalization authority and `REP-4` remain zero or held.
+
+The sixteen-sheet workbook contains 973 live formula records, seventy-four passing audits, twenty detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
+
+`FSA-5` closes the inherited terminal question and opens nothing: opened 0, closed 1, net −1, running total 0. `FSA` exhausts its five-pass budget and returns to the already registered parent: what form-selection and representation authority, if any, follows from complete first-principles falsification architecture before observed evidence is earned? No form or branch is killed. The consecutive no-`KILL` count reaches ten since `HR-01`; the project halts for human review before another pass.
