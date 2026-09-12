@@ -1,8 +1,8 @@
 # Research pass termination method
 
-**Effective:** after `HR-02`
+**Effective:** after `HR-03`
 
-**Adversarial-review state:** `RELEASED — HR-02`
+**Adversarial-review state:** `RELEASED — HR-03`
 
 The top-level decision layer is the single thesis document in the [repository root](../../README.md). Every other numbered line of inquiry is a branch, including Department-wide constitutional, force, system, proving and programmatic work.
 
@@ -31,4 +31,4 @@ A pass is at most 1,500 words. Unsupported precision is prohibited: use no more 
 
 ## Current checkpoint
 
-Passes 221–230 triggered the second ten-pass checkpoint. [Adversarial Review HR-02](human-review-221-230.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. It releases the interval, resets the consecutive no-`KILL` counter and registers `AVA` before Pass 231. Passes 231–235 complete all five `AVA` decisions. Pass 235 closes the branch's sole remaining item, opens none and returns to the registered cohort-one artifact question without a successor. [Registration `FR-03`](frontier-registration-post-ava-engineering-definition-baselines.md) opens `EDB` before Pass 236. Pass 236 constitutes the baselines. Pass 237 rejects their inherited one-sided numerical closure and issues twenty-one uprating orders. Pass 238 replaces three hidden common dependencies with source-specific physical independence lattices while retaining three valid topologies. Pass 239 requires 144 nonfungible full-scale articles, forty-eight root-bound tooling cells and forty-eight public proving fixtures, and exposes a USD390M jurisdictional mismatch without spending or authority conversion. `EDB` has consumed four passes. The no-`KILL` count is nine since `HR-02`; the fifth pass must reconcile and return, after which the autonomous ten-pass audit is recorded without a review blocker.
+Passes 231–240 triggered the third ten-pass checkpoint. [Adversarial Review HR-03](human-review-231-240.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. Passes 231–235 establish and reconcile artifact validity, dual reconstruction and a failure-tolerant public estate; Pass 235 returns `AVA`. [Registration `FR-03`](frontier-registration-post-ava-engineering-definition-baselines.md) opens `EDB`. Passes 236–239 constitute six sovereign baselines, correct one-sided arithmetic, replace three common keystones and define a 144-article industrial program. Pass 240 resolves the USD390M cost-jurisdiction mismatch by causal function, bounds technical-rendering eligibility and returns `EDB` with no open item. `HR-03` releases the interval and resets the no-`KILL` count to zero. [Registration `FR-04`](frontier-registration-post-edb-experimental-realization.md) opens `EXR` before Pass 241 with one item and zero consumed passes: the immutable pre-`MAKE` experiment record and its hold-or-terminate law.
