@@ -5714,3 +5714,29 @@ Eight independently originated raw objects, hashes within 15 minutes, two custod
 The eighteen-sheet workbook contains 9,603 formulas, ninety-five passing audits and forty-six applied, detected and restored mutations. Fresh-file recalculation and formula-error, external-link, archive and visual checks are clean. The inherited USD25.0B planning exposure remains conserved; every event, obligation, result and downstream authority remains zero.
 
 `EXR-5` closes the Pass 244 event execution-and-adjudication item and opens nothing: opened 0, closed 1, net −1, running total 0. `EXR` returns to the registered `FR-04` parent with an executable but unexecuted proof campaign and no successor. No branch is killed. The consecutive no-`KILL` count is five since `HR-03`; no review is due.
+
+## Frontier registration FR-05 — Strategic synthesis and publication closure
+
+This unnumbered [registration](frontier-registration-post-exr-strategic-synthesis.md) occurs after `EXR` returns. It opens `SYN`: at most five passes to convert the accumulated corpus into one concise, defensible and visually legible national strategy without erasing uncertainty, supersession or the distinction between design and evidence. The first item asks which report architecture, claim hierarchy, closure grammar and authoritative decision map should replace pass accumulation. Opened 1, closed 0, running total 1. `SYN` has consumed zero passes. Technical renderings remain held.
+
+## Pass 246 — Strategic synthesis architecture and completion stocktake
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `SYN`, with zero prior passes consumed. Reversal would leave chronology and corpus size as the publication architecture, changing the thesis presentation, chapter structure and completion standard.
+
+`SYN-1` establishes fourteen final chapters governed by five noncompensatory gates: requirement, architecture, quantification, integration and reader asset. A repository audit closes 49 of 70 gates, giving a 70.0% editorial completion screen. Four chapters are ready, nine partial and the technical visual atlas not ready. The percentage is not confidence, measured capability or publication authority.
+
+The strategic study becomes the manuscript spine; the root README remains the reader map; the frontier states present uncertainty; and the research log, supersession map, decision papers and workbooks retain provenance. International projection, the integrated synthesis and the technical atlas carry the largest unclosed burdens. Renderings remain held until requirements, causal topology, configuration and evidence state govern the representation.
+
+The twelve-sheet workbook records seventy gate judgments, fourteen controlling decisions, twenty-eight claim-chain rows, twenty-four quantitative boundaries, twenty-one publication burdens and twelve supersession rules. Sixty-six independent audits pass; twenty-four live mutations are detected and restored. No evidence, procurement, readiness, operational or rendering authority advances.
+
+`SYN-1` closes the registered architecture item and opens one successor: reconcile the cross-chapter claims and quantities without double counting or promoting planning assumptions to evidence, and identify contradictions that must be cut or reworked before manuscript rewrite. Opened 1, closed 1, net 0, running total 1. `SYN` has consumed one of five passes. No branch is killed. The consecutive no-`KILL` count is six since `HR-03`; no review is due.
+
+**Became authoritative:** `SYN-1`, the fourteen-chapter, seventy-gate publication architecture and 70.0% editorial completion screen.
+
+**Died:** no prior branch.
+
+**Burden of proof moved:** from accumulating research objects to reconciling controlling claims and quantities into one manuscript.
+
+**Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?

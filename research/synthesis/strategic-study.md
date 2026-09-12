@@ -6,6 +6,8 @@
 
 **Horizon:** a mature United States Department of Resilience after a generational build
 
+**Publication architecture:** Pass 246 decision `SYN-1` governs the final manuscript: fourteen chapters must each close requirement, architecture, quantification, integration and reader-asset gates. The current repository audit closes 49 of 70 gates, a 70.0% editorial completion screen rather than a confidence, capability or readiness claim. See the [strategic synthesis architecture and stocktake](department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md).
+
 ## Executive judgment
 
 The United States should treat the capacity to preserve and restore civilian life-support as a coequal instrument of national power. The mature institution would not be an enlarged disaster agency, a reserve military mission, or a purchasing program for dramatic vehicles. It would be a cabinet-level **Department of Resilience** able to generate, project, employ, sustain, and regenerate complete civil-service forces across domestic, territorial, tribal, and international campaigns.

@@ -6,6 +6,8 @@ All monetary values are real 2026 U.S. dollars unless a sheet states otherwise. 
 
 This is the exhaustive inventory. The shorter [model-library guide](README.md) explains how the tree is organized and how to inspect a workbook; the [strategic study](../research/synthesis/strategic-study.md) carries the argument; and the [active frontier](../research/frontier.md) carries current status.
 
+Current synthesis control: [Strategic Synthesis Architecture and Completion Stocktake](programmatics/department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.xlsx) maps fourteen final chapters against five noncompensatory gates, closes 49 of 70 and reports 70.0% editorial completion. Its twelve sheets also reconcile fourteen controlling decisions, twenty-eight claims, twenty-four quantitative boundaries, twenty-one publication burdens and twelve supersession rules. Sixty-six audits pass and twenty-four mutations are detected and restored. [Analysis](../research/synthesis/department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md)
+
 ## The main model lineage
 
 ```text
