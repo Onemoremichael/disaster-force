@@ -5384,3 +5384,17 @@ All eighty-four root-by-view-rule decisions pass. The plates preserve equal sali
 The ten-sheet workbook contains 152 live formulas, twenty-five passing audits and twelve applied-and-restored mutations after independent office recalculation. An initially weak blank-hash check was found and repaired. The formula scan is clean and one native chart survives. The USD 3.59B option ceiling and USD 0.538B `FRAME` share remain conserved; incremental, accepted and paid amounts remain zero.
 
 `RVS-3` closes corrected reissuance and opens one successor: whether every corrected form can receive a root-native minimum dimension envelope and decisive-interface coordinate set without importing a common chassis, implying measured performance or exceeding the existing `FRAME` ceiling. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is three.
+
+## Pass 224 — Six-root native dimension envelope and decisive-interface atlas
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `RVS`, with three prior passes consumed. Reversal would remove the first physical design space for all eighteen forms or force them into a common chassis before testing, changing the first physical portfolio.
+
+All eighteen corrected forms receive interval-bounded system, largest-cell, depth and reach envelopes. Six noninterchangeable root-native coordinate frames govern 108 decisive-interface boxes. Every box fits inside its form's minimum envelope, and all 108 inherited section-to-form records remain design-close and test-open. Generated plate proportions remain nonmetrological, and no new raster is issued.
+
+Fifty-four form-induced invention campaigns now bind each decisive interface family to a required novelty and fatal prototype event. They include motion-decoupled marine exchange, robotic occupied-boundary attachment, attributable atmospheric persistence, roadless and caisson geothermal access, self-contained clinical metabolism and disconnected material qualification. Accepted evidence remains zero.
+
+The eleven-sheet workbook contains 1,620 live formulas, thirty passing audits and fourteen applied-and-restored mutations after independent office recalculation. The formula scan is clean and one native chart survives. The USD 3.59B option ceiling and USD 0.538B `FRAME` share remain conserved; incremental, accepted and paid amounts remain zero.
+
+`RVS-4` closes root-native dimensional framing and opens one terminal successor: whether the fifth pass can bind all eighteen forms to destructive tests, disqualifying observations and nonconversion rules, then return to the pre-registered form-selection question. Opened 1, closed 1, net 0, running total 1. The consecutive no-`KILL` count is four.
