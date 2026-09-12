@@ -5478,3 +5478,13 @@ Eighteen warrants remain issued. Six cohort-one forms and thirty packages are wo
 The sixteen-sheet workbook contains 973 live formula records, seventy-four passing audits, twenty detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
 
 `FSA-5` closes the inherited terminal question and opens nothing: opened 0, closed 1, net −1, running total 0. `FSA` exhausts its five-pass budget and returns to the already registered parent: what form-selection and representation authority, if any, follows from complete first-principles falsification architecture before observed evidence is earned? No form or branch is killed. The consecutive no-`KILL` count reaches ten since `HR-01`; the project halts for human review before another pass.
+
+## Adversarial Review HR-02 — Passes 221–230
+
+**Decision:** `RELEASE`
+
+The [review](human-review-221-230.md) finds two complete five-pass branches. `RVS` makes eighteen rival forms representable, challengeable, dimensionable and subject to noncompensatory selection law. `FSA` makes the learning program financeable while keeping artifact acceptance, payment, observation, selection, `MAKE` and `REP-4` separate. Every pass closes a prior registered item, both ledgers end at zero, both fifth passes return to registered parents and every reversal changes the first physical portfolio or acquisition constitution.
+
+No prior branch is killed. Five withdrawn hypotheses and four rejected alternatives never became consumed research branches. The external human-approval halt is superseded by an autonomous adversarial checkpoint conducted by the research lead. Branch budgets and honest `KILL` remain binding; the no-`KILL` counter resets to zero.
+
+Before Pass 231, `HR-02` registers `AVA`: can six active cohort-one form cells convert thirty funded `FRAME` packages into source-sealed, independently reproducible and payable design artifacts without converting acceptance into evidence, exposing comparative performance, weakening sibling reserves or authorizing `MAKE` or `REP-4`; and what invalidity or common-control finding would terminate that authority?
