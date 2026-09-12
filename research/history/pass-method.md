@@ -1,6 +1,6 @@
 # Research pass termination method
 
-**Effective:** after `HR-03`
+**Effective:** through Pass 241
 
 **Adversarial-review state:** `RELEASED — HR-03`
 
@@ -32,3 +32,5 @@ A pass is at most 1,500 words. Unsupported precision is prohibited: use no more 
 ## Current checkpoint
 
 Passes 231–240 triggered the third ten-pass checkpoint. [Adversarial Review HR-03](human-review-231-240.md) finds two valid completed five-pass branches, no invalid verdict and no branch that should be killed. Passes 231–235 establish and reconcile artifact validity, dual reconstruction and a failure-tolerant public estate; Pass 235 returns `AVA`. [Registration `FR-03`](frontier-registration-post-ava-engineering-definition-baselines.md) opens `EDB`. Passes 236–239 constitute six sovereign baselines, correct one-sided arithmetic, replace three common keystones and define a 144-article industrial program. Pass 240 resolves the USD390M cost-jurisdiction mismatch by causal function, bounds technical-rendering eligibility and returns `EDB` with no open item. `HR-03` releases the interval and resets the no-`KILL` count to zero. [Registration `FR-04`](frontier-registration-post-edb-experimental-realization.md) opens `EXR` before Pass 241 with one item and zero consumed passes: the immutable pre-`MAKE` experiment record and its hold-or-terminate law.
+
+Pass 241 closes that item through `EDR-1`: twenty-four immutable kernels, 144 serial annexes and nine seals at each level become the sole route to `MAKE-ELIGIBLE`. `EXR` has consumed one pass and carries one item: the physical campaign topology and release sequence. The consecutive no-`KILL` count is one since `HR-03`; no review is due.
