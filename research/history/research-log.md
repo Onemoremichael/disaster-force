@@ -5422,3 +5422,17 @@ Form selection remains zero, but comparative learning authority now exists. All 
 The eleven-sheet workbook contains 1,051 live formulas, thirty-three passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
 
 `FSA-1` closes the registered pre-evidence authority question and opens one successor: what campaign sequence can issue all eighteen learning warrants without impossible simultaneity, root cost starvation or early-result prejudice. Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is six since `HR-01`.
+
+## Pass 227 — Selection-neutral learning-warrant sequence and evidence escrow
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `FSA`, with one prior pass consumed. Reversal would require an eighteen-form physical surge or permit order and early results to select the first portfolio before comparable evidence exists, changing a first-order acquisition decision.
+
+All eighteen legal learning warrants issue at week 0 and reserve their complete shares of the USD 0.538B `FRAME` ceiling. Physical activation is scheduled through three successive cohorts of six. Every cohort contains one form per root, two `A`, two `B` and two `C` variants and one-third of the ceiling. The 24-week cohort and 72-week wall clock are planning hypotheses; simultaneous legal standing, root balance, non-overlap and reservation are constitutional properties.
+
+Twelve escrow rules allow only symmetric safety orders to cross cohorts. Relative results, cost performance, design hints, maturity judgments and rank remain sealed until all three cohorts finish. Early savings cannot accelerate a later sibling, an overrun cannot consume its reserve and an early failure cannot release money into another form. Cohort completion permits evidence adjudication, not selection. Obligation, payment, accepted observation, selection, `MAKE`, `BREAK` and `REP-4` remain zero or held.
+
+The twelve-sheet workbook contains 814 live formulas, thirty-six passing audits, sixteen detected-and-restored mutations and one native chart after independent office recalculation. The formula-error scan is empty and no external links exist. No new rendering is issued.
+
+`FSA-2` closes the inherited sequence question and opens one successor: what configuration-freeze, change-control and escrow protocol can permit symmetric safety learning across the three cohorts without allowing performance learning to alter a later sibling's form? Opened 1, closed 1, net 0, running total 1. No form or branch is killed. The consecutive no-`KILL` count is seven since `HR-01`.
