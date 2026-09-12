@@ -5514,3 +5514,17 @@ The deepest active branch was `AVA`, with one prior pass consumed. Reversal woul
 Thirty packages create 540 capsule records, 180 invariant records, 240 native stages, 300 clean stages and 180 knowledge-firewall decisions. The inherited USD26.9M reconstruction and USD14.3M public-escrow accounts form a USD41.3M planning ceiling across seven technical-estate functions. The twelve-sheet workbook contains about 2,650 live formulas, fifty passing audits, eighteen detected-and-restored mutations and one native chart after independent office recalculation. The formula scan is empty and no external links exist. Completion, reproducibility, payment, observation, selection, `MAKE` and `REP-4` remain zero. No rendering is issued.
 
 `AVA-2` closes the inherited grammar question and opens one successor: what institutional and physical topology can operate six Root Artifact Courts, native replay cells, clean-room reconstruction cells, performance escrow and the Public Artifact Exchange under site loss, compromise and vendor exit without common control or unaffordable replication? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is two since `HR-02`.
+
+## Pass 233 — Federated Artifact Estate topology and loss constitution
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `AVA`, with two prior passes consumed. Reversal would require a common national validity campus, six complete duplicated estates or vendor-mediated reconstruction, changing the first-order control, failure and cost architecture.
+
+`FAE-1` overlays an eighteen-site triadic lattice on the existing truth-station nuclei. Each root spans three failure domains and receives two separately sited Native, Clean and Divergence paths. Eighteen court seats create six distributed two-of-three quorums. Six regional Exchange nodes fully mirror public capsules and protect escrow through four-of-six custody. The builder is not an operating node.
+
+Thirty site, region, vendor, role, court and custody losses generate 540 passing root-function judgments. A site loss leaves all three functions and two court seats; a region loss removes one site from three roots and one Exchange share while preserving every function, quorum and five shares. A second root-site loss, common control, leakage, builder dependency or truth-capacity displacement forces `HOLD` or termination.
+
+The USD540M capital figure is a maximum co-use ceiling inside the existing public-method replay and cold-run reservation, not a new appropriation. The inherited USD41.3M reconstruction and escrow operating ceiling is unchanged. The fourteen-sheet workbook contains 2,656 formulas, fifty passing audits, eighteen detected-and-restored corruptions and one chart after independent office recalculation. The formula-error and external-link scans are empty. Sites, stewards, keys, commissions, warrants, payments, observations, selections, `MAKE` and `REP-4` remain zero. No rendering is issued.
+
+`AVA-3` closes the inherited topology question and opens one successor: what commissioning and non-displacement warrant can assign real sites, stewards, keys, vendors, enclave builds and recovery clocks to `FAE-1`, rehearse every single-site and single-region loss and prove that co-use of the USD540M replay/cold-run reservation does not displace the truth trains or convert drills into `AVW`? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is three since `HR-02`.
