@@ -10,6 +10,10 @@ It does not enlarge the existing emergency-management system. It does not place 
 
 The premise is that a harsher environment changes the meaning of national power. A state that can deliver safe water, power, cooling, medical care, communications, mobility and civil continuity through catastrophe possesses a strategic capability. It protects its own population, stabilizes partners by invitation, creates a major industrial economy and makes democratic competence visible.
 
+## Current completion
+
+Pass 246 replaces pass and file accumulation with a publication architecture. The final study has fourteen chapters, each governed by five noncompensatory gates: requirement, architecture, quantification, integration and reader asset. The repository currently closes 49 of 70 gates—**70.0% editorial completion**—with four chapters ready, nine partial and the technical visual atlas not ready. This is a manuscript stocktake, not a confidence, capability or readiness claim. The [synthesis architecture and completion stocktake](research/synthesis/department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md) shows exactly what closes and what remains.
+
 ## The design rule
 
 The unit of account is not an agency, platform or tonne of aid. It is:
