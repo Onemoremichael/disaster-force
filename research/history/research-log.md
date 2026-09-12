@@ -5740,3 +5740,25 @@ The twelve-sheet workbook records seventy gate judgments, fourteen controlling d
 **Burden of proof moved:** from accumulating research objects to reconciling controlling claims and quantities into one manuscript.
 
 **Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
+
+## Pass 247 — Cross-chapter claim and quantity reconciliation
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `SYN`, with one prior pass consumed. Reversal would let the manuscript treat USD1.00T and USD68.4T, or 2,420 commitments and 5,251 formations, as competing or additive headline measures, changing the thesis’s force and fiscal scale.
+
+`SYN-2` assigns twenty-eight controlling claims and forty-three quantities to explicit chapters, authority states, sources, qualifiers, scopes, time bases, parent relations and prohibited inferences. Fourteen apparent contradictions receive four retirements, two supersessions and eight reconciliations. None remains unresolved.
+
+USD1.00T becomes the technology-and-industrialization program inside the USD68.4T mature twenty-five-year planning screen, which also contains USD17.4T of capital and USD50.0T of ramped operations. The first USD200B tranche and later cohort, sentinel, proof-wave and assigned-exposure quantities remain nested or overlapping views. In force structure, 2,420 commitments plus 502 reserve, 745 geographic buffer and 1,584 cycle-stock formations equal 5,251 owned formations. The 13.0 million affiliation figure is not simultaneous employment or payroll.
+
+Eight publication gates close. Fifty-seven of seventy now close, producing an 81.4% editorial screen: five chapters are ready, eight partial and the technical atlas not ready. The twelve-sheet workbook contains forty passing audits and twenty applied, detected and restored mutations. Formula-error, external-link, archive and visual checks are clean. No publication, evidence or rendering authority advances.
+
+`SYN-2` closes the Pass 246 reconciliation item and opens one successor: which foreign-policy compact, host-sovereignty transaction, invited-force service contract, non-recall law, partner industrial role, evidence-sharing rule, financing boundary and transition-to-exit sequence should govern two simultaneous invited campaigns and their 675 formation commitments without colonial substitution or domestic-readiness laundering? Opened 1, closed 1, net 0, running total 1. `SYN` has consumed two of five passes. No branch is killed. The consecutive no-`KILL` count is seven since `HR-03`; no review is due.
+
+**Became authoritative:** `SYN-2`, the twenty-eight-claim and forty-three-quantity manuscript control with fourteen contradiction dispositions.
+
+**Died:** no prior branch; four misleading interpretations are retired and two predecessor figures are superseded.
+
+**Burden of proof moved:** from cross-chapter arithmetic to international projection and partnership doctrine.
+
+**Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?

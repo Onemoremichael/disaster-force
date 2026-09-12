@@ -12,7 +12,7 @@ The premise is that a harsher environment changes the meaning of national power.
 
 ## Current completion
 
-Pass 246 replaces pass and file accumulation with a publication architecture. The final study has fourteen chapters, each governed by five noncompensatory gates: requirement, architecture, quantification, integration and reader asset. The repository currently closes 49 of 70 gates—**70.0% editorial completion**—with four chapters ready, nine partial and the technical visual atlas not ready. This is a manuscript stocktake, not a confidence, capability or readiness claim. The [synthesis architecture and completion stocktake](research/synthesis/department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md) shows exactly what closes and what remains.
+Pass 246 replaces pass and file accumulation with a publication architecture. Pass 247 then reconciles twenty-eight controlling claims, forty-three quantitative boundaries and fourteen apparent contradictions. The final study has fourteen chapters, each governed by five noncompensatory gates: requirement, architecture, quantification, integration and reader asset. The repository currently closes 57 of 70 gates—**81.4% editorial completion**—with five chapters ready, eight partial and the technical visual atlas not ready. This is a manuscript stocktake, not a confidence, capability or readiness claim. The [synthesis architecture](research/synthesis/department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md) and [claim-and-quantity reconciliation](research/synthesis/department-of-resilience-cross-chapter-claim-and-quantity-reconciliation.md) show exactly what closes and what remains.
 
 ## The design rule
 
