@@ -5682,3 +5682,19 @@ Thirty prohibited common-control edges separate roots, reconstruction, fixtures,
 The sixteen-sheet workbook contains 10,004 formulas, eighty-four passing audits and thirty-four applied, detected and restored mutations after fresh-file recalculation. Formula-error, external-link and archive checks are clean; every sheet and long-ledger tail was visually reviewed. No firm, site, `MAKE`, build acceptance, event, observation, result or rendering exists.
 
 `EXR-3` closes the inherited simultaneous-transaction question and opens one successor: which site commissioning, fixture installation, article transport, metrology calibration, dry rehearsal, event-readiness, abort recovery and receiver acceptance sequence can convert accepted construction into 144 valid event opportunities without construction acceptance or rehearsal becoming performance evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is three since `HR-03`.
+
+## Pass 244 — Cohort-One Candidate-Free Commissioning and Event Opportunity Warrant
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `EXR`, with three prior passes consumed. Reversal would let construction acceptance, candidate-bearing rehearsal or site-level readiness acquire evidentiary force, changing the campaign architecture and the first-order rule for what counts as an event.
+
+`EOW-1` commissions the whole proving estate before live work: eighteen node dockets, forty-eight primary berths, forty-eight third-node alternate berths and seventy-two primary, witness and custody scopes. Each of 144 serial opportunities receives a candidate-free full-dress rehearsal using a public surrogate that reproduces bounding mass, interface, reaction, hazard and synthetic load envelopes but contains no candidate mechanism or output. Candidate energization before warrant issue is event exposure, never rehearsal.
+
+Sealed transport, passive arrival inspection and cold mating preserve configuration without operating the decisive path. Eight receiver gates bind denominator, counterfactual, exclusions, rights, safety, residuals, disclosure and independent acceptance to one serial. Twelve conjunctive gates then create one configuration-, fixture-, site-, receiver- and window-bound Event Opportunity Warrant. It issues at `T-72 hours`, remains valid for thirty-six hours and expires on any named-state change.
+
+Facility-caused invalidity requires a new slot and warrant. Candidate-caused protective abort or accepted adverse behavior remains a valid final result without automatic retry. Eighteen dispositions govern holds, migration, quarantine, expiry and recovery. The USD7.45B commissioning partition remains inside inherited proving and metrology exposure and is unobligated.
+
+The seventeen-sheet workbook contains 8,371 formulas, ninety-five passing terminal audits and forty-nine applied, detected and restored mutations after fresh-file recalculation. Formula-error, external-link and archive checks are clean; every sheet and long-ledger tail was visually reviewed. No site, fixture, calibration, receiver, arrival, rehearsal, warrant, event, observation, result or rendering exists.
+
+`EXR-4` closes the inherited commissioning question and opens one successor: which event execution-and-adjudication compact can bind one-shot event start, accepted observation, causal invalidity, break/reconstruction judgment, result embargo, public disclosure and terminal return across the 144 warranted opportunities without a master authority converting operational control into evidence? Opened 1, closed 1, net 0, running total 1. No branch is killed. The consecutive no-`KILL` count is four since `HR-03`.
