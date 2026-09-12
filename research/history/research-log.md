@@ -5488,3 +5488,17 @@ The [review](human-review-221-230.md) finds two complete five-pass branches. `RV
 No prior branch is killed. Five withdrawn hypotheses and four rejected alternatives never became consumed research branches. The external human-approval halt is superseded by an autonomous adversarial checkpoint conducted by the research lead. Branch budgets and honest `KILL` remain binding; the no-`KILL` counter resets to zero.
 
 Before Pass 231, `HR-02` registers `AVA`: can six active cohort-one form cells convert thirty funded `FRAME` packages into source-sealed, independently reproducible and payable design artifacts without converting acceptance into evidence, exposing comparative performance, weakening sibling reserves or authorizing `MAKE` or `REP-4`; and what invalidity or common-control finding would terminate that authority?
+
+## Pass 231 — Cohort-one artifact-validity authority and payment firewall
+
+**Verdict:** `CLOSE`
+
+The deepest active branch was `AVA`, with zero prior passes consumed. Reversal would leave the first physical program unable to complete paid design or allow administrative acceptance to create evidence, preference and physical-form authority.
+
+`AVC-1` selects federated package validity. Root Artifact Courts issue `AVW` only after source sealing and independent reconstruction; a separate finance authority issues `FDW` against one accepted milestone. Thirty packages receive 360 validity records and 180 claim records. Performance leakage or common builder-validity control terminates the affected cell. Ordinary incompleteness returns for rework. If six independent courts and reconstruction cells cannot be constituted, `AVA` must be killed rather than replaced by a national validation prime.
+
+The inherited USD179M obligation divides into USD129M of design production, USD26.9M of independent reconstruction, USD14.3M of public source escrow and USD8.97M of completion holdback. USD359M remains protected. Sixty constitutional gates pass; 300 artifact gates remain open. Accepted artifacts, payment, observations, selections, `MAKE` and `REP-4` remain zero.
+
+The ten-sheet workbook contains 1,791 formulas, forty-eight passing audits, sixteen detected-and-restored live mutations and one native chart after independent LibreOffice recalculation. The formula-error scan is empty and no external links exist. No rendering is issued.
+
+`AVA-1` closes the inherited authority question and opens one successor: what source-capsule and dual-reconstruction grammar can make all five package types independently rebuildable across six root-native technical environments without imposing a common solver, leaking protected performance or confusing deterministic replay with physical proof? Opened 1, closed 1, net 0, running total 1. No branch is killed. The no-`KILL` count is one since `HR-02`.
