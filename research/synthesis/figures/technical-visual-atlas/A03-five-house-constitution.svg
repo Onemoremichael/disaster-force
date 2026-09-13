@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Five-house constitutional matrix</title><desc id="desc">Five coequal houses exchange typed warrants without self-validation.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#2f6f8f"/></marker></defs>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17222b">Five-house constitutional matrix</text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="22" fill="#52616b">Integration is a succession of typed public artifacts—not one command hierarchy.</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g><rect x="560" y="185" width="480" height="105" rx="23" fill="#eee9f4" stroke="#78659b" stroke-width="4"/><text x="800" y="230" font-size="27" font-weight="700" fill="#17222b">CIVIC COVENANT</text><text x="800" y="266" font-size="20" fill="#52616b">promise · rights · effects · capital options</text></g>
+    <g><rect x="105" y="375" width="390" height="120" rx="23" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="4"/><text x="300" y="424" font-size="25" font-weight="700" fill="#17222b">CAPABILITY COMMONWEALTH</text><text x="300" y="461" font-size="19" fill="#52616b">missions · technology · production</text></g>
+    <g><rect x="605" y="375" width="390" height="120" rx="23" fill="#f5e8e8" stroke="#b44b4b" stroke-width="4"/><text x="800" y="424" font-size="25" font-weight="700" fill="#17222b">EVIDENCE COURT</text><text x="800" y="461" font-size="19" fill="#52616b">hostile proof · review · public record</text></g>
+    <g><rect x="1105" y="375" width="390" height="120" rx="23" fill="#fff1dd" stroke="#d89532" stroke-width="4"/><text x="1300" y="424" font-size="25" font-weight="700" fill="#17222b">FORCE ESTATE</text><text x="1300" y="461" font-size="19" fill="#52616b">readiness · allocation · sustainment</text></g>
+    <g><rect x="560" y="590" width="480" height="110" rx="23" fill="#eaf2ec" stroke="#5c8c6b" stroke-width="4"/><text x="800" y="637" font-size="27" font-weight="700" fill="#17222b">EMPLOYMENT FEDERATION</text><text x="800" y="674" font-size="20" fill="#52616b">domestic use · invited custody · exit</text></g>
+  </g>
+  <g stroke="#2f6f8f" stroke-width="5" fill="none" marker-end="url(#arrow)"><path d="M650 290 L410 375"/><path d="M800 290 L800 375"/><path d="M950 290 L1190 375"/><path d="M420 495 L665 590"/><path d="M800 495 L800 590"/><path d="M1180 495 L935 590"/></g>
+  <rect x="315" y="760" width="970" height="80" rx="20" fill="#17222b"/>
+  <text x="800" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">17 INSTITUTION CLASSES · 17 TYPED WARRANTS · ZERO SELF-VALIDATION</text>
+  <text x="800" y="825" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#c9d5dc">The Secretary convenes and suspends unsafe work; no Secretary manufactures truth, readiness, consent or effect.</text>
+</svg>

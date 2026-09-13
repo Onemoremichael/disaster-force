@@ -281,19 +281,19 @@ The study therefore supports a national choice: build an institution capable of 
 
 ## 14. Technical visual atlas
 
-The final atlas is an instrument of reasoning, not decoration. It must make the Department’s causal architecture and technical alternatives legible while preserving the distinction among requirement, topology, experimental configuration and observed evidence.
+The issued [Technical Visual Atlas](technical-visual-atlas.md) is an instrument of reasoning, not decoration. It makes the Department’s causal architecture and technical alternatives legible while preserving the distinction among requirement, topology, experimental configuration and observed evidence.
 
-The controlling [atlas constitution](technical-visual-atlas-constitution.md) authorizes twenty-two plates in three groups: ten strategic-system diagrams, six instrumented root-native sections and six equal-salience rival-form sets. It permits publication classes `PUB-0` and `REP-0` through `REP-3`. It holds `REP-4` through `REP-7`, which would imply as-built experimental records, evidence-qualified candidates, complete mission validation or production fleets.
+The controlling [atlas constitution](technical-visual-atlas-constitution.md) governs twenty-two plates in three groups: ten strategic-system diagrams, six instrumented root-native sections and six equal-salience rival-form sets. The issue uses publication classes `PUB-0` and `REP-0` through `REP-3`. It holds `REP-4` through `REP-7`, which would imply as-built experimental records, evidence-qualified candidates, complete mission validation or production fleets.
 
 The visual rule is simple: **show only what the research has earned, and show uncertainty where it lives**. A nuclear-powered desalination carrier may appear as rival service-chain architectures with energy, intake, residual, conveyance, receiver and safe-state boundaries. It may not appear as the Department’s selected flagship. A firefighting aircraft may be shown through competing atmospheric-intervention forms and instrumented failure paths. It may not be captioned with unmeasured range or performance.
 
-At publication, every plate will carry its representation class, configuration owner, evidence state, prohibited inference and source path. The atlas will make the ambition vivid without allowing visual coherence to masquerade as engineering truth.
+Every publication unit carries its representation class, configuration owner, evidence state, prohibited inference and source path. The atlas makes the ambition vivid without allowing visual coherence to masquerade as engineering truth. Its [generation and provenance record](technical-visual-atlas-generation-record.md) preserves final prompts, the rejected emblem-bearing variant, corrected rival-set lineage and content hashes.
 
 ## What is settled—and what is not
 
-This manuscript settles the architecture of the proposition: the public service contract, institutional constitution, force grammar, domestic and invited doctrine, innovation system, industrial design, workforce scale and reconciled resource hierarchy form one national strategy. It also settles how the final atlas may represent that strategy.
+This manuscript settles the architecture of the proposition: the public service contract, institutional constitution, force grammar, domestic and invited doctrine, innovation system, industrial design, workforce scale and reconciled resource hierarchy form one national strategy. The final atlas now represents that strategy under the same evidence boundary.
 
-It does not settle observed performance. The first experimental cohort remains unbuilt; no major candidate has earned production authority; force quantities remain planning consequences; and public effects remain unobserved. The immediate publication task is now narrow: issue and verify the twenty-two authorized atlas plates, then return the strategic-synthesis branch to its registered parent.
+It does not settle observed performance. The first experimental cohort remains unbuilt; no major candidate has earned production authority; force quantities remain planning consequences; and public effects remain unobserved. The declared publication task is complete: fourteen of fourteen chapters and seventy of seventy editorial gates close. Further numbered work requires a newly registered first-order question; it cannot continue as editorial accumulation.
 
 ---
 
@@ -302,5 +302,7 @@ It does not settle observed performance. The first experimental cohort remains u
 - [Strategic synthesis architecture and completion stocktake](department-of-resilience-strategic-synthesis-architecture-and-completion-stocktake.md)
 - [Cross-chapter claim and quantity reconciliation](department-of-resilience-cross-chapter-claim-and-quantity-reconciliation.md)
 - [Invited Resilience Partnership Compact](department-of-resilience-invited-resilience-partnership-compact.md)
+- [Technical Visual Atlas](technical-visual-atlas.md)
+- [Pass 250 atlas issuance and terminal return](department-of-resilience-technical-visual-atlas-issuance-and-terminal-return.md)
 - [Active research frontier](../frontier.md)
 - [Supersession map](../history/supersession-map.md)

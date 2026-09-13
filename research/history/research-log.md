@@ -5808,3 +5808,25 @@ Six nonvisual reader-asset gates and four atlas architecture gates close. The ed
 **Burden of proof moved:** from manuscript coherence and image eligibility to complete atlas issue and representation audit.
 
 **Parent question now:** Can the Department of Resilience research corpus become one concise, defensible and visually legible national strategy that makes coequal resilience power concrete in institution, force, technology, industrial economy, cost and international effect without allowing synthesis to erase uncertainty, supersession or the boundary between design and evidence?
+
+## Pass 250 — Technical Visual Atlas Issuance and Terminal Return
+
+**Verdict:** `RETURN`
+
+The deepest active branch was `SYN`, with four prior passes consumed; this was its mandatory fifth pass. Reversal would leave the central strategy unable to show its institution, force and technical objects without either retreating to abstraction or implying unearned engineering authority, changing the thesis’s publication form and representation boundary.
+
+`TVA-1` issues one governed twenty-two-plate atlas: ten `PUB-0`/`REP-0`/`REP-1` strategic diagrams, six new root-native `REP-2` instrumented sections and six corrected `REP-3` rival-form sets. Image and metadata are one publication unit. Every plate states class, owner, evidence state, controlling requirement, prohibited inference and source.
+
+All ten SVGs parse and render at 1,600 × 900. The six new section PNGs open at 1,672 × 941; lineage-preserved C01 retains 1,774 × 887 and C02–C06 retain 1,536 × 1,024. Quantity checks preserve 2,420 concurrent commitments, 5,251 owned formations, about 13.0 million affiliations, the $1.00T technology program and the $68.4T mature planning screen as distinct denominators. Manual review covers crop, type, rival salience, human scale, receiver context and prohibited marks. An initial B05 image with a red-cross-like emblem is rejected and absent; the issued replacement is emblem-free.
+
+`REP-4` through `REP-7` remain held. No image creates an article, observation, selection, procurement baseline, readiness state, partner deployment or public effect.
+
+`TVA-1` closes `CH14-G5`, the sole Pass 249 item. The editorial screen reaches 70 of 70, or 100%; all fourteen chapters are publication-ready. This is editorial completion, not confidence or measured capability. Opened 0, closed 1, net −1, running total 0. `SYN` consumes five passes and returns to pre-registered `FR-05` without a successor. The consecutive no-`KILL` count reaches ten; `HR-04` audits and releases Passes 241–250, resets the counter to zero and closes the interval.
+
+**Became authoritative:** `TVA-1`, the issued atlas, the 70-of-70 editorial screen and the affirmative answer to `FR-05`.
+
+**Died:** no prior branch; the rejected image was a variant, not a consumed branch.
+
+**Burden of proof moved:** from publication coherence to physical realization and accepted observation, neither presently registered.
+
+**Parent question now:** `FR-05` — can the corpus become one concise, defensible and visually legible national strategy without erasing uncertainty, supersession or the boundary between design and evidence?

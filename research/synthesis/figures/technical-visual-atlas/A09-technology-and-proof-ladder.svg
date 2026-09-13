@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Technology and proof ladder</title><desc id="desc">The one-trillion-dollar innovation program funds rival roots and preserves the distinction between design and evidence.</desc>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17222b">$1.00T technology program: ambition under proof</text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="22" fill="#52616b">Two views conserve the same money. Representation advances only when evidence earns the next state.</text>
+  <text x="105" y="205" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#17222b">PURPOSE ACCOUNTS</text>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#17222b">
+    <rect x="100" y="235" width="480" height="70" rx="15" fill="#2f6f8f"/><text x="130" y="278" fill="#ffffff" font-weight="700">$550B · six mission systems</text>
+    <rect x="100" y="320" width="480" height="70" rx="15" fill="#8fb7c9"/><text x="130" y="363" font-weight="700">$150B · service technical bases</text>
+    <rect x="100" y="405" width="480" height="70" rx="15" fill="#d5e4eb"/><text x="130" y="448" font-weight="700">$150B · national common capacity</text>
+    <rect x="100" y="490" width="480" height="70" rx="15" fill="#eee9f4"/><text x="130" y="533" font-weight="700">$100B · sovereign technical estate</text>
+    <rect x="100" y="575" width="480" height="70" rx="15" fill="#fff1dd"/><text x="130" y="618" font-weight="700">$50.0B · competitive failure reserve</text>
+  </g>
+  <text x="105" y="720" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17222b">TIME WAVES</text>
+  <g font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#17222b"><rect x="100" y="750" width="96" height="60" fill="#2f6f8f"/><text x="148" y="787" fill="#ffffff">$200B</text><rect x="196" y="750" width="144" height="60" fill="#4d849f"/><text x="268" y="787" fill="#ffffff">$300B</text><rect x="340" y="750" width="120" height="60" fill="#75a2b7"/><text x="400" y="787">$250B</text><rect x="460" y="750" width="72" height="60" fill="#a5c2cf"/><text x="496" y="787">$150B</text><rect x="532" y="750" width="48" height="60" fill="#d5e4eb"/><text x="556" y="787" font-size="13">$100B</text></g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="1050" y="205" font-size="26" font-weight="700" fill="#17222b">REPRESENTATION / EVIDENCE LADDER</text>
+    <g font-size="20" fill="#17222b"><rect x="690" y="720" width="720" height="62" rx="14" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="1050" y="758">REP-0 · service requirement</text><rect x="735" y="640" width="630" height="62" rx="14" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="1050" y="678">REP-1 · causal topology</text><rect x="780" y="560" width="540" height="62" rx="14" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="1050" y="598">REP-2 · instrumented build-to-test section</text><rect x="825" y="480" width="450" height="62" rx="14" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="1050" y="518">REP-3 · equal-salience rival forms</text></g>
+    <g font-size="19" fill="#52616b"><rect x="870" y="400" width="360" height="56" rx="12" fill="#e9eef1" stroke="#5f6f78" stroke-width="3" stroke-dasharray="10 8"/><text x="1050" y="435">REP-4 · as-built record — HELD</text><rect x="905" y="328" width="290" height="52" rx="12" fill="#e9eef1" stroke="#5f6f78" stroke-width="3" stroke-dasharray="10 8"/><text x="1050" y="361">REP-5 · qualified candidate — HELD</text><rect x="935" y="260" width="230" height="48" rx="12" fill="#e9eef1" stroke="#5f6f78" stroke-width="3" stroke-dasharray="10 8"/><text x="1050" y="290">REP-6/7 — HELD</text></g>
+  </g>
+  <text x="1050" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#b44b4b">24 ORDERS · 48 BUILDER DOSSIERS · 144 UNBUILT ARTICLES</text>
+</svg>
