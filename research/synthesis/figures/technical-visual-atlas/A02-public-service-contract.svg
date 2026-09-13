@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The public service contract</title><desc id="desc">Eight noncompensatory dimensions define an assured civilian service vector.</desc>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17222b">The public service contract</text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="22" fill="#52616b">The force earns credit only when every coordinate closes together.</text>
+  <rect x="180" y="200" width="1240" height="120" rx="26" fill="#17222b"/>
+  <text x="800" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">A DEFINED POPULATION OR ESSENTIAL FUNCTION</text>
+  <text x="800" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#c9d5dc">receives a safe service bundle by a deadline, for a duration, across declared damage</text>
+  <g font-family="Arial, sans-serif" font-size="22" text-anchor="middle">
+    <g><rect x="120" y="390" width="300" height="118" rx="20" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="270" y="437" font-weight="700" fill="#17222b">DENOMINATOR</text><text x="270" y="474" font-size="17" fill="#52616b">Who or what receives service?</text></g>
+    <g><rect x="455" y="390" width="300" height="118" rx="20" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="605" y="437" font-weight="700" fill="#17222b">SERVICE FLOOR</text><text x="605" y="474" font-size="17" fill="#52616b">Water · power · care · access</text></g>
+    <g><rect x="790" y="390" width="300" height="118" rx="20" fill="#fff1dd" stroke="#d89532" stroke-width="3"/><text x="940" y="437" font-weight="700" fill="#17222b">TIME</text><text x="940" y="474" font-size="17" fill="#52616b">Deadline · sustained duration</text></g>
+    <g><rect x="1125" y="390" width="300" height="118" rx="20" fill="#f5e8e8" stroke="#b44b4b" stroke-width="3"/><text x="1275" y="437" font-weight="700" fill="#17222b">DAMAGE</text><text x="1275" y="474" font-size="17" fill="#52616b">Declared loss and denial</text></g>
+    <g><rect x="120" y="550" width="300" height="118" rx="20" fill="#eaf2ec" stroke="#5c8c6b" stroke-width="3"/><text x="270" y="597" font-weight="700" fill="#17222b">DISTRIBUTION</text><text x="270" y="634" font-size="17" fill="#52616b">No average hides exclusion</text></g>
+    <g><rect x="455" y="550" width="300" height="118" rx="20" fill="#eee9f4" stroke="#78659b" stroke-width="3"/><text x="605" y="597" font-weight="700" fill="#17222b">RIGHTS</text><text x="605" y="634" font-size="17" fill="#52616b">Access · custody · remedy</text></g>
+    <g><rect x="790" y="550" width="300" height="118" rx="20" fill="#e9eef1" stroke="#5f6f78" stroke-width="3"/><text x="940" y="597" font-weight="700" fill="#17222b">EXTERNALITIES</text><text x="940" y="634" font-size="17" fill="#52616b">Residuals · lawful safe stop</text></g>
+    <g><rect x="1125" y="550" width="300" height="118" rx="20" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="3"/><text x="1275" y="597" font-weight="700" fill="#17222b">EVIDENCE</text><text x="1275" y="634" font-size="17" fill="#52616b">Independent acceptance and replay</text></g>
+  </g>
+  <rect x="300" y="745" width="1000" height="82" rx="20" fill="#ffffff" stroke="#b44b4b" stroke-width="3"/>
+  <text x="800" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#b44b4b">NO EQUIPMENT COUNT, TONNAGE, MEGAWATT OR DOLLAR MAY SUBSTITUTE</text>
+</svg>

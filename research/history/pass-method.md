@@ -1,8 +1,8 @@
 # Research pass termination method
 
-**Effective:** through Pass 249
+**Effective:** through Pass 250
 
-**Adversarial-review state:** `RELEASED — HR-03`
+**Adversarial-review state:** `INTERVAL CLOSED — HR-04`
 
 The top-level decision layer is the single thesis document in the [repository root](../../README.md). Every other numbered line of inquiry is a branch, including Department-wide constitutional, force, system, proving and programmatic work.
 
@@ -42,3 +42,5 @@ Pass 247 closes that reconciliation through `SYN-2`: twenty-eight controlling cl
 Pass 248 closes that doctrine through `IRPC-1`: eighteen compact clauses, fourteen separated authorities, bilateral non-recall, sovereign finance and data custody, ten-gate partner-production admission, eleven campaign states and nine conjunctive exit gates govern two invited campaigns and 675 commitments. Two reader-asset gates close, moving the editorial screen to 59 of 70, or 84.3%. `SYN` has consumed three passes and retains one open item: rewrite the integrated senior-reader manuscript and define the exact representation classes eligible for the final atlas without promoting design into evidence. The consecutive no-`KILL` count is eight since `HR-03`; no review is due.
 
 Pass 249 closes that item through `SYN-3 / TVA-0`: a fourteen-chapter senior-reader manuscript replaces the chronology-led draft, and a twenty-two-plate constitution authorizes ten strategic diagrams, six `REP-2` instrumented sections and six `REP-3` rival-form sets while holding `REP-4` through `REP-7`. Ten publication gates close, moving the editorial screen to 69 of 70, or 98.6%. `SYN` has consumed four passes and retains one open item: issue, audit and integrate the authorized atlas, then return at the mandatory fifth pass. The consecutive no-`KILL` count is nine since `HR-03`; no review is yet due.
+
+Pass 250 closes that item through `TVA-1`: all twenty-two plates issue with representation metadata, source, nonconversion, integrity checks and manuscript integration. The editorial screen reaches 70 of 70, or 100%, while all physical, evidence, selection and production states remain zero or held. `SYN` consumes its fifth pass, carries no open item and returns to `FR-05` without a successor. The consecutive no-`KILL` count reaches ten and triggers [Adversarial Review HR-04](human-review-241-250.md). `HR-04` finds `EXR` and `SYN` valid, resets the counter to zero and closes the interval without opening work.

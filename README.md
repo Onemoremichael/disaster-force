@@ -18,7 +18,7 @@ For the shortest route through the project:
 
 1. Read the [strategic study](research/synthesis/strategic-study.md).
 2. Use the [active frontier](research/frontier.md) to see what is settled, what remains open and what no claim may imply.
-3. Consult the [technical visual atlas constitution](research/synthesis/technical-visual-atlas-constitution.md) for the exact imagery now authorized and the boundary between concept, experiment and evidence.
+3. Open the issued [Technical Visual Atlas](research/synthesis/technical-visual-atlas.md) to see the institution, campaigns, technical sections and rival forms under explicit evidence limits.
 
 The [research history](research/history/README.md) preserves how the argument developed. It is provenance, not the report’s table of contents.
 
@@ -85,21 +85,21 @@ The industrial counterpart is a market of twenty-four possible **Root Houses**: 
 
 The corpus distinguishes requirement, design, experiment, observation and accepted evidence. A planning model does not become truth through precision. A valid adverse result is more valuable than a favorable demonstration that cannot be reconstructed. Production authority follows complete service evidence, not program momentum.
 
-The final atlas follows the same rule. Twenty-two plates are authorized:
+The final atlas follows the same rule. Twenty-two plates are issued:
 
 - ten diagrams explaining the strategic system;
 - six `REP-2` instrumented sections showing root-native build-to-test objects; and
 - six `REP-3` sets showing equal-salience rival whole forms.
 
-Images may now make the concepts vivid because the first-principles requirements and representation classes are closed. They may not depict an as-built article, evidence-qualified winner or fielded fleet. `REP-4` through `REP-7` remain held.
+Images may now make the concepts vivid because the first-principles requirements and representation classes are closed. They do not depict an as-built article, evidence-qualified winner or fielded fleet. `REP-4` through `REP-7` remain held. The [atlas constitution](research/synthesis/technical-visual-atlas-constitution.md) controls the boundary; the [generation record](research/synthesis/technical-visual-atlas-generation-record.md) preserves prompts, lineage, rejection and hashes.
 
 ## Current completion
 
 The publication architecture contains fourteen chapters and seventy noncompensatory gates: requirement, architecture, quantification, integration and reader asset for each chapter.
 
-Pass 249 closes 69 of 70 gates—**98.6% editorial completion**. Thirteen chapters are publication-ready. The sole remaining gate is issue and verification of the twenty-two-plate technical atlas. This percentage is not confidence in the thesis, national readiness or measured performance.
+Pass 250 closes 70 of 70 gates—**100% editorial completion**. All fourteen chapters and all twenty-two governed atlas plates are publication-ready. This percentage is not confidence in the thesis, national readiness or measured performance.
 
-The [Pass 249 decision](research/synthesis/department-of-resilience-integrated-strategic-manuscript-and-atlas-authority.md) records the current ledger and the exact remaining burden.
+The [Pass 250 terminal decision](research/synthesis/department-of-resilience-technical-visual-atlas-issuance-and-terminal-return.md) records the zero-item ledger and returns strategic synthesis to its registered parent. Physical articles, evidence, production and fielded capability remain future burdens rather than editorial defects.
 
 ## Repository map
 

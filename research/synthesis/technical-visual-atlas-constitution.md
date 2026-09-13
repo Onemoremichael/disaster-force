@@ -1,7 +1,7 @@
 # Technical visual atlas constitution
 
 **Authority:** `TVA-0`, Pass 249  
-**Status:** representation requirement and plate architecture closed; plates not yet issued  
+**Status:** representation requirement and plate architecture controlling; all twenty-two plates issued under `TVA-1`, Pass 250
 **Scope:** final reader atlas for the integrated strategic study  
 **Rule:** a visual may clarify an earned relationship but may not manufacture technical, evidentiary or production maturity
 
@@ -127,4 +127,4 @@ The atlas closes only when every plate passes, the complete set has no contradic
 
 `TVA-0` closes atlas requirement, architecture, quantification and integration. It authorizes creation and editorial issue review for `A01`–`C06`; it does not declare any plate issued. It authorizes no `REP-4`–`REP-7` object, experimental fact, preferred form, procurement baseline, production program or fielded fleet.
 
-The next and only remaining publication question is whether the twenty-two plates can be produced, audited as one set and linked into the manuscript without violating this constitution.
+Pass 250 answers the remaining publication question affirmatively through the issued [Technical Visual Atlas](technical-visual-atlas.md). Twenty-two of twenty-two plates pass the set-level audit and link into the manuscript. This constitution remains controlling; issue does not relax any held class or create physical evidence.

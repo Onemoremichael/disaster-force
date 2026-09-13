@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Coequal instruments of national power</title>
+  <desc id="desc">Military and resilience power have separate purposes but require equal institutional seriousness.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2f6f8f"/></marker></defs>
+  <rect width="1600" height="900" fill="#f5f7f8"/>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#17222b">Coequal instruments of national power</text>
+  <text x="80" y="135" font-family="Arial, sans-serif" font-size="22" fill="#52616b">Separate purposes. Equal seriousness in promise, force generation, technology, industry and statecraft.</text>
+  <rect x="80" y="195" width="675" height="470" rx="28" fill="#e9eef1" stroke="#5f6f78" stroke-width="3"/>
+  <rect x="845" y="195" width="675" height="470" rx="28" fill="#e5f0f4" stroke="#2f6f8f" stroke-width="4"/>
+  <text x="130" y="255" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#17222b">COERCIVE POWER</text>
+  <text x="895" y="255" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#17222b">CONSTRUCTIVE POWER</text>
+  <text x="130" y="302" font-family="Arial, sans-serif" font-size="21" fill="#52616b">Purpose: change an adversary’s choices</text>
+  <text x="895" y="302" font-family="Arial, sans-serif" font-size="21" fill="#52616b">Purpose: change catastrophe’s consequences</text>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#17222b">
+    <rect x="130" y="350" width="575" height="58" rx="12" fill="#ffffff"/><text x="160" y="388">Public mandate and lawful employment</text>
+    <rect x="130" y="430" width="575" height="58" rx="12" fill="#ffffff"/><text x="160" y="468">Standing force, reserves, bases and doctrine</text>
+    <rect x="130" y="510" width="575" height="58" rx="12" fill="#ffffff"/><text x="160" y="548">Technology, proving and industrial depth</text>
+    <rect x="130" y="590" width="575" height="58" rx="12" fill="#ffffff"/><text x="160" y="628">Persistent projection across damaged geography</text>
+    <rect x="895" y="350" width="575" height="58" rx="12" fill="#ffffff"/><text x="925" y="388">Civil service promise and nonwaivable rights</text>
+    <rect x="895" y="430" width="575" height="58" rx="12" fill="#ffffff"/><text x="925" y="468">5,251 owned formation equivalents</text>
+    <rect x="895" y="510" width="575" height="58" rx="12" fill="#ffffff"/><text x="925" y="548">$1.00T technology and industrialization</text>
+    <rect x="895" y="590" width="575" height="58" rx="12" fill="#ffffff"/><text x="925" y="628">Domestic protection and invited partnership</text>
+  </g>
+  <path d="M800 690 L800 748" stroke="#2f6f8f" stroke-width="5" marker-end="url(#arrow)"/>
+  <rect x="260" y="750" width="1080" height="90" rx="22" fill="#17222b"/>
+  <text x="800" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">STRATEGIC FREEDOM THROUGH TWO DISTINCT CAPABILITIES</text>
+  <text x="800" y="823" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#c9d5dc">Resilience power supports security; it does not militarize civil life or borrow military authority.</text>
+</svg>
