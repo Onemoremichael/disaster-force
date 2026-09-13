@@ -1,8 +1,8 @@
 # Autonomous Adversarial Review of Passes 241–250
 
-**Review:** `HR-04`  
-**Date:** 12 September 2026  
-**Decision:** `RELEASE AND CLOSE INTERVAL`  
+**Review:** `HR-04`
+**Date:** 12 September 2026
+**Decision:** `RELEASE AND CLOSE INTERVAL`
 **Reviewed interval:** Passes 241–250
 
 ## Judgment
