@@ -1,4 +1,4 @@
-# Disaster Force
+# Department of Resilience
 
 ## A Department of Resilience as a coequal instrument of national power
 
