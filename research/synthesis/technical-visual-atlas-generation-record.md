@@ -1,7 +1,7 @@
 # Technical Visual Atlas Generation and Provenance Record
 
-**Record:** `TVA-GR-1`  
-**Issue:** Pass 250  
+**Record:** `TVA-GR-1`
+**Issue:** Pass 250
 **Mode:** built-in image generation for six new bitmap section studies; deterministic SVG authoring for ten system diagrams; audited reissue for six corrected rival-form plates
 
 This record makes the image-production step reproducible and rejects any inference that the generation process supplied engineering evidence. The prompts asked for concept sections, not photorealistic proof. No API model identifier or unrecorded performance parameter is claimed.

@@ -1,9 +1,9 @@
 # Department of Resilience Technical Visual Atlas Issuance and Terminal Return
 
-**Pass:** 250  
-**Branch:** `SYN`  
-**Verdict:** `RETURN`  
-**Decision:** `TVA-1`  
+**Pass:** 250
+**Branch:** `SYN`
+**Verdict:** `RETURN`
+**Decision:** `TVA-1`
 **Date:** 12 September 2026
 
 ## Resolution and branch position
@@ -50,7 +50,10 @@ The result answers `FR-05` affirmatively. A concise manuscript and governed atla
 
 **Unresolved beyond this branch:** physical articles, observed performance, calibrated force need, production authority and public effects remain unearned; none is reopened as an editorial task.
 
-**Became authoritative:** `TVA-1`, the twenty-two-plate issued atlas, the 70-of-70 editorial screen and the affirmative answer to `FR-05`.  
-**Died:** no prior branch; the rejected emblem-bearing image was a variant, not a consumed branch.  
-**Burden of proof moved:** from publication coherence to physical realization, accepted observation and later first-order decisions that have not been registered.  
+**Became authoritative:** `TVA-1`, the twenty-two-plate issued atlas, the 70-of-70 editorial screen and the affirmative answer to `FR-05`.
+
+**Died:** no prior branch; the rejected emblem-bearing image was a variant, not a consumed branch.
+
+**Burden of proof moved:** from publication coherence to physical realization, accepted observation and later first-order decisions that have not been registered.
+
 **Parent question now:** `FR-05` — can the corpus become one concise, defensible and visually legible national strategy without erasing uncertainty, supersession or the boundary between design and evidence?
